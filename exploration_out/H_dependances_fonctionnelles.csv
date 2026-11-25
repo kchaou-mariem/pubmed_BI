@@ -1,0 +1,17 @@
+﻿DF,déterminants,violations,pct_violation,verdict,exemple
+NlmUniqueID → Titre de la revue,1070,1,0.09345794392523364,⚠️ quasi-valide,Actas urologicas espan~olas | Actas urologicas espanolas
+NlmUniqueID → ISSN de liaison,1034,0,0.0,✅ DF valide,
+NlmUniqueID → Pays de la revue,1018,2,0.19646365422396855,⚠️ quasi-valide,United States | England
+NlmUniqueID → Abréviation MedlineTA,1070,0,0.0,✅ DF valide,
+ISSN de liaison → NlmUniqueID,1034,0,0.0,✅ DF valide,
+ISSN → NlmUniqueID,1071,0,0.0,✅ DF valide,
+Titre de la revue → NlmUniqueID,1071,0,0.0,✅ DF valide,
+Titre de la revue → Pays,1018,2,0.19646365422396855,⚠️ quasi-valide,United States | England
+MedlineTA → NlmUniqueID,1070,0,0.0,✅ DF valide,
+MeSH UI → Descripteur,3937,1,0.0254000508001016,⚠️ quasi-valide,Genetic Predisposition to Disease | Genetic Predisposition to Dise the 
+Descripteur → MeSH UI,3938,0,0.0,✅ DF valide,
+Substance UI → Nom,2594,0,0.0,✅ DF valide,
+Substance → N° de registre,2594,0,0.0,✅ DF valide,
+Qualificatif UI → Libellé,78,0,0.0,✅ DF valide,
+Type UI → Libellé du type,37,1,2.7027027027027026,❌ non valide,JOURNAL ARTICLE | REVIEW
+Agence → Pays du financeur,47,0,0.0,✅ DF valide,

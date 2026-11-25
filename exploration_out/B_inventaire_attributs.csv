@@ -1,0 +1,44 @@
+﻿,balise,attribut,occurrences,valeurs_distinctes,valeurs
+0,AbstractText,Label,7390,254,"254 valeurs · ex. BACKGROUND, METHODS, RESULTS"
+1,AbstractText,NlmCategory,7421,6,"CONCLUSIONS (1867), METHODS (1811), RESULTS (1686), OBJECTIVE (1106), BACKGROUND (810), UNASSIGNED (141)"
+2,Article,PubModel,3883,5,"Print-Electronic (2353), Print (947), Electronic-eCollection (264), Electronic (227), Electronic-Print (92)"
+3,ArticleDate,DateType,2936,1,Electronic (2936)
+4,ArticleId,IdType,11810,6,"pubmed (3886), doi (3489), pii (2394), pmc (1610), mid (428), bookaccession (3)"
+5,ArticleTitle,book,3,2,"micad (2), mlprobe (1)"
+6,ArticleTitle,part,3,3,"ml339 (1), CA-9 (1), Transferrin-89Zr (1)"
+7,Author,ValidYN,27365,2,"Y (27354), N (11)"
+8,AuthorList,CompleteYN,3692,1,Y (3692)
+9,AuthorList,Type,3,1,authors (3)
+10,BookTitle,book,3,2,"micad (2), mlprobe (1)"
+11,CommentsCorrections,RefType,49227,7,"Cites (48824), CommentIn (337), ErratumIn (47), CommentOn (16), ErratumFor (1), ReprintIn (1), SummaryForPatientsIn (1)"
+12,DataBankList,CompleteYN,60,1,Y (60)
+13,DescriptorName,MajorTopicYN,35778,2,"N (33887), Y (1891)"
+14,DescriptorName,Type,362,1,Geographic (362)
+15,DescriptorName,UI,21621,300+,"300 valeurs · ex. D000726, D018931, D017326"
+16,ELocationID,EIdType,4229,2,"doi (3371), pii (858)"
+17,ELocationID,ValidYN,4097,1,Y (4097)
+18,GeneralNote,Owner,15,1,NLM (15)
+19,GrantList,CompleteYN,855,1,Y (855)
+20,ISSN,IssnType,3878,2,"Electronic (3321), Print (557)"
+21,Identifier,Source,53,1,ORCID (53)
+22,Investigator,ValidYN,1317,1,Y (1317)
+23,JournalIssue,CitedMedium,3883,2,"Internet (3273), Print (610)"
+24,Keyword,MajorTopicYN,12360,1,N (12360)
+25,KeywordList,Owner,2070,1,NOTNLM (2070)
+26,LocationLabel,Type,6,1,section (6)
+27,MedlineCitation,Owner,3883,1,NLM (3883)
+28,MedlineCitation,Status,3883,5,"MEDLINE (2608), In-Process (543), PubMed-not-MEDLINE (368), Publisher (185), In-Data-Review (179)"
+29,NameOfSubstance,UI,3575,300+,"300 valeurs · ex. D000726, D018931, D014408"
+30,OtherAbstract,Language,11,6,"hun (3), ger (2), chi (2), spa (2), tur (1), por (1)"
+31,OtherAbstract,Type,11,1,Publisher (11)
+32,OtherID,Source,1918,1,NLM (1918)
+33,PMID,Version,53083,1,1 (53083)
+34,PubMedPubDate,PubStatus,20747,11,"entrez (3886), pubmed (3886), medline (3886), accepted (2444), received (2376), aheadofprint (2282), revised (968), epublish (504)"
+35,PublicationType,UI,7746,37,"37 valeurs · ex. D016428, D016420, D016421"
+36,QualifierName,MajorTopicYN,23216,2,"N (13449), Y (9767)"
+37,QualifierName,UI,23216,78,"78 valeurs · ex. Q000008, Q000379, Q000188"
+38,SectionTitle,book,22,2,"micad (14), mlprobe (8)"
+39,SectionTitle,part,22,3,"ml339 (8), CA-9 (7), Transferrin-89Zr (7)"
+40,SectionTitle,sec,22,22,"22 valeurs · ex. ml339.s1, ml339.s2, ml339.s3"
+41,SupplMeshName,Type,9,1,Disease (9)
+42,SupplMeshName,UI,9,7,"C538231 (2), C538090 (2), C538339 (1), C535700 (1), C564665 (1), C537844 (1), C538230 (1)"

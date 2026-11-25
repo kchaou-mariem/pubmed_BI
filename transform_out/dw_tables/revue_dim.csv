@@ -1,0 +1,1072 @@
+revue_key,nlm_id,titre,abrev,issn,issn_liaison,pays_key
+1,0006777,Diabetologia,Diabetologia,1432-0428,0012-186X,21
+2,0010333,Gaceta médica de México,Gac Med Mex,0016-3813,0016-3813,41
+3,0026251,Scientia pharmaceutica,Sci Pharm,0036-8709,0036-8709,3
+4,0042124,International journal of cancer,Int J Cancer,1097-0215,0020-7136,74
+5,0043535,Carbohydrate research,Carbohydr Res,1873-426X,0008-6215,43
+6,0045377,Investigative radiology,Invest Radiol,1536-0210,0020-9996,74
+7,0050222,Journal of cellular physiology,J Cell Physiol,1097-4652,0021-9541,74
+8,0052457,Journal of cell science,J Cell Sci,1477-9137,0021-9533,73
+9,0053006,Health services research,Health Serv Res,1475-6773,0017-9124,0
+10,0060105,Scandinavian journal of gastroenterology,Scand J Gastroenterol,1502-7708,0036-5521,73
+11,0064757,Archivos españoles de urología,Arch Esp Urol,1576-8260,0004-0614,63
+12,0066751,Planta medica,Planta Med,1439-0221,0032-0943,21
+13,0072416,Bulletin du cancer,Bull Cancer,1769-6917,0007-4551,19
+14,0074243,The Surgical clinics of North America,Surg Clin North Am,1558-3171,0039-6109,74
+15,0101032,Biochemical pharmacology,Biochem Pharmacol,1873-2968,0006-2952,73
+16,0111356,Tumori,Tumori,2038-2529,0300-8916,32
+17,0112040,Indian journal of cancer,Indian J Cancer,1998-4774,0019-509X,27
+18,0113724,Journal of virology,J Virol,1098-5514,0022-538X,74
+19,0117263,World review of nutrition and dietetics,World Rev Nutr Diet,1662-3975,0084-2230,65
+20,0121103,Advances in experimental medicine and biology,Adv Exp Med Biol,0065-2598,0065-2598,74
+21,0133660,Clinical biochemistry,Clin Biochem,1873-2933,0009-9120,74
+22,0141730,Ugeskrift for laeger,Ugeskr Laeger,1603-6824,0041-5782,16
+23,0152016,Pharmacology,Pharmacology,1423-0313,0031-7012,65
+24,0155157,FEBS letters,FEBS Lett,1873-3468,0014-5793,43
+25,0157313,Accounts of chemical research,Acc Chem Res,1520-4898,0001-4842,74
+26,0173225,Journal of chromatographic science,J Chromatogr Sci,1945-239X,0021-9665,74
+27,0177625,La Radiologia medica,Radiol Med,1826-6983,0033-8362,32
+28,0204522,Journal of microscopy,J Microsc,1365-2818,0022-2720,73
+29,0204634,The Journal of pathology,J Pathol,1096-9896,0022-3417,73
+30,0211301,The Journal of membrane biology,J Membr Biol,1432-1424,0022-2631,74
+31,0217410,"Journal of nuclear medicine : official publication, Society of Nuclear Medicine",J Nucl Med,1535-5667,0161-5505,74
+32,0217513,Biochimica et biophysica acta,Biochim Biophys Acta,0006-3002,0006-3002,43
+33,0222643,Journal of surgical oncology,J Surg Oncol,1096-9098,0022-4790,74
+34,0227276,Chemico-biological interactions,Chem Biol Interact,1872-7786,0009-2797,30
+35,0243704,International journal of dermatology,Int J Dermatol,1365-4632,0011-9059,73
+36,0250641,Laboratory medicine,Lab Med,1943-7730,0007-5027,74
+37,0255562,The New England journal of medicine,N Engl J Med,1533-4406,0028-4793,74
+38,0261505,Acta gastroenterologica Latinoamericana,Acta Gastroenterol Latinoam,0300-9033,0300-9033,1
+39,0262521,International urology and nephrology,Int Urol Nephrol,1573-2584,0301-1623,43
+40,0266303,The Southeast Asian journal of tropical medicine and public health,Southeast Asian J Trop Med Public Health,0125-1562,0125-1562,67
+41,0312020,Veterinary pathology,Vet Pathol,1544-2217,0300-9858,74
+42,0313225,Japanese journal of clinical oncology,Jpn J Clin Oncol,1465-3621,0368-2811,73
+43,0314524,Medical microbiology and immunology,Med Microbiol Immunol,1432-1831,0300-8584,21
+44,0322116,Preventive medicine,Prev Med,1096-0260,0091-7435,74
+45,0323767,Scandinavian journal of immunology,Scand J Immunol,1365-3083,0300-9475,73
+46,0326264,Naunyn-Schmiedeberg's archives of pharmacology,Naunyn Schmiedebergs Arch Pharmacol,1432-1912,0028-1298,21
+47,0326701,Australian family physician,Aust Fam Physician,0300-8495,0300-8495,2
+48,0330167,Archiv der Pharmazie,Arch Pharm (Weinheim),1521-4184,0365-6233,21
+49,0330411,Environmental health perspectives,Environ Health Perspect,1552-9924,0091-6765,74
+50,0351014,Current medical research and opinion,Curr Med Res Opin,1473-4877,0300-7995,73
+51,0356133,The Netherlands journal of medicine,Neth J Med,1872-9061,0300-2977,43
+52,0361055,Toxicology,Toxicology,1879-3185,0300-483X,30
+53,0361512,Annals of biomedical engineering,Ann Biomed Eng,1573-9686,0090-6964,74
+54,0364456,Molecular and cellular biochemistry,Mol Cell Biochem,1573-4919,0300-8177,43
+55,0366151,Urology,Urology,1527-9995,0090-4295,74
+56,0366372,Journal of clinical pharmacology,J Clin Pharmacol,1552-4604,0091-2700,73
+57,0370307,Acta cytologica,Acta Cytol,0001-5547,0001-5547,65
+58,0370320,Acta histochemica,Acta Histochem,1618-0372,0065-1281,21
+59,0370416,Advances in cancer research,Adv Cancer Res,0065-230X,0065-230X,74
+60,0370470,American journal of clinical pathology,Am J Clin Pathol,1943-7722,0002-9173,74
+61,0370476,American journal of obstetrics and gynecology,Am J Obstet Gynecol,1097-6868,0002-9378,74
+62,0370502,The American journal of pathology,Am J Pathol,1525-2191,0002-9440,74
+63,0370534,Analytica chimica acta,Anal Chim Acta,1873-4324,0003-2670,43
+64,0370535,Analytical biochemistry,Anal Biochem,1096-0309,0003-2697,74
+65,0370536,Analytical chemistry,Anal Chem,1520-6882,0003-2700,74
+66,0370543,Angewandte Chemie (International ed. in English),Angew Chem Int Ed Engl,1521-3773,1433-7851,21
+67,0370623,Biochemistry,Biochemistry,1520-4995,0006-2960,74
+68,0370625,Biometrics,Biometrics,1541-0420,0006-341X,74
+69,0370635,British journal of cancer,Br J Cancer,1532-1827,0007-0920,73
+70,0370647,CA: a cancer journal for clinicians,CA Cancer J Clin,1542-4863,0007-9235,0
+71,0370711,Experimental and molecular pathology,Exp Mol Pathol,1096-0945,0014-4800,74
+72,0370713,Experimental parasitology,Exp Parasitol,1090-2449,0014-4894,74
+73,0372351,Annals of internal medicine,Ann Intern Med,1539-3704,0003-4819,74
+74,0372354,Annals of surgery,Ann Surg,1528-1140,0003-4932,74
+75,0372355,Annals of the rheumatic diseases,Ann Rheum Dis,1468-2060,0003-4967,73
+76,0372516,Biochemical and biophysical research communications,Biochem Biophys Res Commun,1090-2104,0006-291X,74
+77,0372547,The British journal of nutrition,Br J Nutr,1475-2662,0007-1145,73
+78,0372762,Developmental biology,Dev Biol,1095-564X,0012-1606,74
+79,0372764,Diseases of the colon and rectum,Dis Colon Rectum,1530-0358,0012-3706,74
+80,0372772,Fertility and sterility,Fertil Steril,1556-5653,0015-0282,74
+81,0373125,The British journal of radiology,Br J Radiol,1748-880X,0007-1285,73
+82,0373226,Experimental cell research,Exp Cell Res,1090-2422,0014-4827,74
+83,0374236,Cancer,Cancer,1097-0142,0008-543X,74
+84,0374755,Journal of agricultural and food chemistry,J Agric Food Chem,1520-5118,0021-8561,74
+85,0375040,Endocrinology,Endocrinology,1945-7170,0013-7227,74
+86,0375356,The Journal of cell biology,J Cell Biol,1540-8140,0021-9525,74
+87,0375362,The Journal of clinical endocrinology and metabolism,J Clin Endocrinol Metab,1945-7197,0021-972X,74
+88,0375521,Life sciences,Life Sci,1879-0631,0024-3205,43
+89,0376027,The American journal of clinical nutrition,Am J Clin Nutr,1938-3207,0002-9165,74
+90,0376342,Journal of theoretical biology,J Theor Biol,1095-8541,0022-5193,73
+91,0376362,The Journal of pharmacology and experimental therapeutics,J Pharmacol Exp Ther,1521-0103,0022-3565,74
+92,0376363,The Journal of pharmacy and pharmacology,J Pharm Pharmacol,2042-7158,0022-3573,73
+93,0376374,The Journal of urology,J Urol,1527-3792,0022-5347,74
+94,0376405,Nutrition reviews,Nutr Rev,1753-4887,0029-6643,74
+95,0376412,Orvosi hetilap,Orv Hetil,0030-6002,0030-6002,25
+96,0376425,Photochemistry and photobiology,Photochem Photobiol,1751-1097,0031-8655,74
+97,0376601,Journal of clinical pathology,J Clin Pathol,1472-4146,0021-9746,73
+98,0376611,Journal of radiation research,J Radiat Res,1349-9157,0449-3060,73
+99,0377266,Neoplasma,Neoplasma,0028-2685,0028-2685,59
+100,0377775,Chemical & pharmaceutical bulletin,Chem Pharm Bull (Tokyo),1347-5223,0009-2363,33
+101,0400714,The Medical journal of Australia,Med J Aust,1326-5377,0025-729X,2
+102,0400726,Minerva chirurgica,Minerva Chir,0026-4733,0026-4733,32
+103,0400763,Mutation research,Mutat Res,0027-5107,0027-5107,43
+104,0400770,Nederlands tijdschrift voor geneeskunde,Ned Tijdschr Geneeskd,1876-8784,0028-2162,43
+105,0401101,Obstetrics and gynecology,Obstet Gynecol,1873-233X,0029-7844,74
+106,0401147,Postgraduate medicine,Postgrad Med,1941-9260,0032-5481,74
+107,0401220,Physics in medicine and biology,Phys Med Biol,1361-6560,0031-9155,73
+108,0401245,Radiation research,Radiat Res,1938-5404,0033-7587,74
+109,0401257,Der Radiologe,Radiologe,1432-2102,0033-832X,21
+110,0401260,Radiology,Radiology,1527-1315,0033-8419,74
+111,0401650,Differentiation; research in biological diversity,Differentiation,1432-0436,0301-4681,0
+112,0402640,Journal of nutritional science and vitaminology,J Nutr Sci Vitaminol (Tokyo),1881-7742,0301-4800,33
+113,0403234,Molecular biology reports,Mol Biol Rep,1573-4978,0301-4851,43
+114,0404245,The Practitioner,Practitioner,0032-6518,0032-6518,73
+115,0404312,Revista médica de Chile,Rev Med Chil,0717-6163,0034-9887,10
+116,0404334,La Revue du praticien,Rev Prat,0035-2640,0035-2640,19
+117,0404511,"Science (New York, N.Y.)",Science,1095-9203,0036-8075,74
+118,0404520,South African medical journal = Suid-Afrikaanse tydskrif vir geneeskunde,S Afr Med J,0256-9574,,61
+119,0404536,Steroids,Steroids,1878-5867,0039-128X,74
+120,0405543,Mayo Clinic proceedings,Mayo Clin Proc,1942-5546,0025-6196,73
+121,0407224,Therapeutische Umschau. Revue thérapeutique,Ther Umsch,0040-5930,0040-5930,65
+122,0410462,Nature,Nature,1476-4687,0028-0836,73
+123,0410553,Ultrasound in medicine & biology,Ultrasound Med Biol,1879-291X,0301-5629,73
+124,0411011,Nucleic acids research,Nucleic Acids Res,1362-4962,0305-1048,73
+125,0412765,Khirurgiia,Khirurgiia (Mosk),0023-1207,0023-1207,55
+126,0413423,"Tidsskrift for den Norske lægeforening : tidsskrift for praktisk medicin, ny række",Tidsskr Nor Laegeforen,0807-7096,0029-2001,46
+127,0413613,Yakugaku zasshi : Journal of the Pharmaceutical Society of Japan,Yakugaku Zasshi,1347-5231,0031-6903,33
+128,0413661,Biometrika,Biometrika,0006-3444,0006-3444,0
+129,0413735,Revista medico-chirurgicala?? a Societa??t¸?ii de Medici s¸¸i Naturalis¸¸ti din Ias¸¸i,Rev Med Chir Soc Med Nat Iasi,0048-7848,0048-7848,54
+130,0413775,Voprosy onkologii,Vopr Onkol,0507-3758,0507-3758,55
+131,0414003,Yonsei medical journal,Yonsei Med J,1976-2437,0513-5796,62
+132,0415027,Journal of the American Animal Hospital Association,J Am Anim Hosp Assoc,1547-3317,0587-2871,74
+133,0417372,Urologia,Urologia,0391-5603,0391-5603,0
+134,0417373,Urologia internationalis,Urol Int,1423-0399,0042-1138,65
+135,0417414,The Yale journal of biology and medicine,Yale J Biol Med,1551-4056,0044-0086,74
+136,0417435,Haematologica,Haematologica,1592-8721,0390-6078,32
+137,0417615,Archives of toxicology,Arch Toxicol,1432-0738,0340-5761,21
+138,0420432,Seminars in oncology,Semin Oncol,1532-8708,0093-7754,74
+139,0420510,European journal of medicinal chemistry,Eur J Med Chem,1768-3254,0223-5234,19
+140,0421030,The American journal of gastroenterology,Am J Gastroenterol,1572-0241,0002-9270,74
+141,0421041,The British journal of ophthalmology,Br J Ophthalmol,1468-2079,0007-1161,73
+142,0421145,Hinyokika kiyo. Acta urologica Japonica,Hinyokika Kiyo,0018-1994,0018-1994,33
+143,0421406,Aktuelle Urologie,Aktuelle Urol,1438-8820,0001-7868,21
+144,0423221,The Urologic clinics of North America,Urol Clin North Am,1558-318X,0094-0143,74
+145,0423506,Andrologia,Andrologia,1439-0272,0303-4569,21
+146,0424741,Vestnik rentgenologii i radiologii,Vestn Rentgenol Radiol,0042-4676,0042-4676,55
+147,0425746,Medical physics,Med Phys,0094-2405,0094-2405,74
+148,0430303,Journal of nuclear medicine technology,J Nucl Med Technol,1535-5675,0091-4916,74
+149,100883416,"Culture, health & sexuality",Cult Health Sex,1464-5351,1369-1058,73
+150,100883428,Journal of B.U.ON. : official journal of the Balkan Union of Oncology,J BUON,1107-0625,1107-0625,23
+151,100883448,World journal of gastroenterology,World J Gastroenterol,2219-2840,1007-9327,11
+152,100883604,Health informatics journal,Health Informatics J,1741-2811,1460-4582,0
+153,100883611,Colorectal disease : the official journal of the Association of Coloproctology of Great Britain and Ireland,Colorectal Dis,1463-1318,1462-8910,73
+154,100883645,"Diabetes, obesity & metabolism",Diabetes Obes Metab,1463-1326,1462-8902,73
+155,100884618,JSLS : Journal of the Society of Laparoendoscopic Surgeons / Society of Laparoendoscopic Surgeons,JSLS,1938-3797,1086-8089,74
+156,100885136,European journal of oncology nursing : the official journal of European Oncology Nursing Society,Eur J Oncol Nurs,1532-2122,1462-3889,73
+157,100885357,Environmental toxicology,Environ Toxicol,1522-7278,1520-4081,0
+158,100885761,Reports of practical oncology and radiotherapy : journal of Greatpoland Cancer Center in Poznań and Polish Society of Radiation Oncology,Rep Pract Oncol Radiother,1507-1367,1507-1367,43
+159,100886103,Nuclear medicine review. Central & Eastern Europe,Nucl Med Rev Cent East Eur,1644-4345,1506-9680,50
+160,100886455,Zeitschrift für medizinische Physik,Z Med Phys,1876-4436,0939-3889,21
+161,100886622,"Neoplasia (New York, N.Y.)",Neoplasia,1476-5586,1476-5586,9
+162,100886721,BJU international,BJU Int,1464-410X,1464-4096,73
+163,100888704,European journal of nutrition,Eur J Nutr,1436-6215,1436-6207,21
+164,100888706,IUBMB life,IUBMB Life,1521-6551,1521-6543,73
+165,100888796,Applied immunohistochemistry & molecular morphology : AIMM / official publication of the Society for Applied Immunohistochemistry,Appl Immunohistochem Mol Morphol,1533-4058,1533-4058,74
+166,100888899,Antioxidants & redox signaling,Antioxid Redox Signal,1557-7716,1523-0864,74
+167,100888967,Current oncology reports,Curr Oncol Rep,1534-6269,1523-3790,74
+168,100889067,Reviews in urology,Rev Urol,1523-6161,1523-6161,74
+169,100890196,Archivos de prevención de riesgos laborales,Arch Prev Riesgos Labor,1138-9672,1138-9672,63
+170,100890581,Molecular therapy : the journal of the American Society of Gene Therapy,Mol Ther,1525-0024,1525-0016,74
+171,100892849,Biomacromolecules,Biomacromolecules,1526-4602,1525-7797,74
+172,100896471,Neurosurgical focus,Neurosurg Focus,1092-0684,1092-0684,74
+173,100897346,Expert opinion on pharmacotherapy,Expert Opin Pharmacother,1744-7666,1465-6566,73
+174,100898211,Familial cancer,Fam Cancer,1573-7292,1389-9600,43
+175,100898843,International journal of hygiene and environmental health,Int J Hyg Environ Health,1618-131X,1438-4639,21
+176,100900900,"Urologii?a? (Moscow, Russia : 1999)",Urologiia,1728-2985,1728-2985,55
+177,100900943,Current urology reports,Curr Urol Rep,1534-6285,1527-2737,74
+178,100900946,Current treatment options in oncology,Curr Treat Options Oncol,1534-6277,1534-6277,74
+179,100901225,American journal of physiology. Cell physiology,Am J Physiol Cell Physiol,1522-1563,0363-6143,74
+180,100901226,American journal of physiology. Endocrinology and metabolism,Am J Physiol Endocrinol Metab,1522-1555,0193-1849,74
+181,100909747,The Cochrane database of systematic reviews,Cochrane Database Syst Rev,1469-493X,1361-6137,73
+182,100913117,Pakistan journal of medical sciences,Pak J Med Sci,1682-024X,1681-715X,48
+183,100927353,Breast cancer research : BCR,Breast Cancer Res,1465-542X,1465-5411,73
+184,100930740,The Israel Medical Association journal : IMAJ,Isr Med Assoc J,1565-1088,,31
+185,100931981,"Cancer journal (Sudbury, Mass.)",Cancer J,1540-336X,1528-9117,74
+186,100942132,Asian journal of andrology,Asian J Androl,1745-7262,1008-682X,11
+187,100953417,Genes and immunity,Genes Immun,1476-5470,1466-4879,73
+188,100954790,European journal of applied physiology,Eur J Appl Physiol,1439-6327,1439-6319,21
+189,100957246,The Lancet. Oncology,Lancet Oncol,1474-5488,1470-2045,73
+190,100959949,Telemedicine journal and e-health : the official journal of the American Telemedicine Association,Telemed J E Health,1556-3669,1530-5627,74
+191,100960531,Current drug targets,Curr Drug Targets,1873-5592,1389-4501,43
+192,100960562,The Kaohsiung journal of medical sciences,Kaohsiung J Med Sci,1607-551X,1607-551X,66
+193,100963049,EMBO reports,EMBO Rep,1469-3178,1469-221X,73
+194,100963688,Journal of immunoassay & immunochemistry,J Immunoassay Immunochem,1532-4230,1532-1819,73
+195,100964009,"Molecules (Basel, Switzerland)",Molecules,1420-3049,1420-3049,65
+196,100965194,BMC bioinformatics,BMC Bioinformatics,1471-2105,1471-2105,73
+197,100965258,BMC genomics,BMC Genomics,1471-2164,1471-2164,73
+198,100965259,International immunopharmacology,Int Immunopharmacol,1878-1705,1567-5769,43
+199,100966978,BMC genetics,BMC Genet,1471-2156,1471-2156,73
+200,100967800,BMC cancer,BMC Cancer,1471-2407,1471-2407,73
+201,100968552,BMC medical genetics,BMC Med Genet,1471-2350,1471-2350,73
+202,100968553,BMC medical imaging,BMC Med Imaging,1471-2342,1471-2342,73
+203,100968562,BMC public health,BMC Public Health,1471-2458,1471-2458,73
+204,100968571,BMC urology,BMC Urol,1471-2490,1471-2490,73
+205,100970884,Swiss medical weekly,Swiss Med Wkly,1424-3997,0036-7672,65
+206,100973405,Clinical and experimental medicine,Clin Exp Med,1591-9528,1591-8890,0
+207,100973463,"Experimental biology and medicine (Maywood, N.J.)",Exp Biol Med (Maywood),1535-3699,1535-3699,73
+208,101084138,"Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases",Infect Genet Evol,1567-7257,1567-1348,43
+209,101084157,Clinics in colon and rectal surgery,Clin Colon Rectal Surg,1531-0043,1530-9681,74
+210,101088195,Journal of nanoscience and nanotechnology,J Nanosci Nanotechnol,1533-4880,1533-4880,74
+211,101088661,BMC complementary and alternative medicine,BMC Complement Altern Med,1472-6882,1472-6882,73
+212,101088677,BMC health services research,BMC Health Serv Res,1472-6963,1472-6963,73
+213,101088682,BMC medical informatics and decision making,BMC Med Inform Decis Mak,1472-6947,1472-6947,73
+214,101089176,Journal of applied clinical medical physics / American College of Medical Physics,J Appl Clin Med Phys,1526-9914,1526-9914,74
+215,101092707,Proteomics,Proteomics,1615-9861,1615-9853,21
+216,101092791,International journal of molecular sciences,Int J Mol Sci,1422-0067,1422-0067,65
+217,101092853,"Clinical medicine (London, England)",Clin Med (Lond),1470-2118,1470-2118,73
+218,101093592,Zhonghua nan ke xue = National journal of andrology,Zhonghua Nan Ke Xue,1009-3591,1009-3591,11
+219,101094211,Current cancer drug targets,Curr Cancer Drug Targets,1873-5576,1568-0096,43
+220,101094212,Mini reviews in medicinal chemistry,Mini Rev Med Chem,1875-5607,1389-5575,43
+221,101096596,Cell communication & adhesion,Cell Commun Adhes,1543-5180,1543-5180,73
+222,101119673,Current topics in medicinal chemistry,Curr Top Med Chem,1873-4294,1568-0266,43
+223,101120682,Best practice & research. Clinical endocrinology & metabolism,Best Pract Res Clin Endocrinol Metab,1878-1594,1521-690X,43
+224,101120777,Expert review of molecular diagnostics,Expert Rev Mol Diagn,1744-8352,1473-7159,73
+225,101123358,Expert review of anticancer therapy,Expert Rev Anticancer Ther,1744-8328,1473-7140,73
+226,101125414,Expert opinion on biological therapy,Expert Opin Biol Ther,1744-7682,1471-2598,73
+227,101125610,Molecular imaging and biology : MIB : the official publication of the Academy of Molecular Imaging,Mol Imaging Biol,1860-2002,1536-1632,74
+228,101125647,Molecular & cellular proteomics : MCP,Mol Cell Proteomics,1535-9484,1535-9476,74
+229,101127833,Expert opinion on therapeutic targets,Expert Opin Ther Targets,1744-7631,1472-8222,73
+230,101128775,Journal of proteome research,J Proteome Res,1535-3907,1535-3893,74
+231,101128948,Lab on a chip,Lab Chip,1473-0189,1473-0189,73
+232,101130617,Cancer cell,Cancer Cell,1878-3686,1535-6108,74
+233,101130625,Asian Pacific journal of cancer prevention : APJCP,Asian Pac J Cancer Prev,1513-7368,1513-7368,67
+234,101130840,Asia Pacific family medicine,Asia Pac Fam Med,1444-1683,1444-1683,58
+235,101131163,TheScientificWorldJournal,ScientificWorldJournal,1537-744X,1537-744X,73
+236,101132257,Expert review of pharmacoeconomics & outcomes research,Expert Rev Pharmacoecon Outcomes Res,1744-8379,1473-7167,73
+237,101132535,Molecular cancer therapeutics,Mol Cancer Ther,1538-8514,1535-7163,74
+238,101134327,Analytical and bioanalytical chemistry,Anal Bioanal Chem,1618-2650,1618-2642,21
+239,101137600,Brachytherapy,Brachytherapy,1873-1449,1538-4721,74
+240,101137604,Clinical physiology and functional imaging,Clin Physiol Funct Imaging,1475-097X,1475-0961,73
+241,101137841,"Cell cycle (Georgetown, Tex.)",Cell Cycle,1551-4005,1551-4005,74
+242,101137842,Cancer biology & therapy,Cancer Biol Ther,1555-8576,1538-4047,74
+243,101139110,Xi bao yu fen zi mian yi xue za zhi = Chinese journal of cellular and molecular immunology,Xi Bao Yu Fen Zi Mian Yi Xue Za Zhi,1007-8738,1007-8738,11
+244,101139138,DNA repair,DNA Repair (Amst),1568-7856,1568-7856,43
+245,101139795,Cancer cell international,Cancer Cell Int,1475-2867,1475-2867,73
+246,101140941,Technology in cancer research & treatment,Technol Cancer Res Treat,1533-0338,1533-0338,74
+247,101140988,European journal of nuclear medicine and molecular imaging,Eur J Nucl Med Mol Imaging,1619-7089,1619-7070,21
+248,101146480,International journal of men's health,Int J Mens Health,1532-6306,1532-6306,0
+249,101147698,Molecular cancer,Mol Cancer,1476-4598,1476-4598,73
+250,101150032,Nigerian journal of clinical practice,Niger J Clin Pract,1119-3077,,27
+251,101150042,Molecular cancer research : MCR,Mol Cancer Res,1557-3125,1541-7786,74
+252,101150203,Journal of enzyme inhibition and medicinal chemistry,J Enzyme Inhib Med Chem,1475-6374,1475-6366,0
+253,101151468,Assay and drug development technologies,Assay Drug Dev Technol,1557-8127,1540-658X,74
+254,101152208,Journal of nanobiotechnology,J Nanobiotechnology,1477-3155,1477-3155,73
+255,101153626,Health and quality of life outcomes,Health Qual Life Outcomes,1477-7525,1477-7525,73
+256,101154140,Anatomical science international,Anat Sci Int,1447-073X,1447-073X,33
+257,101155475,Expert review of vaccines,Expert Rev Vaccines,1744-8395,1476-0584,73
+258,101158091,International braz j urol : official journal of the Brazilian Society of Urology,Int Braz J Urol,1677-6119,1677-5538,7
+259,101160518,"Drugs of today (Barcelona, Spain : 1998)",Drugs Today (Barc),1699-3993,1699-3993,74
+260,101162515,Journal of the National Comprehensive Cancer Network : JNCCN,J Natl Compr Canc Netw,1540-1413,1540-1405,74
+261,101163027,Expert opinion on drug safety,Expert Opin Drug Saf,1744-764X,1474-0338,73
+262,101167762,Annals of family medicine,Ann Fam Med,1544-1717,1544-1709,74
+263,101167924,Natural product research,Nat Prod Res,1478-6427,1478-6419,73
+264,101168776,Cancer science,Cancer Sci,1349-7006,1347-9032,73
+265,101169387,Genetics and molecular research : GMR,Genet Mol Res,1676-5680,1676-5680,7
+266,101170508,Journal of thrombosis and haemostasis : JTH,J Thromb Haemost,1538-7836,1538-7836,73
+267,101170544,World journal of surgical oncology,World J Surg Oncol,1477-7819,1477-7819,73
+268,101172931,Cancer imaging : the official publication of the International Cancer Imaging Society,Cancer Imaging,1470-7330,1470-7330,73
+269,101175887,Clinical medicine & research,Clin Med Res,1554-6179,1539-4182,74
+270,101182136,Quality in primary care,Qual Prim Care,1479-1072,1479-1064,73
+271,101184586,Clinical proteomics,Clin Proteomics,1542-6416,1542-6416,73
+272,101186374,Nature structural & molecular biology,Nat Struct Mol Biol,1545-9985,1545-9985,74
+273,101186624,Pediatric blood & cancer,Pediatr Blood Cancer,1545-5017,1545-5009,74
+274,101187344,Journal of bioinformatics and computational biology,J Bioinform Comput Biol,1757-6334,0219-7200,73
+275,101188638,"Journal of public health (Oxford, England)",J Public Health (Oxf),1741-3850,1741-3842,73
+276,101188791,Cancer genomics & proteomics,Cancer Genomics Proteomics,1790-6245,1109-6535,23
+277,101189513,"Prilozi / Makedonska akademija na naukite i umetnostite, Oddelenie za biolos?ki i medicinski nauki = Contributions / Macedonian Academy of Sciences and Arts, Section of Biological and Medical Sciences",Prilozi,0351-3254,0351-3254,21
+278,101189891,Nigerian journal of surgery : official publication of the Nigerian Surgical Research Society,Niger J Surg,1117-6806,1117-6806,27
+279,101190741,Journal of translational medicine,J Transl Med,1479-5876,1479-5876,73
+280,101191279,Toxicology international,Toxicol Int,0971-6580,0971-6580,27
+281,101193653,Journal of molecular histology,J Mol Histol,1567-2387,1567-2379,43
+282,101196755,"IEEE/ACM transactions on computational biology and bioinformatics / IEEE, ACM",IEEE/ACM Trans Comput Biol Bioinform,1557-9964,1545-5963,74
+283,101197451,"Clinical trials (London, England)",Clin Trials,1740-7753,1740-7745,73
+284,101197791,Molecular pharmaceutics,Mol Pharm,1543-8392,1543-8384,74
+285,101200947,Bosnian journal of basic medical sciences / Udruz?enje basic?nih mediciniskih znanosti = Association of Basic Medical Sciences,Bosn J Basic Med Sci,1840-4812,1512-8601,6
+286,101201889,Plant biotechnology journal,Plant Biotechnol J,1467-7652,1467-7644,73
+287,101204402,IEEE/ASME transactions on mechatronics : a joint publication of the IEEE Industrial Electronics Society and the ASME Dynamic Systems and Control Division,IEEE ASME Trans Mechatron,1083-4435,1083-4435,0
+288,101208192,"Healthcare quarterly (Toronto, Ont.)",Healthc Q,1710-2774,1710-2774,9
+289,101208455,Current drug delivery,Curr Drug Deliv,1875-5704,1567-2018,72
+290,101213381,Rejuvenation research,Rejuvenation Res,1557-8577,1549-1684,74
+291,101213729,Marine drugs,Mar Drugs,1660-3397,1660-3397,65
+292,101213954,International journal of medical sciences,Int J Med Sci,1449-1907,1449-1907,2
+293,101215021,Evidence-based complementary and alternative medicine : eCAM,Evid Based Complement Alternat Med,1741-427X,1741-427X,74
+294,101215604,Nature methods,Nat Methods,1548-7105,1548-7091,74
+295,101217269,"Journal of the Royal Society, Interface / the Royal Society",J R Soc Interface,1742-5662,1742-5662,73
+296,101218222,Georgian medical news,Georgian Med News,1512-0112,1512-0112,20
+297,101219148,Revue médicale suisse,Rev Med Suisse,1660-9379,1660-9379,65
+298,101223209,The AAPS journal,AAPS J,1550-7416,1550-7416,74
+299,101223548,Expert review of proteomics,Expert Rev Proteomics,1744-8387,1478-9450,73
+300,101224383,Theoretical biology & medical modelling,Theor Biol Med Model,1742-4682,1742-4682,73
+301,101226123,Photodiagnosis and photodynamic therapy,Photodiagnosis Photodyn Ther,1873-1597,1572-1000,43
+302,101227686,German medical science : GMS e-journal,Ger Med Sci,1612-3174,1612-3174,21
+303,101228232,"International journal of surgery (London, England)",Int J Surg,1743-9159,1743-9159,73
+304,101229646,The FEBS journal,FEBS J,1742-4658,1742-464X,73
+305,101230060,Journal of chemical information and modeling,J Chem Inf Model,1549-960X,1549-9596,74
+306,101230541,Experimental oncology,Exp Oncol,1812-9269,1812-9269,71
+307,101230586,Zhong nan da xue xue bao. Yi xue ban = Journal of Central South University. Medical sciences,Zhong Nan Da Xue Xue Bao Yi Xue Ban,1672-7347,1672-7347,11
+308,101230693,The journal of sexual medicine,J Sex Med,1743-6109,1743-6095,74
+309,101230869,Journal of biomedical nanotechnology,J Biomed Nanotechnol,1550-7033,1550-7033,74
+310,101231179,Hereditary cancer in clinical practice,Hered Cancer Clin Pract,1731-2302,1731-2302,50
+311,101231360,PLoS medicine,PLoS Med,1549-1676,1549-1277,74
+312,101231645,Virology journal,Virol J,1743-422X,1743-422X,73
+313,101231818,Molecular nutrition & food research,Mol Nutr Food Res,1613-4133,1613-4125,21
+314,101231951,International journal of biomedical science : IJBS,Int J Biomed Sci,1550-9702,1550-9702,74
+315,101231977,Journal of clinical sleep medicine : JCSM : official publication of the American Academy of Sleep Medicine,J Clin Sleep Med,1550-9397,1550-9389,74
+316,101232529,Palliative & supportive care,Palliat Support Care,1478-9523,1478-9515,73
+317,101233223,"Contemporary oncology (Poznań, Poland)",Contemp Oncol (Pozn),1428-2526,1428-2526,50
+318,101233229,Iranian journal of radiology : a quarterly journal published by the Iranian Radiological Society,Iran J Radiol,1735-1065,1735-1065,29
+319,101233985,American Society of Clinical Oncology educational book / ASCO. American Society of Clinical Oncology. Meeting,Am Soc Clin Oncol Educ Book,1548-8756,1548-8748,74
+320,101235338,"Small (Weinheim an der Bergstrasse, Germany)",Small,1613-6829,1613-6810,21
+321,101235568,International journal of biological sciences,Int J Biol Sci,1449-2288,1449-2288,2
+322,101238455,International journal of environmental research and public health,Int J Environ Res Public Health,1660-4601,1660-4601,65
+323,101239074,PLoS genetics,PLoS Genet,1553-7404,1553-7390,74
+324,101241152,"Diagnostic and interventional radiology (Ankara, Turkey)",Diagn Interv Radiol,1305-3612,1305-3825,69
+325,101241430,Asia-Pacific journal of clinical oncology,Asia Pac J Clin Oncol,1743-7563,1743-7555,2
+326,101242342,Contemporary clinical trials,Contemp Clin Trials,1559-2030,1551-7144,74
+327,101243413,Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference,Conf Proc IEEE Eng Med Biol Soc,1557-170X,1557-170X,74
+328,101243727,Revista médica del Instituto Mexicano del Seguro Social,Rev Med Inst Mex Seguro Soc,0443-5117,0443-5117,41
+329,101244734,"Clinics (Sa~o Paulo, Brazil)",Clinics (Sao Paulo),1980-5322,1807-5932,7
+330,101247119,Clinical & translational oncology : official publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico,Clin Transl Oncol,1699-3055,1699-048X,32
+331,101249598,Journal of cancer research and therapeutics,J Cancer Res Ther,1998-4138,1998-4138,27
+332,101250764,The international journal of medical robotics + computer assisted surgery : MRCAS,Int J Med Robot,1478-596X,1478-5951,0
+333,101251558,Diagnostic pathology,Diagn Pathol,1746-1596,1746-1596,73
+334,101253756,Molecular & cellular biomechanics : MCB,Mol Cell Biomech,1556-5297,1556-5297,74
+335,101253758,International journal of bioinformatics research and applications,Int J Bioinform Res Appl,1744-5485,1744-5485,65
+336,101256108,International journal of obesity (2005),Int J Obes (Lond),1476-5497,0307-0565,73
+337,101256509,Cancer biomarkers : section A of Disease markers,Cancer Biomark,1875-8592,1574-0153,43
+338,101256526,Journal of the American Board of Family Medicine : JABFM,J Am Board Fam Med,1557-2625,1557-2625,74
+339,101256629,"Future oncology (London, England)",Future Oncol,1744-8301,1479-6694,73
+340,101258149,Cancer informatics,Cancer Inform,1176-9351,1176-9351,44
+341,101258257,Archives of medical science : AMS,Arch Med Sci,1734-1922,1734-1922,50
+342,101259013,ChemMedChem,ChemMedChem,1860-7187,1860-7179,21
+343,101260152,PET clinics,PET Clin,1879-9809,1556-8598,74
+344,101260955,Clinical genitourinary cancer,Clin Genitourin Cancer,1938-0682,1558-7673,74
+345,101261852,Journal of oncology practice / American Society of Clinical Oncology,J Oncol Pract,1935-469X,1554-7477,74
+346,101263847,International journal of nanomedicine,Int J Nanomedicine,1178-2013,1176-9114,44
+347,101265088,Algorithms for molecular biology : AMB,Algorithms Mol Biol,1748-7188,1748-7188,73
+348,101265111,"Radiation oncology (London, England)",Radiat Oncol,1748-717X,1748-717X,73
+349,101265188,Autophagy,Autophagy,1554-8635,1554-8627,74
+350,101265293,Epigenetics,Epigenetics,1559-2308,1559-2294,74
+351,101265649,Anti-cancer agents in medicinal chemistry,Anticancer Agents Med Chem,1875-5992,1871-5206,43
+352,101266081,Recent patents on anti-cancer drug discovery,Recent Pat Anticancer Drug Discov,2212-3970,1574-8928,72
+353,101266132,Nan fang yi ke da xue xue bao = Journal of Southern Medical University,Nan Fang Yi Ke Da Xue Xue Bao,1673-4254,1673-4254,11
+354,101270595,Targeted oncology,Target Oncol,1776-260X,1776-2596,19
+355,101271248,Expert review of clinical immunology,Expert Rev Clin Immunol,1744-8409,1744-666X,73
+356,101271526,Journal of molecular signaling,J Mol Signal,1750-2187,1750-2187,73
+357,101274235,Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer,J Thorac Oncol,1556-1380,1556-0864,74
+358,101275976,Korean journal of pathology,Korean J Pathol,1738-1843,1738-1843,62
+359,101276559,Infectious agents and cancer,Infect Agent Cancer,1750-9378,1750-9378,73
+360,101277751,Computational and mathematical methods in medicine,Comput Math Methods Med,1748-6718,1748-670X,74
+361,101278111,"Nanomedicine (London, England)",Nanomedicine (Lond),1748-6963,1743-5889,73
+362,101279750,Nanoscale research letters,Nanoscale Res Lett,1931-7573,1556-276X,74
+363,101282906,ACS chemical biology,ACS Chem Biol,1554-8937,1554-8929,74
+364,101285081,PloS one,PLoS One,1932-6203,1932-6203,74
+365,101286676,Urology journal,Urol J,1735-546X,1735-1308,29
+366,101286955,World journal of nuclear medicine,World J Nucl Med,1450-1147,1450-1147,3
+367,101287723,American journal of men's health,Am J Mens Health,1557-9891,1557-9883,74
+368,101295755,Expert opinion on drug discovery,Expert Opin Drug Discov,1746-045X,1746-0441,73
+369,101296613,Hippokratia,Hippokratia,1108-4189,1108-4189,23
+370,101297402,Current opinion in supportive and palliative care,Curr Opin Support Palliat Care,1751-4266,1751-4258,74
+371,101298608,Proteomics. Clinical applications,Proteomics Clin Appl,1862-8354,1862-8346,21
+372,101300401,Journal of robotic surgery,J Robot Surg,1863-2491,1863-2483,73
+373,101300403,Pharmacognosy magazine,Pharmacogn Mag,0973-1296,0973-1296,27
+374,101300405,Brain imaging and behavior,Brain Imaging Behav,1931-7565,1931-7557,74
+375,101301198,IET systems biology,IET Syst Biol,1751-8849,1751-8849,73
+376,101304616,Journal of genetics and genomics = Yi chuan xue bao,J Genet Genomics,1673-8527,1673-8527,11
+377,101307557,Journal of cancer survivorship : research and practice,J Cancer Surviv,1932-2267,1932-2259,74
+378,101308228,Social work in public health,Soc Work Public Health,1937-190X,1937-190X,74
+379,101308230,Molecular oncology,Mol Oncol,1878-0261,1574-7891,43
+380,101308384,International journal of urological nursing : the journal of the BAUN,Int J Urol Nurs,1749-7701,1749-7701,0
+381,101312520,IEEE transactions on biomedical circuits and systems,IEEE Trans Biomed Circuits Syst,1940-9990,1932-4545,74
+382,101312535,Biomarkers in medicine,Biomark Med,1752-0371,1752-0363,73
+383,101312644,Canadian Urological Association journal = Journal de l'Association des urologues du Canada,Can Urol Assoc J,1911-6470,1911-6470,9
+384,101313252,Journal of visualized experiments : JoVE,J Vis Exp,1940-087X,1940-087X,74
+385,101313589,ACS nano,ACS Nano,1936-086X,1936-0851,74
+386,101317943,International archives of medicine,Int Arch Med,1755-7682,1755-7682,73
+387,101318567,Journal of biophotonics,J Biophotonics,1864-0648,1864-063X,21
+388,101319628,BMC medical genomics,BMC Med Genomics,1755-8794,1755-8794,73
+389,101319850,Iranian Red Crescent medical journal,Iran Red Crescent Med J,2074-1804,2074-1804,72
+390,101321511,Biologics : targets & therapy,Biologics,1177-5475,1177-5475,44
+391,101322634,Cancer microenvironment : official journal of the International Cancer Microenvironment Society,Cancer Microenviron,1875-2292,,0
+392,101392236,Ecancermedicalscience,Ecancermedicalscience,1754-6605,1754-6605,73
+393,101468532,Hematology/oncology and stem cell therapy,Hematol Oncol Stem Cell Ther,1658-3876,,73
+394,101468937,Journal of hematology & oncology,J Hematol Oncol,1756-8722,1756-8722,73
+395,101469340,Journal of medical imaging and radiation oncology,J Med Imaging Radiat Oncol,1754-9485,1754-9477,2
+396,101469464,Cell adhesion & migration,Cell Adh Migr,1933-6926,1933-6918,74
+397,101469814,BMC medical physics,BMC Med Phys,1756-6649,1756-6649,73
+398,101471010,International journal of clinical and experimental medicine,Int J Clin Exp Med,1940-5901,1940-5901,74
+399,101471188,Current urology,Curr Urol,1661-7649,1661-7649,65
+400,101471801,Journal of men's health,J Mens Health,1875-6867,,0
+401,101472619,Translational oncology,Transl Oncol,1936-5233,1936-5233,74
+402,101472832,Biomolecules & therapeutics,Biomol Ther (Seoul),1976-9148,1976-9148,62
+403,101473248,International journal of culture and mental health,Int J Cult Ment Health,1754-2863,1754-2871,0
+404,101474067,Clinical and translational science,Clin Transl Sci,1752-8062,1752-8054,74
+405,101474849,Journal of ovarian research,J Ovarian Res,1757-2215,1757-2215,73
+406,101475056,Journal of proteomics,J Proteomics,1876-7737,1874-3919,43
+407,101475259,Molecular medicine reports,Mol Med Rep,1791-3004,1791-2997,23
+408,101475557,Gastroenterology research and practice,Gastroenterol Res Pract,1687-6121,1687-6121,17
+409,101475745,"Drug design, development and therapy",Drug Des Devel Ther,1177-8881,1177-8881,44
+410,101475748,Patient preference and adherence,Patient Prefer Adherence,1177-889X,1177-889X,44
+411,101475844,Genome medicine,Genome Med,1756-994X,1756-994X,73
+412,101475967,Deutsches Ärzteblatt international,Dtsch Arztebl Int,1866-0452,1866-0452,21
+413,101477604,"Zeitschrift für Evidenz, Fortbildung und Qualität im Gesundheitswesen",Z Evid Fortbild Qual Gesundhwes,2212-0289,1865-9217,43
+414,101477642,Multidisciplinary respiratory medicine,Multidiscip Respir Med,1828-695X,1828-695X,73
+415,101477873,Natural product communications,Nat Prod Commun,1934-578X,1555-9475,74
+416,101478346,Metallomics : integrated biometal science,Metallomics,1756-591X,1756-5901,73
+417,101479409,"Cancer prevention research (Philadelphia, Pa.)",Cancer Prev Res (Phila),1940-6215,1940-6215,74
+418,101479826,Oxidative medicine and cellular longevity,Oxid Med Cell Longev,1942-0994,1942-0994,74
+419,101479877,American health & drug benefits,Am Health Drug Benefits,1942-2962,1942-2962,74
+420,101480565,International journal of clinical and experimental pathology,Int J Clin Exp Pathol,1936-2625,1936-2625,74
+421,101487328,Therapeutic advances in urology,Ther Adv Urol,1756-2872,1756-2872,73
+422,101487380,EMBO molecular medicine,EMBO Mol Med,1757-4684,1757-4676,73
+423,101488795,Food & nutrition research,Food Nutr Res,1654-661X,1654-661X,64
+424,101489566,The American journal of case reports,Am J Case Rep,1941-5923,1941-5923,74
+425,101490689,Japanese journal of radiology,Jpn J Radiol,1867-108X,1867-1071,33
+426,101491209,Surgical pathology clinics,Surg Pathol Clin,1875-9157,1875-9157,74
+427,101492570,Proceedings / IEEE International Symposium on Biomedical Imaging: from nano to macro. IEEE International Symposium on Biomedical Imaging,Proc IEEE Int Symp Biomed Imaging,1945-7928,1945-7928,0
+428,101493030,American journal of translational research,Am J Transl Res,1943-8141,,74
+429,101494210,Genetic testing and molecular biomarkers,Genet Test Mol Biomarkers,1945-0257,1945-0257,74
+430,101494925,Journal of radiology case reports,J Radiol Case Rep,1943-0922,1943-0922,74
+431,101496537,Journal of oncology,J Oncol,1687-8450,1687-8450,17
+432,101498232,Chinese journal of cancer,Chin J Cancer,1000-467X,1944-446X,11
+433,101499225,International journal of computer assisted radiology and surgery,Int J Comput Assist Radiol Surg,1861-6429,1861-6410,21
+434,101499376,Korean journal of urology,Korean J Urol,2005-6745,2005-6737,62
+435,101500078,Nature reviews. Endocrinology,Nat Rev Endocrinol,1759-5037,1759-5029,73
+436,101500082,Nature reviews. Urology,Nat Rev Urol,1759-4820,1759-4812,73
+437,101502754,Bioscience trends,Biosci Trends,1881-7823,1881-7815,33
+438,101504991,ACS applied materials & interfaces,ACS Appl Mater Interfaces,1944-8252,1944-8244,74
+439,101505086,Science translational medicine,Sci Transl Med,1946-6242,1946-6234,74
+440,101506276,Journal of contemporary brachytherapy,J Contemp Brachytherapy,1689-832X,2081-2841,50
+441,101508617,Aging,Aging (Albany NY),1945-4589,1945-4589,74
+442,101508793,Cancer epidemiology,Cancer Epidemiol,1877-783X,1877-7821,43
+443,101509722,Viruses,Viruses,1999-4915,1999-4915,65
+444,101510808,Therapeutic advances in medical oncology,Ther Adv Med Oncol,1758-8340,1758-8340,73
+445,101510823,Urology annals,Urol Ann,0974-7796,0974-7796,27
+446,101511065,Avicenna journal of medical biotechnology,Avicenna J Med Biotechnol,2008-2835,2008-2835,29
+447,101511162,Future medicinal chemistry,Future Med Chem,1756-8927,1756-8919,73
+448,101512691,Journal of multidisciplinary healthcare,J Multidiscip Healthc,1178-2390,1178-2390,44
+449,101512700,Cancer management and research,Cancer Manag Res,1179-1322,1179-1322,44
+450,101513487,Journal of statistical theory and practice,J Stat Theory Pract,1559-8608,1559-8608,0
+451,101514322,OncoTargets and therapy,Onco Targets Ther,1178-6930,1178-6930,44
+452,101516546,Genes & cancer,Genes Cancer,1947-6019,1947-6019,74
+453,101516571,Spatial and spatio-temporal epidemiology,Spat Spatiotemporal Epidemiol,1877-5853,1877-5845,43
+454,101516968,Research in pharmaceutical sciences,Res Pharm Sci,1735-5362,1735-5362,29
+455,101516977,Clinical epigenetics,Clin Epigenetics,1868-7075,1868-7075,21
+456,101516978,Cancer nanotechnology,Cancer Nanotechnol,1868-6958,,0
+457,101517601,Case reports in oncology,Case Rep Oncol,1662-6575,1662-6575,65
+458,101517926,The Pan African medical journal,Pan Afr Med J,1937-8688,,70
+459,101518405,Journal of natural medicines,J Nat Med,1861-0293,1340-3443,33
+460,101518427,Hormones & cancer,Horm Cancer,1868-8500,1868-8497,74
+461,101518829,Biomolecular concepts,Biomol Concepts,1868-503X,1868-5021,21
+462,101519472,Epidemiology and health,Epidemiol Health,2092-7193,2092-7193,62
+463,101519720,Epigenomics,Epigenomics,1750-192X,1750-192X,73
+464,101519915,Sultan Qaboos University medical journal,Sultan Qaboos Univ Med J,2075-051X,2075-051X,47
+465,101521073,ACS medicinal chemistry letters,ACS Med Chem Lett,1948-5875,1948-5875,74
+466,101521595,Nutrients,Nutrients,2072-6643,2072-6643,65
+467,101524092,Cell death & disease,Cell Death Dis,2041-4889,,73
+468,101524530,Cold Spring Harbor protocols,Cold Spring Harb Protoc,1559-6095,1559-6095,74
+469,101525823,Acta naturae,Acta Naturae,2075-8251,2075-8251,55
+470,101526291,BMJ case reports,BMJ Case Rep,1757-790X,1757-790X,73
+471,101526295,Journal of obesity,J Obes,2090-0716,2090-0708,74
+472,101526350,Oman medical journal,Oman Med J,1999-768X,1999-768X,47
+473,101526829,Cancers,Cancers (Basel),2072-6694,2072-6694,65
+474,101528125,The Korean journal of pain,Korean J Pain,2005-9159,2005-9159,62
+475,101528555,Nature communications,Nat Commun,2041-1723,2041-1723,73
+476,101528849,Journal of pathology informatics,J Pathol Inform,2229-5089,,27
+477,101529872,International journal of surgery case reports,Int J Surg Case Rep,2210-2612,2210-2612,43
+478,101529880,Science China. Life sciences,Sci China Life Sci,1869-1889,1674-7305,11
+479,101530293,International journal for numerical methods in biomedical engineering,Int J Numer Method Biomed Eng,2040-7947,2040-7939,73
+480,101530478,Nuclear medicine and molecular imaging,Nucl Med Mol Imaging,1869-3474,1869-3474,21
+481,101531236,Oncology letters,Oncol Lett,1792-1074,1792-1074,0
+482,101531241,The open prostate cancer journal,Open Prost Cancer J,1876-8229,,0
+483,101531525,MedChemComm,Medchemcomm,2040-2503,2040-2503,0
+484,101531947,Experimental and therapeutic medicine,Exp Ther Med,1792-0981,1792-0981,0
+485,101531992,Journal of biomedical semantics,J Biomed Semantics,2041-1480,,73
+486,101532076,International journal of biochemistry and molecular biology,Int J Biochem Mol Biol,2152-4114,2152-4114,74
+487,101532368,Protein & cell,Protein Cell,1674-8018,1674-800X,21
+488,101532453,Insights into imaging,Insights Imaging,1869-4101,1869-4101,21
+489,101532965,Oncotarget,Oncotarget,1949-2553,1949-2553,74
+490,101533144,Biomarkers in cancer,Biomark Cancer,1179-299X,1179-299X,44
+491,101533720,Asian Pacific journal of tropical medicine,Asian Pac J Trop Med,1995-7645,,11
+492,101534513,International neurourology journal,Int Neurourol J,2093-4777,2093-4777,62
+493,101534770,Journal of geriatric oncology,J Geriatr Oncol,1879-4076,1879-4068,43
+494,101535836,Surgical neurology international,Surg Neurol Int,2229-5097,2152-7806,27
+495,101535920,Journal of Cancer,J Cancer,1837-9664,1837-9664,2
+496,101538184,World journal of radiology,World J Radiol,1949-8470,1949-8470,74
+497,101538301,Journal of clinical medicine research,J Clin Med Res,1918-3003,1918-3003,9
+498,101540531,ACS combinatorial science,ACS Comb Sci,2156-8944,2156-8944,74
+499,101541993,Analytical cellular pathology (Amsterdam),Anal Cell Pathol (Amst),2210-7185,2210-7177,74
+500,101543545,Spermatogenesis,Spermatogenesis,2156-5554,,0
+501,101546751,Biochemistry research international,Biochem Res Int,2090-2247,,74
+502,101549033,Food & function,Food Funct,2042-650X,2042-6496,73
+503,101549428,Frontiers of medicine,Front Med,2095-0225,2095-0217,11
+504,101549944,American journal of cancer research,Am J Cancer Res,2156-6976,2156-6976,74
+505,101551157,Journal of biomedical research,J Biomed Res,1674-8301,,11
+506,101552113,Journal of pharmacology & pharmacotherapeutics,J Pharmacol Pharmacother,0976-500X,0976-500X,27
+507,101552874,BMJ open,BMJ Open,2044-6055,,73
+508,101552938,Cellular oncology (Dordrecht),Cell Oncol (Dordr),2211-3436,2211-3428,43
+509,101553172,Organic and medicinal chemistry letters,Org Med Chem Lett,2191-2858,,21
+510,101554582,Clinical investigation,Clin Investig (Lond),2041-6792,2041-6792,0
+511,101554668,Translational behavioral medicine,Transl Behav Med,1869-6716,1613-9860,74
+512,101555690,Indian journal of endocrinology and metabolism,Indian J Endocrinol Metab,2230-8210,2230-9500,27
+513,101555782,Frontiers in endocrinology,Front Endocrinol (Lausanne),1664-2392,1664-2392,65
+514,101557701,The Eurasian journal of medicine,Eurasian J Med,1308-8734,1308-8734,69
+515,101558279,Practical radiation oncology,Pract Radiat Oncol,1879-8519,1879-8500,74
+516,101559235,Current protocols in chemical biology,Curr Protoc Chem Biol,2160-4762,2160-4762,74
+517,101560564,ClinicoEconomics and outcomes research : CEOR,Clinicoecon Outcomes Res,1178-6981,1178-6981,44
+518,101560621,Frontiers in genetics,Front Genet,1664-8021,1664-8021,65
+519,101560946,EJNMMI research,EJNMMI Res,2191-219X,,21
+520,101560960,Frontiers in immunology,Front Immunol,1664-3224,1664-3224,65
+521,101561195,Cell & bioscience,Cell Biosci,2045-3701,2045-3701,73
+522,101561693,Cancer discovery,Cancer Discov,2159-8290,2159-8274,74
+523,101562480,Arab journal of urology,Arab J Urol,2090-598X,2090-598X,43
+524,101562700,Advances in medical education and practice,Adv Med Educ Pract,1179-7258,1179-7258,44
+525,101562758,Nucleic acid therapeutics,Nucleic Acid Ther,2159-3345,2159-3337,74
+526,101563152,Journal of clinical & cellular immunology,J Clin Cell Immunol,2155-9899,,0
+527,101563288,Scientific reports,Sci Rep,2045-2322,2045-2322,73
+528,101564097,World journal of oncology,World J Oncol,1920-4531,1920-4531,0
+529,101564121,American journal of nuclear medicine and molecular imaging,Am J Nucl Med Mol Imaging,2160-8407,,74
+530,101564795,Journal of the Korean Surgical Society,J Korean Surg Soc,2233-7903,1226-0053,62
+531,101564865,Clinical pharmacology : advances and applications,Clin Pharmacol,1179-1438,1179-1438,44
+532,101566269,International medical case reports journal,Int Med Case Rep J,1179-142X,1179-142X,44
+533,101566868,ISRN urology,ISRN Urol,2090-5807,2090-5807,17
+534,101567026,ISRN oncology,ISRN Oncol,2090-5661,2090-5661,17
+535,101567074,Prostate cancer,Prostate Cancer,2090-3111,2090-312X,17
+536,101568867,Frontiers in oncology,Front Oncol,2234-943X,2234-943X,65
+537,101568907,International journal of applied earth observation and geoinformation : ITC journal,Int J Appl Earth Obs Geoinf,1569-8432,1569-8432,0
+538,101570526,Oncoimmunology,Oncoimmunology,2162-4011,2162-4011,0
+539,101571070,"Journal of natural science, biology, and medicine",J Nat Sci Biol Med,0976-9668,0976-9668,27
+540,101571172,Annals of laboratory medicine,Ann Lab Med,2234-3814,2234-3806,62
+541,101572336,Advances in biological regulation,Adv Biol Regul,2212-4934,2212-4926,73
+542,101572652,Human vaccines & immunotherapeutics,Hum Vaccin Immunother,2164-554X,2164-5515,74
+543,101572812,Journal of pharmacopuncture,J Pharmacopuncture,2093-6966,2093-6966,62
+544,101573691,Cell reports,Cell Rep,2211-1247,,74
+545,101574442,Comprehensive Physiology,Compr Physiol,2040-4603,2040-4603,74
+546,101575075,ACS synthetic biology,ACS Synth Biol,2161-5063,2161-5063,74
+547,101576205,Danish medical journal,Dan Med J,2245-1919,2245-1919,16
+548,101577577,Radiation oncology journal,Radiat Oncol J,2234-1900,2234-1900,62
+549,101577942,Quantitative imaging in medicine and surgery,Quant Imaging Med Surg,2223-4292,2223-4306,11
+550,101579614,eLife,Elife,2050-084X,2050-084X,73
+551,101580004,Oncogenesis,Oncogenesis,2157-9024,2157-9024,74
+552,101580193,Case reports in urology,Case Rep Urol,2090-696X,,74
+553,101580524,Journal of the American Heart Association,J Am Heart Assoc,2047-9980,2047-9980,73
+554,101581119,Translational andrology and urology,Transl Androl Urol,2223-4691,2223-4683,11
+555,101581613,Advanced healthcare materials,Adv Healthc Mater,2192-2659,2192-2640,21
+556,101581621,Molecular therapy. Nucleic acids,Mol Ther Nucleic Acids,2162-2531,,74
+557,101581657,RSC advances,RSC Adv,2046-2069,2046-2069,0
+558,101584839,Molecular imaging and radionuclide therapy,Mol Imaging Radionucl Ther,2146-1414,,69
+559,101585129,Andrology,Andrology,2047-2927,2047-2919,73
+560,101585329,Revista española de medicina nuclear e imagen molecular,Rev Esp Med Nucl Imagen Mol,2253-8070,2253-654X,63
+561,101585412,Anesthesiology and pain medicine,Anesth Pain Med,2228-7523,2228-7523,43
+562,101586246,BoneKEy reports,Bonekey Rep,2047-6396,2047-6396,73
+563,101587101,Central European journal of urology,Cent European J Urol,2080-4806,2080-4806,50
+564,101587186,Scandinavian journal of urology,Scand J Urol,2168-1813,2168-1805,73
+565,101589534,JAMA internal medicine,JAMA Intern Med,2168-6114,2168-6106,74
+566,101589641,Journal of biomedical physics & engineering,J Biomed Phys Eng,2251-7200,2251-7200,29
+567,101595310,Cancer medicine,Cancer Med,2045-7634,2045-7634,74
+568,101596737,Cure¯us,Cureus,2168-8184,2168-8184,74
+569,101596899,The world journal of men's health,World J Mens Health,2287-4208,2287-4208,62
+570,101597967,SpringerPlus,Springerplus,2193-1801,,65
+571,101598413,Endocrine connections,Endocr Connect,2049-3614,2049-3614,73
+572,101599820,Biomedical journal,Biomed J,2320-2890,2319-4170,27
+573,101600173,BioMed research international,Biomed Res Int,2314-6141,,74
+574,101600750,Hepatobiliary surgery and nutrition,Hepatobiliary Surg Nutr,2304-3881,2304-3881,66
+575,101602269,Journal of personalized medicine,J Pers Med,2075-4426,2075-4426,65
+576,101603425,PeerJ,PeerJ,2167-8359,,74
+577,101605566,Prostate international,Prostate Int,2287-8882,2287-8882,62
+578,101606638,Gland surgery,Gland Surg,2227-684X,2227-684X,66
+579,101607433,Human gene therapy. Clinical development,Hum Gene Ther Clin Dev,2324-8645,2324-8637,74
+580,101607582,Cancer & metabolism,Cancer Metab,2049-3002,2049-3002,73
+581,101608375,Chinese clinical oncology,Chin Clin Oncol,2304-3873,2304-3865,11
+582,101610479,Journal of extracellular vesicles,J Extracell Vesicles,2001-3078,2001-3078,64
+583,101613227,Biomedical reports,Biomed Rep,2049-9434,2049-9434,0
+584,101613422,Molecular and clinical oncology,Mol Clin Oncol,2049-9450,2049-9450,0
+585,101614637,Cancer immunology research,Cancer Immunol Res,2326-6074,2326-6066,74
+586,101620352,Journal of medical radiation sciences,J Med Radiat Sci,2051-3895,2051-3895,74
+587,101620585,Journal for immunotherapy of cancer,J Immunother Cancer,2051-1426,2051-1426,73
+588,101622895,Annals of surgical treatment and research,Ann Surg Treat Res,2288-6575,2288-6575,62
+589,101624758,Journal of investigative medicine high impact case reports,J Investig Med High Impact Case Rep,2324-7096,2324-7096,74
+590,101624857,Molecular therapy. Methods & clinical development,Mol Ther Methods Clin Dev,2329-0501,2329-0501,74
+591,101624936,Clinical & experimental pharmacology,Clin Exp Pharmacol,2161-1459,2161-1459,0
+592,101626019,"Ultrasonography (Seoul, Korea)",Ultrasonography,2288-5919,2288-5919,62
+593,101626357,Urology case reports,Urol Case Rep,2214-4420,2214-4420,0
+594,101627166,Journal of immunology research,J Immunol Res,2314-7156,2314-7156,17
+595,101627988,Frontiers in chemistry,Front Chem,2296-2646,2296-2646,65
+596,101628739,World journal of methodology,World J Methodol,2222-0682,2222-0682,74
+597,101629606,"EGEMS (Washington, DC)",EGEMS (Wash DC),2327-9214,2327-9214,74
+598,101630267,Journal of clinical oncology and research,J Clin Oncol Res,2373-938X,2373-938X,0
+599,101634120,Genomics data,Genom Data,2213-5960,2213-5960,74
+600,101634566,American journal of clinical and experimental urology,Am J Clin Exp Urol,2330-1910,2330-1910,74
+601,101635967,Genes & Diseases,Genes Dis,2352-3042,,0
+602,101636666,Oncoscience,Oncoscience,2331-4737,2331-4737,74
+603,101638882,Analytical and quantitative cytopathology and histopathology,Anal Quant Cytopathol Histpathol,,,74
+604,101639022,Journal of biological methods,J Biol Methods,2326-9901,2326-9901,0
+605,101639929,Journal of cancer stem cell research,J Cancer Stem Cell Res,2329-5872,2329-5872,0
+606,101640161,Basic and clinical andrology,Basic Clin Androl,2051-4190,2051-4190,73
+607,101640528,Neuro-oncology practice,Neurooncol Pract,2054-2577,2054-2585,0
+608,101643461,"Journal of medical imaging (Bellingham, Wash.)",J Med Imaging (Bellingham),2329-4302,2329-4302,74
+609,101643563,Turkish journal of urology,Turk J Urol,2149-3235,2149-3235,69
+610,101643766,Preventive medicine reports,Prev Med Rep,2211-3355,2211-3355,0
+611,101645099,Electronic physician,Electron Physician,2008-5842,2008-5842,29
+612,101645109,JMIR medical informatics,JMIR Med Inform,2291-9694,,9
+613,101649562,Current pharmacology reports,Curr Pharmacol Rep,2198-641X,,0
+614,101650987,Journal of urology and research,J Urol Res,,,0
+615,101652861,JAMA oncology,JAMA Oncol,2374-2445,,74
+616,1250250,Computers in biology and medicine,Comput Biol Med,1879-0534,0010-4825,74
+617,1254354,European journal of pharmacology,Eur J Pharmacol,1879-0712,0014-2999,43
+618,1264464,Seminars in nuclear medicine,Semin Nucl Med,1558-4623,0001-2998,74
+619,1264604,Biochimie,Biochimie,1638-6183,0300-9084,19
+620,1273516,Archives of sexual behavior,Arch Sex Behav,1573-2800,0004-0002,74
+621,1302422,Clinica chimica acta; international journal of clinical chemistry,Clin Chim Acta,1873-3492,0009-8981,43
+622,1304110,Der Urologe. Ausg. A,Urologe A,1433-0563,0340-2592,21
+623,1306016,Clinical radiology,Clin Radiol,1365-229X,0009-9260,73
+624,14520300R,Acta biochimica Polonica,Acta Biochim Pol,1734-154X,0001-527X,50
+625,15030100R,The Annals of thoracic surgery,Ann Thorac Surg,1552-6259,0003-4975,43
+626,16930290R,Fitoterapia,Fitoterapia,1873-6971,0367-326X,43
+627,17410290R,[Hokkaido igaku zasshi] The Hokkaido journal of medical science,Hokkaido Igaku Zasshi,0367-6102,0367-6102,33
+628,21530700R,Vojnosanitetski pregled,Vojnosanit Pregl,0042-8450,0042-8450,57
+629,21620870R,Wiener klinische Wochenschrift,Wien Klin Wochenschr,1613-7671,0043-5325,3
+630,2983335R,Scottish medical journal,Scott Med J,0036-9330,0036-9330,73
+631,2984683R,Nihon Shokakibyo Gakkai zasshi = The Japanese journal of gastro-enterology,Nihon Shokakibyo Gakkai Zasshi,0446-6586,0446-6586,33
+632,2984690R,Annales de biologie clinique,Ann Biol Clin (Paris),1950-6112,0003-3898,19
+633,2984705R,Cancer research,Cancer Res,1538-7445,0008-5472,74
+634,2984726R,The Biochemical journal,Biochem J,1470-8728,0264-6021,73
+635,2984781R,Rinsho byori. The Japanese journal of clinical pathology,Rinsho Byori,0047-1860,0047-1860,33
+636,2984841R,Nihon Hinyo¯kika Gakkai zasshi. The japanese journal of urology,Nihon Hinyokika Gakkai Zasshi,0021-5287,0021-5287,33
+637,2985087R,Journal of medical genetics,J Med Genet,1468-6244,0022-2593,73
+638,2985088R,Journal of molecular biology,J Mol Biol,1089-8638,0022-2836,73
+639,2985108R,Gut,Gut,1468-3288,0017-5749,73
+640,2985117R,"Journal of immunology (Baltimore, Md. : 1950)",J Immunol,1550-6606,0022-1767,74
+641,2985121R,The Journal of biological chemistry,J Biol Chem,1083-351X,0021-9258,74
+642,2985173R,Advances in clinical chemistry,Adv Clin Chem,0065-2423,0065-2423,74
+643,2985213R,"Lancet (London, England)",Lancet,1474-547X,0140-6736,73
+644,2985248R,Medicine,Medicine (Baltimore),1536-5964,0025-7974,74
+645,7500844,Molecular and cellular endocrinology,Mol Cell Endocrinol,1872-8057,0303-7207,30
+646,7501160,JAMA,JAMA,1538-3598,0098-7484,74
+647,7502021,Biotechnology and bioengineering,Biotechnol Bioeng,1097-0290,0006-3592,74
+648,7502030,Cancer treatment reviews,Cancer Treat Rev,1532-1967,0305-7372,43
+649,7502105,Journal of mathematical biology,J Math Biol,1432-1416,0303-6812,21
+650,7502536,British journal of pharmacology,Br J Pharmacol,1476-5381,0007-1188,73
+651,7503056,Journal of the American Chemical Society,J Am Chem Soc,1520-5126,0002-7863,74
+652,7503089,Journal of the National Cancer Institute,J Natl Cancer Inst,1460-2105,0027-8874,74
+653,7503090,Journal of the National Medical Association,J Natl Med Assoc,1943-4693,0027-9684,74
+654,7503289,"Annals of the Academy of Medicine, Singapore",Ann Acad Med Singapore,0304-4602,0304-4602,58
+655,7505267,Boletín de la Asociación Médica de Puerto Rico,Bol Asoc Med P R,0004-4849,0004-4849,52
+656,7505643,L'Encéphale,Encephale,0013-7006,0013-7006,19
+657,7505668,Medical hypotheses,Med Hypotheses,1532-2777,0306-9877,74
+658,7505722,Nihon Ho¯shasen Gijutsu Gakkai zasshi,Nihon Hoshasen Gijutsu Gakkai Zasshi,0369-4305,0369-4305,33
+659,7505876,Proceedings of the National Academy of Sciences of the United States of America,Proc Natl Acad Sci U S A,1091-6490,0027-8424,74
+660,7506858,Annals of the New York Academy of Sciences,Ann N Y Acad Sci,1749-6632,0077-8923,74
+661,7506860,Annals of the Royal College of Surgeons of England,Ann R Coll Surg Engl,1478-7083,0035-8843,73
+662,7507216,Journal of the Medical Association of Thailand = Chotmaihet thangphaet,J Med Assoc Thai,0125-2208,0125-2208,67
+663,7507497,RöFo : Fortschritte auf dem Gebiete der Röntgenstrahlen und der Nuklearmedizin,Rofo,1438-9010,1438-9010,21
+664,7508686,Pain,Pain,1872-6623,0304-3959,43
+665,7511141,Zhonghua yi xue za zhi,Zhonghua Yi Xue Za Zhi,0376-2491,0376-2491,11
+666,7512719,European urology,Eur Urol,1873-7560,0302-2838,65
+667,7513795,Chinese medical journal,Chin Med J (Engl),0366-6999,0366-6999,11
+668,7600053,Cancer letters,Cancer Lett,1872-7980,0304-3835,30
+669,7600076,Drugs,Drugs,0012-6667,0012-6667,44
+670,7600130,Neuroscience letters,Neurosci Lett,1872-7972,0304-3940,30
+671,7600747,Journal of community health,J Community Health,1573-3610,0094-5145,43
+672,7603128,Molecular aspects of medicine,Mol Aspects Med,1872-9452,0098-2997,73
+673,7603509,Blood,Blood,1528-0020,0006-4971,74
+674,7603616,"International journal of radiation oncology, biology, physics",Int J Radiat Oncol Biol Phys,1879-355X,0360-3016,74
+675,7605904,Indian journal of pathology & microbiology,Indian J Pathol Microbiol,0974-5130,0377-4929,27
+676,7607091,Archives of pathology & laboratory medicine,Arch Pathol Lab Med,1543-2165,0003-9985,74
+677,7609387,Nuklearmedizin. Nuclear medicine,Nuklearmedizin,0029-5566,0029-5566,21
+678,7609811,Journal of advanced nursing,J Adv Nurs,1365-2648,0309-2402,73
+679,7611109,Clinical nuclear medicine,Clin Nucl Med,1536-0229,0363-9762,74
+680,7612148,Psychoneuroendocrinology,Psychoneuroendocrinology,1873-3360,0306-4530,73
+681,7701859,Journal of bioenergetics and biomembranes,J Bioenerg Biomembr,1573-6881,0145-479X,74
+682,7702125,Journal of medical engineering & technology,J Med Eng Technol,1464-522X,0309-1902,73
+683,7702639,Food chemistry,Food Chem,0308-8146,0308-8146,73
+684,7703942,Journal of computer assisted tomography,J Comput Assist Tomogr,1532-3145,0363-8715,74
+685,7704052,World journal of surgery,World J Surg,1432-2323,0364-2313,74
+686,7704136,Histopathology,Histopathology,1365-2559,0309-0167,73
+687,7704993,Actas urologicas españolas,Actas Urol Esp,1699-7980,0210-4806,63
+688,7706761,Gene,Gene,1879-0038,0378-1119,43
+689,7707904,The American journal of surgical pathology,Am J Surg Pathol,1532-0979,0147-5185,74
+690,7708173,AJR. American journal of roentgenology,AJR Am J Roentgenol,1546-3141,0361-803X,74
+691,7709027,Toxicology letters,Toxicol Lett,1879-3169,0378-4274,43
+692,7801013,African journal of medicine and medical sciences,Afr J Med Med Sci,0309-3913,0309-3913,45
+693,7801243,The Journal of clinical psychiatry,J Clin Psychiatry,1555-2101,0160-6689,74
+694,7802877,The Journal of clinical investigation,J Clin Invest,1558-8238,0021-9738,74
+695,7802914,Neurosurgery,Neurosurgery,1524-4040,0148-396X,74
+696,7804071,Clinical and investigative medicine. Médecine clinique et experimentale,Clin Invest Med,1488-2353,0147-958X,9
+697,7804127,International journal of pharmaceutics,Int J Pharm,1873-3476,0378-5173,43
+698,7804502,The Chinese journal of physiology,Chin J Physiol,0304-4920,0304-4920,66
+699,7805358,Cancer nursing,Cancer Nurs,1538-9804,0162-220X,74
+700,7805381,Ecotoxicology and environmental safety,Ecotoxicol Environ Saf,1090-2414,0147-6513,74
+701,7806109,"Pathology, research and practice",Pathol Res Pract,1618-0631,0344-0338,21
+702,7806519,Cancer chemotherapy and pharmacology,Cancer Chemother Pharmacol,1432-0843,0344-5704,21
+703,7806594,Journal of endocrinological investigation,J Endocrinol Invest,1720-8386,0391-4097,32
+704,7806864,Irish journal of medical science,Ir J Med Sci,1863-4362,0021-1265,30
+705,7807105,Journal of behavioral medicine,J Behav Med,1573-3521,0160-7715,74
+706,7807333,Maturitas,Maturitas,1873-4111,0378-5122,30
+707,7809033,Oncology nursing forum,Oncol Nurs Forum,1538-0688,0190-535X,74
+708,7809084,Sleep,Sleep,1550-9109,0161-8105,74
+709,7809641,Family & community health,Fam Community Health,1550-5057,0160-6379,74
+710,7810034,Gan to kagaku ryoho. Cancer & chemotherapy,Gan To Kagaku Ryoho,0385-0684,0385-0684,33
+711,7902060,Journal of cancer research and clinical oncology,J Cancer Res Clin Oncol,1432-1335,0171-5216,21
+712,7903310,Journal of ethnopharmacology,J Ethnopharmacol,1872-7573,0378-8741,30
+713,7903371,Scanning,Scanning,1932-8745,0161-0457,74
+714,7905040,Nutrition and cancer,Nutr Cancer,1532-7914,0163-5581,74
+715,7905788,Journal of inorganic biochemistry,J Inorg Biochem,1873-3344,0162-0134,74
+716,7905840,Pharmacology & therapeutics,Pharmacol Ther,1879-016X,0163-7258,73
+717,7906240,European journal of cell biology,Eur J Cell Biol,1618-1298,0171-9335,21
+718,7906803,Acta médica portuguesa,Acta Med Port,1646-0758,0870-399X,51
+719,7906882,Journal of natural products,J Nat Prod,1520-6025,0163-3864,74
+720,7909578,International journal of biological macromolecules,Int J Biol Macromol,1879-0003,0141-8130,0
+721,7909584,Journal of biomechanical engineering,J Biomech Eng,1528-8951,0148-0731,74
+722,7910006,Immunology letters,Immunol Lett,1879-0542,0165-2478,43
+723,7910653,American journal of epidemiology,Am J Epidemiol,1476-6256,0002-9262,74
+724,7910681,Zhonghua zhong liu za zhi [Chinese journal of oncology],Zhonghua Zhong Liu Za Zhi,0253-3766,0253-3766,11
+725,8000036,Archives of pharmacal research,Arch Pharm Res,0253-6269,0253-6269,62
+726,8000462,Archives of dermatological research,Arch Dermatol Res,1432-069X,0340-3696,21
+727,8002867,Ultrastructural pathology,Ultrastruct Pathol,1521-0758,0191-3123,73
+728,8006258,Endocrine reviews,Endocr Rev,1945-7189,0163-769X,74
+729,8006541,Der Pathologe,Pathologe,1432-1963,0172-8113,21
+730,8008055,Carcinogenesis,Carcinogenesis,1460-2180,0143-3334,73
+731,8008541,Cancer treatment and research,Cancer Treat Res,0927-3042,0927-3042,74
+732,8010936,Human immunology,Hum Immunol,1879-1166,0198-8859,74
+733,8100316,Biomaterials,Biomaterials,1878-5905,0142-9612,43
+734,8101110,American journal of industrial medicine,Am J Ind Med,1097-0274,0271-3586,74
+735,8101368,The Prostate,Prostate,1097-0045,0270-4137,74
+736,8102988,Anticancer research,Anticancer Res,1791-7530,0250-7005,23
+737,8106337,Annales de pathologie,Ann Pathol,0242-6498,0242-6498,19
+738,8106411,European journal of radiology,Eur J Radiol,1872-7727,0720-048X,30
+739,8109073,Medical decision making : an international journal of the Society for Medical Decision Making,Med Decis Making,1552-681X,0272-989X,74
+740,8109087,Molecular and cellular biology,Mol Cell Biol,1098-5549,0270-7306,74
+741,8109498,Journal of neuroimmunology,J Neuroimmunol,1872-8421,0165-5728,43
+742,8112917,Brazilian journal of medical and biological research = Revista brasileira de pesquisas médicas e biológicas / Sociedade Brasileira de Biofísica ... [et al.],Braz J Med Biol Res,1414-431X,0100-879X,7
+743,8200291,International journal of cardiology,Int J Cardiol,1874-1754,0167-5273,43
+744,8201017,Nuclear medicine communications,Nucl Med Commun,1473-5628,0143-3636,73
+745,8204476,Electrophoresis,Electrophoresis,1522-2683,0173-0835,21
+746,8205036,Sociology of health & illness,Sociol Health Illn,1467-9566,0141-9889,73
+747,8205768,Journal of cellular biochemistry,J Cell Biochem,1097-4644,0730-2312,74
+748,8207483,Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association,Food Chem Toxicol,1873-6351,0278-6915,73
+749,8207754,American journal of clinical oncology,Am J Clin Oncol,1537-453X,0277-3732,74
+750,8208664,The EMBO journal,EMBO J,1460-2075,0261-4189,73
+751,8211523,"Health psychology : official journal of the Division of Health Psychology, American Psychological Association",Health Psychol,1930-7810,0278-6133,74
+752,8213295,Biomedicine & pharmacotherapy = Biomédecine & pharmacothérapie,Biomed Pharmacother,1950-6007,0753-3322,19
+753,8214845,International journal of gynecological pathology : official journal of the International Society of Gynecological Pathologists,Int J Gynecol Pathol,1538-7151,0277-1691,74
+754,8214883,Magnetic resonance imaging,Magn Reson Imaging,1873-5894,0730-725X,43
+755,8215016,Statistics in medicine,Stat Med,1097-0258,0277-6715,73
+756,8215879,Journal of the American College of Nutrition,J Am Coll Nutr,1541-1087,0731-5724,0
+757,8301891,West African journal of medicine,West Afr J Med,0189-160X,0189-160X,45
+758,8302501,"Radiographics : a review publication of the Radiological Society of North America, Inc",Radiographics,1527-1323,0271-5333,74
+759,8302946,"Hepatology (Baltimore, Md.)",Hepatology,1527-3350,0270-9139,74
+760,8303326,Neurourology and urodynamics,Neurourol Urodyn,1520-6777,0733-2467,0
+761,8305874,Cell biochemistry and function,Cell Biochem Funct,1099-0844,0263-6484,73
+762,8306785,BioTechniques,Biotechniques,1940-9818,0736-6205,73
+763,8307154,Cancer investigation,Cancer Invest,1532-4192,0735-7907,73
+764,8307716,World journal of urology,World J Urol,1433-8726,0724-4983,21
+765,8308647,Journal of experimental & clinical cancer research : CR,J Exp Clin Cancer Res,1756-9966,0392-9078,73
+766,8309330,Investigational new drugs,Invest New Drugs,1573-0646,0167-6997,74
+767,8309333,Journal of clinical oncology : official journal of the American Society of Clinical Oncology,J Clin Oncol,1527-7755,0732-183X,74
+768,8309335,Journal of neuro-oncology,J Neurooncol,1573-7373,0167-594X,74
+769,8309336,Journal of pharmaceutical and biomedical analysis,J Pharm Biomed Anal,1873-264X,0731-7085,73
+770,8309337,Journal of psychosocial oncology,J Psychosoc Oncol,1540-7586,0734-7332,74
+771,8309603,"Clinical nutrition (Edinburgh, Scotland)",Clin Nutr,1532-1983,0261-5614,73
+772,8310780,IEEE transactions on medical imaging,IEEE Trans Med Imaging,1558-254X,0278-0062,74
+773,8400604,General physiology and biophysics,Gen Physiol Biophys,0231-5882,0231-5882,59
+774,8403708,Biotechnology advances,Biotechnol Adv,1873-1899,0734-9750,73
+775,8404726,Journal of orthopaedic research : official publication of the Orthopaedic Research Society,J Orthop Res,1554-527X,0736-0266,74
+776,8406280,Patient education and counseling,Patient Educ Couns,1873-5134,0738-3991,30
+777,8406521,Pharmaceutical research,Pharm Res,1573-904X,0724-8741,74
+778,8406612,Applied microbiology and biotechnology,Appl Microbiol Biotechnol,1432-0614,0175-7598,21
+779,8406899,Vaccine,Vaccine,1873-2518,0264-410X,43
+780,8407192,Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology,Radiother Oncol,1879-0887,0167-8140,30
+781,8409922,Tumour biology : the journal of the International Society for Oncodevelopmental Biology and Medicine,Tumour Biol,1423-0380,1010-4283,43
+782,8409970,Clinical & experimental metastasis,Clin Exp Metastasis,1573-7276,0262-0898,43
+783,8411927,Journal of biotechnology,J Biotechnol,1873-4863,0168-1656,43
+784,8500875,Family practice,Fam Pract,1460-2229,0263-2136,73
+785,8501362,Chronobiology international,Chronobiol Int,1525-6073,0742-0528,73
+786,8502651,"Folia histochemica et cytobiologica / Polish Academy of Sciences, Polish Histochemical and Cytochemical Society",Folia Histochem Cytobiol,1897-5631,0239-8508,50
+787,8503649,Minerva urologica e nefrologica = The Italian journal of urology and nephrology,Minerva Urol Nefrol,0393-2249,0393-2249,32
+788,8504048,Bone,Bone,1873-2763,1873-2763,74
+789,8504356,European journal of surgical oncology : the journal of the European Society of Surgical Oncology and the British Association of Surgical Oncology,Eur J Surg Oncol,1532-2157,0748-7983,73
+790,8504412,Journal of pineal research,J Pineal Res,1600-079X,0742-3098,73
+791,8505245,Magnetic resonance in medicine,Magn Reson Med,1522-2594,0740-3194,74
+792,8508062,European journal of epidemiology,Eur J Epidemiol,1573-7284,0393-2990,43
+793,8508122,The Journal of rural health : official journal of the American Rural Health Association and the National Rural Health Care Association,J Rural Health,1748-0361,0890-765X,0
+794,8510246,Annals of behavioral medicine : a publication of the Society of Behavioral Medicine,Ann Behav Med,1532-4796,0883-6612,74
+795,8510441,Indian journal of urology : IJU : journal of the Urological Society of India,Indian J Urol,0970-1591,0970-1591,27
+796,8510974,Seminars in interventional radiology,Semin Intervent Radiol,0739-9529,0739-9529,74
+797,8602702,Toxicology and industrial health,Toxicol Ind Health,1477-0393,0748-2337,0
+798,8603469,Strahlentherapie und Onkologie : Organ der Deutschen Röntgengesellschaft ... [et al],Strahlenther Onkol,1439-099X,0179-7158,21
+799,8603766,Clinics in geriatric medicine,Clin Geriatr Med,1879-8853,0749-0690,74
+800,8604127,Disease markers,Dis Markers,1875-8630,0278-0240,74
+801,8605732,"Cancer immunology, immunotherapy : CII",Cancer Immunol Immunother,1432-0851,0340-7004,21
+802,8605834,Journal of general internal medicine,J Gen Intern Med,1525-1497,0884-8734,74
+803,8605836,Journal of pain and symptom management,J Pain Symptom Manage,1873-6513,0885-3924,74
+804,8607899,International journal of colorectal disease,Int J Colorectal Dis,1432-1262,0179-1958,21
+805,8607908,Journal of controlled release : official journal of the Controlled Release Society,J Control Release,1873-4995,0168-3659,43
+806,8609357,Histology and histopathology,Histol Histopathol,1699-5848,0213-3911,63
+807,8610343,Journal of cancer education : the official journal of the American Association for Cancer Education,J Cancer Educ,1543-0154,0885-8195,73
+808,8611864,Advances in therapy,Adv Ther,1865-8652,0741-238X,74
+809,8700907,Journal of clinical biochemistry and nutrition,J Clin Biochem Nutr,0912-0009,0912-0009,33
+810,8701199,"Human reproduction (Oxford, England)",Hum Reprod,1460-2350,0268-1161,73
+811,8703518,Journal of Korean medical science,J Korean Med Sci,1598-6357,1011-8934,62
+812,8703985,European journal of haematology,Eur J Haematol,1600-0609,0902-4441,73
+813,8704308,Journal of clinical pharmacy and therapeutics,J Clin Pharm Ther,1365-2710,0269-4727,73
+814,8704309,Journal of cranio-maxillo-facial surgery : official publication of the European Association for Cranio-Maxillo-Facial Surgery,J Craniomaxillofac Surg,1878-4119,1010-5182,73
+815,8704773,American journal of preventive medicine,Am J Prev Med,1873-2607,0749-3797,43
+816,8704926,Palliative medicine,Palliat Med,1477-030X,0269-2163,73
+817,8706123,"Acta radiologica (Stockholm, Sweden : 1987)",Acta Radiol,1600-0455,0284-1851,73
+818,8707812,Mutagenesis,Mutagenesis,1464-3804,0267-8357,73
+819,8708303,Indian journal of clinical biochemistry : IJCB,Indian J Clin Biochem,0970-1915,0970-1915,27
+820,8708475,Wiener medizinische Wochenschrift (1946),Wien Med Wochenschr,1563-258X,0043-5341,3
+821,8709065,"Acta oncologica (Stockholm, Sweden)",Acta Oncol,1651-226X,0284-186X,73
+822,8709159,Free radical biology & medicine,Free Radic Biol Med,1873-4596,0891-5849,74
+823,8710523,Advanced drug delivery reviews,Adv Drug Deliv Rev,1872-8294,0169-409X,43
+824,8711562,Oncogene,Oncogene,1476-5594,0950-9232,73
+825,8712059,"Oncology (Williston Park, N.Y.)",Oncology (Williston Park),0890-9091,0890-9091,74
+826,8712158,Toxicology in vitro : an international journal published in association with BIBRA,Toxicol In Vitro,1879-3177,0887-2333,73
+827,8712411,The International journal of biological markers,Int J Biol Markers,1724-6008,0393-6155,32
+828,8800805,"Lung cancer (Amsterdam, Netherlands)",Lung Cancer,1872-8332,0169-5002,30
+829,8801383,Journal of clinical epidemiology,J Clin Epidemiol,1878-5921,0895-4356,74
+830,8801431,"Molecular endocrinology (Baltimore, Md.)",Mol Endocrinol,1944-9917,0888-8809,74
+831,8803400,"APMIS : acta pathologica, microbiologica, et immunologica Scandinavica",APMIS,1600-0463,0903-4641,16
+832,8803554,"Plant foods for human nutrition (Dordrecht, Netherlands)",Plant Foods Hum Nutr,1573-9104,0921-9668,43
+833,8804358,Social psychiatry and psychiatric epidemiology,Soc Psychiatry Psychiatr Epidemiol,1433-9285,0933-7954,21
+834,8804484,FASEB journal : official publication of the Federation of American Societies for Experimental Biology,FASEB J,1530-6860,0892-6638,74
+835,8806104,Computerized medical imaging and graphics : the official journal of the Computerized Medical Imaging Society,Comput Med Imaging Graph,1879-0771,0895-6111,74
+836,8806605,"Modern pathology : an official journal of the United States and Canadian Academy of Pathology, Inc",Mod Pathol,1530-0285,0893-3952,74
+837,8806653,Surgical endoscopy,Surg Endosc,1432-2218,0930-2794,21
+838,8806809,"In vivo (Athens, Greece)",In Vivo,1791-7549,0258-851X,23
+839,8807503,Journal of endourology / Endourological Society,J Endourol,1557-900X,0892-7790,74
+840,8809128,"Clinical anatomy (New York, N.Y.)",Clin Anat,1098-2353,0897-3806,74
+841,8809243,International journal of radiation biology,Int J Radiat Biol,1362-3095,0955-3002,73
+842,8811105,Molecular carcinogenesis,Mol Carcinog,1098-2744,0899-1987,74
+843,8812256,Urologic nursing,Urol Nurs,1053-816X,1053-816X,74
+844,8901274,"Indian journal of nuclear medicine : IJNM : the official journal of the Society of Nuclear Medicine, India",Indian J Nucl Med,0972-3919,0974-0244,27
+845,8902507,Epidemiologia e prevenzione,Epidemiol Prev,1120-9763,1120-9763,32
+846,8902541,Head & neck,Head Neck,1097-0347,1043-3074,74
+847,8902617,Journal of molecular endocrinology,J Mol Endocrinol,1479-6813,0952-5041,73
+848,8904486,Phytotherapy research : PTR,Phytother Res,1099-1573,0951-418X,73
+849,8904683,Cellular signalling,Cell Signal,1873-3913,0898-6568,73
+850,8904840,Journal of human nutrition and dietetics : the official journal of the British Dietetic Association,J Hum Nutr Diet,1365-277X,0952-3871,73
+851,8907422,Pharmacological research,Pharmacol Res,1096-1186,1043-6618,43
+852,8908862,Medical dosimetry : official journal of the American Association of Medical Dosimetrists,Med Dosim,1873-4022,1873-4022,74
+853,8911831,Clinical imaging,Clin Imaging,1873-4499,0899-7071,74
+854,8911934,Journal of oral pathology & medicine : official publication of the International Association of Oral Pathologists and the American Academy of Oral Pathology,J Oral Pathol Med,1600-0714,0904-2512,16
+855,8913398,Annals of nuclear medicine,Ann Nucl Med,1864-6433,0914-7187,33
+856,8913656,Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica,Zhongguo Zhong Yao Za Zhi,1001-5302,1001-5302,11
+857,8914816,Critical reviews in clinical laboratory sciences,Crit Rev Clin Lab Sci,1549-781X,1040-8363,73
+858,8915233,NMR in biomedicine,NMR Biomed,1099-1492,0952-3480,73
+859,8916049,Critical reviews in oncology/hematology,Crit Rev Oncol Hematol,1879-0461,1040-8428,43
+860,8917640,Seminars in thoracic and cardiovascular surgery,Semin Thorac Cardiovasc Surg,1532-9488,1043-0679,74
+861,9000851,Current opinion in rheumatology,Curr Opin Rheumatol,1531-6963,1040-8711,74
+862,9001289,Biosensors & bioelectronics,Biosens Bioelectron,1873-4235,0956-5663,73
+863,9002902,Clinical oncology (Royal College of Radiologists (Great Britain)),Clin Oncol (R Coll Radiol),1433-2981,0936-6555,73
+864,9002940,Experimental physiology,Exp Physiol,1469-445X,0958-0670,73
+865,9002991,Journal of molecular neuroscience : MN,J Mol Neurosci,1559-1166,0895-8696,0
+866,9005353,Cytokine,Cytokine,1096-0023,1043-4666,74
+867,9005373,"European journal of cancer (Oxford, England : 1990)",Eur J Cancer,1879-0852,0959-8049,73
+868,9007265,Current opinion in oncology,Curr Opin Oncol,1531-703X,1040-8746,74
+869,9007422,Leukemia & lymphoma,Leuk Lymphoma,1029-2403,1026-8022,0
+870,9007566,Revista española de enfermedades digestivas : organo oficial de la Sociedad Española de Patología Digestiva,Rev Esp Enferm Dig,1130-0108,1130-0108,63
+871,9007735,Annals of oncology : official journal of the European Society for Medical Oncology / ESMO,Ann Oncol,1569-8041,0923-7534,73
+872,9007917,International journal of STD & AIDS,Int J STD AIDS,1758-1052,0956-4624,73
+873,9008950,Human gene therapy,Hum Gene Ther,1557-7422,1043-0342,74
+874,9009288,Endocrine pathology,Endocr Pathol,1559-0097,1046-3976,74
+875,9010081,The Journal of nutritional biochemistry,J Nutr Biochem,1873-4847,0955-2863,74
+876,9010218,Seminars in cancer biology,Semin Cancer Biol,1096-3650,1044-579X,73
+877,9010319,Bioconjugate chemistry,Bioconjug Chem,1520-4812,1043-1802,74
+878,9011255,Journal of the National Cancer Institute. Monographs,J Natl Cancer Inst Monogr,1745-6614,1052-6773,74
+879,9011485,Journal of dermatological science,J Dermatol Sci,1873-569X,0923-1811,43
+880,9012854,Health reports,Health Rep,0840-6529,0840-6529,9
+881,9012906,Nursing standard (Royal College of Nursing (Great Britain) : 1987),Nurs Stand,2047-9018,0029-6570,73
+882,9014042,International journal of experimental pathology,Int J Exp Pathol,1365-2613,0959-9673,73
+883,9015483,The Journal of steroid biochemistry and molecular biology,J Steroid Biochem Mol Biol,1879-1220,0960-0760,73
+884,9015516,P & T : a peer-reviewed journal for formulary management,P T,1052-1372,1052-1372,74
+885,9100013,Annals of epidemiology,Ann Epidemiol,1873-2585,1047-2797,74
+886,9100283,Arquivos brasileiros de cirurgia digestiva : ABCD = Brazilian archives of digestive surgery,Arq Bras Cir Dig,2317-6326,0102-6720,7
+887,9100529,Journal of digital imaging,J Digit Imaging,1618-727X,0897-1889,74
+888,9100823,Anti-cancer drugs,Anticancer Drugs,1473-5741,0959-4973,73
+889,9100846,Cancer causes & control : CCC,Cancer Causes Control,1573-7225,0957-5243,43
+890,9102074,Drugs & aging,Drugs Aging,1179-1969,1170-229X,44
+891,9104317,Thyroid : official journal of the American Thyroid Association,Thyroid,1557-9077,1050-7256,74
+892,9105195,Cell proliferation,Cell Prolif,1365-2184,0960-7722,73
+893,9105850,Journal of magnetic resonance imaging : JMRI,J Magn Reson Imaging,1522-2586,1053-1807,74
+894,9107377,Bioorganic & medicinal chemistry letters,Bioorg Med Chem Lett,1464-3405,0960-894X,73
+895,9109478,"Anästhesiologie, Intensivmedizin, Notfallmedizin, Schmerztherapie : AINS",Anasthesiol Intensivmed Notfallmed Schmerzther,1439-1074,0939-2661,21
+896,9111474,"Nutrition, metabolism, and cardiovascular diseases : NMCD",Nutr Metab Cardiovasc Dis,1590-3729,0939-4753,43
+897,9112559,Chinese medical sciences journal = Chung-kuo i hsüeh k'o hsüeh tsa chih / Chinese Academy of Medical Sciences,Chin Med Sci J,1001-9294,1001-9294,11
+898,9113221,"Cellular physiology and biochemistry : international journal of experimental cellular physiology, biochemistry, and pharmacology",Cell Physiol Biochem,1421-9778,1015-8987,65
+899,9114501,Journal of physiology and pharmacology : an official journal of the Polish Physiological Society,J Physiol Pharmacol,1899-1505,0867-5910,50
+900,9114774,European radiology,Eur Radiol,1432-1084,0938-7994,21
+901,9200312,Amino acids,Amino Acids,1438-2199,0939-4451,3
+902,9200608,"Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology",Cancer Epidemiol Biomarkers Prev,1538-7755,1055-9965,74
+903,9200621,Current opinion in urology,Curr Opin Urol,1473-6586,0963-0643,74
+904,9201927,Developmental dynamics : an official publication of the American Association of Anatomists,Dev Dyn,1097-0177,1058-8388,74
+905,9203012,Microscopy research and technique,Microsc Res Tech,1097-0029,1059-910X,74
+906,9204265,Lupus,Lupus,1477-0962,0961-2033,73
+907,9204382,"Work (Reading, Mass.)",Work,1875-9270,1051-9815,43
+908,9207930,European journal of histochemistry : EJH,Eur J Histochem,2038-8306,1121-760X,32
+909,9208097,Oncology research,Oncol Res,1555-3906,0965-0407,74
+910,9208369,Pharmacoepidemiology and drug safety,Pharmacoepidemiol Drug Saf,1099-1557,1053-8569,73
+911,9208920,Experimental and toxicologic pathology : official journal of the Gesellschaft für Toxikologische Pathologie,Exp Toxicol Pathol,1618-1433,0940-2993,21
+912,9208958,Human molecular genetics,Hum Mol Genet,1460-2083,0964-6906,73
+913,9209001,Mediators of inflammation,Mediators Inflamm,1466-1861,0962-9351,74
+914,9209120,Transgenic research,Transgenic Res,1573-9368,0962-8819,43
+915,9210257,"Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation",Qual Life Res,1573-2649,0962-9343,43
+916,9211576,"Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine / Zhongguo Zhong xi yi jie he xue hui, Zhongguo Zhong yi yan jiu yuan zhu ban",Zhongguo Zhong Xi Yi Jie He Za Zhi,1003-5370,1003-5370,11
+917,9212059,British journal of nursing (Mark Allen Publishing),Br J Nurs,0966-0461,0966-0461,73
+918,9212457,Statistical methods in medical research,Stat Methods Med Res,1477-0334,0962-2802,0
+919,9213011,"Breast (Edinburgh, Scotland)",Breast,1532-3080,0960-9776,43
+920,9213031,"Chirurgia (Bucharest, Romania : 1990)",Chirurgia (Bucur),1221-9118,1221-9118,54
+921,9214524,Psycho-oncology,Psychooncology,1099-1611,1057-9249,73
+922,9214582,Studies in health technology and informatics,Stud Health Technol Inform,0926-9630,0926-9630,43
+923,9214652,Brazilian dental journal,Braz Dent J,1806-4760,0103-6440,7
+924,9214969,"Methods in molecular biology (Clifton, N.J.)",Methods Mol Biol,1940-6029,1064-3745,74
+925,9215429,Human mutation,Hum Mutat,1098-1004,1059-7794,74
+926,9215446,Journal of AOAC International,J AOAC Int,1060-3271,1060-3271,74
+927,9215641,Vestnik Rossii?skoi? akademii meditsinskikh nauk / Rossii?skaia akademiia meditsinskikh nauk,Vestn Ross Akad Med Nauk,0869-6047,0869-6047,55
+928,9216789,"Cellular and molecular biology (Noisy-le-Grand, France)",Cell Mol Biol (Noisy-le-grand),1165-158X,0145-5680,19
+929,9216904,Nature genetics,Nat Genet,1546-1718,1061-4036,74
+930,9300837,European journal of cancer prevention : the official journal of the European Cancer Prevention Organisation (ECP),Eur J Cancer Prev,1473-5709,0959-8278,73
+931,9301182,"Transfusion medicine (Oxford, England)",Transfus Med,1365-3148,0958-7578,73
+932,9301979,European journal of cancer care,Eur J Cancer Care (Engl),1365-2354,0961-5423,73
+933,9302235,European journal of human genetics : EJHG,Eur J Hum Genet,1476-5438,1018-4813,73
+934,9302888,Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB),Phys Med,1724-191X,1120-1797,32
+935,9302892,Pneumonologia i alergologia polska,Pneumonol Alergol Pol,0867-7077,0867-7077,50
+936,9302957,Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer,Support Care Cancer,1433-7339,0941-4355,21
+937,9303672,Abdominal imaging,Abdom Imaging,1432-0509,0942-8925,74
+938,9304420,Nuclear medicine and biology,Nucl Med Biol,1872-9614,0969-8051,74
+939,9304532,"Stem cells (Dayton, Ohio)",Stem Cells,1549-4918,1066-5099,74
+940,9305903,The Australian journal of rural health,Aust J Rural Health,1440-1584,1038-5282,2
+941,9306042,International journal of oncology,Int J Oncol,1791-2423,1019-6439,23
+942,9306253,"Applied radiation and isotopes : including data, instrumentation and methods for use in agriculture, industry and medicine",Appl Radiat Isot,1872-9800,0969-8043,73
+943,9306408,Journal of toxicologic pathology,J Toxicol Pathol,0914-9198,0914-9198,33
+944,9307129,Cell biology international,Cell Biol Int,1095-8355,1065-6995,73
+945,9307844,Progrès en urologie : journal de l'Association franc¸aise d'urologie et de la Société franc¸aise d'urologie,Prog Urol,1166-7087,1166-7087,19
+946,9308247,"Archivio italiano di urologia, andrologia : organo ufficiale [di] Società italiana di ecografia urologica e nefrologica / Associazione ricerche in urologia",Arch Ital Urol Androl,1124-3562,1124-3562,32
+947,9312476,Journal of drug targeting,J Drug Target,1029-2330,1026-7158,73
+948,9312706,Archives of medical research,Arch Med Res,1873-5487,0188-4409,74
+949,9313833,Magyar onkologia,Magy Onkol,0025-0244,0025-0244,25
+950,9315242,Chinese journal of cancer research = Chung-kuo yen cheng yen chiu,Chin J Cancer Res,1000-9604,1000-9604,11
+951,9317093,"Journal of environmental science and health. Part C, Environmental carcinogenesis & ecotoxicology reviews",J Environ Sci Health C Environ Carcinog Ecotoxicol Rev,1532-4095,1059-0501,73
+952,9317213,Radiology and oncology,Radiol Oncol,1318-2099,1318-2099,60
+953,9413298,Bioorganic & medicinal chemistry,Bioorg Med Chem,1464-3391,0968-0896,73
+954,9417471,Drug delivery,Drug Deliv,1521-0464,1071-7544,73
+955,9418515,In vitro cellular & developmental biology. Animal,In Vitro Cell Dev Biol Anim,1543-706X,1071-2690,21
+956,9420840,Annals of surgical oncology,Ann Surg Oncol,1534-4681,1068-9265,74
+957,9421525,Gene therapy,Gene Ther,1476-5462,0969-7128,73
+958,9421547,Human pathology,Hum Pathol,1532-8392,0046-8177,74
+959,9421549,Clinical chemistry,Clin Chem,1530-8561,0009-9147,74
+960,9422756,Oncology reports,Oncol Rep,1791-2431,1021-335X,23
+961,9422762,Magnetic resonance imaging clinics of North America,Magn Reson Imaging Clin N Am,1557-9786,1064-9689,74
+962,9423768,Ceská gynekologie / Ceská lékarská spolecnost J. Ev. Purkyne,Ceska Gynekol,1210-7832,1210-7832,15
+963,9423843,Virchows Archiv : an international journal of pathology,Virchows Arch,1432-2307,0945-6317,21
+964,9423848,European journal of endocrinology / European Federation of Endocrine Societies,Eur J Endocrinol,1479-683X,0804-4643,73
+965,9424566,Journal of the Egyptian National Cancer Institute,J Egypt Natl Canc Inst,1110-0362,1110-0362,17
+966,9424805,Guang pu xue yu guang pu fen xi = Guang pu,Guang Pu Xue Yu Guang Pu Fen Xi,1000-0593,1000-0593,11
+967,9426302,"Methods (San Diego, Calif.)",Methods,1095-9130,1046-2023,74
+968,9426356,Pakistan journal of pharmaceutical sciences,Pak J Pharm Sci,1011-601X,1011-601X,48
+969,9431380,Pathology international,Pathol Int,1440-1827,1320-5463,2
+970,9432230,Cancer gene therapy,Cancer Gene Ther,1476-5500,0929-1903,73
+971,9432922,International journal of food sciences and nutrition,Int J Food Sci Nutr,1465-3478,0963-7486,73
+972,9433352,Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia,J Clin Neurosci,1532-2653,0967-5868,73
+973,9434197,Expert opinion on investigational drugs,Expert Opin Investig Drugs,1744-7658,1354-3784,73
+974,9434444,Endocrine,Endocrine,1559-0100,1355-008X,74
+975,9435512,"Medical oncology (Northwood, London, England)",Med Oncol,1559-131X,1357-0560,74
+976,9436481,Endocrine-related cancer,Endocr Relat Cancer,1479-6821,1351-0088,73
+977,9437432,Polish journal of pathology : official journal of the Polish Society of Pathologists,Pol J Pathol,1233-9687,1233-9687,50
+978,9438457,Cancer control : journal of the Moffitt Cancer Center,Cancer Control,1526-2359,1073-2748,74
+979,9438794,Phytomedicine : international journal of phytotherapy and phytopharmacology,Phytomedicine,1618-095X,0944-7113,21
+980,9440157,Current medicinal chemistry,Curr Med Chem,1875-533X,0929-8673,43
+981,9440159,Academic radiology,Acad Radiol,1878-4046,1076-6332,74
+982,9440237,International journal of urology : official journal of the Japanese Urological Association,Int J Urol,1442-2042,0919-8172,2
+983,9441104,Journal of medical physics / Association of Medical Physicists of India,J Med Phys,0971-6203,0971-6203,27
+984,9441769,Environmental science and pollution research international,Environ Sci Pollut Res Int,1614-7499,0944-1344,21
+985,9501229,Journal of investigative medicine : the official publication of the American Federation for Clinical Research,J Investig Med,1708-8267,1081-5589,9
+986,9502015,Nature medicine,Nat Med,1546-170X,1078-8956,74
+987,9502500,Clinical cancer research : an official journal of the American Association for Cancer Research,Clin Cancer Res,1078-0432,1078-0432,74
+988,9502503,"Current oncology (Toronto, Ont.)",Curr Oncol,1198-0052,1198-0052,9
+989,9504368,Clinical reviews in allergy & immunology,Clin Rev Allergy Immunol,1559-0267,1080-0549,74
+990,9505926,"Experimental and clinical endocrinology & diabetes : official journal, German Society of Endocrinology [and] German Diabetes Association",Exp Clin Endocrinol Diabetes,1439-3646,0947-7349,21
+991,9506663,Histochemistry and cell biology,Histochem Cell Biol,1432-119X,0948-6143,21
+992,9508160,Inflammation research : official journal of the European Histamine Research Society ... [et al.],Inflamm Res,1420-908X,1023-3830,65
+993,9508482,The international journal of biochemistry & cell biology,Int J Biochem Cell Biol,1878-5875,1357-2725,43
+994,9509184,"RNA (New York, N.Y.)",RNA,1469-9001,1355-8382,74
+995,9509432,Journal of receptor and signal transduction research,J Recept Signal Transduct Res,1532-4281,1079-9893,73
+996,9511372,Journal of oncology pharmacy practice : official publication of the International Society of Oncology Pharmacy Practitioners,J Oncol Pharm Pract,1477-092X,1078-1552,73
+997,9513102,JAAPA : official journal of the American Academy of Physician Assistants,JAAPA,1547-1896,0893-7400,74
+998,9513710,Molecular human reproduction,Mol Hum Reprod,1460-2407,1360-9947,73
+999,9513783,"Chemistry (Weinheim an der Bergstrasse, Germany)",Chemistry,1521-3765,0947-6539,21
+1000,9515842,The Canadian journal of urology,Can J Urol,1195-9479,1195-9479,9
+1001,9516348,Lifetime data analysis,Lifetime Data Anal,1572-9249,1380-7870,74
+1002,9517857,European journal of medical research,Eur J Med Res,2047-783X,0949-2321,73
+1003,9518021,Genome research,Genome Res,1549-5469,1088-9051,74
+1004,9602338,American journal of health behavior,Am J Health Behav,1945-7359,1087-3244,74
+1005,9602487,Current pharmaceutical design,Curr Pharm Des,1873-4286,1381-6128,43
+1006,9602533,"Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",Spectrochim Acta A Mol Biomol Spectrosc,1873-3557,1386-1425,73
+1007,9604100,Journal of health communication,J Health Commun,1087-0415,1081-0730,74
+1008,9604934,Journal of orthopaedic science : official journal of the Japanese Orthopaedic Association,J Orthop Sci,1436-2023,0949-2658,33
+1009,9605408,Cancer biotherapy & radiopharmaceuticals,Cancer Biother Radiopharm,1557-8852,1084-9785,74
+1010,9605853,Journal of biomedical optics,J Biomed Opt,1560-2281,1083-3668,74
+1011,9606000,"Biomarkers : biochemical indicators of exposure, response, and susceptibility to chemicals",Biomarkers,1366-5804,1354-750X,73
+1012,9607599,Diabetes & metabolism,Diabetes Metab,1878-1780,1262-3636,19
+1013,9607688,Journal of epidemiology / Japan Epidemiological Association,J Epidemiol,1349-9092,0917-5040,33
+1014,9607837,The oncologist,Oncologist,1549-490X,1083-7159,74
+1015,9608375,Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy,J Infect Chemother,1437-7780,1341-321X,33
+1016,9609063,Medical science monitor : international medical journal of experimental and clinical research,Med Sci Monit,1643-3750,1234-1010,74
+1017,9609066,Journal of evaluation in clinical practice,J Eval Clin Pract,1365-2753,1356-1294,73
+1018,9610769,Semergen / Sociedad Española de Medicina Rural y Generalista,Semergen,1578-8865,1138-3593,63
+1019,9610838,"Chemical communications (Cambridge, England)",Chem Commun (Camb),1364-548X,1359-7345,73
+1020,9610925,Cell stress & chaperones,Cell Stress Chaperones,1466-1268,1355-8145,43
+1021,9610936,Molecules and cells,Mol Cells,0219-1032,1016-8478,62
+1022,9611095,Australian and New Zealand journal of public health,Aust N Z J Public Health,1753-6405,1326-0200,2
+1023,9612020,Environmental toxicology and pharmacology,Environ Toxicol Pharmacol,1872-7077,1382-6689,43
+1024,9612306,Cytokine & growth factor reviews,Cytokine Growth Factor Rev,1879-0305,1359-6101,73
+1025,9613595,The Nigerian postgraduate medical journal,Niger Postgrad Med J,1117-1936,,45
+1026,9613614,Techniques in coloproctology,Tech Coloproctol,1128-045X,1123-6337,32
+1027,9613615,International journal of nursing practice,Int J Nurs Pract,1440-172X,1322-7114,2
+1028,9616295,International journal of clinical oncology,Int J Clin Oncol,1437-7772,1341-9625,33
+1029,9616326,Journal of biological inorganic chemistry : JBIC : a publication of the Society of Biological Inorganic Chemistry,J Biol Inorg Chem,1432-1327,0949-8257,21
+1030,9700112,Biological chemistry,Biol Chem,1437-4315,1431-6730,21
+1031,9702239,Central-European journal of immunology / Polish Society for Immunology and eleven other Central-European immunological societies,Cent Eur J Immunol,1426-3912,1426-3912,50
+1032,9703616,Journal of health psychology,J Health Psychol,1461-7277,1359-1053,0
+1033,9705336,Clinical journal of oncology nursing,Clin J Oncol Nurs,1538-067X,1092-1095,74
+1034,9705469,Polski merkuriusz lekarski : organ Polskiego Towarzystwa Lekarskiego,Pol Merkur Lekarski,1426-9686,1426-9686,50
+1035,9706087,Pathology oncology research : POR,Pathol Oncol Res,1532-2807,1219-4956,43
+1036,9706281,"Veterinary journal (London, England : 1997)",Vet J,1532-2971,1090-0233,73
+1037,9706284,"Health technology assessment (Winchester, England)",Health Technol Assess,2046-4924,1366-5278,73
+1038,9706293,Journal of laparoendoscopic & advanced surgical techniques. Part A,J Laparoendosc Adv Surg Tech A,1557-9034,1092-6429,74
+1039,9707115,Clinical oral investigations,Clin Oral Investig,1436-3771,1432-6981,21
+1040,9707935,"Journal of magnetic resonance (San Diego, Calif. : 1997)",J Magn Reson,1096-0856,1090-7807,74
+1041,9709206,Clinical hemorheology and microcirculation,Clin Hemorheol Microcirc,1875-8622,1386-0291,43
+1042,9709307,Nitric oxide : biology and chemistry / official journal of the Nitric Oxide Society,Nitric Oxide,1089-8611,1089-8603,74
+1043,9711057,International journal of medical informatics,Int J Med Inform,1872-8243,1386-5056,30
+1044,9711272,Cancer radiothérapie : journal de la Société franc¸aise de radiothérapie oncologique,Cancer Radiother,1769-6658,1278-3218,19
+1045,9712129,Apoptosis : an international journal on programmed cell death,Apoptosis,1573-675X,1360-8185,43
+1046,9712381,International journal of clinical practice,Int J Clin Pract,1742-1241,1368-5031,73
+1047,9713056,International journal of circumpolar health,Int J Circumpolar Health,2242-3982,1239-9736,64
+1048,9713490,Medical image analysis,Med Image Anal,1361-8423,1361-8415,43
+1049,9716531,Journal of medicinal chemistry,J Med Chem,1520-4804,0022-2623,74
+1050,9717249,"Current protocols in pharmacology / editorial board, S.J. Enna (editor-in-chief) ... [et al.]",Curr Protoc Pharmacol,1934-8290,1934-8282,74
+1051,9717360,European review for medical and pharmacological sciences,Eur Rev Med Pharmacol Sci,1128-3602,1128-3602,32
+1052,9800503,Annals of diagnostic pathology,Ann Diagn Pathol,1532-8198,1092-9134,74
+1053,9802571,Molecular cell,Mol Cell,1097-4164,1097-2765,74
+1054,9804163,Journal of registry management,J Registry Manag,1945-6123,1945-6131,74
+1055,9805460,Urologic oncology,Urol Oncol,1873-2496,1078-1439,74
+1056,9805461,Toxicological sciences : an official journal of the Society of Toxicology,Toxicol Sci,1096-0929,1096-0929,74
+1057,9806306,Clinical chemistry and laboratory medicine,Clin Chem Lab Med,1437-4331,1434-6621,21
+1058,9806675,Techniques in vascular and interventional radiology,Tech Vasc Interv Radiol,1557-9808,1557-9808,74
+1059,9808210,The aging male : the official journal of the International Society for the Study of the Aging Male,Aging Male,1473-0790,1368-5538,73
+1060,9808462,Journal of palliative medicine,J Palliat Med,1557-7740,1557-7740,74
+1061,9808648,Prostaglandins & other lipid mediators,Prostaglandins Other Lipid Mediat,1098-8823,1098-8823,74
+1062,9810955,International journal of molecular medicine,Int J Mol Med,1791-244X,1107-3756,23
+1063,9814575,Angiogenesis,Angiogenesis,1573-7209,0969-6970,43
+1064,9814578,Pituitary,Pituitary,1573-7403,1386-341X,74
+1065,9815369,Drug resistance updates : reviews and commentaries in antimicrobial and anticancer chemotherapy,Drug Resist Updat,1532-2084,1368-7646,73
+1066,9815755,Prostate cancer and prostatic diseases,Prostate Cancer Prostatic Dis,1476-5608,1365-7852,73
+1067,9815758,Biological research for nursing,Biol Res Nurs,1552-4175,1099-8004,74
+1068,9815831,Genetics in medicine : official journal of the American College of Medical Genetics,Genet Med,1530-0366,1098-3600,74
+1069,9815926,Health expectations : an international journal of public participation in health care and health policy,Health Expect,1369-7625,1369-6513,0
+1070,9882735,"IEEE transactions on ultrasonics, ferroelectrics, and frequency control",IEEE Trans Ultrason Ferroelectr Freq Control,1525-8955,0885-3010,74
+1071,INCONNU,Revue inconnue,,,,0

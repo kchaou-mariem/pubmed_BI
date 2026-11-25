@@ -1,0 +1,37 @@
+type_key,ui_type,libelle
+1,D000068397,Clinical Study
+2,D002363,Case Reports
+3,D003160,Comparative Study
+4,D004740,English Abstract
+5,D013485,"Research Support, Non-U.S. Gov't"
+6,D013486,"Research Support, U.S. Gov't, Non-P.H.S."
+7,D013487,"Research Support, U.S. Gov't, P.H.S."
+8,D016420,Comment
+9,D016421,Editorial
+10,D016422,Letter
+11,D016423,Congresses
+12,D016425,Published Erratum
+13,D016427,Technical Report
+14,D016428,Journal Article
+15,D016430,Clinical Trial
+16,D016433,News
+17,D016446,Consensus Development Conference
+18,D016448,Multicenter Study
+19,D016449,Randomized Controlled Trial
+20,D016454,Review
+21,D016456,Historical Article
+22,D017065,Practice Guideline
+23,D017203,Interview
+24,D017418,Meta-Analysis
+25,D017426,"Clinical Trial, Phase I"
+26,D017427,"Clinical Trial, Phase II"
+27,D017428,"Clinical Trial, Phase III"
+28,D018848,Controlled Clinical Trial
+29,D020493,Autobiography
+30,D023361,Validation Studies
+31,D023362,Evaluation Studies
+32,D052060,"Research Support, N.I.H., Intramural"
+33,D052061,"Research Support, N.I.H., Extramural"
+34,D057666,"Research Support, American Recovery and Reinvestment Act"
+35,D059040,Video-Audio Media
+36,D064888,Observational Study

@@ -1,0 +1,26 @@
+﻿objet,nature,lignes,ratio_vs_publications
+Publication (1 ligne / article),Fait,4008,1.0
+Dim_Revue (NlmUniqueID),Dimension,1070,0.26696606786427146
+Dim_Temps (mois distincts de PubDate),Dimension,46,0.011477045908183632
+"Dim_Temps (jours distincts, toutes dates)",Dimension,626,0.156187624750499
+Dim_Auteur (clé nom|initiales),Dimension,20455,5.103542914171657
+Dim_Affiliation (texte normalisé),Dimension,9838,2.4545908183632736
+Dim_Pays (extrait des affiliations),Dimension,50,0.0124750499001996
+Dim_MeSH (UI),Dimension,3937,0.9822854291417166
+Dim_Qualificatif (UI),Dimension,78,0.019461077844311378
+Dim_MotCle (normalisé),Dimension,6560,1.6367265469061876
+Dim_TypePublication,Dimension,38,0.009481037924151697
+Dim_Langue (normalisée),Dimension,15,0.0037425149700598802
+Dim_Substance (UI),Dimension,2594,0.6472055888223552
+Dim_Agence (financement),Dimension,47,0.011726546906187624
+Dim_Statut (statut de citation),Dimension,5,0.00124750499001996
+Liaison Publication↔Auteur (avec rang),Liaison,29336,7.319361277445109
+Liaison Auteur↔Affiliation,Liaison,17305,4.317614770459082
+Liaison Publication↔MeSH,Liaison,36034,8.990518962075848
+Liaison MeSH↔Qualificatif,Liaison,23367,5.830089820359281
+Liaison Publication↔MotCle,Liaison,12707,3.1704091816367264
+Liaison Publication↔Type,Liaison,7874,1.9645708582834331
+Liaison Publication↔Langue,Liaison,3995,0.9967564870259481
+Liaison Publication↔Substance,Liaison,8254,2.05938123752495
+Liaison Publication↔Financement,Liaison,3354,0.8368263473053892
+Liaison Publication↔Référence citée,Liaison,49952,12.463073852295409

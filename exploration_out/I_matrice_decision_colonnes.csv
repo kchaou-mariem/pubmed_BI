@@ -1,0 +1,87 @@
+﻿colonne,groupe,type,manquants_pct,distincts,destination,décision
+art_id,Identification,texte,0.0,3882,Technique : clé de jointure staging,Technique
+pmid,Identification,texte,0.0,3882,Fait : clé métier,Conserver
+fichier,Identification,texte,0.0,3883,Technique : traçabilité,Technique
+pmid_version,Identification,texte,0.0,1,—,Écarter (constante)
+statut,Statut & édition,texte,0.0,5,Dim_Statut,Conserver
+owner,Statut & édition,texte,0.0,1,—,Écarter (constante)
+pub_model,Statut & édition,texte,0.0,5,Dim_Statut / attribut,À arbitrer
+cree_a,Dates,texte,0.0,4,Brut : absorbé par Dim_Temps,Technique (staging seulement)
+cree_m,Dates,texte,0.0,21,Brut : absorbé par Dim_Temps,Technique (staging seulement)
+cree_j,Dates,texte,0.0,39,Brut : absorbé par Dim_Temps,Technique (staging seulement)
+complete_a,Dates,texte,23.358228174092197,4,Brut : absorbé par Dim_Temps,Technique (staging seulement)
+complete_m,Dates,texte,23.358228174092197,12,Brut : absorbé par Dim_Temps,Technique (staging seulement)
+complete_j,Dates,texte,23.358228174092197,31,Brut : absorbé par Dim_Temps,Technique (staging seulement)
+revise_a,Dates,texte,44.93947978367242,4,Brut : absorbé par Dim_Temps,Technique (staging seulement)
+revise_m,Dates,texte,44.93947978367242,21,Brut : absorbé par Dim_Temps,Technique (staging seulement)
+revise_j,Dates,texte,44.93947978367242,40,Brut : absorbé par Dim_Temps,Technique (staging seulement)
+revue,Revue,texte,0.0,1063,Dim_Revue,Conserver
+revue_abrev_iso,Revue,texte,0.0,1062,Dim_Revue,À arbitrer
+issn,Revue,texte,0.1545197012619109,1063,Dim_Revue,Conserver
+issn_type,Revue,texte,0.12876641771825909,2,—,À arbitrer
+issn_liaison,Revue,texte,2.2920422353850114,1026,Dim_Revue,Conserver
+support,Statut & édition,texte,0.0,2,Dim_Revue/Fait,À arbitrer
+volume,Revue,texte,3.2706670100437805,307,Fait : attribut,À arbitrer
+numero,Revue,texte,13.314447592067989,100,Fait : attribut,À arbitrer
+pub_annee,Dates,texte,4.378058202420808,5,Brut : absorbé par Dim_Temps,Technique (staging seulement)
+pub_mois,Dates,texte,24.517125933556528,12,Brut : absorbé par Dim_Temps,Technique (staging seulement)
+pub_jour,Dates,texte,81.53489569920164,31,—,Écarter ou à arbitrer (très creuse)
+pub_saison,Dates,texte,99.79397373165078,2,—,Écarter ou à arbitrer (très creuse)
+pub_medline_date,Dates,texte,95.6219417975792,34,—,Écarter ou à arbitrer (très creuse)
+titre,Texte,texte,0.0,3881,Fait : attribut texte,Conserver
+titre_vernaculaire,Texte,texte,97.1671388101983,111,—,Écarter ou à arbitrer (très creuse)
+pagination,Revue,texte,3.3994334277620397,3509,Fait : attribut,À arbitrer
+resume,Texte,texte,0.28328611898017,3870,Fait : attribut texte (ou écarter si pas d'analyse texte),À arbitrer
+resume_n_sections,Texte,numérique,0.0,11,Mesure dérivée / indicateur de qualité,À arbitrer
+resume_labels,Texte,texte,53.9788823074942,389,Mesure dérivée / indicateur de qualité,À arbitrer
+resume_copyright,Texte,texte,62.3744527427247,271,Mesure dérivée / indicateur de qualité,À arbitrer
+autre_resume_n,Texte,numérique,0.0,1,—,Écarter (constante)
+art_date_a,Dates,texte,24.38835951583827,5,Brut : absorbé par Dim_Temps,Technique (staging seulement)
+art_date_m,Dates,texte,24.38835951583827,21,Brut : absorbé par Dim_Temps,Technique (staging seulement)
+art_date_j,Dates,texte,24.38835951583827,39,Brut : absorbé par Dim_Temps,Technique (staging seulement)
+art_date_type,Dates,texte,24.38835951583827,1,—,Écarter (constante)
+pays_revue,Revue,texte,4.764357455575586,52,Dim_Revue,Conserver (imputer via NlmUniqueID)
+medline_ta,Revue,texte,0.0,1062,Dim_Revue : abréviation,Conserver
+nlm_id,Revue,texte,0.0,1062,Dim_Revue : clé naturelle,Conserver
+statut_pub,Statut & édition,texte,0.0,3,Attribut,À arbitrer
+sous_ensembles,Statut & édition,texte,14.241565799639455,10,Sous-dimension/attribut,À arbitrer
+doi,Identification,texte,9.296935359258306,3521,Fait : identifiant externe,Conserver
+doi_source,Identification,texte,9.296935359258306,2,—,À arbitrer
+pii,Identification,texte,38.140612928148336,2400,Technique,Écarter
+pmc,Identification,texte,58.537213494720575,1610,Fait : identifiant externe,À arbitrer
+mid,Identification,texte,88.97759464331702,428,Technique,Écarter
+id_pubmed_article,Identification,texte,0.0,3882,Redondant avec PMID,Écarter
+n_auteurs,Auteurs,numérique,0.0,47,Fait : mesure dérivée,Conserver
+n_collectifs,Auteurs,numérique,0.0,4,Mesure dérivée / indicateur de qualité,À arbitrer
+n_investigateurs,Auteurs,numérique,0.0,17,Mesure dérivée / indicateur de qualité,À arbitrer
+n_auteurs_invalid,Auteurs,numérique,0.0,3,Mesure dérivée / indicateur de qualité,À arbitrer
+n_aff_total,Auteurs,numérique,0.0,46,Mesure dérivée / indicateur de qualité,À arbitrer
+n_auteurs_avec_aff,Auteurs,numérique,0.0,43,Mesure dérivée / indicateur de qualité,À arbitrer
+n_orcid,Auteurs,numérique,0.0,6,Mesure dérivée / indicateur de qualité,À arbitrer
+liste_auteurs_complete,Auteurs,texte,4.918877156837497,1,—,Écarter (constante)
+liste_auteurs_type,Auteurs,texte,100.0,0,—,Écarter (constante)
+n_mots_cles,Thématique,numérique,0.0,45,Fait : mesure dérivée,À arbitrer
+n_mesh,Thématique,numérique,0.0,32,Fait : mesure dérivée,À arbitrer
+n_mesh_majeurs,Thématique,numérique,0.0,7,Mesure dérivée / indicateur de qualité,À arbitrer
+n_qualificatifs,Thématique,numérique,0.0,35,Mesure dérivée / indicateur de qualité,À arbitrer
+n_chimie,Thématique,numérique,0.0,20,Mesure dérivée / indicateur de qualité,À arbitrer
+n_grants,Autres,numérique,0.0,26,Mesure dérivée / indicateur de qualité,À arbitrer
+n_commentaires,Autres,numérique,0.0,131,Mesure dérivée / indicateur de qualité,À arbitrer
+n_types_pub,Thématique,numérique,0.0,6,Mesure dérivée / indicateur de qualité,À arbitrer
+n_langues,Thématique,numérique,0.0,2,Mesure dérivée / indicateur de qualité,À arbitrer
+n_historique,Autres,numérique,0.0,6,Mesure dérivée / indicateur de qualité,À arbitrer
+n_ids,Autres,numérique,0.0,5,Mesure dérivée / indicateur de qualité,À arbitrer
+n_pi,Autres,numérique,0.0,2,Mesure dérivée / indicateur de qualité,À arbitrer
+a_suppl_mesh,Thématique,numérique,0.0,2,—,À arbitrer
+a_note,Statut & édition,numérique,0.0,2,—,À arbitrer
+cree_dt,Dates,date,0.0,557,Dim_Temps (rôle : création notice),À arbitrer
+complete_dt,Dates,date,23.358228174092197,613,Dim_Temps (rôle),À arbitrer
+revise_dt,Dates,date,44.93947978367242,385,Dim_Temps (rôle),À arbitrer
+art_dt,Dates,date,24.38835951583827,479,Dim_Temps (rôle : mise en ligne),À arbitrer
+pub_annee_eff,Dates,numérique,0.0,5,Dim_Temps,Conserver
+pub_dt,Dates,date,0.0,285,Dim_Temps,Conserver
+pub_precision,Dates,texte,0.0,5,Dim_Temps : niveau de précision,Conserver
+longueur_titre,Texte,numérique,0.0,226,Mesure dérivée / indicateur de qualité,À arbitrer
+mots_titre,Texte,numérique,0.0,37,Mesure dérivée / indicateur de qualité,À arbitrer
+longueur_resume,Texte,numérique,0.28328611898017,1613,Mesure dérivée / indicateur de qualité,À arbitrer
+mots_resume,Texte,numérique,0.28328611898017,391,Mesure dérivée / indicateur de qualité,À arbitrer

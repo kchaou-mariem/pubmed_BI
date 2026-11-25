@@ -1,0 +1,11 @@
+﻿table,lignes,lignes_en_double,surplus_a_retirer,articles_concernes,% lignes en double
+auteurs (nom+prénom+initiales),29336,19,11,8,0.06476683937823834
+mots_cles (insensible à la casse),12707,50,25,20,0.3934839065082238
+mesh (par UI),36034,0,0,0,0.0
+chimie,8254,0,0,0,0.0
+types_pub,7874,0,0,0,0.0
+langues,3995,0,0,0,0.0
+ids_article,12016,0,0,0,0.0
+grants,3354,292,146,107,8.706022659511031
+commentaires (même réf. citée 2×),49952,2,1,1,0.0040038436899423446
+"affils (même auteur, même texte)",17305,2,1,1,0.011557353366079168

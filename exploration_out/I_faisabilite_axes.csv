@@ -1,0 +1,12 @@
+﻿axe,source XML,couverture_%,cardinalité,remarque,verdict
+Évolution temporelle,"PubDate (année/mois), DateCreated",98.97704590818364,"5 années, 46 mois",Fenêtre courte et en « dents de scie » : exploiter le mois ; préciser le rôle de chaque date,🟢
+Revues,"NlmUniqueID, titre, ISSN, pays",98.95209580838323,"1,070 revues",Clé NlmUniqueID fiable ; pays = pays de l'éditeur ; 54 % des revues n'ont qu'1 article,🟢
+Thématiques MeSH,MeshHeadingList + qualificatifs,65.6437125748503,"3,937 descripteurs","Vocabulaire contrôlé, UI propres ; absence structurelle liée au statut (non indexé)",🟠
+Mots-clés,KeywordList,53.41816367265469,"6,560 mots-clés","Vocabulaire libre, très creux (≈ 80 % d'occurrences uniques) : analyse secondaire",🟠
+Types de publication,PublicationTypeList,98.95209580838323,38 types,Multivalué (N-N) ; « Journal Article » domine,🟢
+Auteurs,"AuthorList (nom, initiales)",98.80239520958084,"14,202 noms","Pas d'identifiant (ORCID < 1 %) : homonymes ; usage = volumétrie & nb d'auteurs/article, pas identification",🟠
+Collaborations / affiliations,AffiliationInfo,96.40718562874252,"9,838 institutions (texte)",Texte libre ; ~54 % des auteurs affiliés ; pays extractible à ~76 % (règles à documenter),🟠
+Langues,Language,98.95209580838323,15 langues,Très déséquilibrée (anglais dominant) : peu discriminante,🟠
+Financements,GrantList,22.704590818363275,47 agences,Couverture faible : axe optionnel,🔴
+Substances chimiques,ChemicalList,46.506986027944116,"2,594 substances",Absence liée à l'indexation MeSH ; complément thématique,🔴
+Citations / références,CommentsCorrections,33.582834331337324,"49,952 liens","Graphe de citations : hors périmètre minimal, très volumineux",🔴

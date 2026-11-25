@@ -1,0 +1,2595 @@
+substance_key,ui_substance,substance,registre,nb_publications
+1,C000541,cyclopamine,ZH658AJ192,1
+2,C000589184,"N2,N4-bis(2-methyl-1H-indol-5-yl)pyrimidine-2,4-diamine",,1
+3,C000589328,5-(4-methoxyphenyl)-2-(3-(3-methoxyphenyl)pyridin-4-yl)oxazole,,1
+4,C000589485,2-fluoro-4-phosphonomethylpentanedioic acid,,1
+5,C000589611,"1,7-bis(4-hydroxyphenyl)-4-N-phenylaminocarbonylhepta-1,6-dien-3,5-dione",,1
+6,C000591470,"2-(1,1-dimethylallyl)-1,4,5,6-tetrahydroxyxanthone",,1
+7,C000591537,"2-(dibenzo(b,d)furan-2-yl)-7-phenyl-1-(3-(piperidin-1-yl)propyl)-1H-imidazo(4,5-g)quinoxalin-6(5H)-one",,1
+8,C000592914,MLS-2384,,1
+9,C000593419,3-(pyrrolidin-3-yloxyimino)-6-methyleneandrostane-17-one,,1
+10,C000593494,"Pry1 protein, S cerevisiae",,1
+11,C000595253,ZapCY2 protein,,1
+12,C000595576,"technetium 99m 1-(1-(2-(bis(carboxymethyl)amino)-2-oxoethyl)-1H-imidazol-2-yl)-2-((1-(2-(bis(carboxymethyl)amino)-2-oxoethyl)-1H-imidazol-2-yl)methyl)-9,14-dioxo-2,8,13,15-tetraazaoctadecane-7,12,16,18-tetracarboxylic acid)",,1
+13,C000595577,"technetium 99m 7-amino-1-(1-(carboxymethyl)-1H-imidazol-2-yl)-2-((1-(carboxymethyl)-1H-imidazol-2-yl)methyl)-8,16-dioxo-2,9,15,17-tetraazaicosane-14,18,20-tricarboxylic acid)",,1
+14,C000595707,"BCL2 protein, human",,1
+15,C000597236,"IGF1R protein, human",,1
+16,C000599465,"ADAR1 protein, mouse",EC 3.5.4.4,1
+17,C000600172,delta4-abiraterone,,1
+18,C000600378,"CYP27B1 protein, human",EC 1.14.-,1
+19,C000601736,CC-223,,1
+20,C000602211,vernodalol,,1
+21,C000603969,3-(2-(1-amantadine)-1-one-ethylamine)digitoxigenin,,1
+22,C000606991,stolonine A,,1
+23,C000606992,stolonine C,,1
+24,C000607065,"MOB3B protein, human",,1
+25,C000847,daunorubicinol,YDU8YIP30L,1
+26,C001277,geldanamycin,Z3K3VJ16KU,2
+27,C001390,2-hydroxyestradiol,AYU2L67YUU,1
+28,C002478,bathocuproine,9THP2V94FX,1
+29,C002669,parthenolide,2RDB26I5ZB,1
+30,C002701,neocuproine,8E7D2SH3BV,1
+31,C002744,3-nitrotyrosine,3604-79-3,2
+32,C003466,thymoquinone,490-91-5,1
+33,C003582,11-hydroxyandrostenedione,564-32-9,2
+34,C004541,biochanin A,U13J6U390T,1
+35,C004742,daidzein,6287WC5J2L,2
+36,C004999,ferulic acid,AVM951ZWST,1
+37,C005134,juglone,W6Q80SK9L6,1
+38,C005466,ursolic acid,P3M2575F3F,1
+39,C006552,kaempferol,731P2LE49E,1
+40,C007650,ethyl acetate,76845O8NMZ,1
+41,C007789,fucoidan,9072-19-9,1
+42,C008157,beta-ionone,A7NRR1HLH6,1
+43,C008757,palmitoleic acid,209B6YPZ4I,1
+44,C008922,piperine,U71XL721QK,1
+45,C009684,withaferin A,L6DO3QW4K5,3
+46,C009687,wortmannin,XVA4O219QW,1
+47,C010013,adriamycinol,HUH05KI4CF,1
+48,C010792,testosterone undecanoate,H16A5VCT9C,1
+49,C010974,glyphosate,4632WW1X5A,1
+50,C011533,Duxon,40704-75-4,1
+51,C011700,carbogen,8063-77-2,1
+52,C011865,5-hydroxymethylcytosine,1123-95-1,1
+53,C011959,oridonin,0APJ98UCLQ,1
+54,C012589,trichostatin A,3X2S926L3Z,1
+55,C013015,hesperetin,Q9Q3D557F1,2
+56,C014036,4-hydroxyestradiol,C3ZO03450E,1
+57,C014289,5-(tetradecyloxy)-2-furancarboxylic acid,54857-86-2,1
+58,C014347,decitabine,776B62CQ27,1
+59,C015001,arsenite,N5509X556J,1
+60,C015329,lycopene,SB0N2N0WV6,7
+61,C015462,polyarginine,25212-18-4,1
+62,C015929,"8-((4-chlorophenyl)thio)cyclic-3',5'-AMP",41941-66-6,1
+63,C016131,testosterone 17 beta-cypionate,M0XW1UBI14,1
+64,C016240,polycaprolactone,24980-41-4,2
+65,C016392,"3,3'-diindolylmethane",SSZ9HQT61Z,2
+66,C016601,afimoxifene,17197F0KYM,1
+67,C016766,sulforafan,4478-93-7,3
+68,C017282,boron nitride,2U4T60A6YD,1
+69,C017338,geranylgeraniol,AIA02AJA3A,2
+70,C017763,alpha-tocopherol transfer protein,,1
+71,C017947,sodium arsenite,48OVY2OC72,1
+72,C019248,pamidronate,OYY3447OMC,2
+73,C019329,deoxyribonuclease II,EC 3.1.22.1,1
+74,C019789,biliverdin reductase,EC 1.3.1.24,1
+75,C020122,estrone sulfotransferase,EC 2.8.2.4,1
+76,C020300,monomethylarsonic acid,J37VJ5709S,1
+77,C020659,glutaminyl-tRNA synthetase,EC 6.1.1.18,1
+78,C021608,Agent Orange,39277-47-9,2
+79,C021730,pinitol,484-68-4,1
+80,C021751,tanshinone,03UUH3J385,1
+81,C022027,lissamine rhodamine B,2609-88-3,1
+82,C022411,polyamine oxidase,EC 1.5.3.-,1
+83,C022467,prostaglandin-E synthase,EC 5.3.99.3,1
+84,C022830,2-methoxyestradiol,6I2QW73SR5,1
+85,C023623,brassinolide,Y9IQ1L53OX,1
+86,C024352,fludarabine,P2K93U8740,2
+87,C024719,4-nitrophenyl,2395-99-5,1
+88,C025946,3-methyladenine,5142-23-4,1
+89,C026423,"3,8-dihydroxy-6H-dibenzo(b,d)pyran-6-one",1143-70-0,1
+90,C026742,plastin,,1
+91,C027519,probasin,,2
+92,C028025,protoporphyrin IX,553-12-8,2
+93,C029899,imidazole,7GBN705NH1,1
+94,C029906,"3,3'-dichlorobiphenyl",62U12S7CJZ,1
+95,C030110,oxaliplatin,04ZR38536J,1
+96,C030278,nipecotic acid,498-95-3,1
+97,C030374,indole,8724FJW4M5,1
+98,C030852,vinorelbine,Q6C979R91Y,1
+99,C030986,pyrimidine,K8CXK5Q32L,1
+100,C031183,stearic acid,4ELV7Z65AP,1
+101,C031956,2-5A-dependent ribonuclease,EC 3.1.26.-,1
+102,C032623,pheophorbide a,15664-29-6,1
+103,C032787,isoalantolactone,470-17-7,1
+104,C032802,hydroxypropyl methacrylate,27813-02-1,1
+105,C032881,lysophosphatidic acid,22002-87-5,2
+106,C034935,Clevudine,IN51MVP5F1,1
+107,C035170,"IGF2 protein, human",,1
+108,C036020,deoxypyridinoline,90032-33-0,1
+109,C037112,9-deoxy-delta-9-prostaglandin D2,60203-57-8,1
+110,C038193,4-hydroxybenzoic acid,JG8Z55Y12H,1
+111,C040015,myricetin,76XC01FTOJ,1
+112,C040048,caffeic acid,U2S3A33KVM,1
+113,C040105,combretastatin,82855-09-2,1
+114,C040601,phenanthridone,1015-89-0,1
+115,C040654,titanium nickelide,12035-60-8,1
+116,C040918,butein,487-52-5,1
+117,C040929,bafilomycin A1,88899-55-2,1
+118,C040972,Permixon,,1
+119,C041525,"3,3',4,5'-tetrahydroxystilbene",4339-71-3,2
+120,C041806,ribosomal protein L32,,1
+121,C041953,cyclodextrin polymer,,1
+122,C042027,RNA I,,1
+123,C042144,"alpha-fetoprotein receptor, human",,1
+124,C042198,nimbolide,25990-37-8,1
+125,C042577,diallyl trisulfide,0ZO1U5A3XX,1
+126,C043076,beta-microseminoprotein,,4
+127,C043435,polylactic acid-polyglycolic acid copolymer,,1
+128,C044256,3 (or 17)-beta-hydroxysteroid dehydrogenase,EC 1.1.1.51,2
+129,C044445,MDL 72527,93565-01-6,1
+130,C045073,Cre recombinase,EC 2.7.7.-,1
+131,C045132,4-carboxyfluorescein,76823-03-5,1
+132,C045651,epigallocatechin gallate,BQM438CTEL,2
+133,C046366,angiogenin,EC 3.1.27.-,3
+134,C046522,ethyl pyruvate,03O98E01OB,1
+135,C047894,Ku autoantigen,,2
+136,C047948,1'-acetoxychavicol acetate,52946-22-2,1
+137,C047981,arginyl-glycyl-aspartic acid,99896-85-2,2
+138,C048690,molecular chaperone GRP78,,3
+139,C049584,"2-amino-1-methyl-6-phenylimidazo(4,5-b)pyridine",909C6UN66T,1
+140,C050361,"CDH2 protein, human",,1
+141,C050414,tripterine,34157-83-0,1
+142,C050823,"gadolinium 1,4,7,10-tetraazacyclododecane-N,N',N'',N'''-tetraacetate",92923-44-9,1
+143,C051122,wedelolactone,524-12-9,1
+144,C051321,"SERPINE1 protein, human",,1
+145,C051773,carbonyl reductase (NADPH),EC 1.1.1.184,1
+146,C051838,"TFF1 protein, human",,1
+147,C052091,antineoplaston A10,91531-30-5,1
+148,C052929,collagen type I trimeric cross-linked peptide,,2
+149,C053153,"phosphatidylinositol-3,4-bisphosphate 4-phosphatase",EC 3.1.3.66,1
+150,C053541,bicalutamide,A0Z3NAU9DP,17
+151,C054597,garcinol,78824-30-3,1
+152,C055122,orlistat,95M8R751W8,1
+153,C055494,caffeic acid phenethyl ester,G960R9S5SK,2
+154,C055645,hepsin,EC 3.4.21.-,2
+155,C056068,theaflavin,1IA46M0D13,1
+156,C056165,acetovanillone,B6J7B9UDTR,2
+157,C056507,gemcitabine,B76N6SBZ8R,3
+158,C057693,troglitazone,I66ZZ0ZN0E,1
+159,C058168,tumor-associated antigen GA733,,2
+160,C058305,phenethyl isothiocyanate,6U7TFK75KV,2
+161,C058728,fosbretabulin,I5590ES2QZ,1
+162,C058949,"1,3,4-thiadiazole",14IAC3GH7G,1
+163,C059000,leinamycin,120500-15-4,1
+164,C059215,"CRYAB protein, human",,1
+165,C059485,matrigel,119978-18-6,2
+166,C059514,resveratrol,Q369O8926L,6
+167,C060229,"1-(6-((3-methoxyestra-1,3,5(10)-trien-17-yl)amino)hexyl)-1H-pyrrole-2,5-dione",112648-68-7,1
+168,C060327,dracorhodin,643-56-1,1
+169,C060506,sphingosine 1-phosphate,26993-30-6,1
+170,C060820,fibulin,,1
+171,C060988,baohuoside I,113558-15-9,1
+172,C063008,mycophenolate mofetil,9242ECW6R0,1
+173,C063057,UDP-N-acetylglucosamine-peptide beta-N-acetylglucosaminyltransferase,EC 2.4.1.-,1
+174,C063843,insulin gene enhancer binding protein Isl-1,,1
+175,C063844,transcription factor UBF,,1
+176,C064206,"ENG protein, human",,1
+177,C065500,"ASCL1 protein, human",,1
+178,C066820,Serrate proteins,134324-36-0,1
+179,C066855,"HGF protein, human",,2
+180,C067134,8-oxo-7-hydrodeoxyguanosine,88847-89-6,3
+181,C067311,docetaxel,15H5577CQD,67
+182,C067431,letrozole,7LKK855W8I,1
+183,C067438,prohibitin,,1
+184,C067980,"CD68 antigen, human",,1
+185,C068106,trans-activation responsive RNA-binding protein,136628-24-5,1
+186,C069077,"BMI1 protein, human",,1
+187,C069329,"RPS6KA1 protein, human",EC 2.7.11.1,1
+188,C069330,"ribosomal protein S6 kinase, 90kDa, polypeptide 3",EC 2.7.11.1,1
+189,C069722,NF-kappaB inhibitor alpha,139874-52-5,2
+190,C070081,fulvestrant,22X328QOC4,1
+191,C070576,"PML protein, human",143220-95-5,1
+192,C070626,sodium-iodide symporter,,1
+193,C070856,"YBX1 protein, human",,1
+194,C071031,axl receptor tyrosine kinase,EC 2.7.10.1,2
+195,C071255,placenta growth factor,144589-93-5,1
+196,C071447,"ERCC1 protein, human",EC 3.1.-,1
+197,C072099,pancreatitis-associated protein,,1
+198,C072312,"ERG protein, human",,22
+199,C072553,benzyloxycarbonylleucyl-leucyl-leucine aldehyde,133407-82-6,1
+200,C073097,CSK tyrosine-protein kinase,EC 2.7.10.2,1
+201,C073751,"SRV2 protein, S cerevisiae",,1
+202,C074075,"TM4SF1 protein, human",147016-68-0,1
+203,C074198,beta-arrestin,,1
+204,C075157,seven in absentia proteins,EC 6.3.2.19,2
+205,C075937,Brachyury protein,,1
+206,C076020,lysophosphatidic acid phosphatase,EC 3.1.3.-,1
+207,C076066,nucleobindin,,2
+208,C076189,"SATB1 protein, human",,1
+209,C076547,noggin protein,148294-77-3,1
+210,C076668,"AOC3 protein, human",EC 1.4.3.21,1
+211,C076861,betaIG-H3 protein,148710-76-3,1
+212,C077020,histone H2A.F-Z,,1
+213,C077591,"S100A4 protein, human",142662-27-9,1
+214,C077623,"Ptgs2 protein, mouse",EC 1.14.99.-,1
+215,C078342,exportin 1 protein,,1
+216,C078433,"FLI1 protein, human",,1
+217,C078874,carboxypeptidase D,EC 3.4.16.6,1
+218,C079087,SR 48692,146362-70-1,1
+219,C079853,"ETV4 protein, human",,1
+220,C080212,PTB-associated splicing factor,,2
+221,C080355,"RING1 protein, human",EC 6.3.2,1
+222,C080500,transforming growth factor-beta type II receptor,EC 2.7.11.30,2
+223,C080625,taxane,1605-68-1,2
+224,C080835,RON protein,EC 2.7.1.-,1
+225,C080866,"cagA protein, Helicobacter pylori",,1
+226,C081294,satraplatin,8D7B37T28G,1
+227,C081350,Checkpoint kinase 1,EC 2.7.11.1,1
+228,C081876,"CKAP4 protein, human",,2
+229,C082354,neurexin IIIalpha,,1
+230,C082495,"TFF3 protein, human",,3
+231,C082700,protein phosphatase 2C,EC 3.1.3.16,2
+232,C082925,retinoic acid receptor beta,,1
+233,C083325,"PAX8 protein, human",,1
+234,C083431,"SOX4 protein, human",,1
+235,C084025,MAP-kinase-activated kinase 2,EC 2.7.1.-,1
+236,C084339,LR(3)IGF-I,,1
+237,C084507,peptide deformylase,EC 3.5.1.88,1
+238,C084533,"CHI3L1 protein, human",,1
+239,C084902,X-ray repair cross complementing protein 1,,1
+240,C085047,"PSME1 protein, human",,1
+241,C085126,"FOXO1 protein, human",,3
+242,C085344,SERPIN-B5,,3
+243,C085444,dishevelled proteins,,1
+244,C085455,"nicotinamide phosphoribosyltransferase, human",EC 2.4.2.12,2
+245,C085746,rottlerin,E29LP3ZMUH,1
+246,C085911,2-(4-morpholinyl)-8-phenyl-4H-1-benzopyran-4-one,154447-36-6,2
+247,C086960,osteoblast cadherin,156621-71-5,3
+248,C086984,"XPC protein, human",156533-34-5,1
+249,C086988,snail family transcription factors,,8
+250,C087861,DNA topoisomerase II alpha,EC 5.99.1.3,1
+251,C088327,JM 3100,155148-31-5,1
+252,C088334,Distal-less homeobox proteins,,1
+253,C088374,"YAP1 (Yes-associated) protein, human",,2
+254,C088375,"PTK6 protein, human",EC 2.7.10.2,1
+255,C088387,prostasin,EC 3.4.21.-,1
+256,C088658,zoledronic acid,6XC1PAD3KF,20
+257,C088893,netrin-1,158651-98-0,1
+258,C088986,rab11 protein,EC 3.6.1.-,1
+259,C089020,brassinin,105748-59-2,2
+260,C089141,laminin gamma 1,,1
+261,C089212,protein kinase D,EC 2.7.10.-,1
+262,C089226,"CA9 protein, human",EC 4.2.1.1,1
+263,C089320,"Mta1 protein, human",EC 3.5.1.-,1
+264,C089453,engrailed 2 protein,,2
+265,C089740,abiraterone,G819A456D0,17
+266,C090121,"BNIP3 protein, human",,1
+267,C090134,polo-like kinase 1,EC 2.7.11.1,2
+268,C090468,"TP53BP2 protein, human",,1
+269,C090698,SP1 antigen,,1
+270,C091137,purple acid phosphatase,EC 3.1.3.-,1
+271,C091280,TGF-beta type I receptor,EC 2.7.1.11,1
+272,C092211,cholesteryl butanoate,50QA4YCP7F,1
+273,C092306,"TRAP1 protein, human",,2
+274,C093479,tartrate-resistant acid phosphatase,EC 3.1.3.-,1
+275,C093642,SB 203580,,1
+276,C093713,ribonucleotide reductase M2,EC 1.17.4.-,1
+277,C094289,"HOXC6 protein, human",,1
+278,C094335,H19 long non-coding RNA,,1
+279,C094443,G-T mismatch-binding protein,,1
+280,C094538,"GLIPR1 protein, human",,1
+281,C094683,"DDX6 protein, human",EC 3.6.1.-,1
+282,C094934,"PMS2 protein, human",EC 3.6.1.-,1
+283,C095221,"SND1 protein, human",,1
+284,C095239,"ETV1 protein, human",,2
+285,C095462,"PRY2 protein, S cerevisiae",,1
+286,C095550,"CASR protein, human",,1
+287,C095637,"RALBP1 protein, human",,1
+288,C096794,C-terminal binding protein,EC 1.1.1.-,1
+289,C096816,BCL2-related protein A1,,1
+290,C097072,"MERTK protein, human",EC 2.7.10.1,1
+291,C097151,Bloom syndrome protein,EC 3.6.1.-,1
+292,C097314,progesterone receptor B,,1
+293,C097353,"AFP protein, human",,1
+294,C097497,integrin-linked kinase,EC 2.7.1.-,1
+295,C097899,homeobox protein HOXA9,,1
+296,C097921,ferumoxtran-10,,1
+297,C098319,"E2F3 protein, human",,1
+298,C098350,verteporfin,129497-78-5,1
+299,C098989,NIMA-interacting peptidylprolyl isomerase,,1
+300,C099476,PicoGreen,,1
+301,C099506,"RBM3 protein, human",,1
+302,C099718,"SQSTM1 protein, human",,1
+303,C100367,p300-CBP-associated factor,EC 2.3.1.48,1
+304,C100379,nuclear matrix protein 22,,1
+305,C101118,progesterone receptor A,,1
+306,C101296,prostate apoptosis response-4 protein,,1
+307,C101315,Capromab Pendetide,145464-28-4,1
+308,C101326,"RBP4 protein, human",,1
+309,C101467,"XRCC4 protein, human",,1
+310,C101719,SB T-1214,,1
+311,C101864,thrombospondin 4,,1
+312,C101954,N-caproylsphingosine,038753E78J,2
+313,C102837,"Nkx3-1 protein, mouse",,3
+314,C103003,"S100P protein, human",,1
+315,C103173,"TWIST1 protein, human",,3
+316,C103298,pinoresinol,V4N1UDY811,1
+317,C104077,metabotropic glutamate receptor type 1,,1
+318,C104450,25-hydroxyvitamin D,64719-49-9,2
+319,C104586,roscovitine,,1
+320,C104830,Gli2 protein,,1
+321,C105529,"ELF3 protein, human",,1
+322,C105545,"DNA fragmentation factor, human",,1
+323,C105713,endothelial PAS domain-containing protein 1,,1
+324,C105992,"PDCD1 protein, human",,3
+325,C106185,engrailed homeobox proteins,,1
+326,C106330,"CXCR6 protein, human",,1
+327,C106529,"PIAS1 protein, human",,1
+328,C106628,"KISS1 protein, human",,1
+329,C106643,"SOCS2 protein, human",,1
+330,C106644,"SOCS3 protein, human",,1
+331,C107116,ABT 491,,1
+332,C107301,tuberous sclerosis complex 1 protein,,1
+333,C107489,"BIRC5 protein, human",,8
+334,C107676,deguelin,K5Z93K66IE,1
+335,C107953,"RAC1 protein, human",,1
+336,C108095,"SDHB protein, human",EC 1.3.5.1,1
+337,C108352,alpha-methylacyl-CoA racemase,EC 5.1.99.4,2
+338,C108665,"USP2 protein, human",EC 3.4.-,1
+339,C109148,"SPINT2 protein, human",,1
+340,C109149,"SPINT1 protein, human",,1
+341,C109378,APECED protein,,1
+342,C109808,superoxide dismutase 1,EC 1.15.1.-,1
+343,C109986,2-aminoethoxydiphenyl borate,,1
+344,C110550,"HDAC1 protein, human",EC 3.5.1.98,2
+345,C110656,"2-(4-iodophenyl)-3-(4-nitrophenyl)-5-(2,4-disulfophenyl)-2H-tetrazolium",,1
+346,C110663,"CXCL13 protein, human",,1
+347,C110809,pregnane X receptor,,1
+348,C110843,"PSCA protein, human",,4
+349,C110882,"MAGEA11 protein, human",,3
+350,C110901,X-ray repair cross complementing protein 3,,1
+351,C111237,vorinostat,58IFB293JI,1
+352,C111382,"NCOA4 protein, human",,1
+353,C111385,AC133 antigen,,3
+354,C111835,"CCL2 protein, human",,4
+355,C112251,"LPXN protein, human",,2
+356,C112303,"SDPR protein, human",,1
+357,C112697,CD44v6 antigen,,1
+358,C112765,tanespimycin,4GY0AVT3L4,1
+359,C112948,lipid phosphate phosphatase,EC 3.1.3.-,1
+360,C113333,"NCF4 protein, human",EC 1.6.3.1,1
+361,C114209,herbal preparation PC-SPES,,1
+362,C114234,"CUL4A protein, human",,1
+363,C114487,"PDCD4 protein, human",,1
+364,C114575,"SGTA protein, human",,2
+365,C115051,"TP63 protein, human",,1
+366,C115163,"CREB1 protein, human",,1
+367,C115572,"ABCD1 protein, human",,1
+368,C115846,dodecyl methacrylate,,1
+369,C115972,17-O-acetyltestosterone,,1
+370,C116093,N-(2-chloro-4-pyridyl)-N'-phenylurea,68157-60-8,1
+371,C116122,"RAPGEF3 protein, human",,1
+372,C116396,"WISP1 protein, human",,1
+373,C116973,"HIF3A protein, human",,1
+374,C117216,glutathione peroxidase GPX1,EC 1.11.1.-,1
+375,C117460,1-amino-3-fluorocyclobutane-1-carboxylic acid,,3
+376,C117740,glutathione S-transferase M1,EC 2.5.1.18,3
+377,C117749,"Birc5 protein, mouse",,1
+378,C118056,"CXCL14 protein, human",,1
+379,C118389,"Spry2 protein, mouse",,1
+380,C118531,pyrazolopyridine,,2
+381,C118688,"KISS1R protein, human",,2
+382,C119651,"SLC12A7 protein, human",,1
+383,C120153,"WASF3 protein, human",,1
+384,C120227,"2-(2-chloro-4-iodophenylamino)-N-cyclopropylmethoxy-3,4-difluorobenzamide",,1
+385,C120771,mitochondrial permeability transition pore,,1
+386,C120801,kallikrein 4,EC 3.4.21.-,1
+387,C121260,DNA (cytosine-5-)-methyltransferase 1,EC 2.1.1.37,2
+388,C122166,"SPON2 protein, human",,1
+389,C287333,diamine N-acetyltransferase,EC 2.3.1.57,1
+390,C400551,"GLI1 protein, human",,2
+391,C400769,"TRPV2 protein, human",,1
+392,C401859,temsirolimus,624KN6GM2T,2
+393,C402202,"PYCARD protein, human",,1
+394,C403191,"TBK1 protein, human",EC 2.7.11.1,1
+395,C403485,tacrolimus binding protein 4,EC 5.2.1.-,1
+396,C403974,"SPDEF protein, human",,1
+397,C404302,"POLK protein, human",EC 2.7.7.7,1
+398,C406031,proto-oncogene proteins pim,EC 2.7.11.1,2
+399,C406149,"HERV-K cORF protein, Human endogenous retrovirus K",,1
+400,C406887,"IFI27 protein, human",,1
+401,C406962,"SLC16A4 protein, human",,1
+402,C408087,"DICER1 protein, human",EC 3.1.26.3,1
+403,C408263,"BTNL2 protein, human",,1
+404,C408877,"PLEKHO1 protein, human",,1
+405,C410167,"AIM2 protein, human",,1
+406,C410602,"TOLLIP protein, human",,1
+407,C410798,"AR protein, human",,53
+408,C410824,"GOLM1 protein, human",,1
+409,C411004,FloSeal Matrix,,1
+410,C411762,"RASSF1 protein, human",,3
+411,C412306,BODIPY-FL prazosin,,1
+412,C412868,"PMEPA1 protein, human",,1
+413,C413163,"MDC1 protein, human",,1
+414,C413545,glutathione S-transferase T1,EC 2.5.1.-,2
+415,C415367,DNA polymerase beta2,EC 2.7.7.-,1
+416,C416084,"PCGEM1 non-coding RNA, human",,1
+417,C416507,fibroblast growth factor 23,,2
+418,C417551,"XAF1 protein, human",,1
+419,C417566,"OR51E2 protein, human",,1
+420,C418702,transglutaminase 4,EC 2.3.2.-,2
+421,C419642,NRH - quinone oxidoreductase2,EC 1.6.99.-,1
+422,C419708,gefitinib,S65743JHBS,1
+423,C420506,"SLC1A5 protein, human",,1
+424,C421223,monocarboxylate transport protein 1,,1
+425,C421305,"TMPRSS2 protein, human",EC 3.4.21.-,8
+426,C421619,"N-(1-(4-nitrophenyl)-1,3-dihydroxyprop-2-yl)tetradecanamide",,1
+427,C422364,inhibin B,,1
+428,C423236,"CD274 protein, human",,1
+429,C423567,"TMEFF2 protein, human",,1
+430,C423727,"CXCL16 protein, human",,1
+431,C425464,"TERE1 protein, human",EC 2.5.1.1.,2
+432,C425468,"Spry1 protein, mouse",,1
+433,C425585,activin receptor type II-A,EC 2.7.11.30,1
+434,C425926,"PRAC protein, human",,3
+435,C427203,calf thymus DNA,91080-16-9,1
+436,C427755,"RAB5C protein, human",EC 3.6.1.-,2
+437,C428439,prostatic acid phosphatase,EC 3.1.3.2,5
+438,C428927,"UDP-glucuronosyltransferase, UGT2B28",EC 2.4.1.-,1
+439,C429007,"PAK6 protein, human",EC 2.7.11.1,1
+440,C429024,"GOLPH3 protein, human",,1
+441,C430503,"GABARAPL1 protein, human",,1
+442,C431364,"KEAP1 protein, human",,1
+443,C431566,acetyl-2-naphthylalanyl-3-chlorophenylalanyl-1-oxohexadecyl-seryl-4-aminophenylalanyl(hydroorotyl)-4-aminophenylalanyl(carbamoyl)-leucyl-ILys-prolyl-alaninamide,,2
+444,C431571,"NOX5 protein, human",EC 1.6.-,1
+445,C431575,"MKL1 protein, human",,1
+446,C431683,superoxide dismutase 2,EC 1.15.1.1,1
+447,C432422,"SEC14L2 protein, human",,1
+448,C432763,"STEAP1 protein, human",EC 1.16.1.-,2
+449,C433763,"Spred1 protein, mouse",,1
+450,C433764,"Spred2 protein, mouse",,1
+451,C433810,"SH3KBP1 protein, human",,1
+452,C433811,"HDAC6 protein, human",EC 3.5.1.98,3
+453,C434003,3-(4-methylphenylsulfonyl)-2-propenenitrile,,1
+454,C434543,"CSRNP1 protein, human",,1
+455,C435729,soluble guanylyl cyclase,EC 4.6.1.2,1
+456,C435941,"INSR protein, human",EC 2.7.10.1,1
+457,C436291,"CDKN1B protein, human",,3
+458,C438206,carbon-11 acetate,,1
+459,C438485,"PELP1 protein, human",,1
+460,C438596,histone deacetylase 3,EC 3.5.1.98,1
+461,C439060,sirtinol,,1
+462,C439070,"GADD45A protein, human",,1
+463,C439524,"TNF protein, human",,1
+464,C439767,hnRNP A1,,1
+465,C440021,"IL17F protein, human",,1
+466,C440975,silybin,4RKY41TBTF,3
+467,C441642,"SOD3 protein, human",EC 1.15.1.1,2
+468,C445179,SWI-SNF-B chromatin-remodeling complex,,1
+469,C447031,tyrphostin AG 1024,,1
+470,C447119,bazedoxifene,Q16TT9C5BK,1
+471,C447479,"NQO1 protein, human",EC 1.6.5.2,2
+472,C447939,"SIRT1 protein, human",EC 3.5.1.-,2
+473,C448280,glycogen synthase kinase 3 beta,EC 2.7.11.1,3
+474,C448322,"CREB3L4 protein, human",,1
+475,C449880,O-GlcNAc transferase,EC 2.4.1.-,1
+476,C451182,FluoZin-3,,1
+477,C454127,"OLFM4 protein, human",,1
+478,C456120,palladium-bacteriopheophorbide,,1
+479,C456540,"CTCFL protein, human",,1
+480,C459179,"4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide",,1
+481,C459801,"MYCN protein, human",,2
+482,C460821,"ARPC1B protein, human",,1
+483,C462033,trispheridine,224-11-3,1
+484,C462952,"DAB2IP protein, human",,1
+485,C463659,"RPTOR protein, human",,1
+486,C464484,pluronic block copolymer P123,,1
+487,C464569,"USP7 protein, human",EC 3.1.2.15,1
+488,C464576,SU 11652,,1
+489,C465283,"WWP2 protein, human",EC 6.3.2.19,1
+490,C465363,vernolide,27428-86-0,1
+491,C465545,"HERV-K10gag protein, K10 retrovirus",,1
+492,C465546,green tea extract AR25,,1
+493,C466996,"IPO7 protein, human",,1
+494,C467480,"vascular endothelial growth factor A, mouse",,1
+495,C467484,"VEGFA protein, human",,6
+496,C467486,"VEGFC protein, human",,1
+497,C467741,"STEAP2 protein, human",EC 1.16.1.-,1
+498,C468406,"PON1 protein, human",EC 3.1.8.1,2
+499,C468783,"H2AFX protein, human",,1
+500,C469720,liver X receptor,,2
+501,C469949,"GNL3 protein, human",,1
+502,C469951,"SLC7A6 protein, human",,1
+503,C470047,aminomethylphosphonic acid,,1
+504,C470372,halichondramide,113275-14-2,1
+505,C470798,"LMTK2 protein, human",EC 2.7.11.1,1
+506,C470830,"GRHL2 protein, human",,1
+507,C470944,"S100a4 protein, mouse",,1
+508,C471106,"1,7-bis(4-hydroxy-3-methoxyphenyl)-1,4,6-heptatrien-3-one",,3
+509,C471405,sorafenib,9ZOQ3TZI87,1
+510,C471617,"UBE2G2 protein, human",EC 6.3.2.19,1
+511,C471642,"WWP1 protein, human",EC 6.3.2.19,1
+512,C471843,6-((3-chloro)anilino)-2-(isopropyl-2-hydroxyethylamino)-9-isopropylpurine,,1
+513,C471982,"Rfwd2 protein, mouse",,1
+514,C472000,"UDP-glucuronosyltransferase 2B15, human",EC 2.4.1.17,2
+515,C472073,"CACNA1D protein, human",,1
+516,C472782,"NR2C2AP protein, human",,1
+517,C473027,GW 3965,,1
+518,C473143,"GRHL3 protein, human",,1
+519,C473478,sunitinib,,4
+520,C473605,"extracellular calcium cation-sensing receptor, rat",,1
+521,C473848,"glutamate carboxypeptidase II, human",EC 3.4.17.21,14
+522,C473930,"SGEF protein, human",,1
+523,C473949,"ASXL1 protein, human",,1
+524,C474033,"FoxO3 protein, mouse",,2
+525,C474199,"SIRT2 protein, human",EC 3.5.1.-,1
+526,C474315,"SEPT9 protein, human",EC 3.6.1.-,2
+527,C474958,"O(2)-(2,4-dinitrophenyl) 1-((4-ethoxycarbonyl)piperazin-1-yl)diazen-1-ium-1,2-diolate",,1
+528,C475418,"ADIPOR1 protein, human",,1
+529,C475491,"MAP1B protein, human",,1
+530,C475575,Cimicifuga extract BNO 1055,,1
+531,C475824,"Vtcn1 protein, mouse",,1
+532,C475961,"gamma-H2AX protein, mouse",,1
+533,C476586,"GADD45GIP1 protein, human",,1
+534,C478081,"1H-pyrazolo(3,4-b)pyridine",,1
+535,C478359,"p44 protein, human",,1
+536,C478680,J591 monoclonal antibody,,3
+537,C478965,"EPB41L4B protein, human",,1
+538,C479341,"prostate cancer antigen 3, human",,14
+539,C479580,procyanidin B2,29106-49-8,1
+540,C479581,procyanidin B3,,1
+541,C480743,"TXNDC5 protein, human",EC 5.3.4.1,1
+542,C482119,"BRAF protein, human",EC 2.7.11.1,2
+543,C482906,"Cxcr6 protein, mouse",,1
+544,C483039,"MTDH protein, human",,1
+545,C483108,"FESTA protein, mouse",,1
+546,C483230,"ING4 protein, human",,1
+547,C484295,"ASXL2 protein, human",,1
+548,C484414,"HOXB13 protein, human",,2
+549,C484456,"SOX7 protein, human",,1
+550,C484730,"PTP4A3 protein, human",EC 3.1.3.48,1
+551,C484751,alpha-tomatine,,1
+552,C484754,"ULK1 protein, human",EC 2.7.11.1,1
+553,C485514,"ZBTB7A protein, human",,1
+554,C485533,"IRX4 protein, human",,1
+555,C485561,"SPRY2 protein, human",,1
+556,C485595,matriptase,EC 3.4.21.-,2
+557,C485596,"ST14 protein, human",EC 3.4.21.109,1
+558,C486038,"Cd276 protein, mouse",,1
+559,C486055,"SPRY1 protein, human",,1
+560,C486071,"WWOX protein, human",EC 1.1.1.-,1
+561,C486223,"Yap protein, mouse",,1
+562,C486307,"ZEB1 protein, human",,1
+563,C486402,"USP12 protein, human",EC 3.1.2.15,1
+564,C486419,"Trp63 protein, mouse",,1
+565,C486563,"BCL11A protein, human",,1
+566,C486583,"TRPM7 protein, human",EC 2.7.11.1,1
+567,C486624,"Steap protein, mouse",,1
+568,C486642,"SPINK1 protein, human",,3
+569,C486780,"NANOG protein, human",,2
+570,C487216,"Pten protein, rat",EC 3.1.3.48,1
+571,C487341,"AKR1C3 protein, human",EC 1.1.1.-,5
+572,C487513,NSC 23766,,1
+573,C487757,"Pten protein, mouse",EC 3.1.3.48,10
+574,C487931,"mirnlet7 microRNA, human",,3
+575,C488244,anibamine,,1
+576,C488765,"PSMD7 protein, human",,1
+577,C489083,"Cdh2 protein, mouse",,1
+578,C489116,"LAMP1 protein, human",,1
+579,C489427,"MYC protein, human",,4
+580,C489548,"NFKB1 protein, human",,2
+581,C489559,"KHDRBS1 protein, human",,1
+582,C489852,"PTPRK protein, human",EC 3.1.3.48,1
+583,C490128,"ID4 protein, human",,1
+584,C490319,"OVOL1 protein, human",,1
+585,C490449,"ATF3 protein, human",,2
+586,C491178,"NKX3-1 protein, human",,4
+587,C491270,"CDX2 protein, human",,2
+588,C491743,"MET protein, human",EC 2.7.10.1,2
+589,C492298,"Acpt protein, rat",EC 3.1.3.2,1
+590,C492367,"BMX protein, human",EC 2.7.1.-,1
+591,C492913,"BRCA1 protein, human",,3
+592,C493686,diacetylcurcumin,5PUQ5907YX,1
+593,C493753,"E2F1 protein, human",,5
+594,C493754,"E2f1 protein, mouse",,1
+595,C493761,"E2F2 protein, human",,1
+596,C493841,"BCAR1 protein, human",,1
+597,C493844,"RBL1 protein, human",,1
+598,C493956,"CDKN1A protein, human",,5
+599,C494079,"STAT1 protein, human",,1
+600,C494086,"STAT3 protein, human",,11
+601,C494092,"STAT5A protein, human",,2
+602,C494095,"STAT5B protein, human",,2
+603,C494173,"POU5F1 protein, human",,1
+604,C494227,"IRF9 protein, human",,1
+605,C494232,"IRF3 protein, human",,1
+606,C494360,"EP300 protein, human",EC 2.3.1.48,2
+607,C494371,"HSPA8 protein, human",,1
+608,C494395,"SARDH protein, human",EC 1.5.8.3,1
+609,C494423,"ASXL3 protein, human",,1
+610,C494424,"KDM4A protein, human",EC 1.5.-,1
+611,C494772,"BAK1 protein, human",,2
+612,C494811,"BCL2L1 protein, human",,2
+613,C494819,"BAD protein, human",,2
+614,C494826,"BAX protein, human",,2
+615,C494828,"Bax protein, rat",,1
+616,C494841,"KCNMA1 protein, human",,1
+617,C494901,16-fluorodihydrotestosterone,,1
+618,C494929,"PTEN protein, human",EC 3.1.3.48,17
+619,C495243,"Clu protein, mouse",,1
+620,C495335,"PKP1 protein, human",,1
+621,C495342,"TLR2 protein, human",,1
+622,C495344,"TLR3 protein, human",,1
+623,C495368,"TLR6 protein, human",,1
+624,C495371,"TLR9 protein, human",,1
+625,C495540,"CAV1 protein, human",,1
+626,C495635,"NFE2L2 protein, human",,4
+627,C495636,"Nfe2l2 protein, mouse",,2
+628,C495771,"WASL protein, human",,1
+629,C495868,"CTTN protein, human",,1
+630,C495894,"CDK2 protein, human",EC 2.7.11.22,1
+631,C495900,"CDK4 protein, human",EC 2.7.11.22,2
+632,C495901,"TP53 protein, human",,6
+633,C495905,"CDK5 protein, human",EC 2.7.11.22,1
+634,C495911,"CDK6 protein, human",EC 2.7.11.22,1
+635,C495948,"GRB2 protein, human",,1
+636,C496050,"PTK2 protein, human",EC 2.7.10.2,3
+637,C496314,"NOS3 protein, human",EC 1.14.13.39,3
+638,C496319,"NOS2 protein, human",EC 1.14.13.39,2
+639,C496453,"FGF7 protein, human",,1
+640,C496460,"Fgf9 protein, mouse",,1
+641,C496463,"FGF10 protein, human",,1
+642,C496499,"FOXA1 protein, human",,1
+643,C496500,"Foxa1 protein, mouse",,1
+644,C496540,"PTGS2 protein, human",EC 1.14.99.1,3
+645,C496556,"GSTP1 protein, human",EC 2.5.1.18,4
+646,C496628,"PRKCA protein, human",EC 2.7.11.13,1
+647,C496634,"PIM1 protein, human",EC 2.7.11.1,1
+648,C496827,salubrinal,,1
+649,C496884,"KCNH1 protein, human",,1
+650,C496932,panobinostat,9647FM7Y3Z,3
+651,C496971,"IL32 protein, human",,1
+652,C497105,"ATF2 protein, human",,1
+653,C497109,"ATF4 protein, human",,1
+654,C497172,"MSH2 protein, human",EC 3.6.1.3,1
+655,C497206,"MDM2 protein, human",EC 6.3.2.19,3
+656,C497249,"DDIT3 protein, human",,1
+657,C497264,"Prkdc protein, mouse",EC 2.7.11.1,1
+658,C497292,"ERCC2 protein, human",EC 5.99.-,1
+659,C497325,"EGR1 protein, human",,3
+660,C497387,"SREBF1 protein, human",,2
+661,C497390,"SREBF2 protein, human",,2
+662,C497396,"ARNT protein, human",,2
+663,C497442,"HIF1A protein, human",,6
+664,C497443,"Hif1a protein, mouse",,1
+665,C497453,"ID1 protein, human",,1
+666,C497483,"CD44 protein, human",,1
+667,C497586,"NR2F2 protein, human",,1
+668,C497688,"CD82 protein, human",,1
+669,C497745,"SRY protein, human",,1
+670,C497761,"NOTCH1 protein, human",,1
+671,C497782,"SMAD2 protein, human",,2
+672,C497790,"SMAD3 protein, human",,3
+673,C497796,"SMAD4 protein, human",,1
+674,C497806,"SMAD7 protein, human",,2
+675,C497835,"PTRF protein, human",,3
+676,C497886,"BSG protein, human",,2
+677,C498001,"NCOA2 protein, human",,2
+678,C498048,"Rhox5 protein, mouse",,1
+679,C498143,"RELA protein, human",,3
+680,C498181,"ANO7 protein, human",,1
+681,C498301,"TP53BP1 protein, human",,1
+682,C498409,"EZH2 protein, human",EC 2.1.1.43,3
+683,C498451,"Snapin protein, mouse",,1
+684,C498797,"SLC38A2 protein, human",,1
+685,C498926,"Cxcl16 protein, mouse",,1
+686,C499134,"Rac1 protein, rat",EC 3.6.1.-,1
+687,C499249,"PIM3 protein, human",EC 2.7.11.1,1
+688,C499308,"Rag2 protein, mouse",,1
+689,C499320,"PARP1 protein, human",EC 2.4.2.30,3
+690,C499321,"Parp1 protein, mouse",EC 2.4.2.30,1
+691,C499379,"EPCAM protein, human",,2
+692,C499380,"TACSTD2 protein, human",,1
+693,C499517,"FOXO3 protein, human",,1
+694,C500026,palbociclib,G9ZF61LE7G,1
+695,C500039,"ARL11 protein, human",EC 3.6.5.2,1
+696,C500513,"UGT2B17 protein, human",EC 2.4.1.17,2
+697,C500712,"GLTSCR2 protein, human",,1
+698,C500760,"SPRED2 protein, human",,1
+699,C501486,"MLH1 protein, human",,1
+700,C501847,"2,2'-dipicolylamine",,1
+701,C501892,"CYP17A1 protein, human",EC 1.14.99.9,1
+702,C501896,"CXCR7 protein, human",,2
+703,C502542,"PHF6 protein, human",,1
+704,C502543,"CRBN protein, human",EC 3.4.-,1
+705,C502625,"COL4A2 protein, human",,1
+706,C503126,"SPARCL1 protein, human",,1
+707,C503688,"CCNE2 protein, human",,1
+708,C503696,WST11 compound,,2
+709,C503745,"CCNA1 protein, human",,1
+710,C503979,"SYNPO2 protein, human",,1
+711,C504018,"OXER1 protein, human",,1
+712,C504076,"Aof2 protein, mouse",EC 1.14.11.-,1
+713,C504234,siltuximab,,2
+714,C504369,"SPOCK1 protein, human",,1
+715,C504573,"CYP1A2 protein, human",EC 1.14.14.1,1
+716,C504812,"SPRED1 protein, human",,1
+717,C505096,"PCA-1 antigen, human",,1
+718,C505405,poly(ethylene imine),,1
+719,C505407,"CASP3 protein, human",EC 3.4.22.-,3
+720,C505410,"Casp3 protein, rat",EC 3.4.22.-,1
+721,C505520,"CASP7 protein, human",EC 3.4.22.-,1
+722,C505528,"Casp8 protein, rat",EC 3.4.22.-,1
+723,C505653,"TNFSF10 protein, human",,1
+724,C505686,"TNFRSF11A protein, human",,2
+725,C505687,"Tnfrsf11a protein, mouse",,1
+726,C505688,"TNFSF11 protein, human",,3
+727,C505689,"Tnfsf11 protein, mouse",,1
+728,C506004,"PLAC8 protein, human",,1
+729,C506034,"Tnfrsf25 protein, mouse",,2
+730,C506367,"TRAF4 protein, human",,1
+731,C506386,"CFLAR protein, human",,2
+732,C506433,"CASP9 protein, human",EC 3.4.22.-,1
+733,C506435,"Casp9 protein, rat",EC 3.4.22.-,1
+734,C506438,"CASP10 protein, human",,1
+735,C506487,"estrogen receptor alpha, human",,3
+736,C506592,"APAF1 protein, human",,1
+737,C506806,"PI3 protein, human",,1
+738,C507086,"MMP14 protein, human",EC 3.4.24.80,1
+739,C507134,ON 01910,,1
+740,C507357,mapatumumab,,1
+741,C507541,"Mical1 protein, mouse",EC 1.-,1
+742,C507773,"IRAK4 protein, human",EC 2.7.11.1,1
+743,C507924,"JAK2 protein, human",EC 2.7.10.2,2
+744,C507926,"Jak2 protein, mouse",EC 2.7.10.2,1
+745,C508032,"Ifnar1 protein, mouse",,1
+746,C508053,"ERBB2 protein, human",EC 2.7.10.1,3
+747,C508317,ipilimumab,,4
+748,C508422,HLA-DRB1*11 antigen,,1
+749,C508584,"IL1A protein, human",,1
+750,C508585,"IL1B protein, human",,1
+751,C508600,"IL6 protein, human",,4
+752,C508603,"IL6R protein, human",,1
+753,C508606,"IL8 protein, human",,1
+754,C508611,"IL11 protein, human",,1
+755,C508717,"IL17A protein, human",,1
+756,C508840,"IL23A protein, human",,1
+757,C508962,"Tgfb1 protein, rat",,1
+758,C509041,"TGFB2 protein, human",,1
+759,C509186,"TERT protein, human",EC 2.7.7.49,3
+760,C509204,PD168393,,1
+761,C509622,"1-phosphatidylinositol 3-kinase p110 subunit, mouse",EC 2.7.1.137,1
+762,C509781,"Dicer1 protein, mouse",EC 3.1.26.3,2
+763,C509845,"PRUNE2 protein, human",,2
+764,C510150,ZSTK474,,2
+765,C510163,"CYP3A4 protein, human",EC 1.14.13.67,1
+766,C510223,"ALDH1A1 protein, human",EC 1.2.1.3,1
+767,C510234,lexatumumab,,1
+768,C510872,cyclo(cysteinyl-glycyl-leucyl-isoleucyl-isoleucyl-glutaminyl-lysyl-asparaginyl-glutamyl-cysteinyl),,1
+769,C511482,"PEBP1 protein, human",,1
+770,C511774,sipuleucel-T,,8
+771,C511921,"MAP1D protein, human",EC 3.4.11.-,1
+772,C512478,"EGFR protein, human",EC 2.7.10.1,4
+773,C512648,"NUDC protein, human",,1
+774,C512715,NSC-87877,,1
+775,C512835,"POSTN protein, human",,2
+776,C513055,"ABCB1 protein, human",,2
+777,C513266,"SMARCB1 protein, human",,1
+778,C513323,"RGN protein, human",,1
+779,C513325,"Rgn protein, rat",,1
+780,C513331,"HSD17B1 protein, human",EC 1.1.1.62,1
+781,C513384,"CDH1 protein, human",,3
+782,C513473,"SET protein, human",,2
+783,C514543,"ARHGAP31 protein, human",,1
+784,C514936,"CXCR4 protein, mouse",,1
+785,C514960,fluorocholine,,5
+786,C515074,ridaforolimus,48Z35KB15K,1
+787,C515255,"CXCL12 protein, human",,2
+788,C515256,"Cxcl12 protein, mouse",,1
+789,C515334,"CCR2 protein, human",,1
+790,C515335,"Ccr2 protein, mouse",,1
+791,C515370,"CCR7 protein, human",,1
+792,C515429,"CCL3 protein, human",,1
+793,C515497,"IGFBP3 protein, human",,2
+794,C515553,"TMPRSS2-ERG fusion protein, human",,11
+795,C515662,DOTA-tyrosyl-lysyl(histaminyl-succinyl-glycyl)-glutamyl-lysyl(histaminyl-succinyl-glycyl)amide,,1
+796,C515851,"ROCK1 protein, human",,1
+797,C515903,"PAK1 protein, human",EC 2.7.11.1,2
+798,C515995,"PLXNA2 protein, human",,1
+799,C516109,tasquinimod,756U07KN1R,2
+800,C516115,"PRDX3 protein, human",EC 1.11.1.15,1
+801,C516124,"TXNRD1 protein, human",EC 1.8.1.9,1
+802,C516287,"PLA2G2A protein, human",EC 3.1.1.4,1
+803,C516370,fluoromethylcholine,,8
+804,C516609,"Ptpn1 protein, mouse",EC 3.1.3.48,1
+805,C516714,NVP-TAE684,,1
+806,C516989,"Birc5 protein, rat",,1
+807,C517009,"CDC25C protein, human",EC 3.1.3.48,2
+808,C517019,"DUSP1 protein, human",EC 3.1.3.48,1
+809,C517054,"MIEN1 protein, human",,1
+810,C517212,"CHKA protein, human",EC 2.7.1.32,1
+811,C517652,"hemoglobin A1c protein, human",,1
+812,C518275,TG4010,,1
+813,C518352,"GRHL1 protein, human",,1
+814,C518729,"FASN protein, human",EC 2.3.1.85,4
+815,C518808,ytterbium(III) triflate,,1
+816,C519312,Zyflamend,,1
+817,C520337,NSC 74859,,1
+818,C520534,2'-hydroxyflavanone,,1
+819,C521522,"T-cell receptor Vgamma9, human",,1
+820,C521523,"T-cell receptor Vdelta2, human",,1
+821,C521930,2-fluoropyridine,,1
+822,C522361,"MMP2 protein, human",EC 3.4.24.24,2
+823,C522425,"MIRN34 microRNA, human",,3
+824,C523234,OSU-A9 agent,,1
+825,C523393,"4-(6-hydroxy-2-naphthyl)-1,3-benzenediol",,1
+826,C523455,CCG 1423,,1
+827,C523798,YM 155,,1
+828,C524042,"3,5-bis(2-fluorobenzylidene)piperidin-4-one",,1
+829,C524632,TAE226,,1
+830,C524940,"MIRN21 microRNA, human",,2
+831,C524941,"MIRN17 microRNA, human",,1
+832,C525709,"MIRN221 microRNA, human",,1
+833,C525710,"MIRN222 microRNA, human",,1
+834,C526165,"USP1 associated factor 1, human",,1
+835,C526180,"PRKAA1 protein, human",EC 2.7.11.1,1
+836,C526202,"Lpcat1 protein, human",EC 2.3.1.23,2
+837,C526292,"IRS1 protein, human",,1
+838,C526297,"IRS2 protein, human",,1
+839,C526693,"ASAH1 protein, human",EC 3.5.1.23,2
+840,C527276,"CXCR4 protein, human",,2
+841,C527782,"SOX2 protein, human",,1
+842,C527932,"SOX9 protein, human",,2
+843,C528024,"SHC1 protein, human",,1
+844,C528837,"TMPRSS4 protein, human",EC 3.4.21.-,1
+845,C528909,"TOP1 protein, human",EC 5.99.1.2,1
+846,C529563,"PGAM5 protein, human",,1
+847,C530104,"CCND1 protein, human",,2
+848,C530106,"Ccnd1 protein, rat",,1
+849,C530494,sagopilone,,1
+850,C530655,AE37 vaccine,,2
+851,C530683,"N-(N-((S)-1,3-Dicarboxypropyl)carbamoyl)-4-(18F)fluorobenzyl-L-cysteine",,1
+852,C531115,"ERG protein, mouse",,2
+853,C531198,dactolisib,RUJ6Z9Y0DT,1
+854,C531388,"MIRN27 microRNA, human",,1
+855,C531550,olaparib,WOH1JD9AR8,1
+856,C532045,"MIRN29 microRNA, human",,3
+857,C532096,"TCF4 protein, human",,1
+858,C532445,"UNC5B protein, human",,1
+859,C533178,aflibercept,15C2VL427D,1
+860,C533423,"HDAC2 protein, human",EC 3.5.1.98,1
+861,C533585,"HSP90alpha protein, human",,1
+862,C533895,"MIRN141 microRNA, human",,3
+863,C534072,"MIRN101 microRNA, human",,2
+864,C534281,"CTSL1 protein, human",EC 3.4.22.15,1
+865,C534401,apogossypolone,,1
+866,C534425,"MIRN205 microRNA, human",,2
+867,C534505,IMPAZA,,1
+868,C534696,"CCND3 protein, human",,1
+869,C535150,"MAPK1 protein, human",EC 2.7.11.24,2
+870,C538809,sodium pentaborate,,1
+871,C538859,"NCOA1 protein, human",EC 2.3.1.48,1
+872,C538866,"NCOA3 protein, human",EC 2.3.1.48,3
+873,C538984,"Mirn182 microRNA, human",,1
+874,C539130,"NCOR2 protein, human",,1
+875,C539821,"NR4A1 protein, human",,1
+876,C539882,"NR4A2 protein, human",,1
+877,C540278,MDV 3100,,31
+878,C540323,CTCE-9908,,1
+879,C540422,"Aim2 protein, mouse",,1
+880,C540523,"Wnt11 protein, human",,1
+881,C540615,retigeric acid B,,1
+882,C540966,"retinoic acid receptor, beta2, human",,1
+883,C541010,"MIRN145 microRNA, human",,3
+884,C541081,"TET2 protein, human",,1
+885,C541116,"ACTA2 protein, human",,1
+886,C541140,"Ska3 protein, human",,1
+887,C541386,"BMP10 protein, human",,1
+888,C541492,"MIRN96 microRNA, human",,1
+889,C542359,"MIRN143 microRNA, human",,1
+890,C542542,"MIRN146 microRNA, human",,2
+891,C542543,"MIRN196 microRNA, human",,1
+892,C542870,onabotulinumtoxinA,,1
+893,C543333,ramucirumab,D99YVK4L0X,1
+894,C543588,"IDH1 protein, human",EC 1.1.1.42.,1
+895,C543800,"MIRN210 microRNA, human",,1
+896,C544261,XAV939,,1
+897,C544427,"N'-(7-fluoroH-pyrrolo(1,2-a)quinoxalin-4-yl)pyrazine-2-carbohydrazide",,1
+898,C544460,"MIRN331 microRNA, human",,1
+899,C544530,"MIRN449 microRNA, human",,1
+900,C544547,"MIRN1 microRNA, human",,1
+901,C544738,quyu jiedu,,1
+902,C544766,"TROP2 protein, mouse",,1
+903,C544894,"TCF7L2 protein, human",,1
+904,C544941,"Ovol2 protein, human",,1
+905,C545202,"MYB-NFIB fusion protein, human",,1
+906,C545502,"RAMP1 protein, human",,1
+907,C545505,"Ramp1 protein, mouse",,1
+908,C545567,"MIRN137 microRNA, human",,1
+909,C545685,niraparib,HMC2H89N35,1
+910,C545764,AMG 479,,1
+911,C546086,"MIRN30 microRNA, human",,1
+912,C546176,"MIRN342 microRNA, human",,1
+913,C546842,"MTOR protein, human",EC 2.7.1.1,16
+914,C546843,"mTOR protein, mouse",EC 2.7.1.1,2
+915,C546891,"TIR8 protein, human",,1
+916,C547185,riccardin D,,1
+917,C548241,"NT5E protein, human",EC 3.1.3.5,1
+918,C548375,"MIRN22 microRNA, human",,1
+919,C548378,R428 compound,,1
+920,C548467,"SRD5A1 protein, human",EC 1.3.99.5,3
+921,C548468,"SRD5A2 protein, human",EC 1.3.99.5,1
+922,C548683,"MIRN499 microRNA, human",,1
+923,C548796,"Cdk1 protein, rat",,1
+924,C548904,"insulin-like growth factor-1, rat",,1
+925,C548912,"MIRN483 microRNA, human",,1
+926,C549040,"WDR20 protein, human",,1
+927,C549232,LLL12 compound,,1
+928,C549500,1-(2-bromophenyl)-3-(7-cyano-3H-benzotriazol-4-yl)urea,,1
+929,C549870,"kallikrein-related peptidase 3, human",EC 3.4.21.-,49
+930,C550570,"MIRN148 microRNA, human",,1
+931,C550856,"MIRN152 microRNA, human",,2
+932,C550906,"MIRN208 microRNA, human",,1
+933,C551027,GANT 61,,1
+934,C551471,EPI 001,,1
+935,C551750,"BRCA2 protein, human",,2
+936,C552428,cabazitaxel,51F690397J,19
+937,C552431,"MIRN185 microRNA, human",,1
+938,C553220,"HMGCR protein, human",EC 1.1.1.-,1
+939,C553294,"1-(4-(4-propionylpiperazin-1-yl)-3-(trifluoromethyl)phenyl)-9-(quinolin-3-yl)benzo(h)(1,6)naphthyridin-2(1H)-one",,1
+940,C554019,"MIRN130 microRNA, human",,1
+941,C554586,"CD63 protein, human",,1
+942,C554869,"CD9 protein, human",,1
+943,C555000,"AMFR protein, human",EC 6.3.2.19,1
+944,C555142,"5-(3-chlorophenylamino)benzo(c)(2,6)naphthyridine-8-carboxylic acid",,2
+945,C555232,technetium 99m HYNIC-bombesin (7-14),,1
+946,C555337,"APC protein, human",,1
+947,C555451,"AXIN1 protein, human",,1
+948,C556501,"MIRN485 microRNA, human",,1
+949,C556911,4-(4-(4-chlorophenyl)-4-hydroxypiperidin-1-yl)-1-(4-fluorophenyl)butyl 4-phenylbutyrate,,1
+950,C557041,"MALAT1 long non-coding RNA, human",,2
+951,C557414,anti-IGF-1R antibody A12,,1
+952,C557898,gamitrinib-G4,,2
+953,C558305,"4-hexadecanoyl-1,1-dimethylpiperazin-1-ium",,1
+954,C558660,cabozantinib,1C39JW444G,2
+955,C560822,"TIMP1 protein, human",,1
+956,C561566,"HOTAIR long untranslated RNA, human",,1
+957,C561567,"GAS5 long non-coding RNA, human",,1
+958,C561695,(+)-JQ1 compound,,1
+959,C569421,PSMA ADC,,1
+960,C569670,"1-(4-((2-(2-aminopyrimidin-5-yl)-7-methyl-4-morpholinothieno(3,2-d)pyrimidin-6-yl)methyl)piperazin-1-yl)-2-hydroxypropan-1-one",,1
+961,C570636,TOK-001,,1
+962,C571806,orteronel,UE5K2FNS92,1
+963,C572045,ARN-509,,2
+964,C572235,"YWHAZ protein, human",,1
+965,C572626,2-(3-(1-carboxy-5-((6-fluoropyridine-3-carbonyl)amino)pentyl)ureido)pentanedioic acid,,1
+966,C573188,"MIRN323 microRNA, human",,1
+967,C573412,"LDLR protein, human",,1
+968,C573420,"ICAM1 protein, human",,1
+969,C573423,"MTHFR protein, human",EC 1.5.1.20,1
+970,C573498,"MIRN376 microRNA, human",,2
+971,C575618,"4-amino-N-(1-(4-chlorophenyl)-3-hydroxypropyl)-1-(7H-pyrrolo(2,3-d)pyrimidin-4-yl)piperidine-4-carboxamide",,2
+972,C576022,MI-192,,1
+973,C576324,"ATM protein, human",EC 2.7.11.1,3
+974,C576553,mechanistic target of rapamycin complex 1,,5
+975,C576597,"ATR protein, human",EC 2.7.11.1,1
+976,C576715,"(3aS,4S,9bS)-N-(2-(8-cyano-1-formyl-2,3,3a,4,5,9b-hexahydro-1H-pyrrolo(3,2-c)quinolin-4-yl)-2-methylpropyl)-4,6-difluorobenzofuran-2-carboxyamide",,1
+977,C576906,"MIRN1228 microRNA, human",,1
+978,C577544,"COMP protein, human",,1
+979,C577903,"IGFBP-2 protein, human",,1
+980,C578439,"1,4,7,10-tetraazacyclododecane-1,4,7,10-tetracetic acid",,1
+981,C578455,"3',4',5'-trimethoxyflavonol",,1
+982,C578634,"CHEK2 protein, human",EC 2.7.11.1,2
+983,C579094,"Mcl1 protein, mouse",,1
+984,C579095,"MCL1 protein, human",,4
+985,C579270,"MMP9 protein, human",EC 3.4.24.35,4
+986,C581106,radium Ra 223 dichloride,,12
+987,C581292,"ERBB3 protein, human",,1
+988,C581941,"arylsulfatase B, human",EC 3.1.6.12.,1
+989,C582907,Glu-NH-CO-NH-Lys-(Ahx)-((68)Ga(HBED-CC)),,1
+990,C583151,Lenidase,,1
+991,C583557,"IGF1 protein, human",,3
+992,C583656,AZD3514,,1
+993,C583749,"galectin-3, human",,2
+994,C584405,"Ecrg4 protein, rat",,1
+995,C584749,2-(3-cyano-6-methoxyquinolin-2-ylthio)-N-(2-methoxy-5-methylphenyl)acetamide,,1
+996,C584933,"CCR5 protein, human",,2
+997,C584935,marchantin M,,1
+998,C584989,OXi8007 compound,,1
+999,C585496,"CYP1B1 protein, human",EC 1.14.14.1,1
+1000,C585549,"CYP24A1 protein, human",EC 1.14.13.126,1
+1001,C585550,"Cyp24a1 protein, mouse",EC 1.14.13.126,1
+1002,C585660,EL102 compound,,1
+1003,C585865,"FAM84B protein, human",,1
+1004,C586022,1-allyl-4-dodecanoyl-1-ethylpiperazin-1-ium,,1
+1005,C586283,"3,4-diphenylfuran-2-one",,1
+1006,C586405,1-(2-(2-methoxyphenylamino)ethylamino)-3-(naphthalene-1-yloxy)propan-2-ol,,1
+1007,C586665,11-hydroxydihydrotestosterone,,1
+1008,C586666,11-ketodihydrotestosterone,,1
+1009,C587054,2-methyl-1-(1-((5-methyl-1H-indol-2-yl)carbonyl)piperidin-4-yl)propan-2-ol,,1
+1010,C587542,"4-(3,5-bis(benzyloxy)phenyl)-6-(5-chloro-2-hydroxyphenyl)-2-oxo-1,2-dihydropyridine-3-carbonitrile",,1
+1011,C587543,"6-(5-chloro-2-hydroxyphenyl)-2-oxo-4-phenyl-1,2-dihydropyridine-3-carbonitrile",,1
+1012,C588223,"MIRN105 microRNA, human",,1
+1013,C588274,PROSTVAC,,2
+1014,C588317,pancrimatine B,,1
+1015,D000001,Calcimycin,37H9VM9WZL,1
+1016,D000040,Abscisic Acid,72S9A8J5GW,1
+1017,D000067856,Poly(ADP-ribose) Polymerase Inhibitors,,3
+1018,D000068196,Albumin-Bound Paclitaxel,,1
+1019,D000068258,Bevacizumab,2S9ZZM9Q9V,4
+1020,D000068338,Everolimus,9HW64Q8G6G,3
+1021,D000068437,Pemetrexed,04Q9AIZ7NO,1
+1022,D000068538,Dutasteride,O0J6XJN02I,7
+1023,D000068579,Celecoxib,JCX84Q7J1L,2
+1024,D000068677,Sildenafil Citrate,BW9B0ZE037,1
+1025,D000068876,Fingolimod Hydrochloride,G926EC510T,1
+1026,D000068877,Imatinib Mesylate,8A1O1M485B,1
+1027,D000069059,Atorvastatin Calcium,48A5M73Z4Q,1
+1028,D000069283,Rituximab,4F4X42SYQ6,1
+1029,D000069286,Bortezomib,69G8BD63PP,2
+1030,D000069347,Erlotinib Hydrochloride,DA87705X9K,1
+1031,D000069439,Dasatinib,RBZ1571X5H,1
+1032,D000069448,Denosumab,4EQZ6YO2HI,13
+1033,D000069470,Venlafaxine Hydrochloride,7D7RX5A8MO,1
+1034,D000069501,Abiraterone Acetate,EM5OCB9YJ6,15
+1035,D000069604,Dabigatran,I0VM4M70GC,1
+1036,D000082,Acetaminophen,362O9ITL9D,1
+1037,D000083,Acetanilides,,1
+1038,D000085,Acetates,,6
+1039,D000098,Acetophenones,,3
+1040,D000103,Acetyl-CoA Carboxylase,EC 6.4.1.2,2
+1041,D000108,Acetylcarnitine,6DH1W9VH8Q,1
+1042,D000123,Acetyltransferases,EC 2.3.1.-,1
+1043,D000135,Acid Phosphatase,EC 3.1.3.2,5
+1044,D000154,Aconitate Hydratase,EC 4.2.1.3,1
+1045,D000185,Actinin,11003-00-2,1
+1046,D000199,Actins,,5
+1047,D000225,Adenine,JAC85A2161,1
+1048,D000242,Cyclic AMP,E0399OZS9N,2
+1049,D000243,Adenosine Deaminase,EC 3.5.4.4,1
+1050,D000251,Adenosine Triphosphatases,EC 3.6.1.-,1
+1051,D000254,Sodium-Potassium-Exchanging ATPase,EC 3.6.3.9,1
+1052,D000255,Adenosine Triphosphate,8L70Q75FXE,2
+1053,D000263,Adenylate Kinase,EC 2.7.4.3,2
+1054,D000276,"Adjuvants, Immunologic",,1
+1055,D000305,Adrenal Cortex Hormones,,2
+1056,D000319,Adrenergic beta-Antagonists,,1
+1057,D000393,Air Pollutants,,1
+1058,D000418,Albumins,,1
+1059,D000427,Alcohol Deterrents,,1
+1060,D000429,Alcohol Oxidoreductases,EC 1.1.-,2
+1061,D000431,Ethanol,3K9958V90M,2
+1062,D000432,Methanol,Y4S76JWI15,1
+1063,D000444,Aldehyde Dehydrogenase,EC 1.2.1.3,3
+1064,D000449,Aldehyde Reductase,EC 1.1.1.21,1
+1065,D000469,Alkaline Phosphatase,EC 3.1.3.1,4
+1066,D000470,Alkaloids,,2
+1067,D000498,Allyl Compounds,,2
+1068,D000509,alpha-Fetoproteins,,2
+1069,D000511,alpha-Macroglobulins,,1
+1070,D000518,Eflornithine,ZQN1G5V6SR,1
+1071,D000527,Alprostadil,F5TD010360,1
+1072,D000547,Amantadine,BF4C9Z1J53,1
+1073,D000577,Amides,,4
+1074,D000581,Amidohydrolases,EC 3.5.-,1
+1075,D000587,Oxidoreductases Acting on CH-NH Group Donors,EC 1.5.-,1
+1076,D000588,Amines,,2
+1077,D000596,Amino Acids,,5
+1078,D000604,Amino Acyl-tRNA Synthetases,EC 6.1.1.-,1
+1079,D000617,Aminoglycosides,,1
+1080,D000622,Aminolevulinic Acid,88755TAZ87,1
+1081,D000626,Aminopeptidases,EC 3.4.11.-,1
+1082,D000634,Aminoquinolines,,1
+1083,D000636,Aminosalicylic Acids,,1
+1084,D000678,Amygdalin,214UUQ9N0H,1
+1085,D000685,Serum Amyloid A Protein,,1
+1086,D000700,Analgesics,,3
+1087,D000701,"Analgesics, Opioid",,2
+1088,D000726,Androgen Antagonists,,129
+1089,D000727,Androgen-Binding Protein,,2
+1090,D000728,Androgens,,82
+1091,D000730,Androstadienes,,10
+1092,D000735,Androstenedione,409J2J96VR,4
+1093,D000736,Androstenes,,21
+1094,D000737,Androstenols,,7
+1095,D000779,"Anesthetics, Local",,3
+1096,D000813,Anilides,,20
+1097,D000814,Aniline Compounds,,1
+1098,D000872,Anthocyanins,,1
+1099,D000880,Anthraquinones,,1
+1100,D000889,Anti-Arrhythmia Agents,,1
+1101,D000893,Anti-Inflammatory Agents,,4
+1102,D000894,"Anti-Inflammatory Agents, Non-Steroidal",,6
+1103,D000900,Anti-Bacterial Agents,,8
+1104,D000903,"Antibiotics, Antineoplastic",,7
+1105,D000906,Antibodies,,6
+1106,D000911,"Antibodies, Monoclonal",,25
+1107,D000912,"Antibodies, Neoplasm",,2
+1108,D000925,Anticoagulants,,3
+1109,D000933,Antifibrinolytic Agents,,1
+1110,D000935,Antifungal Agents,,1
+1111,D000939,Epitopes,,1
+1112,D000942,"Antigens, Bacterial",,1
+1113,D000943,"Antigens, Differentiation",,1
+1114,D000951,"Antigens, Neoplasm",,38
+1115,D000954,"Antigens, Surface",,17
+1116,D000959,Antihypertensive Agents,,2
+1117,D000962,Antimalarials,,1
+1118,D000964,"Antimetabolites, Antineoplastic",,3
+1119,D000970,Antineoplastic Agents,,213
+1120,D000972,"Antineoplastic Agents, Phytogenic",,30
+1121,D000975,Antioxidants,,17
+1122,D000991,Antithrombins,,2
+1123,D000998,Antiviral Agents,,3
+1124,D001057,Apolipoproteins E,,2
+1125,D001086,Arabinofuranosyluracil,3083-77-0,1
+1126,D001092,Arachidonate 12-Lipoxygenase,EC 1.13.11.31,1
+1127,D001094,Arachidonate 5-Lipoxygenase,EC 1.13.11.34,1
+1128,D001141,Aromatase,EC 1.14.14.1,1
+1129,D001151,Arsenic,N712M78A8G,1
+1130,D001152,Arsenicals,,1
+1131,D001189,Aryl Hydrocarbon Hydroxylases,EC 1.14.14.1,1
+1132,D001194,Asbestos,1332-21-4,1
+1133,D001241,Aspirin,R16CO5Y76E,5
+1134,D001323,Autoantibodies,,5
+1135,D001324,Autoantigens,,2
+1136,D001372,Aza Compounds,,1
+1137,D001374,Azacitidine,M801H13NRU,2
+1138,D001378,Azasteroids,,7
+1139,D001381,Azepines,,2
+1140,D001391,Azo Compounds,,1
+1141,D001426,Bacterial Proteins,,1
+1142,D001429,Bacteriochlorophylls,,3
+1143,D001549,Benzamides,,6
+1144,D001557,Benzenesulfonates,,1
+1145,D001559,Benzhydryl Compounds,,1
+1146,D001562,Benzimidazoles,,2
+1147,D001565,Benzoates,,1
+1148,D001567,Benzocycloheptenes,,1
+1149,D001572,Benzofurans,,3
+1150,D001578,Benzopyrans,,2
+1151,D001592,Benzyl Alcohols,,1
+1152,D001596,Benzylamines,,1
+1153,D001597,Benzylidene Compounds,,1
+1154,D001613,beta 2-Microglobulin,,1
+1155,D001616,beta-Galactosidase,EC 3.2.1.23,1
+1156,D001618,beta-Lactamases,EC 3.5.2.6,1
+1157,D001622,Betaine,3SCV180C9W,1
+1158,D001632,Bibenzyls,,2
+1159,D001672,Biocompatible Materials,,1
+1160,D001688,Biological Products,,1
+1161,D001779,Blood Coagulation Factors,,1
+1162,D001786,Blood Glucose,,5
+1163,D001798,Blood Proteins,,3
+1164,D001839,Bombesin,PX9AZU7QPK,7
+1165,D001881,Borates,,1
+1166,D001896,Boron Compounds,,3
+1167,D001897,Boronic Acids,,2
+1168,D001920,Bradykinin,S8TIM42R2W,1
+1169,D001952,Bridged Compounds,,2
+1170,D001973,Bromodeoxyuridine,G34N38R2N1,2
+1171,D002085,Butylhydroxybutylnitrosamine,3817-11-6,1
+1172,D002097,C-Reactive Protein,9007-41-4,4
+1173,D002104,Cadmium,00BH33GNGH,2
+1174,D002109,Caffeic Acids,,3
+1175,D002116,Calcitonin,9007-12-9,2
+1176,D002117,Calcitriol,FXC9231JVH,2
+1177,D002118,Calcium,SY7Q814VUP,12
+1178,D002121,Calcium Channel Blockers,,1
+1179,D002135,Calcium-Binding Proteins,,7
+1180,D002148,Calmodulin-Binding Proteins,,1
+1181,D002166,Camptothecin,XT3Z54Z28A,1
+1182,D002211,Capsaicin,S07O44R1ZM,3
+1183,D002227,Carbazoles,,1
+1184,D002232,Carbocyanines,,1
+1185,D002243,Carbolines,,1
+1186,D002244,Carbon,7440-44-0,5
+1187,D002245,Carbon Dioxide,142M471B3J,1
+1188,D002247,Carbon Isotopes,,2
+1189,D002248,Carbon Monoxide,7U1EE4V452,1
+1190,D002250,Carbon Radioisotopes,,13
+1191,D002256,Carbonic Anhydrases,EC 4.2.1.1,2
+1192,D002264,Carboxylic Acids,,3
+1193,D002268,Carboxypeptidases,EC 3.4.-,1
+1194,D002272,Carcinoembryonic Antigen,,1
+1195,D002273,Carcinogens,,2
+1196,D002274,"Carcinogens, Environmental",,3
+1197,D002316,Cardiotonic Agents,,1
+1198,D002317,Cardiovascular Agents,,1
+1199,D002338,Carotenoids,36-88-4,7
+1200,D002352,Carrier Proteins,,13
+1201,D002364,Caseins,,1
+1202,D002392,Catechin,8R1V1STN48,6
+1203,D002393,"Estrogens, Catechol",,1
+1204,D002401,Cathepsin B,EC 3.4.22.1,1
+1205,D002402,Cathepsin D,EC 3.4.23.5,1
+1206,D002443,Ceftriaxone,75J73V1629,1
+1207,D002482,Cellulose,9004-34-6,1
+1208,D002518,Ceramides,,2
+1209,D002570,Ceruloplasmin,EC 1.16.3.1,1
+1210,D002588,Cesium Radioisotopes,,1
+1211,D002614,Chelating Agents,,3
+1212,D002638,Chewing Gum,,1
+1213,D002699,Chlorambucil,18D0SL7309,1
+1214,D002728,Chlorohydrins,,1
+1215,D002733,Chlorophenols,,1
+1216,D002734,Chlorophyll,1406-65-1,1
+1217,D002738,Chloroquine,886U3H6UFF,2
+1218,D002762,Cholecalciferol,1C6V77QF41,1
+1219,D002784,Cholesterol,97C5T2UQ7J,6
+1220,D002788,Cholesterol Esters,,1
+1221,D002794,Choline,N91BDP6H0X,23
+1222,D002797,Choline Kinase,EC 2.7.1.32,1
+1223,D002800,Cholinesterase Inhibitors,,1
+1224,D002839,Chromans,,1
+1225,D002843,Chromatin,,9
+1226,D002867,Chromones,,2
+1227,D002868,"Chromosomal Proteins, Non-Histone",,1
+1228,D002934,Cinnamates,,2
+1229,D002945,Cisplatin,Q20Q21Q62J,2
+1230,D003029,Coagulants,,1
+1231,D003037,Cobalt Radioisotopes,,3
+1232,D003062,Codon,,1
+1233,D003069,Coffee,,4
+1234,D003078,Colchicine,SML2Y3J35T,1
+1235,D003094,Collagen,9007-34-5,2
+1236,D003287,Contrast Media,,16
+1237,D003300,Copper,789U1901C5,2
+1238,D003301,Copper Radioisotopes,,1
+1239,D003373,Coumaric Acids,,1
+1240,D003374,Coumarins,,2
+1241,D003401,Creatine,MU72812GK0,1
+1242,D003451,Cryoprotective Agents,,1
+1243,D003470,Culture Media,,1
+1244,D003474,Curcumin,IT942ZTH98,13
+1245,D003503,Cyclobutanes,,3
+1246,D003505,Cyclodextrins,,1
+1247,D003506,Cyclofenil,J468V64WZ1,1
+1248,D003511,Cyclohexanols,,1
+1249,D003513,Cycloheximide,98600C0908,1
+1250,D003520,Cyclophosphamide,8N3DW7272P,4
+1251,D003534,Cyproterone,E61Q31EK2F,1
+1252,D003543,Cysteamine,5UX2SD1KE2,1
+1253,D003545,Cysteine,K848JZ4886,2
+1254,D003596,Cytosine,8J337D1HZY,1
+1255,D003598,Cytoskeletal Proteins,,3
+1256,D003630,Daunorubicin,ZS7284E0ZP,1
+1257,D003676,Deferoxamine,J06Y7MXW4D,1
+1258,D003678,"Defoliants, Chemical",,1
+1259,D003687,Dehydroepiandrosterone,459AG36T1B,2
+1260,D003692,Delayed-Action Preparations,,3
+1261,D003841,Deoxycytidine,0W860991D6,3
+1262,D003849,Deoxyguanosine,G9481N71RO,3
+1263,D003894,Deamino Arginine Vasopressin,ENR1LLB0FP,1
+1264,D003907,Dexamethasone,7S5I7G3JQL,2
+1265,D003911,Dextrans,K3R6ZDH4DU,1
+1266,D004002,Clodronic Acid,0813BZ6866,1
+1267,D004008,Diclofenac,144O8QL0L1,1
+1268,D004040,Dietary Carbohydrates,,1
+1269,D004041,Dietary Fats,,3
+1270,D004054,Diethylstilbestrol,731DCA35BT,1
+1271,D004073,Digitoxigenin,143-62-4,1
+1272,D004074,Digitoxin,E90NZP2L9U,1
+1273,D004077,Digoxin,73K4184T59,1
+1274,D004110,Diltiazem,EE92BBP03H,1
+1275,D004121,Dimethyl Sulfoxide,YOW8V9698H,2
+1276,D004122,Dimethylallyltranstransferase,EC 2.5.1.1,2
+1277,D004147,Dioxins,,1
+1278,D004149,Dioxoles,,2
+1279,D004151,Dipeptides,,1
+1280,D004164,Diphosphonates,,26
+1281,D004167,Diphtheria Toxin,,1
+1282,D004221,Disulfiram,TR3MLJ1UAI,2
+1283,D004224,Diterpenes,,2
+1284,D004247,DNA,9007-49-2,15
+1285,D004248,DNA (Cytosine-5-)-Methyltransferase,EC 2.1.1.37,3
+1286,D004250,"DNA Topoisomerases, Type II",EC 5.99.1.3,1
+1287,D004259,DNA-Directed DNA Polymerase,EC 2.7.7.7,1
+1288,D004264,"DNA Topoisomerases, Type I",EC 5.99.1.2,1
+1289,D004268,DNA-Binding Proteins,,30
+1290,D004269,"DNA, Bacterial",,1
+1291,D004272,"DNA, Mitochondrial",,5
+1292,D004273,"DNA, Neoplasm",,8
+1293,D004279,"DNA, Viral",,2
+1294,D004281,Docosahexaenoic Acids,25167-62-8,2
+1295,D004298,Dopamine,VTD58H1Z2X,2
+1296,D004317,Doxorubicin,80168379AG,8
+1297,D004318,Doxycycline,N12000U13O,1
+1298,D004337,Drug Carriers,,8
+1299,D004338,Drug Combinations,,3
+1300,D004364,Pharmaceutical Preparations,,1
+1301,D004365,"Drugs, Chinese Herbal",,6
+1302,D004369,Pentetic Acid,7A314HQM0I,1
+1303,D004396,Coloring Agents,,2
+1304,D004492,Edetic Acid,9G34HU7RV0,1
+1305,D004642,Emodin,KA46RNI6HN,1
+1306,D004706,Endodeoxyribonucleases,EC 3.1.-,1
+1307,D004720,Endonucleases,EC 3.1.-,1
+1308,D004722,Endoribonucleases,EC 3.1.-,1
+1309,D004785,Environmental Pollutants,,3
+1310,D004791,Enzyme Inhibitors,,22
+1311,D004801,Eosine Yellowish-(YS),TDQ283MPCW,1
+1312,D004815,Epidermal Growth Factor,62229-50-9,5
+1313,D004837,Epinephrine,YKH834O4BH,1
+1314,D004921,Erythropoietin,11096-26-7,2
+1315,D004952,Esters,,1
+1316,D004958,Estradiol,4TI98Z838E,7
+1317,D004960,Estradiol Dehydrogenases,EC 1.1.1.62,2
+1318,D004961,Estramustine,35LT29625A,5
+1319,D004963,Estrenes,,1
+1320,D004965,Estrogen Antagonists,,3
+1321,D004967,Estrogens,,6
+1322,D004968,"Estrogens, Non-Steroidal",,1
+1323,D004970,Estrone,2DI9HA706A,1
+1324,D005098,Exotoxins,,1
+1325,D005174,Factor XII,9001-30-3,1
+1326,D005204,Farnesol,4602-84-0,1
+1327,D005227,Fatty Acids,,3
+1328,D005229,"Fatty Acids, Monounsaturated",,2
+1329,D005231,"Fatty Acids, Unsaturated",,1
+1330,D005293,Ferritins,9007-73-2,1
+1331,D005296,Ferrous Compounds,,1
+1332,D005326,Fetal Proteins,,1
+1333,D005337,Fibrin,9001-31-4,1
+1334,D005341,Fibrinolysin,EC 3.4.21.7,1
+1335,D005346,Fibroblast Growth Factors,62031-54-3,4
+1336,D005353,Fibronectins,,2
+1337,D005395,Fish Oils,,1
+1338,D005419,Flavonoids,,6
+1339,D005452,Fluoresceins,,1
+1340,D005456,Fluorescent Dyes,,9
+1341,D005462,Fluorine Radioisotopes,,13
+1342,D005464,Fluorobenzenes,,1
+1343,D005472,Fluorouracil,U3P01618RT,1
+1344,D005485,Flutamide,76W6J0943E,5
+1345,D005492,Folic Acid,935E97BOY8,6
+1346,D005557,Formaldehyde,1HG84L3525,4
+1347,D005576,Colforsin,1F7A44V6OU,1
+1348,D005609,Free Radicals,,2
+1349,D005640,Follicle Stimulating Hormone,9002-68-0,1
+1350,D005641,Tegafur,1548R74NSZ,1
+1351,D005663,Furans,,3
+1352,D005682,Gadolinium,AU0V1LM3JT,2
+1353,D005690,Galactose,X2RN3Q8DNE,1
+1354,D005707,Gallic Acid,632XD903SP,1
+1355,D005708,Gallium,CH46OC8YV4,1
+1356,D005710,Gallium Radioisotopes,,3
+1357,D005740,Gases,,2
+1358,D005780,Gelatin,9000-70-8,1
+1359,D005782,Gels,,5
+1360,D005819,Genetic Markers,,8
+1361,D005839,Gentamicins,,1
+1362,D005938,Glucocorticoids,,3
+1363,D005947,Glucose,IY9XDZ35W2,2
+1364,D005971,Glutamates,,1
+1365,D005973,Glutamine,0RH81L854J,1
+1366,D005977,Glutarates,,1
+1367,D005978,Glutathione,GAN16C9B8O,5
+1368,D005979,Glutathione Peroxidase,EC 1.11.1.9,1
+1369,D005980,Glutathione Reductase,EC 1.8.1.7,1
+1370,D005982,Glutathione Transferase,EC 2.5.1.18,3
+1371,D005992,Glycerol-3-Phosphate O-Acyltransferase,EC 2.3.1.15,1
+1372,D005996,Nitroglycerin,G59M7S0WS3,1
+1373,D005998,Glycine,TE7660XO1C,2
+1374,D006003,Glycogen,9005-79-2,2
+1375,D006017,Glycolipids,,1
+1376,D006020,Glycopeptides,,1
+1377,D006023,Glycoproteins,,8
+1378,D006025,Glycosaminoglycans,,1
+1379,D006046,Gold,7440-57-5,9
+1380,D006072,Gossypol,KAV15B369O,1
+1381,D006108,Graphite,7782-42-5,1
+1382,D006131,Growth Inhibitors,,1
+1383,D006146,Guanidines,,2
+1384,D006147,Guanine,5Z93L87A1R,1
+1385,D006162,Guanylate Cyclase,EC 4.6.1.2,1
+1386,D006220,Haloperidol,J6292F8L3D,1
+1387,D006242,Haptoglobins,,1
+1388,D006360,Heat-Shock Proteins,,3
+1389,D006388,Hemagglutinins,,1
+1390,D006416,Hematoxylin,YKM8PY2Z55,1
+1391,D006418,Heme,42VZT0U6YR,1
+1392,D006442,"Hemoglobin A, Glycosylated",,1
+1393,D006454,Hemoglobins,,1
+1394,D006490,Hemostatics,,2
+1395,D006493,Heparin,9005-49-6,1
+1396,D006495,"Heparin, Low-Molecular-Weight",,1
+1397,D006538,Heptanoic Acids,,1
+1398,D006540,Herbicides,,1
+1399,D006569,Hesperidin,E750O06Y6O,2
+1400,D006571,Heterocyclic Compounds,,2
+1401,D006573,"Heterocyclic Compounds, 1-Ring",,2
+1402,D006575,"Heterocyclic Compounds, 3-Ring",,1
+1403,D006576,Heterocyclic Compounds with 4 or More Rings,,1
+1404,D006593,Hexokinase,EC 2.7.1.1,1
+1405,D006595,Hexosamines,,2
+1406,D006631,Amine Oxidase (Copper-Containing),EC 1.4.3.21,1
+1407,D006639,Histidine,4QD397987E,1
+1408,D006655,Histone Deacetylases,EC 3.5.1.98,6
+1409,D006657,Histones,,16
+1410,D006690,Bisbenzimidazole,LHQ7J5KV9B,1
+1411,D006710,Homocysteine,0LVT1QZ0BA,1
+1412,D006727,Hormone Antagonists,,3
+1413,D006728,Hormones,,6
+1414,D006820,Hyaluronic Acid,9004-61-9,1
+1415,D006834,Hydrazines,,1
+1416,D006862,Hydrogen Sulfide,YY9FVM7NSN,1
+1417,D006877,Hydroxamic Acids,,5
+1418,D006899,Mixed Function Oxygenases,EC 1.-,1
+1419,D006903,Hydroxymethylglutaryl CoA Reductases,EC 1.1.1.-,3
+1420,D006911,Hydroxyprostaglandin Dehydrogenases,EC 1.1.1.-,5
+1421,D006915,Hydroxytestosterones,,1
+1422,D007004,Hypoglycemic Agents,,12
+1423,D007093,Imidazoles,,26
+1424,D007097,Imines,,2
+1425,D007136,Immunoglobulins,,1
+1426,D007140,Immunoglobulin Fab Fragments,,1
+1427,D007141,Immunoglobulin Fc Fragments,,1
+1428,D007166,Immunosuppressive Agents,,4
+1429,D007191,Indazoles,,1
+1430,D007202,Indicators and Reagents,,1
+1431,D007211,Indoles,,22
+1432,D007213,Indomethacin,XXE1CET956,1
+1433,D007265,Inhibins,57285-09-3,1
+1434,D007294,Inositol,4L6452S749,1
+1435,D007328,Insulin,,7
+1436,D007334,Insulin-Like Growth Factor I,67763-96-6,12
+1437,D007335,Insulin-Like Growth Factor II,67763-97-7,5
+1438,D007371,Interferon-gamma,82115-62-6,3
+1439,D007372,Interferons,9008-11-1,1
+1440,D007378,Interleukins,,1
+1441,D007457,Iodine Radioisotopes,,19
+1442,D007477,Ions,,3
+1443,D007496,Iridium Radioisotopes,,1
+1444,D007501,Iron,E1UOL152H7,1
+1445,D007521,Isocitrate Dehydrogenase,EC 1.1.1.41,1
+1446,D007527,Isoenzymes,,3
+1447,D007529,Isoflavones,,4
+1448,D007610,Kallikreins,EC 3.4.21.-,51
+1449,D007633,Keratins,68238-35-7,3
+1450,D007654,Ketoconazole,R9400W927I,2
+1451,D007659,Ketones,,1
+1452,D007701,Kinetin,P39Y9652YJ,1
+1453,D007769,Lactams,,1
+1454,D007783,Lactones,,3
+1455,D007791,Lactoylglutathione Lyase,EC 4.4.1.5,2
+1456,D007797,Laminin,,5
+1457,D007930,Leucine,GMW67QNF9C,1
+1458,D007976,Leupeptins,,1
+1459,D007986,Luteinizing Hormone,9002-67-9,2
+1460,D007987,Gonadotropin-Releasing Hormone,33515-09-2,19
+1461,D008012,Lidocaine,98PI200987,2
+1462,D008024,Ligands,,16
+1463,D008055,Lipids,,4
+1464,D008074,Lipoproteins,,2
+1465,D008076,"Cholesterol, HDL",,3
+1466,D008081,Liposomes,,4
+1467,D008148,Lovastatin,9LHU78OQFD,1
+1468,D008156,Luciferases,EC 1.13.12.-,9
+1469,D008164,Luminescent Proteins,,2
+1470,D008187,Lutetium,5H0DOZ21UJ,1
+1471,D008239,Lysine,K3Z4F929H6,4
+1472,D008243,1-Acylglycerophosphocholine O-Acyltransferase,EC 2.3.1.23,2
+1473,D008244,Lysophosphatidylcholines,,1
+1474,D008246,Lysophospholipids,,3
+1475,D008315,Malondialdehyde,4Y8F71G49Q,1
+1476,D008550,Melatonin,JL5DK93RCL,2
+1477,D008562,Membrane Glycoproteins,,4
+1478,D008565,Membrane Proteins,,19
+1479,D008668,Metallothionein,9038-94-2,1
+1480,D008670,Metals,,2
+1481,D008687,Metformin,9100L32L2N,16
+1482,D008689,Methacrylates,,2
+1483,D008697,Methane,OP0UW79H66,1
+1484,D008698,Mesylates,,1
+1485,D008727,Methotrexate,YL5FZ2Y5U1,2
+1486,D008752,Methylene Chloride,588X2YUY0A,2
+1487,D008770,Methylnitrosourea,684-93-5,2
+1488,D008798,Mevalonic Acid,S5UOB36OCZ,1
+1489,D008823,Micelles,,2
+1490,D008840,Microfilament Proteins,,3
+1491,D008869,Microtubule-Associated Proteins,,6
+1492,D008903,Minerals,,1
+1493,D008942,Mitoxantrone,BZ114NVM5P,5
+1494,D008995,Monoamine Oxidase,EC 1.4.3.4,1
+1495,D008996,Monoamine Oxidase Inhibitors,,1
+1496,D009025,Morpholines,,3
+1497,D009077,Mucins,,1
+1498,D009124,Muscle Proteins,,2
+1499,D009173,Mycophenolic Acid,HU9DX48N0T,1
+1500,D009195,Peroxidase,EC 1.11.1.7,1
+1501,D009218,Myosins,EC 3.6.4.1,1
+1502,D009243,NAD,0U46U6E8UK,2
+1503,D009249,NADP,53-59-8,1
+1504,D009270,Naloxone,36B82AMQ7N,1
+1505,D009281,Naphthalenes,,2
+1506,D009284,Naphthols,,2
+1507,D009285,Naphthoquinones,,2
+1508,D009287,Naphthyridines,,3
+1509,D009292,Narcotic Antagonists,,1
+1510,D009363,Neoplasm Proteins,,53
+1511,D009414,Nerve Growth Factors,,3
+1512,D009418,S100 Proteins,,1
+1513,D009419,Nerve Tissue Proteins,,7
+1514,D009478,Neuropeptide Y,,1
+1515,D009496,Neurotensin,39379-15-2,1
+1516,D009532,Nickel,7OV03QG267,1
+1517,D009536,Niacinamide,25X51I8RD4,1
+1518,D009557,Nipecotic Acids,,1
+1519,D009566,Nitrates,,1
+1520,D009569,Nitric Oxide,31C4KY9ESH,4
+1521,D009570,Nitriles,,19
+1522,D009573,Nitrites,,1
+1523,D009584,Nitrogen,N762921K75,1
+1524,D009596,Nitrophenols,,1
+1525,D009675,Novobiocin,17EC19951N,1
+1526,D009687,Nuclear Proteins,,29
+1527,D009705,Nucleosides,,2
+1528,D009707,Nucleosomes,,1
+1529,D009757,Nylons,,1
+1530,D009841,Oligonucleotides,,1
+1531,D009842,Oligopeptides,,8
+1532,D009844,Oligosaccharides,,1
+1533,D009930,Organic Chemicals,,1
+1534,D009942,Organometallic Compounds,,7
+1535,D009943,Organophosphorus Compounds,,1
+1536,D009944,Organoplatinum Compounds,,3
+1537,D009955,Ornithine Decarboxylase,EC 4.1.1.17,1
+1538,D009962,Orotate Phosphoribosyltransferase,EC 2.4.2.10,1
+1539,D010080,Oxazoles,,1
+1540,D010088,Oxidoreductases,EC 1.-,3
+1541,D010091,Oximes,,1
+1542,D010100,Oxygen,S88TT14065,5
+1543,D010165,Palladium,5TWQ1V240M,1
+1544,D010226,Parabens,,1
+1545,D010293,Pargyline,9MV14S8G3E,1
+1546,D010446,Peptide Fragments,,6
+1547,D010447,Peptide Hydrolases,EC 3.4.-,1
+1548,D010450,Endopeptidases,EC 3.4.-,1
+1549,D010455,Peptides,,19
+1550,D010456,"Peptides, Cyclic",,1
+1551,D010575,Pesticides,,1
+1552,D010616,Phenanthrenes,,1
+1553,D010617,Phenanthridines,,1
+1554,D010618,Phenanthrolines,,1
+1555,D010626,Phenylethyl Alcohol,ML9LGA7468,2
+1556,D010636,Phenols,,2
+1557,D010646,Phentolamine,Z468598HBV,1
+1558,D010647,Phenyl Ethers,,2
+1559,D010654,Phenylbutyrates,,1
+1560,D010669,Phenylthiohydantoin,2010-15-3,31
+1561,D010671,Phenylurea Compounds,,3
+1562,D010710,Phosphates,,1
+1563,D010711,Phosphatidate Phosphatase,EC 3.1.3.4,1
+1564,D010718,Phosphatidylserines,,1
+1565,D010738,Type C Phospholipases,EC 3.1.4.-,1
+1566,D010743,Phospholipids,,1
+1567,D010744,Phosphoric Monoester Hydrolases,EC 3.1.3.-,3
+1568,D010749,Phosphoprotein Phosphatases,EC 3.1.3.16,2
+1569,D010750,Phosphoproteins,,10
+1570,D010751,Phosphopyruvate Hydratase,EC 4.2.1.11,1
+1571,D010755,Organophosphates,,1
+1572,D010767,Phosphorylcholine,107-73-3,1
+1573,D010770,Phosphotransferases,EC 2.7.-,1
+1574,D010793,Phthalazines,,1
+1575,D010840,Phytosterols,,2
+1576,D010848,Picolinic Acids,,1
+1577,D010879,Piperazines,,7
+1578,D010880,Piperidines,,3
+1579,D010881,Piperidones,,3
+1580,D010936,Plant Extracts,,21
+1581,D010938,Plant Oils,,1
+1582,D010972,Platelet Activating Factor,,1
+1583,D010975,Platelet Aggregation Inhibitors,,3
+1584,D010984,Platinum,49DFR088MY,2
+1585,D011060,Poloxalene,9003-11-6,1
+1586,D011065,Poly(ADP-ribose) Polymerases,EC 2.4.2.30,7
+1587,D011070,Poly I-C,24939-03-5,1
+1588,D011071,Poly T,25086-81-1,1
+1589,D011073,Polyamines,,2
+1590,D011078,Polychlorinated Biphenyls,DFC2HB4I0K,2
+1591,D011083,Polycyclic Compounds,,1
+1592,D011091,Polyesters,,3
+1593,D011092,Polyethylene Glycols,30IQX730WE,6
+1594,D011095,Polyethylenes,,1
+1595,D011099,Polyglutamic Acid,25513-46-6,1
+1596,D011100,Polyglycolic Acid,26009-03-0,1
+1597,D011107,Polylysine,25104-18-1,1
+1598,D011108,Polymers,,3
+1599,D011109,Polymethacrylic Acids,,1
+1600,D011122,Polyphosphates,,1
+1601,D011134,Polysaccharides,,3
+1602,D011166,Porphyrins,,2
+1603,D011224,Prazosin,XM03YJ541D,1
+1604,D011239,Prednisolone,9PHQ9Y1OLM,2
+1605,D011241,Prednisone,VB0R961HZT,16
+1606,D011257,Pregnancy Proteins,,1
+1607,D011353,Prodigiosin,OL369FU7CJ,1
+1608,D011355,Prodrugs,,5
+1609,D011372,Progestins,,1
+1610,D011374,Progesterone,4G7DS2Q64Y,1
+1611,D011388,Prolactin,9002-62-4,3
+1612,D011412,Propanolamines,,2
+1613,D011433,Propranolol,9Y8NXQ24VQ,1
+1614,D011453,Prostaglandins,,1
+1615,D011480,Protease Inhibitors,,1
+1616,D011493,Protein Kinase C,EC 2.7.11.13,2
+1617,D011494,Protein Kinases,EC 2.7.-,2
+1618,D011498,Protein Precursors,,1
+1619,D011500,Protein Synthesis Inhibitors,,1
+1620,D011503,Transglutaminases,EC 2.3.2.13,2
+1621,D011505,Protein-Tyrosine Kinases,EC 2.7.10.1,2
+1622,D011506,Proteins,,4
+1623,D011509,Proteoglycans,,3
+1624,D011518,Proto-Oncogene Proteins,,12
+1625,D011522,Protons,,5
+1626,D011524,Protoporphyrins,,2
+1627,D011564,Furocoumarins,,1
+1628,D011685,Purine Nucleotides,,1
+1629,D011687,Purines,,2
+1630,D011700,Putrescine,V10TVZ52E4,1
+1631,D011719,Pyrazines,,3
+1632,D011720,Pyrazoles,,7
+1633,D011724,Pyridazines,,2
+1634,D011725,Pyridines,,15
+1635,D011728,Pyridones,,2
+1636,D011743,Pyrimidines,,10
+1637,D011758,Pyrroles,,8
+1638,D011759,Pyrrolidines,,1
+1639,D011760,Pyrrolidinones,,1
+1640,D011770,Pyruvate Kinase,EC 2.7.1.40,1
+1641,D011773,Pyruvates,,1
+1642,D011794,Quercetin,9IKM0I5T1E,2
+1643,D011799,Quinazolines,,2
+1644,D011804,Quinolines,,7
+1645,D011808,Quinone Reductases,EC 1.6.99.-,1
+1646,D011810,Quinoxalines,,2
+1647,D011837,Radiation-Protective Agents,,2
+1648,D011838,Radiation-Sensitizing Agents,,5
+1649,D011849,Radioactive Tracers,,1
+1650,D011868,Radioisotopes,,19
+1651,D011883,Radium,W90AYD6R3Q,15
+1652,D011944,"Receptors, Androgen",,138
+1653,D011946,"Receptors, Antigen",,1
+1654,D011948,"Receptors, Antigen, T-Cell",,3
+1655,D011956,"Receptors, Cell Surface",,3
+1656,D011958,"Receptor, Epidermal Growth Factor",EC 2.7.10.1,10
+1657,D011960,"Receptors, Estrogen",,2
+1658,D011962,"Receptors, FSH",,1
+1659,D011965,"Receptors, Glucocorticoid",,1
+1660,D011966,"Receptors, LHRH",,3
+1661,D011968,"Receptors, Histamine",,1
+1662,D011972,"Receptor, Insulin",EC 2.7.10.1,2
+1663,D011973,"Receptors, LDL",,1
+1664,D011980,"Receptors, Progesterone",,4
+1665,D011981,"Receptors, Prolactin",,3
+1666,D011987,"Receptors, Steroid",,2
+1667,D011990,"Receptors, Transferrin",,1
+1668,D011991,"Receptors, Virus",,1
+1669,D011993,Recombinant Fusion Proteins,,9
+1670,D011994,Recombinant Proteins,,9
+1671,D012097,Repressor Proteins,,7
+1672,D012118,Resorcinols,,1
+1673,D012194,RNA-Directed DNA Polymerase,EC 2.7.7.49,1
+1674,D012235,Rhodamines,,1
+1675,D012259,"Ribonuclease, Pancreatic",EC 3.1.27.5,3
+1676,D012261,Ribonucleoproteins,,1
+1677,D012262,Ribonucleoside Diphosphate Reductase,EC 1.17.4.1,1
+1678,D012269,Ribosomal Proteins,,2
+1679,D012313,RNA,63231-63-0,4
+1680,D012319,RNA Polymerase II,EC 2.7.7.-,1
+1681,D012322,RNA Precursors,,2
+1682,D012329,"RNA, Bacterial",,1
+1683,D012330,"RNA, Double-Stranded",,1
+1684,D012333,"RNA, Messenger",,61
+1685,D012334,"RNA, Neoplasm",,7
+1686,D012335,"RNA, Ribosomal",,1
+1687,D012336,"RNA, Ribosomal, 16S",,1
+1688,D012343,"RNA, Transfer",9014-25-9,1
+1689,D012367,"RNA, Viral",,1
+1690,D012402,Rotenone,03L9OT429T,1
+1691,D012503,Saponins,,3
+1692,D012521,Sarcosine,Z711V88R5F,5
+1693,D012643,Selenium,H6241UJ22B,9
+1694,D012694,Serine,452VLY9402,4
+1695,D012697,Serine Endopeptidases,EC 3.4.21.-,13
+1696,D012717,Sesquiterpenes,,3
+1697,D012738,Sex Hormone-Binding Globulin,,2
+1698,D012739,Gonadal Steroid Hormones,,4
+1699,D012822,Silicon Dioxide,7631-86-9,1
+1700,D012834,Silver,3M4G523W1G,1
+1701,D012838,Silymarin,,3
+1702,D012964,Sodium,9NEZ333N27,1
+1703,D012965,Sodium Chloride,451W47IQ8X,1
+1704,D012969,Sodium Fluoride,8ZYQ1474W7,1
+1705,D012997,Solvents,,3
+1706,D013002,Somatomedins,,1
+1707,D013006,Growth Hormone,9002-72-6,2
+1708,D013007,Growth Hormone-Releasing Hormone,9034-39-3,1
+1709,D013107,Sphingolipids,,2
+1710,D013108,Sphingomyelin Phosphodiesterase,EC 3.1.4.12,1
+1711,D013109,Sphingomyelins,,1
+1712,D013110,Sphingosine,NGZ37HRE42,1
+1713,D013141,Spiro Compounds,,1
+1714,D013196,Dihydrotestosterone,08J2K08A3Y,16
+1715,D013229,Stearic Acids,,1
+1716,D013250,Steroid Hydroxylases,EC 1.14.-,1
+1717,D013252,Steroid 11-beta-Hydroxylase,EC 1.14.15.4,1
+1718,D013254,Steroid 17-alpha-Hydroxylase,EC 1.14.99.9,11
+1719,D013256,Steroids,,4
+1720,D013260,"Steroids, Heterocyclic",,1
+1721,D013261,Sterols,,1
+1722,D013267,Stilbenes,,8
+1723,D013311,Streptozocin,5W494URQ81,1
+1724,D013326,Strontium Radioisotopes,,1
+1725,D013385,Succinate Dehydrogenase,EC 1.3.99.1,1
+1726,D013395,Sucrose,57-50-1,1
+1727,D013438,Sulfhydryl Compounds,,2
+1728,D013440,Sulfides,,1
+1729,D013449,Sulfonamides,,4
+1730,D013450,Sulfones,,3
+1731,D013482,Superoxide Dismutase,EC 1.15.1.1,4
+1732,D013488,Suppositories,,1
+1733,D013607,Tablets,,1
+1734,D013629,Tamoxifen,094ZI81Y45,2
+1735,D013654,Taurine,1EQV5MLY3D,1
+1736,D013662,Tea,,5
+1737,D013667,Technetium,7440-26-8,1
+1738,D013669,Technetium Tc 99m Medronate,X89XV46R07,2
+1739,D013729,Terpenes,,1
+1740,D013739,Testosterone,3XMK78S47O,51
+1741,D013741,3-Oxo-5-alpha-Steroid 4-Dehydrogenase,EC 1.3.99.5,5
+1742,D013749,Tetrachlorodibenzodioxin,DO80M48B6O,3
+1743,D013752,Tetracycline,F8VB5M810T,1
+1744,D013778,Tetrazolium Salts,,1
+1745,D013792,Thalidomide,4Z8R6ORS6L,1
+1746,D013830,Thiadiazoles,,1
+1747,D013844,Thiazoles,,3
+1748,D013859,Thiocarbamates,,3
+1749,D013867,Thiohydantoins,,2
+1750,D013871,Thiones,,2
+1751,D013873,Thionucleotides,,1
+1752,D013876,Thiophenes,,1
+1753,D013879,Thioredoxins,52500-60-4,1
+1754,D013880,Thioredoxin-Disulfide Reductase,EC 1.8.1.9,1
+1755,D013885,Thiosulfates,,1
+1756,D013890,Thiourea,GYV9AM2QAG,2
+1757,D013917,Thrombin,EC 3.4.21.5,1
+1758,D013932,Thulium,8RKC5ATI4P,1
+1759,D013936,Thymidine,VC2W18DGKR,1
+1760,D013937,Thymidine Kinase,EC 2.7.1.21,2
+1761,D013939,Thymidine Phosphorylase,EC 2.4.2.4,1
+1762,D013940,Thymidylate Synthase,EC 2.1.1.45,1
+1763,D014020,Tissue Extracts,,8
+1764,D014025,Titanium,D1JT611TNE,1
+1765,D014052,Toluidines,,1
+1766,D014053,Tomatine,31U6547O08,1
+1767,D014105,Tosyl Compounds,,17
+1768,D014131,Trace Elements,,1
+1769,D014148,Tranexamic Acid,6T84R30KC1,1
+1770,D014150,Antipsychotic Agents,,1
+1771,D014157,Transcription Factors,,42
+1772,D014212,Tretinoin,5688UTC01R,2
+1773,D014227,Triazines,,2
+1774,D014230,Triazoles,,4
+1775,D014315,Triterpenes,,5
+1776,D014343,Trypan Blue,I2ZWO3LS3M,1
+1777,D014357,Trypsin,EC 3.4.21.4,1
+1778,D014364,Tryptophan,8DUH1N11BX,1
+1779,D014404,Tubulin,,4
+1780,D014408,"Biomarkers, Tumor",,278
+1781,D014409,Tumor Necrosis Factor-alpha,,6
+1782,D014443,Tyrosine,42HK56048U,3
+1783,D014453,Glucuronosyltransferase,EC 2.4.1.17,2
+1784,D014498,Uracil,56HH86ZVCT,1
+1785,D014501,Uranium,4OC371KSTK,1
+1786,D014508,Urea,8W8T17847W,4
+1787,D014568,Urokinase-Type Plasminogen Activator,EC 3.4.21.73,3
+1788,D014614,"Vaccines, Synthetic",,1
+1789,D014665,Vasodilator Agents,,1
+1790,D014704,Veratrum Alkaloids,,1
+1791,D014740,Vidarabine,FA2DM6879K,2
+1792,D014746,Vimentin,,9
+1793,D014747,Vinblastine,5V9KLZ54CY,1
+1794,D014764,Viral Proteins,,1
+1795,D014801,Vitamin A,11103-57-4,1
+1796,D014803,Vitamin B Complex,12001-76-2,1
+1797,D014805,Vitamin B 12,P6YC3EG204,1
+1798,D014807,Vitamin D,1406-16-2,10
+1799,D014810,Vitamin E,1406-18-4,6
+1800,D014812,Vitamin K,12001-79-5,1
+1801,D014815,Vitamins,,3
+1802,D014867,Water,059QF0KO0R,1
+1803,D015032,Zinc,J41CSQ7QDS,5
+1804,D015040,Zirconium,C6V6S92N3C,1
+1805,D015060,"1,2-Dipalmitoylphosphatidylcholine",2644-64-6,1
+1806,D015067,17-Hydroxysteroid Dehydrogenases,EC 1.1.-,2
+1807,D015082,"2,2'-Dipyridyl",551W113ZEP,1
+1808,D015084,"2,4-Dichlorophenoxyacetic Acid",2577AQ9262,4
+1809,D015085,"2,4,5-Trichlorophenoxyacetic Acid",9Q963S4YMX,2
+1810,D015090,25-Hydroxyvitamin D3 1-alpha-Hydroxylase,EC 1.14.-,1
+1811,D015091,beta-Alanine,11P2JDE17B,1
+1812,D015096,3-Hydroxysteroid Dehydrogenases,EC 1.1.-,6
+1813,D015118,Eicosapentaenoic Acid,AAN7QOV9EA,1
+1814,D015119,Aminocaproic Acid,U6F3787206,1
+1815,D015127,"9,10-Dimethyl-1,2-benzanthracene",57-97-6,1
+1816,D015214,"Antigens, Differentiation, Myelomonocytic",,1
+1817,D015220,Calcium Channels,,1
+1818,D015222,Sodium Channels,,1
+1819,D015230,Prostaglandin D2,RXY07S6CZ2,1
+1820,D015232,Dinoprostone,K7Q1JQR04M,3
+1821,D015238,Sulfotransferases,EC 2.8.2.-,1
+1822,D015251,Epirubicin,3Z8479ZZ5X,1
+1823,D015262,Xenobiotics,,1
+1824,D015287,Neurokinin B,86933-75-7,1
+1825,D015295,"Antigens, Tumor-Associated, Carbohydrate",,2
+1826,D015335,Molecular Probes,,1
+1827,D015342,DNA Probes,,1
+1828,D015347,RNA Probes,,1
+1829,D015365,Enoxacin,325OGW249P,1
+1830,D015386,Hazardous Substances,,2
+1831,D015395,Histocompatibility Antigens Class I,,1
+1832,D015415,Biomarkers,,23
+1833,D015507,"Drugs, Investigational",,2
+1834,D015513,Oncogene Proteins,,6
+1835,D015514,"Oncogene Proteins, Fusion",,17
+1836,D015525,"Fatty Acids, Omega-3",,5
+1837,D015534,Trans-Activators,,27
+1838,D015609,Organotechnetium Compounds,,3
+1839,D015675,Osteocalcin,104982-03-8,1
+1840,D015683,"Gene Products, gag",,1
+1841,D015703,"Antigens, CD",,8
+1842,D015704,"Antigens, CD4",,1
+1843,D015720,5'-Nucleotidase,EC 3.1.3.5,2
+1844,D015735,Mifepristone,320T6RNW1F,1
+1845,D015738,Famotidine,5QZO15J2Z8,1
+1846,D015741,Metribolone,2C323EGI97,5
+1847,D015742,Propofol,YI7VU623SF,1
+1848,D015774,Ganciclovir,P9G3CKZ4P5,1
+1849,D015777,Eicosanoids,,1
+1850,D015786,Cytochromes b5,9035-39-6,1
+1851,D015789,HLA-A2 Antigen,,1
+1852,D015815,Cell Adhesion Molecules,,13
+1853,D015820,Cadherins,,21
+1854,D015843,Serpins,,3
+1855,D015847,Interleukin-4,207137-56-2,1
+1856,D015850,Interleukin-6,,14
+1857,D015852,Eukaryotic Initiation Factor-2,,1
+1858,D015956,Factor XIIa,EC 3.4.21.38,1
+1859,D016159,Tumor Suppressor Protein p53,,14
+1860,D016160,Retinoblastoma Protein,,2
+1861,D016166,Free Radical Scavengers,,2
+1862,D016178,Granulocyte-Macrophage Colony-Stimulating Factor,83869-56-1,2
+1863,D016179,Granulocyte Colony-Stimulating Factor,143011-72-7,2
+1864,D016190,Carboplatin,BG3F62OND5,4
+1865,D016203,CDC2 Protein Kinase,EC 2.7.11.22,1
+1866,D016207,Cytokines,,11
+1867,D016209,Interleukin-8,,3
+1868,D016211,Transforming Growth Factor alpha,,1
+1869,D016212,Transforming Growth Factor beta,,9
+1870,D016213,Cyclins,,2
+1871,D016222,Fibroblast Growth Factor 2,103107-01-3,2
+1872,D016227,Benzoquinones,,4
+1873,D016232,Endothelins,,1
+1874,D016271,Proto-Oncogene Proteins c-myc,,13
+1875,D016315,Proto-Oncogene Proteins c-abl,EC 2.7.10.2,1
+1876,D016326,Extracellular Matrix Proteins,,4
+1877,D016328,NF-kappa B,,25
+1878,D016329,Sp1 Transcription Factor,,3
+1879,D016333,HIV Protease,EC 3.4.23.-,1
+1880,D016372,"RNA, Antisense",,1
+1881,D016376,"Oligonucleotides, Antisense",,3
+1882,D016559,Tacrolimus,WM0HAQ4WNM,1
+1883,D016572,Cyclosporine,83HN0GTJ6D,1
+1884,D016588,Anticarcinogenic Agents,,18
+1885,D016593,Terfenadine,7BA5G9Y06Q,1
+1886,D016601,RNA-Binding Proteins,,11
+1887,D016650,Fluorescein-5-isothiocyanate,I223NX31W9,1
+1888,D016660,NAD(P)H Dehydrogenase (Quinone),EC 1.6.5.2,2
+1889,D016692,"Receptors, Antigen, T-Cell, gamma-delta",,2
+1890,D016708,Synaptophysin,,1
+1891,D016729,Leuprolide,EFY6W0M8TG,7
+1892,D016753,Interleukin-10,130068-27-8,1
+1893,D016755,Proto-Oncogene Proteins c-jun,,1
+1894,D016859,Lipoxygenase Inhibitors,,1
+1895,D016861,Cyclooxygenase Inhibitors,,1
+1896,D016877,Oxidants,,2
+1897,D016895,"Culture Media, Serum-Free",,1
+1898,D016898,Interferon-alpha,,1
+1899,D016914,Ribonuclease H,EC 3.1.26.4,1
+1900,D016915,AIDS Vaccines,,1
+1901,D017027,Protein Tyrosine Phosphatases,EC 3.1.3.48,4
+1902,D017077,"Culture Media, Conditioned",,3
+1903,D017228,Hepatocyte Growth Factor,67256-21-7,3
+1904,D017239,Paclitaxel,P88XT4IS4D,10
+1905,D017252,"Antigens, CD3",,1
+1906,D017273,Goserelin,0F65R8P09N,6
+1907,D017292,Doxazosin,NW1291F1W8,1
+1908,D017304,Annexin A5,,1
+1909,D017305,Annexin A1,,2
+1910,D017319,Photosensitizing Agents,,5
+1911,D017325,Hepatitis B Vaccines,,1
+1912,D017346,Protein-Serine-Threonine Kinases,EC 2.7.11.1,16
+1913,D017351,N-Acetylglucosaminyltransferases,EC 2.4.1.-,1
+1914,D017362,Cyclic AMP Response Element-Binding Protein,,1
+1915,D017367,Serotonin Uptake Inhibitors,,1
+1916,D017370,Interleukin-11,,1
+1917,D017382,Reactive Oxygen Species,,31
+1918,D017392,Thiobarbituric Acid Reactive Substances,,1
+1919,D017395,Plasminogen Activator Inhibitor 1,,2
+1920,D017430,Prostate-Specific Antigen,EC 3.4.21.77,382
+1921,D017448,"Receptors, Dopamine D2",,1
+1922,D017450,"Receptors, Opioid, mu",,2
+1923,D017451,"Receptors, Somatomedin",,1
+1924,D017467,"Receptors, Erythropoietin",,1
+1925,D017468,"Receptors, Fibroblast Growth Factor",,1
+1926,D017472,"Receptors, Interleukin-1",,1
+1927,D017475,"Receptors, Nerve Growth Factor",,1
+1928,D017493,"Antigens, CD45",EC 3.1.3.48,1
+1929,D017500,Adenovirus E1A Proteins,,2
+1930,D017526,"Receptor, IGF Type 1",EC 2.7.10.1,12
+1931,D017608,Chromium Compounds,,1
+1932,D017670,Sodium Compounds,,1
+1933,D017705,Lignans,,1
+1934,D017868,Cyclic AMP-Dependent Protein Kinases,EC 2.7.11.11,1
+1935,D017879,Isothiocyanates,,5
+1936,D017892,Osmium Compounds,,1
+1937,D017931,DNA Primers,,7
+1938,D018000,"Receptors, Peptide",,1
+1939,D018003,"Receptors, Calcitonin",,1
+1940,D018004,"Receptors, Bombesin",,5
+1941,D018021,Lithium Chloride,G4962QA067,1
+1942,D018033,"Antibodies, Bispecific",,3
+1943,D018035,"Receptors, Odorant",,1
+1944,D018036,Selenium Compounds,,1
+1945,D018046,Protein C Inhibitor,,1
+1946,D018053,Arsenites,,2
+1947,D018055,"Receptors, Eicosanoid",,1
+1948,D018076,"DNA, Complementary",,1
+1949,D018093,Gelatinases,EC 3.4.24.-,1
+1950,D018094,"Receptors, Metabotropic Glutamate",,2
+1951,D018120,Finasteride,57GNO57U7G,9
+1952,D018121,"Receptors, Cytokine",,1
+1953,D018125,"Receptors, Transforming Growth Factor beta",,6
+1954,D018127,"Antigens, CD27",,1
+1955,D018129,Phosphatidylinositol Phosphates,,1
+1956,D018160,"Receptors, Cytoplasmic and Nuclear",,3
+1957,D018167,"Receptors, Calcitriol",,3
+1958,D018168,"Receptors, Retinoic Acid",,2
+1959,D018336,"Receptors, Aryl Hydrocarbon",,2
+1960,D018377,Neurotransmitter Agents,,1
+1961,D018387,"Codon, Initiator",,1
+1962,D018389,"Codon, Nonsense",,1
+1963,D018394,CA-125 Antigen,,1
+1964,D018395,CA-19-9 Antigen,,1
+1965,D018398,Homeodomain Proteins,,21
+1966,D018435,P-Glycoproteins,,2
+1967,D018501,Antirheumatic Agents,,1
+1968,D018664,Interleukin-12,187348-17-0,3
+1969,D018691,Excitatory Amino Acid Antagonists,,1
+1970,D018698,Glutamic Acid,3KX376GY7L,2
+1971,D018719,"Receptor, ErbB-2",EC 2.7.10.1,3
+1972,D018793,Interleukin-13,,1
+1973,D018797,Cell Cycle Proteins,,10
+1974,D018799,Intercellular Adhesion Molecule-1,126547-89-5,1
+1975,D018808,Transcription Factor AP-1,,3
+1976,D018809,Proliferating Cell Nuclear Antigen,,2
+1977,D018819,Dipeptidyl Peptidase 4,EC 3.4.14.5,1
+1978,D018826,"Antigens, CD13",EC 3.4.11.2,1
+1979,D018836,Inflammation Mediators,,5
+1980,D018840,HSP70 Heat-Shock Proteins,,1
+1981,D018841,HSP90 Heat-Shock Proteins,,8
+1982,D018844,Cyclin-Dependent Kinases,EC 2.7.11.22,2
+1983,D018906,"Antineoplastic Agents, Alkylating",,5
+1984,D018931,"Antineoplastic Agents, Hormonal",,71
+1985,D018932,Chemokine CCL2,,6
+1986,D018942,Macrolides,,2
+1987,D018950,"Antigens, CD14",,1
+1988,D018960,"Antigens, CD44",,6
+1989,D018970,Insulin-Like Growth Factor Binding Protein 1,,1
+1990,D018971,Insulin-Like Growth Factor Binding Protein 2,,1
+1991,D018972,Insulin-Like Growth Factor Binding Protein 3,,2
+1992,D018984,"Epitopes, T-Lymphocyte",,1
+1993,D019009,Proto-Oncogene Proteins c-kit,EC 2.7.10.1,1
+1994,D019012,"Antigens, CD29",,3
+1995,D019013,"Antigens, CD40",,1
+1996,D019061,src-Family Kinases,EC 2.7.10.2,8
+1997,D019086,"Bicyclo Compounds, Heterocyclic",,1
+1998,D019089,Stem Cell Factor,,1
+1999,D019098,Telomerase,EC 2.7.7.49,5
+2000,D019151,Peptide Library,,4
+2001,D019161,Hydroxymethylglutaryl-CoA Reductase Inhibitors,,7
+2002,D019204,GTP-Binding Proteins,EC 3.6.1.-,1
+2003,D019207,beta Carotene,01YAE03M7J,1
+2004,D019216,"Metals, Heavy",,1
+2005,D019253,Proto-Oncogene Proteins c-bcl-2,,13
+2006,D019255,NADPH Oxidase,EC 1.6.3.1,5
+2007,D019274,"Botulinum Toxins, Type A",EC 3.4.24.69,1
+2008,D019275,Radiopharmaceuticals,,36
+2009,D019278,Matrix Metalloproteinase 3,EC 3.4.24.17,1
+2010,D019284,Thapsigargin,67526-95-8,1
+2011,D019289,Pyruvic Acid,8558G7RUTR,3
+2012,D019301,Oleic Acid,2UMI9U37CP,1
+2013,D019313,BRCA1 Protein,,3
+2014,D019319,Okadaic Acid,1W21G5Q4N2,1
+2015,D019342,Acetic Acid,Q40Q9N063P,1
+2016,D019344,Lactic Acid,33X04XA5AT,3
+2017,D019363,Cytochrome P-450 CYP1A1,EC 1.14.14.1,1
+2018,D019382,Human Growth Hormone,12629-01-5,2
+2019,D019388,Cytochrome P-450 CYP1A2,EC 1.14.14.1,1
+2020,D019390,Arrestins,,1
+2021,D019394,Ki-67 Antigen,,13
+2022,D019405,Cytochrome P-450 CYP11B2,EC 1.14.15.4,1
+2023,D019408,"Antigens, CD31",,2
+2024,D019410,Interleukin-16,,1
+2025,D019426,Integrases,EC 2.7.7.-,1
+2026,D019444,"Vaccines, DNA",,2
+2027,D019485,Bone Morphogenetic Proteins,,3
+2028,D019496,Cancer Vaccines,,23
+2029,D019696,Peptidylprolyl Isomerase,EC 5.2.1.8,2
+2030,D019699,Thrombospondins,,1
+2031,D019704,Protein Disulfide-Isomerases,EC 5.3.4.1,1
+2032,D019707,"Receptors, Chemokine",,1
+2033,D019713,"Receptors, CCR5",,2
+2034,D019715,Tissue Inhibitor of Metalloproteinase-1,,1
+2035,D019717,Tissue Inhibitor of Metalloproteinase-3,,1
+2036,D019718,"Receptors, CXCR4",,7
+2037,D019743,"Chemokines, CXC",,2
+2038,D019746,Intramolecular Oxidoreductases,EC 5.3.-,1
+2039,D019772,Topotecan,7M7YKX2N15,1
+2040,D019788,Fluorodeoxyglucose F18,0Z5B2CJX4D,10
+2041,D019821,Simvastatin,AGG2FN16EV,1
+2042,D019833,Genistein,DH2M523P0H,7
+2043,D019859,Proto-Oncogene Proteins c-met,EC 2.7.10.1,4
+2044,D019869,Phosphatidylinositol 3-Kinases,EC 2.7.1.-,30
+2045,D019892,eIF-2 Kinase,EC 2.7.11.1,2
+2046,D019893,Ribosomal Protein S6 Kinases,EC 2.7.11.1,3
+2047,D019908,Proto-Oncogene Proteins c-raf,EC 2.7.11.1,1
+2048,D019913,Nuclear Localization Signals,,1
+2049,D019925,Cyclin A,,2
+2050,D019926,Cyclin B,,1
+2051,D019938,Cyclin D1,136601-57-5,4
+2052,D019941,Cyclin-Dependent Kinase Inhibitor p16,,1
+2053,D019947,"Receptors, Interleukin-6",,2
+2054,D019950,Mitogen-Activated Protein Kinase 1,EC 2.7.11.24,7
+2055,D019951,DNA Polymerase beta,EC 2.7.7.-,1
+2056,D019998,Racemases and Epimerases,EC 5.1.-,3
+2057,D020030,Nitric Oxide Donors,,1
+2058,D020032,Tyrphostins,,1
+2059,D020033,Protein Isoforms,,17
+2060,D020051,N-Acetylgalactosamine-4-Sulfatase,EC 3.1.6.12,1
+2061,D020100,Hydrogels,,1
+2062,D020121,5' Untranslated Regions,,2
+2063,D020123,Sirolimus,W36ZG6FT64,8
+2064,D020136,Hydrogel,25852-47-5,4
+2065,D020148,Butyric Acid,107-92-6,1
+2066,D020156,Salicylic Acid,O414PZ4LPZ,1
+2067,D020168,P-Glycoprotein,,2
+2068,D020169,Caspases,EC 3.4.22.-,7
+2069,D020381,Interleukin-17,,3
+2070,D020382,Interleukin-18,,1
+2071,D020413,3' Untranslated Regions,,11
+2072,D020533,Angiogenesis Inhibitors,,9
+2073,D020536,Enzyme Activators,,2
+2074,D020537,"RNA, Small Nucleolar",,1
+2075,D020543,Proteome,,11
+2076,D020662,Guanine Nucleotide Exchange Factors,,2
+2077,D020664,Son of Sevenless Proteins,,1
+2078,D020672,I-kappa B Proteins,,2
+2079,D020687,cdc25 Phosphatases,EC 3.1.3.48,2
+2080,D020690,GTPase-Activating Proteins,,2
+2081,D020691,rab GTP-Binding Proteins,EC 3.6.1.-,1
+2082,D020696,rab5 GTP-Binding Proteins,EC 3.6.5.2,2
+2083,D020703,ras GTPase-Activating Proteins,,1
+2084,D020710,RGS Proteins,,1
+2085,D020727,ADP-Ribosylation Factors,EC 3.6.5.2,1
+2086,D020738,Leptin,,2
+2087,D020741,rho GTP-Binding Proteins,EC 3.6.5.2,1
+2088,D020742,rhoA GTP-Binding Protein,EC 3.6.5.2,2
+2089,D020743,rhoB GTP-Binding Protein,EC 3.6.5.2,2
+2090,D020744,rac GTP-Binding Proteins,EC 3.6.5.2,1
+2091,D020746,"Calcium Channels, L-Type",,1
+2092,D020764,cdc42 GTP-Binding Protein,EC 3.6.5.2,1
+2093,D020778,Matrix Metalloproteinase 2,EC 3.4.24.24,7
+2094,D020780,Matrix Metalloproteinase 9,EC 3.4.24.35,12
+2095,D020781,Matrix Metalloproteinase 1,EC 3.4.24.7,3
+2096,D020782,Matrix Metalloproteinases,EC 3.4.24.-,5
+2097,D020794,Receptor Protein-Tyrosine Kinases,EC 2.7.10.1,6
+2098,D020800,"Receptor, Nerve Growth Factor",,1
+2099,D020825,T-Box Domain Proteins,,1
+2100,D020827,rap1 GTP-Binding Proteins,EC 3.6.5.2,1
+2101,D020830,rac1 GTP-Binding Protein,EC 3.6.5.2,2
+2102,D020840,Tissue Kallikreins,EC 3.4.21.35,2
+2103,D020845,Selective Estrogen Receptor Modulators,,1
+2104,D020847,Estrogen Receptor Modulators,,1
+2105,D020893,"Receptor, ErbB-3",EC 2.7.10.1,1
+2106,D020929,Mitogen-Activated Protein Kinase Kinases,EC 2.7.12.2,2
+2107,D020930,MAP Kinase Kinase Kinases,EC 2.7.11.25,1
+2108,D020932,Nerve Growth Factor,9061-61-4,1
+2109,D020962,Heterotrimeric GTP-Binding Proteins,EC 3.6.5.1,1
+2110,D021382,Protein Sorting Signals,,1
+2111,D021901,"DNA, Intergenic",,2
+2112,D022021,Tacrolimus Binding Proteins,EC 5.2.1.-,1
+2113,D022223,"Vaccines, Subunit",,1
+2114,D022661,"RNA, Untranslated",,2
+2115,D022821,RNA Splice Sites,,1
+2116,D023063,"Receptors, Interleukin-8B",,1
+2117,D024042,Collagen Type I,,4
+2118,D024101,Mitochondrial Proteins,,3
+2119,D024141,Collagen Type IV,,1
+2120,D024502,alpha-Tocopherol,H4N855PNZ1,3
+2121,D024504,gamma-Tocopherol,8EF1Z1238F,1
+2122,D024505,Tocopherols,1406-66-2,2
+2123,D024682,BRCA2 Protein,,2
+2124,D024841,Fluoroquinolones,,2
+2125,D025262,Vacuolar Proton-Translocating ATPases,EC 3.6.1.-,1
+2126,D025521,Tumor Suppressor Proteins,,23
+2127,D025581,Neurofibromin 2,,1
+2128,D025601,Adenomatous Polyposis Coli Protein,,1
+2129,D025741,HMGA1a Protein,124544-67-8,1
+2130,D025801,Ubiquitin,,1
+2131,D025803,Tumor Suppressor Protein p14ARF,,2
+2132,D025841,Small Ubiquitin-Related Modifier Proteins,,1
+2133,D026362,Serum Response Factor,,1
+2134,D026403,S-Nitrosothiols,,1
+2135,D026923,"Amino Acid Transport Systems, Basic",,1
+2136,D026924,Amino Acid Transport System A,,1
+2137,D026962,Amino Acid Transport System ASC,,1
+2138,D027283,Large Neutral Amino Acid-Transporter 1,,1
+2139,D027361,Organic Anion Transporters,,1
+2140,D027501,Monocarboxylic Acid Transporters,,1
+2141,D027702,Organic Cation Transporter 1,,1
+2142,D027981,Symporters,,3
+2143,D028321,Plant Preparations,,3
+2144,D028341,Activins,104625-48-1,1
+2145,D028581,Lanthanoid Series Elements,,1
+2146,D028884,Karyopherins,,2
+2147,D028901,alpha Karyopherins,,1
+2148,D029584,Prostatic Secretory Proteins,,4
+2149,D029701,Saccharomyces cerevisiae Proteins,,1
+2150,D030262,Soybean Proteins,,3
+2151,D030301,"Activin Receptors, Type II",EC 2.7.11.30,1
+2152,D033681,Mitochondrial Membrane Transport Proteins,,1
+2153,D033705,Equilibrative Nucleoside Transport Proteins,,1
+2154,D033921,Vesicular Transport Proteins,,1
+2155,D033962,Adaptor Protein Complex 2,,1
+2156,D034261,Epothilones,,2
+2157,D034281,Dynamins,EC 3.6.5.5,1
+2158,D034444,Peptoids,,1
+2159,D034481,Heterogeneous-Nuclear Ribonucleoprotein Group A-B,,1
+2160,D034741,"RNA, Small Interfering",,60
+2161,D034802,RNA-Binding Protein EWS,,1
+2162,D034961,"Antigens, Nuclear",,2
+2163,D035463,Pol1 Transcription Initiation Complex Proteins,,1
+2164,D035683,MicroRNAs,,72
+2165,D036082,"Receptor, EphA1",EC 2.7.10.1,1
+2166,D036104,"Receptor, EphA2",EC 2.7.10.1,2
+2167,D036341,Intercellular Signaling Peptides and Proteins,,2
+2168,D036701,Limonins,,1
+2169,D036961,Matrix Attachment Region Binding Proteins,,1
+2170,D037102,Lectins,,1
+2171,D037181,"Lectins, C-Type",,1
+2172,D037502,Galectin 3,,2
+2173,D037742,"Nanotubes, Carbon",,2
+2174,D038203,alpha-Crystallin B Chain,,1
+2175,D038362,Glycogen Synthase Kinase 3,EC 2.7.11.26,3
+2176,D038744,"Ribosomal Protein S6 Kinases, 90-kDa",EC 2.7.11.1,2
+2177,D039081,Integrin alpha5beta1,,2
+2178,D039121,Integrin alpha6beta1,,1
+2179,D039122,Poly(A)-Binding Protein I,,1
+2180,D039302,Integrin alphaVbeta3,,3
+2181,D039421,Integrin alpha2,,1
+2182,D039481,"Antigens, CD11b",,1
+2183,D039503,Integrin alpha6,,3
+2184,D039563,"Histamine H1 Antagonists, Non-Sedating",,1
+2185,D039621,Eukaryotic Initiation Factor-3,,1
+2186,D039663,Integrin beta4,,1
+2187,D039942,Neuropilin-1,144713-63-3,2
+2188,D040262,"Receptors, Vascular Endothelial Growth Factor",EC 2.7.10.1,1
+2189,D040281,Vascular Endothelial Growth Factor Receptor-1,EC 2.7.10.1,2
+2190,D040301,Vascular Endothelial Growth Factor Receptor-2,EC 2.7.10.1,2
+2191,D040321,Vascular Endothelial Growth Factor Receptor-3,EC 2.7.10.1,1
+2192,D040501,Calgranulin A,,1
+2193,D040502,Calgranulin B,,1
+2194,D042461,Vascular Endothelial Growth Factor A,,18
+2195,D042582,Vascular Endothelial Growth Factor C,,1
+2196,D042643,Vascular Endothelial Growth Factor D,,1
+2197,D042943,Dihydrouracil Dehydrogenase (NADP),EC 1.3.1.2,1
+2198,D042944,Cholestenone 5 alpha-Reductase,EC 1.3.1.22,2
+2199,D042965,Methylenetetrahydrofolate Reductase (NADPH2),EC 1.5.1.20,1
+2200,D043205,11-beta-Hydroxysteroid Dehydrogenase Type 1,EC 1.1.1.146,1
+2201,D043222,Ubiquitin Thiolesterase,EC 3.1.2.15,2
+2202,D043244,Ribonuclease III,EC 3.1.26.3,3
+2203,D043266,Steryl-Sulfatase,EC 3.1.6.2,1
+2204,D043303,Aryldialkylphosphatase,EC 3.1.8.1,2
+2205,D043371,"Fatty Acids, Omega-6",,2
+2206,D043425,Glutamate Carboxypeptidase II,EC 3.4.17.21,14
+2207,D043562,"Receptors, G-Protein-Coupled",,2
+2208,D043705,"Receptor, Adenosine A2A",,1
+2209,D043823,Taxoids,,80
+2210,D043882,"Receptors, Cannabinoid",,1
+2211,D043925,Angiogenesis Inducing Agents,,2
+2212,D044004,Xanthones,,1
+2213,D044162,Parathyroid Hormone-Related Protein,,1
+2214,D044169,"Receptors, Calcium-Sensing",,2
+2215,D044243,"Linoleic Acids, Conjugated",,1
+2216,D044385,GTP-Binding Protein alpha Subunits,,1
+2217,D044482,Benzeneacetamides,,1
+2218,D044763,Ubiquitin-Conjugating Enzymes,EC 6.3.2.19,1
+2219,D044767,Ubiquitin-Protein Ligases,EC 6.3.2.19,6
+2220,D044842,Cullin Proteins,,1
+2221,D044925,Oxidoreductases Acting on CH-CH Group Donors,EC 1.3.-,1
+2222,D044945,Proanthocyanidins,,1
+2223,D044946,Biflavonoids,,2
+2224,D044948,Flavonols,,1
+2225,D044949,Kaempferols,,1
+2226,D044950,Flavanones,,1
+2227,D045162,Thiazolidinediones,,1
+2228,D045165,Testosterone Congeners,,3
+2229,D045304,Cytochromes c,9007-43-6,2
+2230,D045643,DNA Repair Enzymes,EC 6.5.1.-,1
+2231,D045784,"Diterpenes, Abietane",,1
+2232,D045786,"Diterpenes, Kaurane",,1
+2233,D045792,Norisoprenoids,,1
+2234,D046912,Multiprotein Complexes,,6
+2235,D046988,Proteasome Endopeptidase Complex,EC 3.4.25.1,9
+2236,D047029,"Lactams, Macrocyclic",,5
+2237,D047072,Aromatase Inhibitors,,1
+2238,D047188,Chalcones,,1
+2239,D047310,Apigenin,7V515PI7F6,2
+2240,D047390,Casein Kinase II,EC 2.7.11.1,5
+2241,D047428,Protein Kinase Inhibitors,,25
+2242,D047495,PPAR gamma,,3
+2243,D047628,Estrogen Receptor alpha,,7
+2244,D047629,Estrogen Receptor beta,,9
+2245,D047889,"Receptors, Tumor Necrosis Factor, Type II",,1
+2246,D047908,Intracellular Signaling Peptides and Proteins,,10
+2247,D048029,TNF Receptor-Associated Factor 6,,1
+2248,D048031,JNK Mitogen-Activated Protein Kinases,EC 2.7.11.24,4
+2249,D048049,Extracellular Signal-Regulated MAP Kinases,EC 2.7.11.24,7
+2250,D048051,p38 Mitogen-Activated Protein Kinases,EC 2.7.11.24,6
+2251,D048052,Mitogen-Activated Protein Kinase 3,EC 2.7.11.24,8
+2252,D048271,Chitosan,9012-76-4,2
+2253,D048289,Imidazolidines,,1
+2254,D048490,raf Kinases,EC 2.7.11.1,1
+2255,D048493,Proto-Oncogene Proteins B-raf,EC 2.7.11.1,3
+2256,D048868,"Adaptor Proteins, Signal Transducing",,11
+2257,D048948,14-3-3 Proteins,,2
+2258,D049368,"Receptors, Lysophosphatidic Acid",,1
+2259,D049409,"Luciferases, Firefly",EC 1.13.12.7,1
+2260,D049452,Green Fluorescent Proteins,147336-22-9,7
+2261,D049488,Phosphatidylethanolamine Binding Protein,,1
+2262,D050053,TRPM Cation Channels,,2
+2263,D050071,Bone Density Conservation Agents,,20
+2264,D050091,Dendrimers,,1
+2265,D050257,Tubulin Modulators,,3
+2266,D050503,"Indoleamine-Pyrrole 2,3,-Dioxygenase",,1
+2267,D050505,Mutant Proteins,,1
+2268,D050687,E2F1 Transcription Factor,,5
+2269,D050699,E2F3 Transcription Factor,,1
+2270,D050703,E2F2 Transcription Factor,,1
+2271,D050719,Crk-Associated Substrate Protein,,1
+2272,D050720,Retinoblastoma-Like Protein p107,,1
+2273,D050756,Cyclin-Dependent Kinase Inhibitor Proteins,,1
+2274,D050759,Cyclin-Dependent Kinase Inhibitor p21,,13
+2275,D050760,Cyclin-Dependent Kinase Inhibitor p27,147604-94-2,3
+2276,D050783,Proto-Oncogene Proteins c-ets,,4
+2277,D050794,STAT1 Transcription Factor,,2
+2278,D050796,STAT3 Transcription Factor,,19
+2279,D050799,STAT5 Transcription Factor,,6
+2280,D050814,Octamer Transcription Factor-3,,2
+2281,D050822,Cytokine Receptor gp130,133483-10-0,1
+2282,D050826,Suppressor of Cytokine Signaling Proteins,,3
+2283,D050828,Protein Inhibitors of Activated STAT,,1
+2284,D050834,"Interferon-Stimulated Gene Factor 3, gamma Subunit",,1
+2285,D050838,Interferon Regulatory Factor-3,,1
+2286,D050880,p300-CBP Transcription Factors,EC 2.3.1.48,1
+2287,D050881,E1A-Associated p300 Protein,EC 2.3.1.48,2
+2288,D050883,HSC70 Heat-Shock Proteins,,1
+2289,D050892,Sarcosine Dehydrogenase,EC 1.5.8.3,1
+2290,D050916,TRPV Cation Channels,,1
+2291,D050938,Glycine N-Methyltransferase,EC 2.1.1.20,1
+2292,D050976,Basic-Leucine Zipper Transcription Factors,,1
+2293,D050989,GATA2 Transcription Factor,,1
+2294,D050998,bcl-2 Homologous Antagonist-Killer Protein,,2
+2295,D051017,Apoptosis Regulatory Proteins,,9
+2296,D051020,bcl-X Protein,,3
+2297,D051025,bcl-Associated Death Protein,,3
+2298,D051028,bcl-2-Associated X Protein,,11
+2299,D051034,Inhibitor of Apoptosis Proteins,,9
+2300,D051037,Large-Conductance Calcium-Activated Potassium Channel alpha Subunits,,1
+2301,D051057,Proto-Oncogene Proteins c-akt,EC 2.7.11.1,42
+2302,D051058,Oncogene Protein v-akt,EC 2.7.11.1,5
+2303,D051059,PTEN Phosphohydrolase,EC 3.1.3.67,30
+2304,D051116,"Receptors, Scavenger",,1
+2305,D051135,Rad51 Recombinase,EC 2.7.7.-,1
+2306,D051140,Selenoproteins,,2
+2307,D051152,Clusterin,,3
+2308,D051153,Wnt Proteins,,3
+2309,D051176,beta Catenin,,6
+2310,D051190,Plectin,,1
+2311,D051191,Plakophilins,,1
+2312,D051195,Toll-Like Receptor 2,,1
+2313,D051196,Toll-Like Receptor 3,,1
+2314,D051216,Toll-Like Receptor 6,,1
+2315,D051217,Toll-Like Receptor 9,,1
+2316,D051231,Farnesyltranstransferase,EC 2.5.1.29,1
+2317,D051242,Caveolin 1,,5
+2318,D051267,NF-E2-Related Factor 2,,7
+2319,D051300,Wiskott-Aldrich Syndrome Protein Family,,2
+2320,D051301,Desmoglein 2,,1
+2321,D051317,"Wiskott-Aldrich Syndrome Protein, Neuronal",,1
+2322,D051339,Actin Depolymerizing Factors,,1
+2323,D051356,Cortactin,,2
+2324,D051357,Cyclin-Dependent Kinase 2,EC 2.7.11.22,1
+2325,D051358,Cyclin-Dependent Kinase 4,EC 2.7.11.22,3
+2326,D051360,Cyclin-Dependent Kinase 5,EC 2.7.11.22,1
+2327,D051361,Cyclin-Dependent Kinase 6,EC 2.7.11.22,4
+2328,D051376,Actin-Related Protein 2-3 Complex,,1
+2329,D051380,GRB2 Adaptor Protein,,1
+2330,D051416,Focal Adhesion Protein-Tyrosine Kinases,EC 2.7.10.2,1
+2331,D051417,Focal Adhesion Kinase 1,EC 2.7.10.2,4
+2332,D051419,Paxillin,,1
+2333,D051496,"Receptor, Fibroblast Growth Factor, Type 1",EC 2.7.10.1,1
+2334,D051497,"Receptor, Fibroblast Growth Factor, Type 2",EC 2.7.10.1,1
+2335,D051498,"Receptor, Fibroblast Growth Factor, Type 3",EC 2.7.10.1,1
+2336,D051523,Fibroblast Growth Factor 7,126469-10-1,1
+2337,D051525,Fibroblast Growth Factor 9,,1
+2338,D051526,Fibroblast Growth Factor 10,,1
+2339,D051541,Hepatocyte Nuclear Factor 3-alpha,,2
+2340,D051544,Cytochrome P-450 CYP3A,EC 1.14.14.1,1
+2341,D051545,Cyclooxygenase 1,EC 1.14.99.1,1
+2342,D051546,Cyclooxygenase 2,EC 1.14.99.1,9
+2343,D051549,Glutathione S-Transferase pi,EC 2.5.1.18,7
+2344,D051550,I-kappa B Kinase,EC 2.7.11.10,1
+2345,D051571,Protein Kinase C-alpha,EC 2.7.11.13,1
+2346,D051573,Proto-Oncogene Proteins c-pim-1,EC 2.7.11.1,3
+2347,D051638,Ether-A-Go-Go Potassium Channels,,1
+2348,D051698,Activating Transcription Factor 2,,1
+2349,D051700,Activating Transcription Factor 3,,2
+2350,D051701,Activating Transcription Factor 4,145891-90-3,1
+2351,D051705,Sp3 Transcription Factor,148710-94-5,1
+2352,D051718,MutS Homolog 2 Protein,EC 3.6.1.3,1
+2353,D051736,Proto-Oncogene Proteins c-mdm2,EC 6.3.2.19,3
+2354,D051741,Kruppel-Like Transcription Factors,,1
+2355,D051742,Transcription Factor CHOP,147336-12-7,1
+2356,D051744,Protein Kinase C-epsilon,EC 2.7.11.13,1
+2357,D051747,DNA-Activated Protein Kinase,EC 2.7.11.1,1
+2358,D051759,Xeroderma Pigmentosum Group D Protein,EC 3.6.4.12,2
+2359,D051761,Paired Box Transcription Factors,,1
+2360,D051766,Early Growth Response Protein 1,,3
+2361,D051778,Basic Helix-Loop-Helix Leucine Zipper Transcription Factors,,1
+2362,D051780,Sterol Regulatory Element Binding Protein 1,,2
+2363,D051782,Sterol Regulatory Element Binding Protein 2,,2
+2364,D051784,Aryl Hydrocarbon Receptor Nuclear Translocator,138391-32-9,2
+2365,D051785,Smad Proteins,,1
+2366,D051789,Proto-Oncogene Protein c-fli-1,,1
+2367,D051792,Basic Helix-Loop-Helix Transcription Factors,,2
+2368,D051793,Hypoxia-Inducible Factor 1,,4
+2369,D051795,"Hypoxia-Inducible Factor 1, alpha Subunit",,10
+2370,D051796,Inhibitor of Differentiation Proteins,,1
+2371,D051798,Inhibitor of Differentiation Protein 1,,1
+2372,D051837,COUP Transcription Factor II,,1
+2373,D051840,Y-Box-Binding Protein 1,,1
+2374,D051858,Forkhead Transcription Factors,,6
+2375,D051861,"Antigens, CD82",,1
+2376,D051876,Sex-Determining Region Y Protein,,1
+2377,D051879,Twist Transcription Factor,,4
+2378,D051880,"Receptors, Notch",,1
+2379,D051881,"Receptor, Notch1",,1
+2380,D051898,Smad1 Protein,,2
+2381,D051899,Smad2 Protein,,2
+2382,D051900,Smad3 Protein,,3
+2383,D051901,Smad4 Protein,,1
+2384,D051906,Smad7 Protein,,2
+2385,D051907,Lysosome-Associated Membrane Glycoproteins,,1
+2386,D051926,"Antigens, CD147",136894-56-9,2
+2387,D051927,"Antigens, CD24",,1
+2388,D051958,Nuclear Receptor Coactivator 2,,3
+2389,D051959,ELAV Proteins,,1
+2390,D051996,Transcription Factor RelA,,4
+2391,D052002,NF-kappa B p50 Subunit,,2
+2392,D052003,NF-kappa B p52 Subunit,,2
+2393,D052006,"Bone Morphogenetic Protein Receptors, Type II",EC 2.7.11.30,1
+2394,D052117,Benzodioxoles,,1
+2395,D052157,"Aptamers, Nucleotide",,2
+2396,D052160,Benzothiazoles,,1
+2397,D052242,Adiponectin,,1
+2398,D052244,Endocrine Disruptors,,1
+2399,D052246,Cyclooxygenase 2 Inhibitors,,4
+2400,D052247,Nitric Oxide Synthase Type II,EC 1.14.13.39,4
+2401,D052250,Nitric Oxide Synthase Type III,EC 1.14.13.39,3
+2402,D053148,Caspase 3,EC 3.4.22.-,14
+2403,D053179,Caspase 7,EC 3.4.22.-,2
+2404,D053181,Caspase 8,EC 3.4.22.-,3
+2405,D053218,"Receptors, Death Domain",,1
+2406,D053219,"Receptors, Tumor Necrosis Factor, Member 25",,2
+2407,D053220,"Receptors, TNF-Related Apoptosis-Inducing Ligand",,2
+2408,D053221,TNF-Related Apoptosis-Inducing Ligand,,6
+2409,D053244,Osteoprotegerin,,4
+2410,D053245,RANK Ligand,,8
+2411,D053246,Receptor Activator of Nuclear Factor-kappa B,,5
+2412,D053261,"Antigens, CD137",,1
+2413,D053284,Polyunsaturated Alkamides,,1
+2414,D053379,Chromogranin A,,2
+2415,D053446,CASP8 and FADD-Like Apoptosis Regulating Protein,,2
+2416,D053449,TNF Receptor-Associated Factor 4,,1
+2417,D053453,Caspase 9,EC 3.4.22.-,4
+2418,D053455,Caspase 10,EC 3.4.22.-,1
+2419,D053477,Apoptotic Protease-Activating Factor 1,,1
+2420,D053484,RecQ Helicases,EC 3.6.4.12,1
+2421,D053487,DEAD-box RNA Helicases,EC 3.6.4.13,4
+2422,D053491,"Proteinase Inhibitory Proteins, Secretory",,1
+2423,D053492,Elafin,,1
+2424,D053498,Sarcoplasmic Reticulum Calcium-Transporting ATPases,EC 3.6.3.8,1
+2425,D053507,Matrix Metalloproteinase 11,EC 3.4.24.-,1
+2426,D053511,Matrix Metalloproteinase 14,EC 3.4.24.80,1
+2427,D053547,Keratin-14,,1
+2428,D053554,Keratin-20,,1
+2429,D053555,Keratin-5,,1
+2430,D053582,Interleukin-1alpha,,1
+2431,D053583,Interleukin-1beta,,3
+2432,D053592,Interleukin-1 Receptor-Associated Kinases,EC 2.7.11.1,1
+2433,D053607,Adrenomedullin,148498-78-6,1
+2434,D053612,Janus Kinases,EC 2.7.10.2,2
+2435,D053614,Janus Kinase 2,EC 2.7.10.2,5
+2436,D053633,"Receptor, Interferon alpha-beta",156986-95-7,1
+2437,D053645,Interleukin-2 Receptor alpha Subunit,,1
+2438,D053667,Syndecans,,1
+2439,D053668,Syndecan-1,,1
+2440,D053683,Oncostatin M,106956-32-5,1
+2441,D053699,Interleukin-7 Receptor alpha Subunit,,1
+2442,D053722,"Receptors, Interleukin-17",,1
+2443,D053760,Interleukin-23 Subunit p19,,1
+2444,D053769,Nanocapsules,,3
+2445,D053773,Transforming Growth Factor beta1,,8
+2446,D053781,Transforming Growth Factor beta2,,2
+2447,D053823,Hedgehog Proteins,,6
+2448,D054353,Perforin,126465-35-8,1
+2449,D054358,Withanolides,,3
+2450,D054377,Chemokine CXCL12,,6
+2451,D054382,Chemokine CXCL13,,1
+2452,D054387,"Receptors, CXCR",,3
+2453,D054390,"Receptors, CCR2",,2
+2454,D054392,Adipokines,,3
+2455,D054400,"Receptors, CCR7",,1
+2456,D054405,Chemokine CCL3,,1
+2457,D054409,Nicotinamide Phosphoribosyltransferase,EC 2.4.2.12,2
+2458,D054413,Chemokine CCL11,,1
+2459,D054419,"Receptors, Adiponectin",,1
+2460,D054427,Chemokine CXCL6,,1
+2461,D054440,"Receptors, Ghrelin",,1
+2462,D054460,rho-Associated Kinases,EC 2.7.11.1,1
+2463,D054461,Lim Kinases,EC 2.7.11.1,1
+2464,D054462,p21-Activated Kinases,EC 2.7.11.1,3
+2465,D054481,Thioredoxin Reductase 1,EC 1.8.1.9,1
+2466,D054501,Group II Phospholipases A2,EC 3.1.1.4,1
+2467,D054562,"Protein Tyrosine Phosphatase, Non-Receptor Type 1",EC 3.1.3.48,1
+2468,D054623,"Receptor-Like Protein Tyrosine Phosphatases, Class 2",EC 3.1.3.48,1
+2469,D054637,Dual-Specificity Phosphatases,EC 3.1.3.48,1
+2470,D054638,Dual Specificity Phosphatase 1,EC 3.1.3.48,1
+2471,D054645,Protein Phosphatase 1,EC 3.1.3.16,1
+2472,D054648,Protein Phosphatase 2,EC 3.1.3.16,1
+2473,D054697,Cytostatic Agents,,1
+2474,D054706,"Cyclic Nucleotide Phosphodiesterases, Type 5",EC 3.1.4.35,1
+2475,D054756,Cyclic AMP-Dependent Protein Kinase RIalpha Subunit,,1
+2476,D054799,Phospholipase C beta,EC 3.1.4.11,1
+2477,D054839,"Retinol-Binding Proteins, Plasma",,1
+2478,D054852,Small Molecule Libraries,,8
+2479,D054890,"Fatty Acid Synthase, Type I",EC 2.3.1.85,4
+2480,D055293,"Receptors, Urokinase Plasminogen Activator",,2
+2481,D055372,AMP-Activated Protein Kinases,EC 2.7.11.1,4
+2482,D055415,Bone Morphogenetic Protein 4,,1
+2483,D055418,Bone Morphogenetic Protein 6,,1
+2484,D055504,Insulin Receptor Substrate Proteins,,2
+2485,D055511,CCN Intercellular Signaling Proteins,,1
+2486,D055551,HSP27 Heat-Shock Proteins,,2
+2487,D055573,Acid Ceramidase,EC 3.5.1.23,2
+2488,D055748,SOXB1 Transcription Factors,,1
+2489,D055751,SOXC Transcription Factors,,1
+2490,D055758,SOX9 Transcription Factor,,2
+2491,D055760,SOXF Transcription Factors,,1
+2492,D055765,Shc Signaling Adaptor Proteins,,1
+2493,D055767,Immobilized Proteins,,1
+2494,D055910,"Antibodies, Immobilized",,3
+2495,D056245,Mi-2 Nucleosome Remodeling and Deacetylase Complex,EC 3.5.1.98,1
+2496,D056284,Histone Deacetylase 1,EC 3.5.1.98,2
+2497,D056464,Histone Deacetylase 2,EC 3.5.1.98,2
+2498,D056466,Histone Demethylases,EC 1.14.11.-,1
+2499,D056484,Jumonji Domain-Containing Histone Demethylases,EC 1.14.11.-,1
+2500,D056488,Histone Chaperones,,2
+2501,D056564,Sirtuin 1,EC 3.5.1.-,3
+2502,D056565,Sirtuin 2,EC 3.5.1.-,1
+2503,D056572,Histone Deacetylase Inhibitors,,13
+2504,D056604,Grape Seed Extract,,1
+2505,D056668,Cathepsin L,EC 3.4.22.15,2
+2506,D056692,Prebiotics,,1
+2507,D056743,Cyclin D3,,1
+2508,D056744,Cyclin B1,,2
+2509,D056750,Cyclin A1,,2
+2510,D056765,Cyclin B2,,1
+2511,D056831,Coordination Complexes,,1
+2512,D056918,Nuclear Receptor Coactivators,,1
+2513,D056920,Nuclear Receptor Coactivator 1,EC 2.3.1.48,2
+2514,D056921,Nuclear Receptor Coactivator 3,EC 2.3.1.48,3
+2515,D056970,Co-Repressor Proteins,,3
+2516,D056985,Nuclear Receptor Co-Repressor 2,,1
+2517,D057056,Cysteine Proteases,EC 3.4.-,1
+2518,D057093,Orphan Nuclear Receptors,,2
+2519,D057105,"Nuclear Receptor Subfamily 4, Group A, Member 1",,1
+2520,D057126,"Nuclear Receptor Subfamily 4, Group A, Member 2",,1
+2521,D057127,Single-Chain Antibodies,,1
+2522,D057132,"Nuclear Receptor Subfamily 1, Group F, Member 3",,1
+2523,D057134,"Antibodies, Neutralizing",,2
+2524,D057786,Peptidomimetics,,3
+2525,D057911,Angiotensin Receptor Antagonists,,1
+2526,D058112,Septins,EC 3.6.1.-,2
+2527,D058118,Transcription Factor 7-Like 2 Protein,,1
+2528,D058185,Magnetite Nanoparticles,,3
+2529,D058262,Receptor Activity-Modifying Protein 1,,1
+2530,D058306,"Receptors, Prostaglandin E, EP1 Subtype",,1
+2531,D058307,"Receptors, Prostaglandin E, EP2 Subtype",,1
+2532,D058309,"Receptors, Prostaglandin E, EP4 Subtype",,1
+2533,D058425,"Vaccines, Virus-Like Particle",,1
+2534,D058468,"Receptors, Ionotropic Glutamate",,1
+2535,D058473,"Receptors, Purinergic P2Y2",,1
+2536,D058534,Class I Phosphatidylinositol 3-Kinases,EC 2.7.1.137,2
+2537,D058539,Phosphatidylinositol 3-Kinase,EC 2.7.1.137,5
+2538,D058570,TOR Serine-Threonine Kinases,EC 2.7.1.1,28
+2539,D058626,Plasma Gases,,1
+2540,D058668,Adrenergic alpha-1 Receptor Antagonists,,1
+2541,D058727,"RNA, Small Untranslated",,2
+2542,D058846,"Antibodies, Monoclonal, Murine-Derived",,1
+2543,D058847,Inflammasomes,,2
+2544,D058851,GPI-Linked Proteins,,5
+2545,D058891,5-alpha Reductase Inhibitors,,11
+2546,D058986,Phosphodiesterase 5 Inhibitors,,3
+2547,D059002,Androgen Receptor Antagonists,,23
+2548,D059005,Topoisomerase II Inhibitors,,1
+2549,D059648,Kisspeptins,,3
+2550,D059808,Polyphenols,,7
+2551,D059811,HLA-DRB1 Chains,,1
+2552,D059871,HLA-A24 Antigen,,1
+2553,D060149,"Antigens, CD63",,1
+2554,D060245,"Antigens, CD9",,1
+2555,D060285,"Receptors, Autocrine Motility Factor",EC 6.3.2.19,1
+2556,D060406,Brassinosteroids,,1
+2557,D060466,Axin Protein,,1
+2558,D060509,Wnt3A Protein,,1
+2559,D060850,LIM-Homeodomain Proteins,,1
+2560,D060887,B7 Antigens,,1
+2561,D060890,"Antigens, CD274",,3
+2562,D060907,V-Set Domain-Containing T-Cell Activation Inhibitor 1,,1
+2563,D060908,CTLA-4 Antigen,,2
+2564,D061026,Programmed Cell Death 1 Receptor,,5
+2565,D061067,"Antibodies, Monoclonal, Humanized",,17
+2566,D061105,Peroxiredoxin III,EC 1.11.1.15,1
+2567,D061905,Single-Domain Antibodies,,1
+2568,D061988,Proteasome Inhibitors,,1
+2569,D062085,"RNA, Long Noncoding",,18
+2570,D062565,Acid Sensing Ion Channels,,1
+2571,D062727,Coxsackie and Adenovirus Receptor-Like Membrane Protein,,2
+2572,D062948,rho Guanine Nucleotide Dissociation Inhibitor alpha,,1
+2573,D063065,Organophosphonates,,2
+2574,D063146,Polycomb-Group Proteins,,1
+2575,D063150,Polycomb Repressive Complex 1,EC 6.3.2.19,2
+2576,D063151,Polycomb Repressive Complex 2,EC 2.1.1.43,5
+2577,D064007,Ataxia Telangiectasia Mutated Proteins,EC 2.7.11.1,6
+2578,D064094,Interleukin-27,,1
+2579,D064096,Aurora Kinase A,EC 2.7.11.1,1
+2580,D064209,Phytochemicals,,4
+2581,D064235,Matrilin Proteins,,1
+2582,D064236,Cartilage Oligomeric Matrix Protein,,1
+2583,D064447,Checkpoint Kinase 2,EC 2.7.1.11,3
+2584,D064549,Myeloid Cell Leukemia Sequence 1 Protein,,5
+2585,D064804,Urological Agents,,1
+2586,D065087,Acetylcholine Release Inhibitors,,1
+2587,D065100,CCR5 Receptor Antagonists,,2
+2588,D065108,Ornithine Decarboxylase Inhibitors,,1
+2589,D065127,Dopamine D2 Receptor Antagonists,,1
+2590,D065607,Cytochrome P-450 Enzyme Inhibitors,,1
+2591,D065633,Cytochrome P-450 CYP1B1,EC 1.14.14.1,1
+2592,D065668,Vitamin D3 24-Hydroxylase,EC 1.14.13.126,1
+2593,D065692,Cytochrome P-450 CYP3A Inhibitors,,1
+2594,D066246,ErbB Receptors,EC 2.7.10.1,1

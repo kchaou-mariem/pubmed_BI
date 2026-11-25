@@ -1,0 +1,32 @@
+﻿,domaine,anomalie,volume,base,pct,gravité,traitement_proposé
+A01,Fichiers,Fichiers XML invalides (parsing strict),153,4036,3.790882061446977,critique,Échelle de réparation L1→L3 ; journaliser dans etl_logs
+A02,Fichiers,Fichiers irrécupérables par XML,12,4036,0.29732408325074333,critique,"Écarter, tracer le PMID (regex) pour réconciliation"
+A03,Variantes,Libellés de types de publication à casse différente (JOURNAL ARTICLE / Journal Article),4464,7874,56.69291338582677,majeure,Normaliser par UI du type (D016428…)
+A04,Variantes,Mots-clés à graphies multiples,730,7164,10.189838079285316,majeure,"Normaliser (trim, minuscule) avant création de Dim_MotCle"
+A05,Format,Langue (3 lettres minuscules) au format invalide,194,3912,4.959100204498977,majeure,Mettre en minuscules + trim
+A06,Complétude,Notices réparées sans PMID lisible,41,4039,1.0151027482050012,majeure,Rattachement titre/DOI ou mise à l'écart
+A07,Unicité,PMID dupliqués (copies identiques),31,4039,0.76751671205744,majeure,Dédoublonnage déterministe (règle F1)
+A08,Texte,art.resume : entité HTML,6,3872,0.15495867768595042,majeure,Décoder (html.unescape)
+A09,Format,DOI (10.xxxx/…) au format invalide,4,3522,0.1135718341851221,majeure,"Mettre à NULL, conserver la valeur brute en staging"
+A10,Texte,affils.affiliation : entité HTML,7,16700,0.041916167664670656,majeure,Décoder (html.unescape)
+A11,Texte,"Libellé MeSH altéré (même UI, texte différent : ex. « …Dise the American College… »)",1,3937,0.0254000508001016,majeure,Référentiel : garder le libellé le plus fréquent par UI
+A12,Texte,"mots_cles.mot_cle : mojibake (Ã©, â€…)",1,12360,0.008090614886731391,majeure,Ré-encoder ou signaler
+A13,Texte,"auteurs.prenom : mojibake (Ã©, â€…)",2,28638,0.006983727913960472,majeure,Ré-encoder ou signaler
+A14,Texte,"auteurs.nom : mojibake (Ã©, â€…)",1,28640,0.0034916201117318434,majeure,Ré-encoder ou signaler
+A15,Texte,art.resume : retour à la ligne interne,1783,3872,46.04855371900826,mineure,Remplacer par espace
+A16,Cohérence temporelle,DateRevised < DateCompleted,183,1739,10.523289246693501,mineure,"Conserver, signaler"
+A17,Format,ORCID (xxxx-xxxx-xxxx-xxxC) au format invalide,5,53,9.433962264150944,mineure,Normaliser en retirant l'URL
+A18,Variantes,Affiliations à graphies multiples,354,9920,3.568548387096774,mineure,Normaliser le texte ; géographie par extraction de pays
+A19,Texte,art.revue : accent isolé (´ ¨ `),97,3883,2.4980685037342263,mineure,Examiner : accents mal encodés (ex. 'me´dicale')
+A20,Format,"Pagination (n, n-m, eNNN) au format invalide",58,3751,1.546254332178086,mineure,Conserver brut ; ne pas parser
+A21,Valeurs extrêmes,Articles à très grand nombre d'auteurs (> Q3+3·IQR),40,3883,1.0301313417460727,mineure,Conserver ; attention aux moyennes (utiliser la médiane)
+A22,Cohérence temporelle,Historique : entrez > medline,21,3883,0.5408189544166881,mineure,Information
+A23,Format,Initiales (lettres majuscules) au format invalide,66,28638,0.23046302116069559,mineure,Majuscules ; accents/minuscules à examiner
+A24,Texte,art.resume : espaces multiples,5,3872,0.12913223140495866,mineure,Réduire à 1 espace
+A25,Structure,Enregistrements <PubmedBookArticle> (hors modèle article),4,4039,0.09903441445902451,mineure,Écarter ou table dédiée
+A26,Texte,affils.affiliation : accent isolé (´ ¨ `),9,16700,0.05389221556886228,mineure,Examiner : accents mal encodés (ex. 'me´dicale')
+A27,Texte,art.resume : balise HTML,2,3872,0.05165289256198347,mineure,"Retirer/échapper les balises (<i>, <sub>…) ; garder version brute"
+A28,Texte,art.resume : accent isolé (´ ¨ `),2,3872,0.05165289256198347,mineure,Examiner : accents mal encodés (ex. 'me´dicale')
+A29,Cohérence temporelle,Historique : accepted > entrez,1,2444,0.04091653027823241,mineure,Information
+A30,Texte,affils.affiliation : espace début/fin,1,16700,0.005988023952095809,mineure,TRIM
+A31,Texte,affils.affiliation : espaces multiples,1,16700,0.005988023952095809,mineure,Réduire à 1 espace

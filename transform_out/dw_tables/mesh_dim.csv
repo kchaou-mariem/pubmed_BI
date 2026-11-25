@@ -1,0 +1,3938 @@
+mesh_key,ui_mesh,descripteur,est_geographique
+1,D000001,Calcimycin,False
+2,D000040,Abscisic Acid,False
+3,D000042,Absorption,False
+4,D000046,Academic Medical Centers,False
+5,D000047,Academies and Institutes,False
+6,D000058,Accidental Falls,False
+7,D000066491,Clinical Decision-Making,False
+8,D000066988,Vegetarians,False
+9,D000067269,"Diet, Vegan",False
+10,D000067856,Poly(ADP-ribose) Polymerase Inhibitors,False
+11,D000068196,Albumin-Bound Paclitaxel,False
+12,D000068258,Bevacizumab,False
+13,D000068338,Everolimus,False
+14,D000068437,Pemetrexed,False
+15,D000068538,Dutasteride,False
+16,D000068579,Celecoxib,False
+17,D000068677,Sildenafil Citrate,False
+18,D000068876,Fingolimod Hydrochloride,False
+19,D000068877,Imatinib Mesylate,False
+20,D000069059,Atorvastatin Calcium,False
+21,D000069283,Rituximab,False
+22,D000069286,Bortezomib,False
+23,D000069342,Medical Overuse,False
+24,D000069347,Erlotinib Hydrochloride,False
+25,D000069439,Dasatinib,False
+26,D000069448,Denosumab,False
+27,D000069451,Long Term Adverse Effects,False
+28,D000069470,Venlafaxine Hydrochloride,False
+29,D000069473,Dose Hypofractionation,False
+30,D000069501,Abiraterone Acetate,False
+31,D000069550,Machine Learning,False
+32,D000069604,Dabigatran,False
+33,D000082,Acetaminophen,False
+34,D000083,Acetanilides,False
+35,D000085,Acetates,False
+36,D000098,Acetophenones,False
+37,D000103,Acetyl-CoA Carboxylase,False
+38,D000107,Acetylation,False
+39,D000108,Acetylcarnitine,False
+40,D000123,Acetyltransferases,False
+41,D000135,Acid Phosphatase,False
+42,D000154,Aconitate Hydratase,False
+43,D000162,Acoustics,False
+44,D000163,Acquired Immunodeficiency Syndrome,False
+45,D000172,Acromegaly,False
+46,D000177,Acrosome,False
+47,D000185,Actinin,False
+48,D000199,Actins,False
+49,D000203,Activities of Daily Living,False
+50,D000222,"Adaptation, Physiological",False
+51,D000223,"Adaptation, Psychological",False
+52,D000225,Adenine,False
+53,D000230,Adenocarcinoma,False
+54,D000236,Adenoma,False
+55,D000242,Cyclic AMP,False
+56,D000243,Adenosine Deaminase,False
+57,D000251,Adenosine Triphosphatases,False
+58,D000254,Sodium-Potassium-Exchanging ATPase,False
+59,D000255,Adenosine Triphosphate,False
+60,D000256,Adenoviridae,False
+61,D000257,Adenoviridae Infections,False
+62,D000263,Adenylate Kinase,False
+63,D000273,Adipose Tissue,False
+64,D000276,"Adjuvants, Immunologic",False
+65,D000279,"Administration, Cutaneous",False
+66,D000280,"Administration, Inhalation",False
+67,D000283,"Administration, Intravesical",False
+68,D000284,"Administration, Oral",False
+69,D000285,"Administration, Rectal",False
+70,D000287,"Administration, Topical",False
+71,D000293,Adolescent,False
+72,D000305,Adrenal Cortex Hormones,False
+73,D000310,Adrenal Gland Neoplasms,False
+74,D000311,Adrenal Glands,False
+75,D000319,Adrenergic beta-Antagonists,False
+76,D000320,Adrenergic Fibers,False
+77,D000328,Adult,False
+78,D000339,Affect,False
+79,D000367,Age Factors,False
+80,D000368,Aged,False
+81,D000369,"Aged, 80 and over",False
+82,D000375,Aging,False
+83,D000393,Air Pollutants,False
+84,D000416,Alberta,True
+85,D000418,Albumins,False
+86,D000427,Alcohol Deterrents,False
+87,D000428,Alcohol Drinking,False
+88,D000429,Alcohol Oxidoreductases,False
+89,D000431,Ethanol,False
+90,D000432,Methanol,False
+91,D000437,Alcoholism,False
+92,D000444,Aldehyde Dehydrogenase,False
+93,D000449,Aldehyde Reductase,False
+94,D000465,Algorithms,False
+95,D000469,Alkaline Phosphatase,False
+96,D000470,Alkaloids,False
+97,D000478,Alkylation,False
+98,D000483,Alleles,False
+99,D000490,Allium,False
+100,D000498,Allyl Compounds,False
+101,D000505,Alopecia,False
+102,D000509,alpha-Fetoproteins,False
+103,D000511,alpha-Macroglobulins,False
+104,D000518,Eflornithine,False
+105,D000527,Alprostadil,False
+106,D000529,Complementary Therapies,False
+107,D000544,Alzheimer Disease,False
+108,D000547,Amantadine,False
+109,D000554,Ambulatory Care Facilities,False
+110,D000570,American Cancer Society,False
+111,D000577,Amides,False
+112,D000581,Amidohydrolases,False
+113,D000587,Oxidoreductases Acting on CH-NH Group Donors,False
+114,D000588,Amines,False
+115,D000595,Amino Acid Sequence,False
+116,D000596,Amino Acids,False
+117,D000604,Amino Acyl-tRNA Synthetases,False
+118,D000617,Aminoglycosides,False
+119,D000622,Aminolevulinic Acid,False
+120,D000626,Aminopeptidases,False
+121,D000634,Aminoquinolines,False
+122,D000636,Aminosalicylic Acids,False
+123,D000678,Amygdalin,False
+124,D000685,Serum Amyloid A Protein,False
+125,D000690,Amyotrophic Lateral Sclerosis,False
+126,D000698,Analgesia,False
+127,D000700,Analgesics,False
+128,D000701,"Analgesics, Opioid",False
+129,D000704,Analysis of Variance,False
+130,D000714,"Anastomosis, Surgical",False
+131,D000726,Androgen Antagonists,False
+132,D000727,Androgen-Binding Protein,False
+133,D000728,Androgens,False
+134,D000730,Androstadienes,False
+135,D000735,Androstenedione,False
+136,D000736,Androstenes,False
+137,D000737,Androstenols,False
+138,D000758,Anesthesia,False
+139,D000767,"Anesthesia, Epidural",False
+140,D000768,"Anesthesia, General",False
+141,D000772,"Anesthesia, Local",False
+142,D000779,"Anesthetics, Local",False
+143,D000782,Aneuploidy,False
+144,D000792,Angiography,False
+145,D000813,Anilides,False
+146,D000814,Aniline Compounds,False
+147,D000818,Animals,False
+148,D000860,Anoxia,False
+149,D000872,Anthocyanins,False
+150,D000880,Anthraquinones,False
+151,D000889,Anti-Arrhythmia Agents,False
+152,D000893,Anti-Inflammatory Agents,False
+153,D000894,"Anti-Inflammatory Agents, Non-Steroidal",False
+154,D000900,Anti-Bacterial Agents,False
+155,D000903,"Antibiotics, Antineoplastic",False
+156,D000906,Antibodies,False
+157,D000911,"Antibodies, Monoclonal",False
+158,D000912,"Antibodies, Neoplasm",False
+159,D000918,Antibody Specificity,False
+160,D000925,Anticoagulants,False
+161,D000933,Antifibrinolytic Agents,False
+162,D000935,Antifungal Agents,False
+163,D000939,Epitopes,False
+164,D000942,"Antigens, Bacterial",False
+165,D000943,"Antigens, Differentiation",False
+166,D000951,"Antigens, Neoplasm",False
+167,D000954,"Antigens, Surface",False
+168,D000959,Antihypertensive Agents,False
+169,D000962,Antimalarials,False
+170,D000964,"Antimetabolites, Antineoplastic",False
+171,D000970,Antineoplastic Agents,False
+172,D000971,Antineoplastic Combined Chemotherapy Protocols,False
+173,D000972,"Antineoplastic Agents, Phytogenic",False
+174,D000975,Antioxidants,False
+175,D000991,Antithrombins,False
+176,D000998,Antiviral Agents,False
+177,D001003,Anal Canal,False
+178,D001007,Anxiety,False
+179,D001008,Anxiety Disorders,False
+180,D001011,Aorta,False
+181,D001057,Apolipoproteins E,False
+182,D001086,Arabinofuranosyluracil,False
+183,D001092,Arachidonate 12-Lipoxygenase,False
+184,D001094,Arachidonate 5-Lipoxygenase,False
+185,D001130,Arizona,True
+186,D001141,Aromatase,False
+187,D001151,Arsenic,False
+188,D001152,Arsenicals,False
+189,D001169,"Arthritis, Experimental",False
+190,D001172,"Arthritis, Rheumatoid",False
+191,D001185,Artificial Intelligence,False
+192,D001189,Aryl Hydrocarbon Hydroxylases,False
+193,D001194,Asbestos,False
+194,D001208,Asia,True
+195,D001213,Asian Americans,False
+196,D001241,Aspirin,False
+197,D001249,Asthma,False
+198,D001271,Atlases as Topic,False
+199,D001281,Atrial Fibrillation,False
+200,D001284,Atrophy,False
+201,D001288,Attention,False
+202,D001291,Attitude of Health Personnel,False
+203,D001294,Attitude to Health,False
+204,D001315,Australia,True
+205,D001321,Autistic Disorder,False
+206,D001323,Autoantibodies,False
+207,D001324,Autoantigens,False
+208,D001327,Autoimmune Diseases,False
+209,D001331,Automation,False
+210,D001341,Autonomic Nervous System,False
+211,D001343,Autophagy,False
+212,D001344,Autopsy,False
+213,D001363,Awards and Prizes,False
+214,D001364,Awareness,False
+215,D001372,Aza Compounds,False
+216,D001374,Azacitidine,False
+217,D001378,Azasteroids,False
+218,D001381,Azepines,False
+219,D001391,Azo Compounds,False
+220,D001402,B-Lymphocytes,False
+221,D001419,Bacteria,False
+222,D001424,Bacterial Infections,False
+223,D001426,Bacterial Proteins,False
+224,D001429,Bacteriochlorophylls,False
+225,D001435,Bacteriophages,False
+226,D001446,Balanitis,False
+227,D001459,Bangladesh,True
+228,D001461,Barbering,False
+229,D001471,Barrett Esophagus,False
+230,D001482,Base Composition,False
+231,D001483,Base Sequence,False
+232,D001491,Basophils,False
+233,D001499,Bayes Theorem,False
+234,D001523,Mental Disorders,False
+235,D001530,Belgium,True
+236,D001549,Benzamides,False
+237,D001557,Benzenesulfonates,False
+238,D001559,Benzhydryl Compounds,False
+239,D001562,Benzimidazoles,False
+240,D001565,Benzoates,False
+241,D001567,Benzocycloheptenes,False
+242,D001572,Benzofurans,False
+243,D001578,Benzopyrans,False
+244,D001592,Benzyl Alcohols,False
+245,D001596,Benzylamines,False
+246,D001597,Benzylidene Compounds,False
+247,D001604,Berlin,True
+248,D001613,beta 2-Microglobulin,False
+249,D001616,beta-Galactosidase,False
+250,D001618,beta-Lactamases,False
+251,D001622,Betaine,False
+252,D001628,Beverages,False
+253,D001632,Bibenzyls,False
+254,D001650,Bile Duct Neoplasms,False
+255,D001665,Binding Sites,False
+256,D001666,"Binding Sites, Antibody",False
+257,D001667,"Binding, Competitive",False
+258,D001671,Biochemistry,False
+259,D001672,Biocompatible Materials,False
+260,D001681,Biological Assay,False
+261,D001682,Biological Availability,False
+262,D001688,Biological Products,False
+263,D001691,Biological Therapy,False
+264,D001692,Biological Transport,False
+265,D001696,Biomechanical Phenomena,False
+266,D001698,Biomedical Engineering,False
+267,D001706,Biopsy,False
+268,D001707,"Biopsy, Needle",False
+269,D001711,Biotransformation,False
+270,D001724,Birth Weight,False
+271,D001727,Bisexuality,False
+272,D001739,BK Virus,False
+273,D001741,African Americans,False
+274,D001743,Urinary Bladder,False
+275,D001744,Urinary Bladder Calculi,False
+276,D001748,Urinary Bladder Neck Obstruction,False
+277,D001749,Urinary Bladder Neoplasms,False
+278,D001750,"Urinary Bladder, Neurogenic",False
+279,D001755,Blastocyst,False
+280,D001771,Blood Banks,False
+281,D001773,Blood Cells,False
+282,D001774,Blood Chemical Analysis,False
+283,D001777,Blood Coagulation,False
+284,D001779,Blood Coagulation Factors,False
+285,D001783,Blood Flow Velocity,False
+286,D001786,Blood Glucose,False
+287,D001792,Blood Platelets,False
+288,D001793,Blood Preservation,False
+289,D001794,Blood Pressure,False
+290,D001798,Blood Proteins,False
+291,D001800,Blood Specimen Collection,False
+292,D001803,Blood Transfusion,False
+293,D001812,Blood-Brain Barrier,False
+294,D001822,Body Burden,False
+295,D001823,Body Composition,False
+296,D001826,Body Fluids,False
+297,D001827,Body Height,False
+298,D001835,Body Weight,False
+299,D001839,Bombesin,False
+300,D001842,Bone and Bones,False
+301,D001853,Bone Marrow,False
+302,D001854,Bone Marrow Cells,False
+303,D001859,Bone Neoplasms,False
+304,D001862,Bone Resorption,False
+305,D001881,Borates,False
+306,D001896,Boron Compounds,False
+307,D001897,Boronic Acids,False
+308,D001916,Brachial Artery,False
+309,D001918,Brachytherapy,False
+310,D001920,Bradykinin,False
+311,D001921,Brain,False
+312,D001930,Brain Injuries,False
+313,D001932,Brain Neoplasms,False
+314,D001933,Brain Stem,False
+315,D001938,Brazil,True
+316,D001940,Breast,False
+317,D001943,Breast Neoplasms,False
+318,D001952,Bridged Compounds,False
+319,D001973,Bromodeoxyuridine,False
+320,D001986,Bronchial Spasm,False
+321,D001999,Bronchoscopy,False
+322,D002030,Bulbourethral Glands,False
+323,D002085,Butylhydroxybutylnitrosamine,False
+324,D002097,C-Reactive Protein,False
+325,D002102,Cadaver,False
+326,D002104,Cadmium,False
+327,D002109,Caffeic Acids,False
+328,D002114,Calcinosis,False
+329,D002116,Calcitonin,False
+330,D002117,Calcitriol,False
+331,D002118,Calcium,False
+332,D002121,Calcium Channel Blockers,False
+333,D002135,Calcium-Binding Proteins,False
+334,D002137,Calculi,False
+335,D002138,Calibration,False
+336,D002140,California,True
+337,D002148,Calmodulin-Binding Proteins,False
+338,D002149,Energy Intake,False
+339,D002152,"Calorimetry, Differential Scanning",False
+340,D002162,Camels,False
+341,D002163,Cameroon,True
+342,D002166,Camptothecin,False
+343,D002170,Canada,True
+344,D002173,Cancer Care Facilities,False
+345,D002188,Cannabis,False
+346,D002211,Capsaicin,False
+347,D002227,Carbazoles,False
+348,D002232,Carbocyanines,False
+349,D002243,Carbolines,False
+350,D002244,Carbon,False
+351,D002245,Carbon Dioxide,False
+352,D002247,Carbon Isotopes,False
+353,D002248,Carbon Monoxide,False
+354,D002250,Carbon Radioisotopes,False
+355,D002256,Carbonic Anhydrases,False
+356,D002264,Carboxylic Acids,False
+357,D002268,Carboxypeptidases,False
+358,D002272,Carcinoembryonic Antigen,False
+359,D002273,Carcinogens,False
+360,D002274,"Carcinogens, Environmental",False
+361,D002277,Carcinoma,False
+362,D002278,Carcinoma in Situ,False
+363,D002279,"Carcinoma 256, Walker",False
+364,D002280,"Carcinoma, Basal Cell",False
+365,D002285,"Carcinoma, Intraductal, Noninfiltrating",False
+366,D002286,"Carcinoma, Ehrlich Tumor",False
+367,D002288,"Adenocarcinoma, Mucinous",False
+368,D002289,"Carcinoma, Non-Small-Cell Lung",False
+369,D002291,"Carcinoma, Papillary",False
+370,D002292,"Carcinoma, Renal Cell",False
+371,D002294,"Carcinoma, Squamous Cell",False
+372,D002295,"Carcinoma, Transitional Cell",False
+373,D002316,Cardiotonic Agents,False
+374,D002317,Cardiovascular Agents,False
+375,D002318,Cardiovascular Diseases,False
+376,D002338,Carotenoids,False
+377,D002352,Carrier Proteins,False
+378,D002364,Caseins,False
+379,D002369,Castration,False
+380,D002384,Catalysis,False
+381,D002387,Cataract Extraction,False
+382,D002392,Catechin,False
+383,D002393,"Estrogens, Catechol",False
+384,D002401,Cathepsin B,False
+385,D002402,Cathepsin D,False
+386,D002406,"Catheterization, Peripheral",False
+387,D002408,"Catheters, Indwelling",False
+388,D002417,Cattle,False
+389,D002423,Cause of Death,False
+390,D002443,Ceftriaxone,False
+391,D002446,Celiac Disease,False
+392,D002448,Cell Adhesion,False
+393,D002450,Cell Communication,False
+394,D002452,Cell Count,False
+395,D002453,Cell Cycle,False
+396,D002454,Cell Differentiation,False
+397,D002455,Cell Division,False
+398,D002458,Cell Fractionation,False
+399,D002460,Cell Line,False
+400,D002461,"Cell Line, Transformed",False
+401,D002462,Cell Membrane,False
+402,D002463,Cell Membrane Permeability,False
+403,D002465,Cell Movement,False
+404,D002466,Cell Nucleolus,False
+405,D002467,Cell Nucleus,False
+406,D002469,Cell Separation,False
+407,D002470,Cell Survival,False
+408,D002471,"Cell Transformation, Neoplastic",False
+409,D002472,"Cell Transformation, Viral",False
+410,D002474,Cell-Free System,False
+411,D002478,"Cells, Cultured",False
+412,D002482,Cellulose,False
+413,D002490,Central Nervous System,False
+414,D002518,Ceramides,False
+415,D002522,Cercopithecus aethiops,False
+416,D002560,Cerebrovascular Circulation,False
+417,D002570,Ceruloplasmin,False
+418,D002583,Uterine Cervical Neoplasms,False
+419,D002584,Cervix Uteri,False
+420,D002588,Cesium Radioisotopes,False
+421,D002614,Chelating Agents,False
+422,D002626,"Chemistry, Pharmaceutical",False
+423,D002638,Chewing Gum,False
+424,D002642,Chick Embryo,False
+425,D002648,Child,False
+426,D002675,"Child, Preschool",False
+427,D002677,Chile,True
+428,D002681,China,True
+429,D002690,Chlamydia Infections,False
+430,D002692,Chlamydia trachomatis,False
+431,D002699,Chlorambucil,False
+432,D002728,Chlorohydrins,False
+433,D002733,Chlorophenols,False
+434,D002734,Chlorophyll,False
+435,D002738,Chloroquine,False
+436,D002755,Choice Behavior,False
+437,D002762,Cholecalciferol,False
+438,D002763,Cholecystectomy,False
+439,D002784,Cholesterol,False
+440,D002788,Cholesterol Esters,False
+441,D002794,Choline,False
+442,D002797,Choline Kinase,False
+443,D002799,Cholinergic Fibers,False
+444,D002800,Cholinesterase Inhibitors,False
+445,D002813,Chondrosarcoma,False
+446,D002817,Chordoma,False
+447,D002828,Choristoma,False
+448,D002830,Choroid Neoplasms,False
+449,D002839,Chromans,False
+450,D002843,Chromatin,False
+451,D002846,"Chromatography, Affinity",False
+452,D002849,"Chromatography, Gas",False
+453,D002851,"Chromatography, High Pressure Liquid",False
+454,D002852,"Chromatography, Ion Exchange",False
+455,D002853,"Chromatography, Liquid",False
+456,D002867,Chromones,False
+457,D002868,"Chromosomal Proteins, Non-Histone",False
+458,D002869,Chromosome Aberrations,False
+459,D002872,Chromosome Deletion,False
+460,D002874,Chromosome Mapping,False
+461,D002875,Chromosomes,False
+462,D002877,"Chromosomes, Human",False
+463,D002880,"Chromosomes, Human, Pair 11",False
+464,D002886,"Chromosomes, Human, Pair 17",False
+465,D002889,"Chromosomes, Human, Pair 2",False
+466,D002892,"Chromosomes, Human, Pair 22",False
+467,D002895,"Chromosomes, Human, Pair 5",False
+468,D002896,"Chromosomes, Human, Pair 6",False
+469,D002898,"Chromosomes, Human, Pair 8",False
+470,D002908,Chronic Disease,False
+471,D002934,Cinnamates,False
+472,D002940,Circadian Rhythm,False
+473,D002942,Circular Dichroism,False
+474,D002945,Cisplatin,False
+475,D002947,Cities,False
+476,D002952,Citric Acid Cycle,False
+477,D002957,Citrus,False
+478,D002971,Cleft Lip,False
+479,D002972,Cleft Palate,False
+480,D002983,Clinical Competence,False
+481,D002985,Clinical Protocols,False
+482,D002986,Clinical Trials as Topic,False
+483,D002999,Clone Cells,False
+484,D003029,Coagulants,False
+485,D003032,Coal Mining,False
+486,D003037,Cobalt Radioisotopes,False
+487,D003062,Codon,False
+488,D003069,Coffee,False
+489,D003071,Cognition,False
+490,D003072,Cognition Disorders,False
+491,D003075,Coitus,False
+492,D003078,Colchicine,False
+493,D003082,Colectomy,False
+494,D003094,Collagen,False
+495,D003110,Colonic Neoplasms,False
+496,D003113,Colonoscopy,False
+497,D003123,"Colorectal Neoplasms, Hereditary Nonpolyposis",False
+498,D003131,Combined Modality Therapy,False
+499,D003142,Communication,False
+500,D003156,Community Mental Health Services,False
+501,D003157,Community Pharmacy Services,False
+502,D003161,Compartment Syndromes,False
+503,D003194,Computer-Assisted Instruction,False
+504,D003198,Computer Simulation,False
+505,D003199,Computer Systems,False
+506,D003201,Computers,False
+507,D003237,Connecticut,True
+508,D003248,Constipation,False
+509,D003266,Continuity of Patient Care,False
+510,D003287,Contrast Media,False
+511,D003289,Convalescence,False
+512,D003296,Cooking,False
+513,D003299,Cooperative Behavior,False
+514,D003300,Copper,False
+515,D003301,Copper Radioisotopes,False
+516,D003324,Coronary Artery Disease,False
+517,D003326,Coronary Circulation,False
+518,D003327,Coronary Disease,False
+519,D003362,Cost-Benefit Analysis,False
+520,D003365,Costs and Cost Analysis,False
+521,D003373,Coumaric Acids,False
+522,D003374,Coumarins,False
+523,D003376,Counseling,False
+524,D003384,Coxsackievirus Infections,False
+525,D003401,Creatine,False
+526,D003412,Cricetulus,False
+527,D003424,Crohn Disease,False
+528,D003428,Cross Infection,False
+529,D003430,Cross-Sectional Studies,False
+530,D003451,Cryoprotective Agents,False
+531,D003452,Cryosurgery,False
+532,D003466,Cultural Characteristics,False
+533,D003469,Culture,False
+534,D003470,Culture Media,False
+535,D003474,Curcumin,False
+536,D003503,Cyclobutanes,False
+537,D003505,Cyclodextrins,False
+538,D003506,Cyclofenil,False
+539,D003511,Cyclohexanols,False
+540,D003513,Cycloheximide,False
+541,D003520,Cyclophosphamide,False
+542,D003528,"Carcinoma, Adenoid Cystic",False
+543,D003534,Cyproterone,False
+544,D003543,Cysteamine,False
+545,D003545,Cysteine,False
+546,D003556,Cystitis,False
+547,D003558,Cystoscopy,False
+548,D003560,Cysts,False
+549,D003581,Cytodiagnosis,False
+550,D003593,Cytoplasm,False
+551,D003596,Cytosine,False
+552,D003598,Cytoskeletal Proteins,False
+553,D003599,Cytoskeleton,False
+554,D003600,Cytosol,False
+555,D003625,Data Collection,False
+556,D003627,"Data Interpretation, Statistical",False
+557,D003628,Database Management Systems,False
+558,D003630,Daunorubicin,False
+559,D003644,Death Certificates,False
+560,D003657,Decision Making,False
+561,D003661,Decision Support Techniques,False
+562,D003663,Decision Trees,False
+563,D003668,Pressure Ulcer,False
+564,D003672,Defecation,False
+565,D003676,Deferoxamine,False
+566,D003678,"Defoliants, Chemical",False
+567,D003687,Dehydroepiandrosterone,False
+568,D003692,Delayed-Action Preparations,False
+569,D003695,Delivery of Health Care,False
+570,D003697,Delphi Technique,False
+571,D003710,Demography,False
+572,D003713,Dendritic Cells,False
+573,D003718,Denmark,True
+574,D003841,Deoxycytidine,False
+575,D003849,Deoxyguanosine,False
+576,D003863,Depression,False
+577,D003866,Depressive Disorder,False
+578,D003894,Deamino Arginine Vasopressin,False
+579,D003896,Desmosomes,False
+580,D003907,Dexamethasone,False
+581,D003911,Dextrans,False
+582,D003920,Diabetes Mellitus,False
+583,D003921,"Diabetes Mellitus, Experimental",False
+584,D003924,"Diabetes Mellitus, Type 2",False
+585,D003936,"Diagnosis, Computer-Assisted",False
+586,D003937,"Diagnosis, Differential",False
+587,D003950,"Diagnostic Techniques, Urological",False
+588,D003951,Diagnostic Errors,False
+589,D003952,Diagnostic Imaging,False
+590,D003955,"Diagnostic Tests, Routine",False
+591,D003967,Diarrhea,False
+592,D004002,Clodronic Acid,False
+593,D004008,Diclofenac,False
+594,D004032,Diet,False
+595,D004040,Dietary Carbohydrates,False
+596,D004041,Dietary Fats,False
+597,D004043,Dietary Fiber,False
+598,D004054,Diethylstilbestrol,False
+599,D004058,Diffusion,False
+600,D004059,Diffusion of Innovation,False
+601,D004067,Digestive System Neoplasms,False
+602,D004073,Digitoxigenin,False
+603,D004074,Digitoxin,False
+604,D004077,Digoxin,False
+605,D004106,Dilatation,False
+606,D004108,"Dilatation, Pathologic",False
+607,D004110,Diltiazem,False
+608,D004121,Dimethyl Sulfoxide,False
+609,D004122,Dimethylallyltranstransferase,False
+610,D004147,Dioxins,False
+611,D004149,Dioxoles,False
+612,D004151,Dipeptides,False
+613,D004164,Diphosphonates,False
+614,D004167,Diphtheria Toxin,False
+615,D004171,Diploidy,False
+616,D004185,Disability Evaluation,False
+617,D004194,Disease,False
+618,D004195,"Disease Models, Animal",False
+619,D004198,Disease Susceptibility,False
+620,D004211,Disseminated Intravascular Coagulation,False
+621,D004221,Disulfiram,False
+622,D004224,Diterpenes,False
+623,D004247,DNA,False
+624,D004248,DNA (Cytosine-5-)-Methyltransferase,False
+625,D004249,DNA Damage,False
+626,D004250,"DNA Topoisomerases, Type II",False
+627,D004252,DNA Mutational Analysis,False
+628,D004259,DNA-Directed DNA Polymerase,False
+629,D004260,DNA Repair,False
+630,D004261,DNA Replication,False
+631,D004264,"DNA Topoisomerases, Type I",False
+632,D004267,DNA Viruses,False
+633,D004268,DNA-Binding Proteins,False
+634,D004269,"DNA, Bacterial",False
+635,D004272,"DNA, Mitochondrial",False
+636,D004273,"DNA, Neoplasm",False
+637,D004279,"DNA, Viral",False
+638,D004281,Docosahexaenoic Acids,False
+639,D004283,Dog Diseases,False
+640,D004285,Dogs,False
+641,D004298,Dopamine,False
+642,D004305,"Dose-Response Relationship, Drug",False
+643,D004307,"Dose-Response Relationship, Radiation",False
+644,D004311,Double-Blind Method,False
+645,D004317,Doxorubicin,False
+646,D004318,Doxycycline,False
+647,D004322,Drainage,False
+648,D004327,Drinking Behavior,False
+649,D004333,Drug Administration Routes,False
+650,D004334,Drug Administration Schedule,False
+651,D004337,Drug Carriers,False
+652,D004338,Drug Combinations,False
+653,D004339,Drug Compounding,False
+654,D004341,Drug Evaluation,False
+655,D004345,Drug Industry,False
+656,D004347,Drug Interactions,False
+657,D004353,"Drug Evaluation, Preclinical",False
+658,D004354,"Drug Screening Assays, Antitumor",False
+659,D004355,Drug Stability,False
+660,D004357,Drug Synergism,False
+661,D004359,"Drug Therapy, Combination",False
+662,D004364,Pharmaceutical Preparations,False
+663,D004365,"Drugs, Chinese Herbal",False
+664,D004369,Pentetic Acid,False
+665,D004396,Coloring Agents,False
+666,D004416,Dysplastic Nevus Syndrome,False
+667,D004417,Dyspnea,False
+668,D004424,Ear Canal,False
+669,D004427,Ear Diseases,False
+670,D004465,Economic Competition,False
+671,D004487,Edema,False
+672,D004492,Edetic Acid,False
+673,D004493,Education,False
+674,D004502,"Education, Medical, Continuing",False
+675,D004521,Educational Measurement,False
+676,D004522,Educational Status,False
+677,D004534,Egypt,True
+678,D004543,Ejaculatory Ducts,False
+679,D004553,Electric Conductivity,False
+680,D004558,Electric Stimulation,False
+681,D004563,Electrochemistry,False
+682,D004566,Electrodes,False
+683,D004574,Electromagnetic Fields,False
+684,D004578,Electron Spin Resonance Spectroscopy,False
+685,D004583,Electrons,False
+686,D004591,"Electrophoresis, Polyacrylamide Gel",False
+687,D004622,"Embryo, Mammalian",False
+688,D004625,"Embryo, Nonmammalian",False
+689,D004630,Emergencies,False
+690,D004636,"Emergency Service, Hospital",False
+691,D004642,Emodin,False
+692,D004644,Emotions,False
+693,D004645,Empathy,False
+694,D004651,Employment,False
+695,D004701,Endocrine Gland Neoplasms,False
+696,D004702,Endocrine Glands,False
+697,D004704,Endocrinology,False
+698,D004705,Endocytosis,False
+699,D004706,Endodeoxyribonucleases,False
+700,D004714,Endometrial Hyperplasia,False
+701,D004720,Endonucleases,False
+702,D004721,Endoplasmic Reticulum,False
+703,D004722,Endoribonucleases,False
+704,D004724,Endoscopy,False
+705,D004730,"Endothelium, Vascular",False
+706,D004733,Enema,False
+707,D004734,Energy Metabolism,False
+708,D004739,England,True
+709,D004742,"Enhancer Elements, Genetic",False
+710,D004761,"Enterocolitis, Pseudomembranous",False
+711,D004781,Environmental Exposure,False
+712,D004782,Environmental Health,False
+713,D004785,Environmental Pollutants,False
+714,D004789,Enzyme Activation,False
+715,D004790,Enzyme Induction,False
+716,D004791,Enzyme Inhibitors,False
+717,D004795,Enzyme Stability,False
+718,D004797,Enzyme-Linked Immunosorbent Assay,False
+719,D004801,Eosine Yellowish-(YS),False
+720,D004804,Eosinophils,False
+721,D004815,Epidermal Growth Factor,False
+722,D004823,Epididymitis,False
+723,D004837,Epinephrine,False
+724,D004847,Epithelial Cells,False
+725,D004848,Epithelium,False
+726,D004854,"Herpesvirus 4, Human",False
+727,D004867,Equipment Design,False
+728,D004868,Equipment Failure,False
+729,D004920,Erythropoiesis,False
+730,D004921,Erythropoietin,False
+731,D004926,Escherichia coli,False
+732,D004927,Escherichia coli Infections,False
+733,D004938,Esophageal Neoplasms,False
+734,D004947,Esophagus,False
+735,D004952,Esters,False
+736,D004958,Estradiol,False
+737,D004960,Estradiol Dehydrogenases,False
+738,D004961,Estramustine,False
+739,D004963,Estrenes,False
+740,D004965,Estrogen Antagonists,False
+741,D004967,Estrogens,False
+742,D004968,"Estrogens, Non-Steroidal",False
+743,D004970,Estrone,False
+744,D005006,Ethnic Groups,False
+745,D005060,Europe,True
+746,D005062,European Union,False
+747,D005075,Biological Evolution,False
+748,D005081,Exercise Therapy,False
+749,D005091,Exons,False
+750,D005094,Exophthalmos,False
+751,D005098,Exotoxins,False
+752,D005102,Health Expenditures,False
+753,D005104,Expert Testimony,False
+754,D005109,Extracellular Matrix,False
+755,D005110,Extracellular Space,False
+756,D005127,Eye Color,False
+757,D005174,Factor XII,False
+758,D005188,False Negative Reactions,False
+759,D005189,False Positive Reactions,False
+760,D005190,Family,False
+761,D005191,Family Characteristics,False
+762,D005194,Family Practice,False
+763,D005204,Farnesol,False
+764,D005205,Fascia,False
+765,D005221,Fatigue,False
+766,D005227,Fatty Acids,False
+767,D005229,"Fatty Acids, Monounsaturated",False
+768,D005231,"Fatty Acids, Unsaturated",False
+769,D005239,Fear,False
+770,D005240,Feasibility Studies,False
+771,D005243,Feces,False
+772,D005244,Fecal Impaction,False
+773,D005246,Feedback,False
+774,D005260,Female,False
+775,D005264,Femoral Fractures,False
+776,D005266,Femoral Neoplasms,False
+777,D005269,Femur,False
+778,D005270,Femur Head,False
+779,D005293,Ferritins,False
+780,D005296,Ferrous Compounds,False
+781,D005298,Fertility,False
+782,D005326,Fetal Proteins,False
+783,D005336,Fiber Optic Technology,False
+784,D005337,Fibrin,False
+785,D005341,Fibrinolysin,False
+786,D005342,Fibrinolysis,False
+787,D005346,Fibroblast Growth Factors,False
+788,D005347,Fibroblasts,False
+789,D005353,Fibronectins,False
+790,D005354,Fibrosarcoma,False
+791,D005373,Film Dosimetry,False
+792,D005387,Finland,True
+793,D005395,Fish Oils,False
+794,D005410,Flame Ionization,False
+795,D005419,Flavonoids,False
+796,D005431,Florida,True
+797,D005434,Flow Cytometry,False
+798,D005440,Fluid Therapy,False
+799,D005452,Fluoresceins,False
+800,D005453,Fluorescence,False
+801,D005455,Fluorescent Antibody Technique,False
+802,D005456,Fluorescent Dyes,False
+803,D005462,Fluorine Radioisotopes,False
+804,D005464,Fluorobenzenes,False
+805,D005472,Fluorouracil,False
+806,D005485,Flutamide,False
+807,D005492,Folic Acid,False
+808,D005494,Folic Acid Deficiency,False
+809,D005500,Follow-Up Studies,False
+810,D005502,Food,False
+811,D005504,Food Analysis,False
+812,D005510,Food Habits,False
+813,D005544,Forecasting,False
+814,D005557,Formaldehyde,False
+815,D005576,Colforsin,False
+816,D005593,"Fracture Fixation, Internal",False
+817,D005598,"Fractures, Spontaneous",False
+818,D005599,"Fractures, Ununited",False
+819,D005602,France,True
+820,D005609,Free Radicals,False
+821,D005629,Frozen Sections,False
+822,D005638,Fruit,False
+823,D005640,Follicle Stimulating Hormone,False
+824,D005641,Tegafur,False
+825,D005663,Furans,False
+826,D005682,Gadolinium,False
+827,D005690,Galactose,False
+828,D005704,Gallbladder,False
+829,D005706,Gallbladder Neoplasms,False
+830,D005707,Gallic Acid,False
+831,D005708,Gallium,False
+832,D005710,Gallium Radioisotopes,False
+833,D005714,Gambia,True
+834,D005716,Game Theory,False
+835,D005720,Gamma Rays,False
+836,D005737,Garlic,False
+837,D005740,Gases,False
+838,D005753,Gastric Mucosa,False
+839,D005767,Gastrointestinal Diseases,False
+840,D005769,Gastrointestinal Motility,False
+841,D005770,Gastrointestinal Neoplasms,False
+842,D005780,Gelatin,False
+843,D005781,"Gelatin Sponge, Absorbable",False
+844,D005782,Gels,False
+845,D005784,Gene Amplification,False
+846,D005786,Gene Expression Regulation,False
+847,D005787,Gene Frequency,False
+848,D005796,Genes,False
+849,D005801,"Genes, Homeobox",False
+850,D005805,"Genes, MHC Class I",False
+851,D005807,"Genes, Overlapping",False
+852,D005818,Genetic Engineering,False
+853,D005819,Genetic Markers,False
+854,D005820,Genetic Testing,False
+855,D005822,Genetic Vectors,False
+856,D005833,"Genital Neoplasms, Female",False
+857,D005837,"Genitalia, Male",False
+858,D005838,Genotype,False
+859,D005839,Gentamicins,False
+860,D005843,Geography,False
+861,D005845,Georgia,True
+862,D005849,Gerbillinae,False
+863,D005858,Germany,True
+864,D005869,Ghana,True
+865,D005901,Glaucoma,False
+866,D005909,Glioblastoma,False
+867,D005910,Glioma,False
+868,D005919,Glomerular Filtration Rate,False
+869,D005938,Glucocorticoids,False
+870,D005947,Glucose,False
+871,D005951,Glucose Tolerance Test,False
+872,D005971,Glutamates,False
+873,D005973,Glutamine,False
+874,D005977,Glutarates,False
+875,D005978,Glutathione,False
+876,D005979,Glutathione Peroxidase,False
+877,D005980,Glutathione Reductase,False
+878,D005982,Glutathione Transferase,False
+879,D005992,Glycerol-3-Phosphate O-Acyltransferase,False
+880,D005996,Nitroglycerin,False
+881,D005998,Glycine,False
+882,D006003,Glycogen,False
+883,D006017,Glycolipids,False
+884,D006019,Glycolysis,False
+885,D006020,Glycopeptides,False
+886,D006023,Glycoproteins,False
+887,D006025,Glycosaminoglycans,False
+888,D006031,Glycosylation,False
+889,D006041,Goats,False
+890,D006046,Gold,False
+891,D006056,Golgi Apparatus,False
+892,D006069,Gonorrhea,False
+893,D006072,Gossypol,False
+894,D006108,Graphite,False
+895,D006113,Great Britain,True
+896,D006115,Greece,True
+897,D006131,Growth Inhibitors,False
+898,D006146,Guanidines,False
+899,D006147,Guanine,False
+900,D006162,Guanylate Cyclase,False
+901,D006176,Gynecology,False
+902,D006177,Gynecomastia,False
+903,D006184,Habits,False
+904,D006200,Hair Color,False
+905,D006207,Half-Life,False
+906,D006220,Haloperidol,False
+907,D006224,Cricetinae,False
+908,D006233,Disabled Persons,False
+909,D006239,Haplotypes,False
+910,D006242,Haptoglobins,False
+911,D006257,Head,False
+912,D006258,Head and Neck Neoplasms,False
+913,D006266,Health Education,False
+914,D006268,Health Facilities,False
+915,D006278,Medicare,False
+916,D006282,Health Personnel,False
+917,D006291,Health Policy,False
+918,D006293,Health Promotion,False
+919,D006295,Health Resources,False
+920,D006296,Health Services,False
+921,D006297,Health Services Accessibility,False
+922,D006299,Health Services for the Aged,False
+923,D006301,Health Services Needs and Demand,False
+924,D006304,Health Status,False
+925,D006305,Health Status Indicators,False
+926,D006306,Health Surveys,False
+927,D006338,Heart Neoplasms,False
+928,D006339,Heart Rate,False
+929,D006358,Hot Temperature,False
+930,D006360,Heat-Shock Proteins,False
+931,D006364,Hedgehogs,False
+932,D006367,HeLa Cells,False
+933,D006377,"T-Lymphocytes, Helper-Inducer",False
+934,D006388,Hemagglutinins,False
+935,D006392,"Hemangioma, Cavernous",False
+936,D006403,Hematologic Tests,False
+937,D006406,Hematoma,False
+938,D006412,Hematopoietic Stem Cells,False
+939,D006416,Hematoxylin,False
+940,D006417,Hematuria,False
+941,D006418,Heme,False
+942,D006435,Renal Dialysis,False
+943,D006442,"Hemoglobin A, Glycosylated",False
+944,D006454,Hemoglobins,False
+945,D006471,Gastrointestinal Hemorrhage,False
+946,D006489,Hemostatic Techniques,False
+947,D006490,Hemostatics,False
+948,D006493,Heparin,False
+949,D006495,"Heparin, Low-Molecular-Weight",False
+950,D006509,Hepatitis B,False
+951,D006515,Hepatitis B virus,False
+952,D006528,"Carcinoma, Hepatocellular",False
+953,D006538,Heptanoic Acids,False
+954,D006540,Herbicides,False
+955,D006552,"Hernia, Inguinal",False
+956,D006555,"Hernia, Ventral",False
+957,D006566,Herpesviridae Infections,False
+958,D006569,Hesperidin,False
+959,D006571,Heterocyclic Compounds,False
+960,D006573,"Heterocyclic Compounds, 1-Ring",False
+961,D006575,"Heterocyclic Compounds, 3-Ring",False
+962,D006576,Heterocyclic Compounds with 4 or More Rings,False
+963,D006579,Heterozygote,False
+964,D006580,Heterozygote Detection,False
+965,D006593,Hexokinase,False
+966,D006595,Hexosamines,False
+967,D006620,Hip Fractures,False
+968,D006622,Hip Prosthesis,False
+969,D006630,Hispanic Americans,False
+970,D006631,Amine Oxidase (Copper-Containing),False
+971,D006639,Histidine,False
+972,D006651,Histocytochemistry,False
+973,D006652,Histological Techniques,False
+974,D006655,Histone Deacetylases,False
+975,D006657,Histones,False
+976,D006679,HIV Seropositivity,False
+977,D006689,Hodgkin Disease,False
+978,D006690,Bisbenzimidazole,False
+979,D006699,Home Care Services,False
+980,D006706,Homeostasis,False
+981,D006710,Homocysteine,False
+982,D006720,Homozygote,False
+983,D006723,Hong Kong,True
+984,D006727,Hormone Antagonists,False
+985,D006728,Hormones,False
+986,D006760,Hospitalization,False
+987,D006761,Hospitals,False
+988,D006764,"Hospitals, Community",False
+989,D006779,"Hospitals, Public",False
+990,D006784,"Hospitals, Teaching",False
+991,D006787,"Hospitals, Veterans",False
+992,D006801,Humans,False
+993,D006814,Hungary,True
+994,D006820,Hyaluronic Acid,False
+995,D006834,Hydrazines,False
+996,D006860,Hydrogen Bonding,False
+997,D006862,Hydrogen Sulfide,False
+998,D006863,Hydrogen-Ion Concentration,False
+999,D006868,Hydrolysis,False
+1000,D006869,Hydronephrosis,False
+1001,D006877,Hydroxamic Acids,False
+1002,D006899,Mixed Function Oxygenases,False
+1003,D006900,Hydroxylation,False
+1004,D006903,Hydroxymethylglutaryl CoA Reductases,False
+1005,D006911,Hydroxyprostaglandin Dehydrogenases,False
+1006,D006915,Hydroxytestosterones,False
+1007,D006931,Hyperbaric Oxygenation,False
+1008,D006934,Hypercalcemia,False
+1009,D006937,Hypercholesterolemia,False
+1010,D006943,Hyperglycemia,False
+1011,D006946,Hyperinsulinism,False
+1012,D006965,Hyperplasia,False
+1013,D006966,Hyperprolactinemia,False
+1014,D006968,"Hypersensitivity, Delayed",False
+1015,D006973,Hypertension,False
+1016,D006979,"Hyperthermia, Induced",False
+1017,D006984,Hypertrophy,False
+1018,D006996,Hypocalcemia,False
+1019,D007004,Hypoglycemic Agents,False
+1020,D007006,Hypogonadism,False
+1021,D007008,Hypokalemia,False
+1022,D007011,Hypoparathyroidism,False
+1023,D007023,"Hypotension, Controlled",False
+1024,D007030,Hypothalamo-Hypophyseal System,False
+1025,D007044,Hysterectomy,False
+1026,D007055,Iceland,True
+1027,D007081,Ileostomy,False
+1028,D007083,Iliac Artery,False
+1029,D007084,Iliac Vein,False
+1030,D007087,Illinois,True
+1031,D007089,Image Enhancement,False
+1032,D007090,"Image Interpretation, Computer-Assisted",False
+1033,D007091,"Image Processing, Computer-Assisted",False
+1034,D007093,Imidazoles,False
+1035,D007097,Imines,False
+1036,D007103,Immobilization,False
+1037,D007107,Immune System,False
+1038,D007108,Immune Tolerance,False
+1039,D007109,Immunity,False
+1040,D007111,"Immunity, Cellular",False
+1041,D007113,"Immunity, Innate",False
+1042,D007114,Immunization,False
+1043,D007117,"Immunization, Secondary",False
+1044,D007118,Immunoassay,False
+1045,D007124,Immunoenzyme Techniques,False
+1046,D007136,Immunoglobulins,False
+1047,D007140,Immunoglobulin Fab Fragments,False
+1048,D007141,Immunoglobulin Fc Fragments,False
+1049,D007150,Immunohistochemistry,False
+1050,D007153,Immunologic Deficiency Syndromes,False
+1051,D007157,Immunologic Surveillance,False
+1052,D007165,Immunosuppression,False
+1053,D007166,Immunosuppressive Agents,False
+1054,D007167,Immunotherapy,False
+1055,D007172,Erectile Dysfunction,False
+1056,D007182,Income,False
+1057,D007191,Indazoles,False
+1058,D007194,India,True
+1059,D007196,Indiana,True
+1060,D007202,Indicators and Reagents,False
+1061,D007211,Indoles,False
+1062,D007213,Indomethacin,False
+1063,D007214,Indonesia,True
+1064,D007221,Industry,False
+1065,D007223,Infant,False
+1066,D007231,"Infant, Newborn",False
+1067,D007247,"Infertility, Female",False
+1068,D007248,"Infertility, Male",False
+1069,D007249,Inflammation,False
+1070,D007257,Information Theory,False
+1071,D007258,Informed Consent,False
+1072,D007259,Infrared Rays,False
+1073,D007262,"Infusions, Intravenous",False
+1074,D007265,Inhibins,False
+1075,D007267,Injections,False
+1076,D007271,"Injections, Intradermal",False
+1077,D007274,"Injections, Intraperitoneal",False
+1078,D007275,"Injections, Intravenous",False
+1079,D007278,"Injections, Spinal",False
+1080,D007279,"Injections, Subcutaneous",False
+1081,D007294,Inositol,False
+1082,D007319,Sleep Initiation and Maintenance Disorders,False
+1083,D007328,Insulin,False
+1084,D007333,Insulin Resistance,False
+1085,D007334,Insulin-Like Growth Factor I,False
+1086,D007335,Insulin-Like Growth Factor II,False
+1087,D007345,Insurance Claim Review,False
+1088,D007348,"Insurance, Health",False
+1089,D007371,Interferon-gamma,False
+1090,D007372,Interferons,False
+1091,D007378,Interleukins,False
+1092,D007390,International Agencies,False
+1093,D007391,International Cooperation,False
+1094,D007398,Interpersonal Relations,False
+1095,D007407,Interviews as Topic,False
+1096,D007410,Intestinal Diseases,False
+1097,D007413,Intestinal Mucosa,False
+1098,D007414,Intestinal Neoplasms,False
+1099,D007422,Intestines,False
+1100,D007424,Intracellular Fluid,False
+1101,D007430,Intraoperative Care,False
+1102,D007432,Intraoperative Period,False
+1103,D007438,Introns,False
+1104,D007457,Iodine Radioisotopes,False
+1105,D007477,Ions,False
+1106,D007492,Iran,True
+1107,D007494,Ireland,True
+1108,D007496,Iridium Radioisotopes,False
+1109,D007501,Iron,False
+1110,D007521,Isocitrate Dehydrogenase,False
+1111,D007527,Isoenzymes,False
+1112,D007529,Isoflavones,False
+1113,D007553,Isotope Labeling,False
+1114,D007558,Italy,True
+1115,D007564,Japan,True
+1116,D007577,JC Virus,False
+1117,D007610,Kallikreins,False
+1118,D007621,Karyotyping,False
+1119,D007630,Kenya,True
+1120,D007633,Keratins,False
+1121,D007654,Ketoconazole,False
+1122,D007659,Ketones,False
+1123,D007668,Kidney,False
+1124,D007676,"Kidney Failure, Chronic",False
+1125,D007677,Kidney Function Tests,False
+1126,D007680,Kidney Neoplasms,False
+1127,D007694,"Killer Cells, Natural",False
+1128,D007700,Kinetics,False
+1129,D007701,Kinetin,False
+1130,D007713,Klinefelter Syndrome,False
+1131,D007722,"Health Knowledge, Attitudes, Practice",False
+1132,D007723,Korea,True
+1133,D007769,Lactams,False
+1134,D007774,Lactation,False
+1135,D007779,Lactobacillus acidophilus,False
+1136,D007783,Lactones,False
+1137,D007787,Lactose Intolerance,False
+1138,D007791,Lactoylglutathione Lyase,False
+1139,D007797,Laminin,False
+1140,D007822,Laryngeal Neoplasms,False
+1141,D007834,Lasers,False
+1142,D007866,Leg,False
+1143,D007887,Fabaceae,False
+1144,D007889,Leiomyoma,False
+1145,D007902,Length of Stay,False
+1146,D007909,Lenses,False
+1147,D007928,Lethal Dose 50,False
+1148,D007930,Leucine,False
+1149,D007938,Leukemia,False
+1150,D007951,"Leukemia, Myeloid",False
+1151,D007958,Leukocyte Count,False
+1152,D007962,Leukocytes,False
+1153,D007963,"Leukocytes, Mononuclear",False
+1154,D007964,Leukocytosis,False
+1155,D007976,Leupeptins,False
+1156,D007984,Leydig Cell Tumor,False
+1157,D007986,Luteinizing Hormone,False
+1158,D007987,Gonadotropin-Releasing Hormone,False
+1159,D007989,Libido,False
+1160,D008012,Lidocaine,False
+1161,D008017,Life Expectancy,False
+1162,D008018,Life Cycle Stages,False
+1163,D008019,Life Style,False
+1164,D008024,Ligands,False
+1165,D008027,Light,False
+1166,D008055,Lipids,False
+1167,D008074,Lipoproteins,False
+1168,D008076,"Cholesterol, HDL",False
+1169,D008081,Liposomes,False
+1170,D008097,Lithuania,True
+1171,D008099,Liver,False
+1172,D008113,Liver Neoplasms,False
+1173,D008114,"Liver Neoplasms, Experimental",False
+1174,D008134,Long-Term Care,False
+1175,D008136,Longevity,False
+1176,D008137,Longitudinal Studies,False
+1177,D008145,Louisiana,True
+1178,D008148,Lovastatin,False
+1179,D008156,Luciferases,False
+1180,D008163,Luminescent Measurements,False
+1181,D008164,Luminescent Proteins,False
+1182,D008175,Lung Neoplasms,False
+1183,D008180,"Lupus Erythematosus, Systemic",False
+1184,D008187,Lutetium,False
+1185,D008197,Lymph Node Excision,False
+1186,D008198,Lymph Nodes,False
+1187,D008206,Lymphatic Diseases,False
+1188,D008207,Lymphatic Metastasis,False
+1189,D008210,Lymphocele,False
+1190,D008213,Lymphocyte Activation,False
+1191,D008214,Lymphocytes,False
+1192,D008220,Lymphography,False
+1193,D008223,Lymphoma,False
+1194,D008224,"Lymphoma, Follicular",False
+1195,D008228,"Lymphoma, Non-Hodgkin",False
+1196,D008231,Lymphopenia,False
+1197,D008239,Lysine,False
+1198,D008243,1-Acylglycerophosphocholine O-Acyltransferase,False
+1199,D008244,Lysophosphatidylcholines,False
+1200,D008246,Lysophospholipids,False
+1201,D008247,Lysosomes,False
+1202,D008253,Macaca mulatta,False
+1203,D008264,Macrophages,False
+1204,D008279,Magnetic Resonance Imaging,False
+1205,D008280,Magnetics,False
+1206,D008297,Male,False
+1207,D008315,Malondialdehyde,False
+1208,D008321,"Mammary Glands, Animal",False
+1209,D008322,Mammals,False
+1210,D008325,"Mammary Neoplasms, Experimental",False
+1211,D008327,Mammography,False
+1212,D008329,Managed Care Programs,False
+1213,D008350,Manitoba,True
+1214,D008385,Marijuana Smoking,False
+1215,D008390,Markov Chains,False
+1216,D008401,Gas Chromatography-Mass Spectrometry,False
+1217,D008403,Mass Screening,False
+1218,D008404,Massachusetts,True
+1219,D008407,Mast Cells,False
+1220,D008408,Mastectomy,False
+1221,D008409,Mastication,False
+1222,D008418,Masturbation,False
+1223,D008422,Materials Testing,False
+1224,D008460,Meat,False
+1225,D008485,Medical Audit,False
+1226,D008487,Medical History Taking,False
+1227,D008488,Medical Illustration,False
+1228,D008490,Medical Informatics,False
+1229,D008495,Medical Oncology,False
+1230,D008498,Medical Record Linkage,False
+1231,D008499,Medical Records,False
+1232,D008503,Medical Staff,False
+1233,D008517,Phytotherapy,False
+1234,D008533,Megakaryocytes,False
+1235,D008540,Meiosis,False
+1236,D008545,Melanoma,False
+1237,D008546,"Melanoma, Experimental",False
+1238,D008550,Melatonin,False
+1239,D008562,Membrane Glycoproteins,False
+1240,D008565,Membrane Proteins,False
+1241,D008568,Memory,False
+1242,D008569,Memory Disorders,False
+1243,D008577,Meningeal Neoplasms,False
+1244,D008579,Meningioma,False
+1245,D008637,Mesenchymoma,False
+1246,D008648,Mesoderm,False
+1247,D008654,Mesothelioma,False
+1248,D008657,Metabolic Clearance Rate,False
+1249,D008659,Metabolic Diseases,False
+1250,D008660,Metabolism,False
+1251,D008668,Metallothionein,False
+1252,D008670,Metals,False
+1253,D008679,Metaplasia,False
+1254,D008687,Metformin,False
+1255,D008689,Methacrylates,False
+1256,D008697,Methane,False
+1257,D008698,Mesylates,False
+1258,D008727,Methotrexate,False
+1259,D008745,Methylation,False
+1260,D008752,Methylene Chloride,False
+1261,D008770,Methylnitrosourea,False
+1262,D008798,Mevalonic Acid,False
+1263,D008800,Mexico,True
+1264,D008807,"Mice, Inbred BALB C",False
+1265,D008808,"Mice, Inbred CBA",False
+1266,D008810,"Mice, Inbred C57BL",False
+1267,D008811,"Mice, Inbred DBA",False
+1268,D008815,"Mice, Inbred Strains",False
+1269,D008817,"Mice, Mutant Strains",False
+1270,D008819,"Mice, Nude",False
+1271,D008822,"Mice, Transgenic",False
+1272,D008823,Micelles,False
+1273,D008826,Microbial Sensitivity Tests,False
+1274,D008840,Microfilament Proteins,False
+1275,D008853,Microscopy,False
+1276,D008854,"Microscopy, Electron",False
+1277,D008855,"Microscopy, Electron, Scanning",False
+1278,D008856,"Microscopy, Fluorescence",False
+1279,D008862,"Microsomes, Liver",False
+1280,D008863,Microspheres,False
+1281,D008869,Microtubule-Associated Proteins,False
+1282,D008870,Microtubules,False
+1283,D008875,Middle Aged,False
+1284,D008887,Military Medicine,False
+1285,D008892,Milk,False
+1286,D008895,"Milk, Human",False
+1287,D008903,Minerals,False
+1288,D008910,Minnesota,True
+1289,D008913,Minority Groups,False
+1290,D008928,Mitochondria,False
+1291,D008930,"Mitochondria, Liver",False
+1292,D008933,Mitochondrial Swelling,False
+1293,D008938,Mitosis,False
+1294,D008940,Mitotic Index,False
+1295,D008941,Spindle Apparatus,False
+1296,D008942,Mitoxantrone,False
+1297,D008953,"Models, Anatomic",False
+1298,D008954,"Models, Biological",False
+1299,D008956,"Models, Chemical",False
+1300,D008957,"Models, Genetic",False
+1301,D008958,"Models, Molecular",False
+1302,D008960,"Models, Psychological",False
+1303,D008962,"Models, Theoretical",False
+1304,D008968,Molecular Conformation,False
+1305,D008969,Molecular Sequence Data,False
+1306,D008970,Molecular Weight,False
+1307,D008979,Moloney murine leukemia virus,False
+1308,D008991,"Monitoring, Physiologic",False
+1309,D008995,Monoamine Oxidase,False
+1310,D008996,Monoamine Oxidase Inhibitors,False
+1311,D009000,Monocytes,False
+1312,D009010,Monte Carlo Method,False
+1313,D009017,Morbidity,False
+1314,D009024,Morphogenesis,False
+1315,D009025,Morpholines,False
+1316,D009026,Mortality,False
+1317,D009028,Morula,False
+1318,D009038,Motion,False
+1319,D009042,Motivation,False
+1320,D009043,Motor Activity,False
+1321,D009044,Motor Cortex,False
+1322,D009068,Movement,False
+1323,D009073,Mozambique,True
+1324,D009077,Mucins,False
+1325,D009101,Multiple Myeloma,False
+1326,D009124,Muscle Proteins,False
+1327,D009126,Muscle Relaxation,False
+1328,D009130,"Muscle, Smooth",False
+1329,D009132,Muscles,False
+1330,D009133,Muscular Atrophy,False
+1331,D009135,Muscular Diseases,False
+1332,D009146,Music,False
+1333,D009154,Mutation,False
+1334,D009173,Mycophenolic Acid,False
+1335,D009195,Peroxidase,False
+1336,D009203,Myocardial Infarction,False
+1337,D009206,Myocardium,False
+1338,D009214,Myoma,False
+1339,D009218,Myosins,False
+1340,D009243,NAD,False
+1341,D009249,NADP,False
+1342,D009270,Naloxone,False
+1343,D009281,Naphthalenes,False
+1344,D009284,Naphthols,False
+1345,D009285,Naphthoquinones,False
+1346,D009287,Naphthyridines,False
+1347,D009292,Narcotic Antagonists,False
+1348,D009303,Nasopharyngeal Neoplasms,False
+1349,D009313,National Health Programs,False
+1350,D009316,National Institutes of Health (U.S.),False
+1351,D009325,Nausea,False
+1352,D009336,Necrosis,False
+1353,D009339,Needles,False
+1354,D009360,"Neoplastic Cells, Circulating",False
+1355,D009361,Neoplasm Invasiveness,False
+1356,D009362,Neoplasm Metastasis,False
+1357,D009363,Neoplasm Proteins,False
+1358,D009364,"Neoplasm Recurrence, Local",False
+1359,D009366,Neoplasm Seeding,False
+1360,D009367,Neoplasm Staging,False
+1361,D009368,Neoplasm Transplantation,False
+1362,D009369,Neoplasms,False
+1363,D009373,"Neoplasms, Germ Cell and Embryonal",False
+1364,D009374,"Neoplasms, Experimental",False
+1365,D009375,"Neoplasms, Glandular and Epithelial",False
+1366,D009376,"Neoplasms, Hormone-Dependent",False
+1367,D009378,"Neoplasms, Multiple Primary",False
+1368,D009381,"Neoplasms, Radiation-Induced",False
+1369,D009382,"Neoplasms, Unknown Primary",False
+1370,D009386,"Neoplastic Syndromes, Hereditary",False
+1371,D009389,"Neovascularization, Pathologic",False
+1372,D009392,Nephrectomy,False
+1373,D009403,"Nephrostomy, Percutaneous",False
+1374,D009407,Nerve Block,False
+1375,D009414,Nerve Growth Factors,False
+1376,D009415,Nerve Net,False
+1377,D009418,S100 Proteins,False
+1378,D009419,Nerve Tissue Proteins,False
+1379,D009426,Netherlands,True
+1380,D009447,Neuroblastoma,False
+1381,D009455,Neurofibroma,False
+1382,D009474,Neurons,False
+1383,D009478,Neuropeptide Y,False
+1384,D009483,Neuropsychological Tests,False
+1385,D009490,Neurosecretory Systems,False
+1386,D009496,Neurotensin,False
+1387,D009502,Neutrons,False
+1388,D009504,Neutrophils,False
+1389,D009515,New Jersey,True
+1390,D009517,New South Wales,True
+1391,D009518,New York,True
+1392,D009519,New York City,True
+1393,D009520,New Zealand,True
+1394,D009532,Nickel,False
+1395,D009536,Niacinamide,False
+1396,D009549,Nigeria,True
+1397,D009557,Nipecotic Acids,False
+1398,D009566,Nitrates,False
+1399,D009569,Nitric Oxide,False
+1400,D009570,Nitriles,False
+1401,D009573,Nitrites,False
+1402,D009584,Nitrogen,False
+1403,D009596,Nitrophenols,False
+1404,D009626,Terminology as Topic,False
+1405,D009656,North America,True
+1406,D009657,North Carolina,True
+1407,D009658,North Dakota,True
+1408,D009664,Norway,True
+1409,D009675,Novobiocin,False
+1410,D009682,Magnetic Resonance Spectroscopy,False
+1411,D009683,Nuclear Medicine,False
+1412,D009685,Nuclear Envelope,False
+1413,D009687,Nuclear Proteins,False
+1414,D009690,Nucleic Acid Conformation,False
+1415,D009705,Nucleosides,False
+1416,D009707,Nucleosomes,False
+1417,D009716,"Numerical Analysis, Computer-Assisted",False
+1418,D009730,Nursing Assessment,False
+1419,D009735,Nursing Homes,False
+1420,D009749,Nutrition Surveys,False
+1421,D009751,Nutritional Requirements,False
+1422,D009753,Nutritive Value,False
+1423,D009754,Nuts,False
+1424,D009757,Nylons,False
+1425,D009765,Obesity,False
+1426,D009767,"Obesity, Morbid",False
+1427,D009774,Obstetrics,False
+1428,D009776,Obturator Nerve,False
+1429,D009780,Occult Blood,False
+1430,D009784,Occupational Diseases,False
+1431,D009790,Occupations,False
+1432,D009812,Odors,False
+1433,D009819,Office Visits,False
+1434,D009825,Oklahoma,True
+1435,D009841,Oligonucleotides,False
+1436,D009842,Oligopeptides,False
+1437,D009844,Oligosaccharides,False
+1438,D009857,Oncogenes,False
+1439,D009858,Oncogenic Viruses,False
+1440,D009859,Oncology Nursing,False
+1441,D009862,Online Systems,False
+1442,D009864,Ontario,True
+1443,D009865,Oocytes,False
+1444,D009900,Optic Nerve,False
+1445,D009916,Orbital Diseases,False
+1446,D009918,Orbital Neoplasms,False
+1447,D009919,Orchiectomy,False
+1448,D009920,Orchitis,False
+1449,D009922,Oregon,True
+1450,D009924,Organ Culture Techniques,False
+1451,D009928,Organ Specificity,False
+1452,D009929,Organ Size,False
+1453,D009930,Organic Chemicals,False
+1454,D009942,Organometallic Compounds,False
+1455,D009943,Organophosphorus Compounds,False
+1456,D009944,Organoplatinum Compounds,False
+1457,D009948,Orgasm,False
+1458,D009955,Ornithine Decarboxylase,False
+1459,D009962,Orotate Phosphoribosyltransferase,False
+1460,D009999,"Ossification, Heterotopic",False
+1461,D010006,Osteoblasts,False
+1462,D010010,Osteoclasts,False
+1463,D010012,Osteogenesis,False
+1464,D010014,Osteolysis,False
+1465,D010015,"Osteolysis, Essential",False
+1466,D010024,Osteoporosis,False
+1467,D010027,Osteotomy,False
+1468,D010039,Otorhinolaryngologic Neoplasms,False
+1469,D010043,Outcome and Process Assessment (Health Care),False
+1470,D010045,Outpatients,False
+1471,D010051,Ovarian Neoplasms,False
+1472,D010053,Ovary,False
+1473,D010080,Oxazoles,False
+1474,D010084,Oxidation-Reduction,False
+1475,D010085,Oxidative Phosphorylation,False
+1476,D010088,Oxidoreductases,False
+1477,D010091,Oximes,False
+1478,D010092,Oximetry,False
+1479,D010100,Oxygen,False
+1480,D010101,Oxygen Consumption,False
+1481,D010102,Oxygen Inhalation Therapy,False
+1482,D010138,"Pacemaker, Artificial",False
+1483,D010146,Pain,False
+1484,D010147,Pain Measurement,False
+1485,D010149,"Pain, Postoperative",False
+1486,D010154,Pakistan,True
+1487,D010165,Palladium,False
+1488,D010166,Palliative Care,False
+1489,D010174,Pamphlets,False
+1490,D010179,Pancreas,False
+1491,D010183,Pancreatic Ducts,False
+1492,D010189,Pancreatic Juice,False
+1493,D010190,Pancreatic Neoplasms,False
+1494,D010212,Papilloma,False
+1495,D010226,Parabens,False
+1496,D010255,Paranasal Sinus Neoplasms,False
+1497,D010257,Paraneoplastic Syndromes,False
+1498,D010264,Paraplegia,False
+1499,D010275,Parasympathetic Nervous System,False
+1500,D010293,Pargyline,False
+1501,D010306,Parotid Gland,False
+1502,D010315,Particle Accelerators,False
+1503,D010316,Particle Size,False
+1504,D010330,Patents as Topic,False
+1505,D010338,"Pathology, Clinical",False
+1506,D010340,"Pathology, Surgical",False
+1507,D010342,Patient Acceptance of Health Care,False
+1508,D010347,Patient Care Planning,False
+1509,D010348,Patient Care Team,False
+1510,D010349,Patient Compliance,False
+1511,D010352,Patient Dropouts,False
+1512,D010353,Patient Education as Topic,False
+1513,D010355,Patient Identification Systems,False
+1514,D010358,Patient Participation,False
+1515,D010359,Patient Readmission,False
+1516,D010363,"Pattern Recognition, Automated",False
+1517,D010375,Pedigree,False
+1518,D010384,Pelvic Bones,False
+1519,D010385,Pelvic Exenteration,False
+1520,D010386,Pelvic Neoplasms,False
+1521,D010388,Pelvis,False
+1522,D010410,Penile Erection,False
+1523,D010412,Penile Neoplasms,False
+1524,D010413,Penis,False
+1525,D010446,Peptide Fragments,False
+1526,D010447,Peptide Hydrolases,False
+1527,D010450,Endopeptidases,False
+1528,D010455,Peptides,False
+1529,D010456,"Peptides, Cyclic",False
+1530,D010465,Perception,False
+1531,D010502,Perineum,False
+1532,D010506,Periodicals as Topic,False
+1533,D010523,Peripheral Nervous System Diseases,False
+1534,D010524,Peripheral Nervous System Neoplasms,False
+1535,D010525,Peripheral Nerves,False
+1536,D010534,Peritoneal Neoplasms,False
+1537,D010535,Laparoscopy,False
+1538,D010537,Peritoneum,False
+1539,D010539,Permeability,False
+1540,D010549,Personal Satisfaction,False
+1541,D010554,Personality Disorders,False
+1542,D010555,Personality Inventory,False
+1543,D010558,Personnel Loyalty,False
+1544,D010575,Pesticides,False
+1545,D010595,Pharmacists,False
+1546,D010597,Pharmacogenetics,False
+1547,D010616,Phenanthrenes,False
+1548,D010617,Phenanthridines,False
+1549,D010618,Phenanthrolines,False
+1550,D010626,Phenylethyl Alcohol,False
+1551,D010636,Phenols,False
+1552,D010641,Phenotype,False
+1553,D010646,Phentolamine,False
+1554,D010647,Phenyl Ethers,False
+1555,D010654,Phenylbutyrates,False
+1556,D010669,Phenylthiohydantoin,False
+1557,D010671,Phenylurea Compounds,False
+1558,D010688,Phimosis,False
+1559,D010710,Phosphates,False
+1560,D010711,Phosphatidate Phosphatase,False
+1561,D010718,Phosphatidylserines,False
+1562,D010738,Type C Phospholipases,False
+1563,D010743,Phospholipids,False
+1564,D010744,Phosphoric Monoester Hydrolases,False
+1565,D010749,Phosphoprotein Phosphatases,False
+1566,D010750,Phosphoproteins,False
+1567,D010751,Phosphopyruvate Hydratase,False
+1568,D010755,Organophosphates,False
+1569,D010766,Phosphorylation,False
+1570,D010767,Phosphorylcholine,False
+1571,D010770,Phosphotransferases,False
+1572,D010778,Photochemotherapy,False
+1573,D010789,Phototherapy,False
+1574,D010793,Phthalazines,False
+1575,D010802,Phylogeny,False
+1576,D010807,Physical Endurance,False
+1577,D010808,Physical Examination,False
+1578,D010809,Physical Fitness,False
+1579,D010817,Physician-Patient Relations,False
+1580,D010818,"Practice Patterns, Physicians'",False
+1581,D010819,Physician's Role,False
+1582,D010820,Physicians,False
+1583,D010840,Phytosterols,False
+1584,D010848,Picolinic Acids,False
+1585,D010865,Pilot Projects,False
+1586,D010879,Piperazines,False
+1587,D010880,Piperidines,False
+1588,D010881,Piperidones,False
+1589,D010899,Pituitary Apoplexy,False
+1590,D010900,Pituitary Diseases,False
+1591,D010903,"Pituitary Gland, Anterior",False
+1592,D010911,Pituitary Neoplasms,False
+1593,D010913,Pituitary-Adrenal System,False
+1594,D010936,Plant Extracts,False
+1595,D010938,Plant Oils,False
+1596,D010944,Plants,False
+1597,D010946,"Plants, Medicinal",False
+1598,D010949,Plasma,False
+1599,D010957,Plasmids,False
+1600,D010972,Platelet Activating Factor,False
+1601,D010975,Platelet Aggregation Inhibitors,False
+1602,D010984,Platinum,False
+1603,D010992,"Plethysmography, Impedance",False
+1604,D010997,Pleural Neoplasms,False
+1605,D011003,Ploidies,False
+1606,D011028,"Pneumoperitoneum, Artificial",False
+1607,D011050,Policy Making,False
+1608,D011060,Poloxalene,False
+1609,D011065,Poly(ADP-ribose) Polymerases,False
+1610,D011070,Poly I-C,False
+1611,D011071,Poly T,False
+1612,D011073,Polyamines,False
+1613,D011078,Polychlorinated Biphenyls,False
+1614,D011083,Polycyclic Compounds,False
+1615,D011085,Polycystic Ovary Syndrome,False
+1616,D011086,Polycythemia,False
+1617,D011091,Polyesters,False
+1618,D011092,Polyethylene Glycols,False
+1619,D011095,Polyethylenes,False
+1620,D011099,Polyglutamic Acid,False
+1621,D011100,Polyglycolic Acid,False
+1622,D011107,Polylysine,False
+1623,D011108,Polymers,False
+1624,D011109,Polymethacrylic Acids,False
+1625,D011110,"Polymorphism, Genetic",False
+1626,D011111,Polymyalgia Rheumatica,False
+1627,D011122,Polyphosphates,False
+1628,D011123,Polyploidy,False
+1629,D011125,Adenomatous Polyposis Coli,False
+1630,D011127,Polyps,False
+1631,D011134,Polysaccharides,False
+1632,D011159,Population Surveillance,False
+1633,D011161,Porifera,False
+1634,D011166,Porphyrins,False
+1635,D011169,Portal Vein,False
+1636,D011174,Portugal,True
+1637,D011182,Postoperative Care,False
+1638,D011183,Postoperative Complications,False
+1639,D011184,Postoperative Period,False
+1640,D011187,Posture,False
+1641,D011203,Poverty,False
+1642,D011211,Electric Power Supplies,False
+1643,D011224,Prazosin,False
+1644,D011230,Precancerous Conditions,False
+1645,D011237,Predictive Value of Tests,False
+1646,D011239,Prednisolone,False
+1647,D011241,Prednisone,False
+1648,D011247,Pregnancy,False
+1649,D011257,Pregnancy Proteins,False
+1650,D011287,Prejudice,False
+1651,D011300,Preoperative Care,False
+1652,D011312,Pressure,False
+1653,D011314,Preventive Health Services,False
+1654,D011320,Primary Health Care,False
+1655,D011322,Primary Prevention,False
+1656,D011336,Probability,False
+1657,D011349,Proctitis,False
+1658,D011351,Proctoscopy,False
+1659,D011353,Prodigiosin,False
+1660,D011355,Prodrugs,False
+1661,D011369,Professional-Patient Relations,False
+1662,D011372,Progestins,False
+1663,D011374,Progesterone,False
+1664,D011379,Prognosis,False
+1665,D011381,Programming Languages,False
+1666,D011388,Prolactin,False
+1667,D011401,"Promoter Regions, Genetic",False
+1668,D011412,Propanolamines,False
+1669,D011424,Propionibacterium,False
+1670,D011425,Propionibacterium acnes,False
+1671,D011433,Propranolol,False
+1672,D011446,Prospective Studies,False
+1673,D011453,Prostaglandins,False
+1674,D011467,Prostate,False
+1675,D011468,Prostatectomy,False
+1676,D011469,Prostatic Diseases,False
+1677,D011470,Prostatic Hyperplasia,False
+1678,D011471,Prostatic Neoplasms,False
+1679,D011472,Prostatitis,False
+1680,D011474,Prosthesis Design,False
+1681,D011480,Protease Inhibitors,False
+1682,D011485,Protein Binding,False
+1683,D011487,Protein Conformation,False
+1684,D011489,Protein Denaturation,False
+1685,D011493,Protein Kinase C,False
+1686,D011494,Protein Kinases,False
+1687,D011498,Protein Precursors,False
+1688,D011499,"Protein Processing, Post-Translational",False
+1689,D011500,Protein Synthesis Inhibitors,False
+1690,D011503,Transglutaminases,False
+1691,D011505,Protein-Tyrosine Kinases,False
+1692,D011506,Proteins,False
+1693,D011509,Proteoglycans,False
+1694,D011518,Proto-Oncogene Proteins,False
+1695,D011522,Protons,False
+1696,D011523,Protoplasts,False
+1697,D011524,Protoporphyrins,False
+1698,D011533,Proviruses,False
+1699,D011554,Pseudopodia,False
+1700,D011564,Furocoumarins,False
+1701,D011565,Psoriasis,False
+1702,D011569,Psychiatric Status Rating Scales,False
+1703,D011581,Psychological Tests,False
+1704,D011591,"Psychology, Medical",False
+1705,D011594,Psychometrics,False
+1706,D011610,Psychosocial Deprivation,False
+1707,D011613,Psychotherapy,False
+1708,D011615,"Psychotherapy, Group",False
+1709,D011627,Puberty,False
+1710,D011634,Public Health,False
+1711,D011639,Public Opinion,False
+1712,D011647,Puerto Rico,True
+1713,D011655,Pulmonary Embolism,False
+1714,D011685,Purine Nucleotides,False
+1715,D011687,Purines,False
+1716,D011700,Putrescine,False
+1717,D011719,Pyrazines,False
+1718,D011720,Pyrazoles,False
+1719,D011724,Pyridazines,False
+1720,D011725,Pyridines,False
+1721,D011728,Pyridones,False
+1722,D011743,Pyrimidines,False
+1723,D011758,Pyrroles,False
+1724,D011759,Pyrrolidines,False
+1725,D011760,Pyrrolidinones,False
+1726,D011770,Pyruvate Kinase,False
+1727,D011773,Pyruvates,False
+1728,D011780,Qatar,True
+1729,D011785,"Quality Assurance, Health Care",False
+1730,D011786,Quality Control,False
+1731,D011787,Quality of Health Care,False
+1732,D011788,Quality of Life,False
+1733,D011792,Quebec,True
+1734,D011793,Queensland,True
+1735,D011794,Quercetin,False
+1736,D011795,Surveys and Questionnaires,False
+1737,D011799,Quinazolines,False
+1738,D011804,Quinolines,False
+1739,D011808,Quinone Reductases,False
+1740,D011810,Quinoxalines,False
+1741,D011817,Rabbits,False
+1742,D011829,Radiation Dosage,False
+1743,D011832,Radiation Injuries,False
+1744,D011833,"Radiation Injuries, Experimental",False
+1745,D011834,Radiation Monitoring,False
+1746,D011835,Radiation Protection,False
+1747,D011836,Radiation Tolerance,False
+1748,D011837,Radiation-Protective Agents,False
+1749,D011838,Radiation-Sensitizing Agents,False
+1750,D011839,"Radiation, Ionizing",False
+1751,D011849,Radioactive Tracers,False
+1752,D011854,Radiochemistry,False
+1753,D011856,Radiographic Image Enhancement,False
+1754,D011857,"Radiographic Image Interpretation, Computer-Assisted",False
+1755,D011860,"Radiography, Abdominal",False
+1756,D011867,Radioisotope Teletherapy,False
+1757,D011868,Radioisotopes,False
+1758,D011871,Radiology,False
+1759,D011873,Radiology Information Systems,False
+1760,D011874,Radiometry,False
+1761,D011876,Radionuclide Generators,False
+1762,D011877,Radionuclide Imaging,False
+1763,D011878,Radiotherapy,False
+1764,D011879,Radiotherapy Dosage,False
+1765,D011880,"Radiotherapy Planning, Computer-Assisted",False
+1766,D011881,"Radiotherapy, Computer-Assisted",False
+1767,D011882,"Radiotherapy, High-Energy",False
+1768,D011883,Radium,False
+1769,D011897,Random Allocation,False
+1770,D011939,Mental Recall,False
+1771,D011944,"Receptors, Androgen",False
+1772,D011946,"Receptors, Antigen",False
+1773,D011948,"Receptors, Antigen, T-Cell",False
+1774,D011956,"Receptors, Cell Surface",False
+1775,D011958,"Receptor, Epidermal Growth Factor",False
+1776,D011960,"Receptors, Estrogen",False
+1777,D011962,"Receptors, FSH",False
+1778,D011965,"Receptors, Glucocorticoid",False
+1779,D011966,"Receptors, LHRH",False
+1780,D011968,"Receptors, Histamine",False
+1781,D011972,"Receptor, Insulin",False
+1782,D011973,"Receptors, LDL",False
+1783,D011980,"Receptors, Progesterone",False
+1784,D011981,"Receptors, Prolactin",False
+1785,D011987,"Receptors, Steroid",False
+1786,D011990,"Receptors, Transferrin",False
+1787,D011991,"Receptors, Virus",False
+1788,D011992,Endosomes,False
+1789,D011993,Recombinant Fusion Proteins,False
+1790,D011994,Recombinant Proteins,False
+1791,D011995,"Recombination, Genetic",False
+1792,D012002,Rectal Diseases,False
+1793,D012003,Rectal Fistula,False
+1794,D012004,Rectal Neoplasms,False
+1795,D012007,Rectum,False
+1796,D012008,Recurrence,False
+1797,D012015,Reference Standards,False
+1798,D012016,Reference Values,False
+1799,D012017,Referral and Consultation,False
+1800,D012042,Registries,False
+1801,D012044,Regression Analysis,False
+1802,D012045,"Regulatory Sequences, Nucleic Acid",False
+1803,D012062,Relative Biological Effectiveness,False
+1804,D012064,Relaxation Therapy,False
+1805,D012086,Reoperation,False
+1806,D012097,Repressor Proteins,False
+1807,D012107,Research Design,False
+1808,D012109,Research Support as Topic,False
+1809,D012111,Residence Characteristics,False
+1810,D012118,Resorcinols,False
+1811,D012129,Respiratory Function Tests,False
+1812,D012131,Respiratory Insufficiency,False
+1813,D012137,Respiratory System,False
+1814,D012150,"Polymorphism, Restriction Fragment Length",False
+1815,D012156,Reticulocytes,False
+1816,D012175,Retinoblastoma,False
+1817,D012189,Retrospective Studies,False
+1818,D012192,Retroviridae Infections,False
+1819,D012194,RNA-Directed DNA Polymerase,False
+1820,D012196,Review Literature as Topic,False
+1821,D012208,Rhabdomyosarcoma,False
+1822,D012212,Rheology,False
+1823,D012235,Rhodamines,False
+1824,D012259,"Ribonuclease, Pancreatic",False
+1825,D012261,Ribonucleoproteins,False
+1826,D012262,Ribonucleoside Diphosphate Reductase,False
+1827,D012269,Ribosomal Proteins,False
+1828,D012270,Ribosomes,False
+1829,D012306,Risk,False
+1830,D012307,Risk Factors,False
+1831,D012313,RNA,False
+1832,D012319,RNA Polymerase II,False
+1833,D012322,RNA Precursors,False
+1834,D012323,"RNA Processing, Post-Transcriptional",False
+1835,D012326,RNA Splicing,False
+1836,D012329,"RNA, Bacterial",False
+1837,D012330,"RNA, Double-Stranded",False
+1838,D012333,"RNA, Messenger",False
+1839,D012334,"RNA, Neoplasm",False
+1840,D012335,"RNA, Ribosomal",False
+1841,D012336,"RNA, Ribosomal, 16S",False
+1842,D012343,"RNA, Transfer",False
+1843,D012367,"RNA, Viral",False
+1844,D012371,Robotics,False
+1845,D012372,ROC Curve,False
+1846,D012399,Rotation,False
+1847,D012402,Rotenone,False
+1848,D012421,Rupture,False
+1849,D012424,Rural Population,False
+1850,D012426,Russia,True
+1851,D012441,Saccharomyces cerevisiae,False
+1852,D012449,Safety,False
+1853,D012468,Salivary Gland Neoplasms,False
+1854,D012486,Salmonella typhimurium,False
+1855,D012494,Sampling Studies,False
+1856,D012503,Saponins,False
+1857,D012509,Sarcoma,False
+1858,D012512,"Sarcoma, Ewing",False
+1859,D012514,"Sarcoma, Kaposi",False
+1860,D012516,Osteosarcoma,False
+1861,D012521,Sarcosine,False
+1862,D012529,Saudi Arabia,True
+1863,D012537,Scandinavian and Nordic Countries,True
+1864,D012542,"Scattering, Radiation",False
+1865,D012554,Schistosomiasis japonica,False
+1866,D012559,Schizophrenia,False
+1867,D012572,School Health Services,False
+1868,D012583,Schwann Cells,False
+1869,D012606,Scotland,True
+1870,D012616,Sea Cucumbers,False
+1871,D012621,Seasons,False
+1872,D012626,Sebaceous Gland Neoplasms,False
+1873,D012643,Selenium,False
+1874,D012647,Self-Assessment,False
+1875,D012648,Self Care,False
+1876,D012649,Self Concept,False
+1877,D012657,Self-Help Groups,False
+1878,D012661,Semen,False
+1879,D012662,Semen Preservation,False
+1880,D012666,Semiconductors,False
+1881,D012669,Seminal Vesicles,False
+1882,D012677,Sensation,False
+1883,D012680,Sensitivity and Specificity,False
+1884,D012694,Serine,False
+1885,D012697,Serine Endopeptidases,False
+1886,D012703,Serotyping,False
+1887,D012708,Sertoli Cells,False
+1888,D012717,Sesquiterpenes,False
+1889,D012720,Severity of Illness Index,False
+1890,D012725,Sexual Behavior,False
+1891,D012731,Sex Counseling,False
+1892,D012735,"Sexual Dysfunction, Physiological",False
+1893,D012737,Sex Factors,False
+1894,D012738,Sex Hormone-Binding Globulin,False
+1895,D012739,Gonadal Steroid Hormones,False
+1896,D012744,Sex Ratio,False
+1897,D012747,Sexual Partners,False
+1898,D012749,Sexually Transmitted Diseases,False
+1899,D012771,"Shock, Hemorrhagic",False
+1900,D012772,"Shock, Septic",False
+1901,D012802,Sicily,True
+1902,D012811,Sigmoid Neoplasms,False
+1903,D012812,Sigmoidoscopy,False
+1904,D012815,"Signal Processing, Computer-Assisted",False
+1905,D012822,Silicon Dioxide,False
+1906,D012831,Bombyx,False
+1907,D012834,Silver,False
+1908,D012838,Silymarin,False
+1909,D012846,Singapore,True
+1910,D012847,Single Person,False
+1911,D012863,Skeleton,False
+1912,D012867,Skin,False
+1913,D012878,Skin Neoplasms,False
+1914,D012880,Skin Pigmentation,False
+1915,D012890,Sleep,False
+1916,D012891,Sleep Apnea Syndromes,False
+1917,D012892,Sleep Deprivation,False
+1918,D012893,Sleep Wake Disorders,False
+1919,D012907,Smoking,False
+1920,D012923,Social Class,False
+1921,D012935,Social Justice,False
+1922,D012938,Social Perception,False
+1923,D012944,Social Support,False
+1924,D012947,Social Work,False
+1925,D012955,"Societies, Medical",False
+1926,D012959,Socioeconomic Factors,False
+1927,D012964,Sodium,False
+1928,D012965,Sodium Chloride,False
+1929,D012969,Sodium Fluoride,False
+1930,D012983,Soft Tissue Neoplasms,False
+1931,D012984,Software,False
+1932,D012995,Solubility,False
+1933,D012997,Solvents,False
+1934,D013002,Somatomedins,False
+1935,D013006,Growth Hormone,False
+1936,D013007,Growth Hormone-Releasing Hormone,False
+1937,D013010,Sonication,False
+1938,D013016,Sound,False
+1939,D013019,South Africa,True
+1940,D013020,South America,True
+1941,D013022,South Carolina,True
+1942,D013023,South Dakota,True
+1943,D013025,Soybeans,False
+1944,D013030,Spain,True
+1945,D013038,Specialization,False
+1946,D013045,Species Specificity,False
+1947,D013046,Specific Gravity,False
+1948,D013048,Specimen Handling,False
+1949,D013050,"Spectrometry, Fluorescence",False
+1950,D013055,"Spectrophotometry, Infrared",False
+1951,D013056,"Spectrophotometry, Ultraviolet",False
+1952,D013057,Spectrum Analysis,False
+1953,D013058,Mass Spectrometry,False
+1954,D013059,"Spectrum Analysis, Raman",False
+1955,D013074,Sperm Banks,False
+1956,D013086,Spermatic Cord Torsion,False
+1957,D013087,Spermatids,False
+1958,D013091,Spermatogenesis,False
+1959,D013107,Sphingolipids,False
+1960,D013108,Sphingomyelin Phosphodiesterase,False
+1961,D013109,Sphingomyelins,False
+1962,D013110,Sphingosine,False
+1963,D013116,Spinal Cord,False
+1964,D013117,Spinal Cord Compression,False
+1965,D013120,Spinal Cord Neoplasms,False
+1966,D013125,Spinal Neoplasms,False
+1967,D013131,Spine,False
+1968,D013141,Spiro Compounds,False
+1969,D013156,Splenectomy,False
+1970,D013194,Staining and Labeling,False
+1971,D013196,Dihydrotestosterone,False
+1972,D013222,State Medicine,False
+1973,D013223,Statistics as Topic,False
+1974,D013229,Stearic Acids,False
+1975,D013234,Stem Cells,False
+1976,D013237,Stereoisomerism,False
+1977,D013240,Stereotyping,False
+1978,D013250,Steroid Hydroxylases,False
+1979,D013252,Steroid 11-beta-Hydroxylase,False
+1980,D013254,Steroid 17-alpha-Hydroxylase,False
+1981,D013256,Steroids,False
+1982,D013260,"Steroids, Heterocyclic",False
+1983,D013261,Sterols,False
+1984,D013267,Stilbenes,False
+1985,D013269,Stochastic Processes,False
+1986,D013274,Stomach Neoplasms,False
+1987,D013302,Streptomyces,False
+1988,D013311,Streptozocin,False
+1989,D013312,"Stress, Physiological",False
+1990,D013313,"Stress Disorders, Post-Traumatic",False
+1991,D013315,"Stress, Psychological",False
+1992,D013326,Strontium Radioisotopes,False
+1993,D013329,Structure-Activity Relationship,False
+1994,D013334,Students,False
+1995,D013347,Subcellular Fractions,False
+1996,D013375,Substance Withdrawal Syndrome,False
+1997,D013379,Substrate Specificity,False
+1998,D013382,Subtraction Technique,False
+1999,D013385,Succinate Dehydrogenase,False
+2000,D013395,Sucrose,False
+2001,D013438,Sulfhydryl Compounds,False
+2002,D013440,Sulfides,False
+2003,D013449,Sulfonamides,False
+2004,D013450,Sulfones,False
+2005,D013472,Sunlight,False
+2006,D013482,Superoxide Dismutase,False
+2007,D013488,Suppositories,False
+2008,D013499,Surface Properties,False
+2009,D013505,Digestive System Surgical Procedures,False
+2010,D013520,Urologic Surgical Procedures,False
+2011,D013521,"Urologic Surgical Procedures, Male",False
+2012,D013524,Surgical Flaps,False
+2013,D013530,Surgical Wound Infection,False
+2014,D013534,Survival,False
+2015,D013536,Suture Techniques,False
+2016,D013537,Sutures,False
+2017,D013546,Sweating,False
+2018,D013548,Sweden,True
+2019,D013552,Swine,False
+2020,D013557,Switzerland,True
+2021,D013577,Syndrome,False
+2022,D013601,T-Lymphocytes,False
+2023,D013602,"T-Lymphocytes, Cytotoxic",False
+2024,D013607,Tablets,False
+2025,D013624,Taiwan,True
+2026,D013629,Tamoxifen,False
+2027,D013647,Task Performance and Analysis,False
+2028,D013648,Tasmania,True
+2029,D013654,Taurine,False
+2030,D013662,Tea,False
+2031,D013667,Technetium,False
+2032,D013669,Technetium Tc 99m Medronate,False
+2033,D013673,"Technology Assessment, Biomedical",False
+2034,D013678,"Technology, Pharmaceutical",False
+2035,D013696,Temperature,False
+2036,D013727,Terminal Care,False
+2037,D013729,Terpenes,False
+2038,D013733,Testicular Diseases,False
+2039,D013736,Testicular Neoplasms,False
+2040,D013737,Testis,False
+2041,D013739,Testosterone,False
+2042,D013741,3-Oxo-5-alpha-Steroid 4-Dehydrogenase,False
+2043,D013749,Tetrachlorodibenzodioxin,False
+2044,D013752,Tetracycline,False
+2045,D013778,Tetrazolium Salts,False
+2046,D013781,Texas,True
+2047,D013785,Thailand,True
+2048,D013792,Thalidomide,False
+2049,D013811,Psychotherapeutic Processes,False
+2050,D013813,"Therapy, Computer-Assisted",False
+2051,D013816,Thermodynamics,False
+2052,D013830,Thiadiazoles,False
+2053,D013844,Thiazoles,False
+2054,D013859,Thiocarbamates,False
+2055,D013867,Thiohydantoins,False
+2056,D013871,Thiones,False
+2057,D013873,Thionucleotides,False
+2058,D013876,Thiophenes,False
+2059,D013879,Thioredoxins,False
+2060,D013880,Thioredoxin-Disulfide Reductase,False
+2061,D013885,Thiosulfates,False
+2062,D013890,Thiourea,False
+2063,D013899,Thoracic Neoplasms,False
+2064,D013917,Thrombin,False
+2065,D013923,Thromboembolism,False
+2066,D013927,Thrombosis,False
+2067,D013932,Thulium,False
+2068,D013936,Thymidine,False
+2069,D013937,Thymidine Kinase,False
+2070,D013939,Thymidine Phosphorylase,False
+2071,D013940,Thymidylate Synthase,False
+2072,D013950,Thymus Gland,False
+2073,D013961,Thyroid Gland,False
+2074,D013964,Thyroid Neoplasms,False
+2075,D013996,Time and Motion Studies,False
+2076,D013997,Time Factors,False
+2077,D014015,Tissue Banks,False
+2078,D014018,Tissue Distribution,False
+2079,D014020,Tissue Extracts,False
+2080,D014025,Titanium,False
+2081,D014026,Tobacco,False
+2082,D014052,Toluidines,False
+2083,D014053,Tomatine,False
+2084,D014054,Tomography,False
+2085,D014055,"Tomography, Emission-Computed",False
+2086,D014057,"Tomography, X-Ray Computed",False
+2087,D014059,Tongue,False
+2088,D014105,Tosyl Compounds,False
+2089,D014131,Trace Elements,False
+2090,D014138,Tracheoesophageal Fistula,False
+2091,D014148,Tranexamic Acid,False
+2092,D014150,Antipsychotic Agents,False
+2093,D014157,Transcription Factors,False
+2094,D014158,"Transcription, Genetic",False
+2095,D014159,Transducers,False
+2096,D014161,"Transduction, Genetic",False
+2097,D014162,Transfection,False
+2098,D014176,Protein Biosynthesis,False
+2099,D014177,Translations,False
+2100,D014178,"Translocation, Genetic",False
+2101,D014183,"Transplantation, Heterologous",False
+2102,D014212,Tretinoin,False
+2103,D014227,Triazines,False
+2104,D014230,Triazoles,False
+2105,D014246,Trichomonas vaginalis,False
+2106,D014277,Trigeminal Neuralgia,False
+2107,D014315,Triterpenes,False
+2108,D014343,Trypan Blue,False
+2109,D014357,Trypsin,False
+2110,D014364,Tryptophan,False
+2111,D014404,Tubulin,False
+2112,D014407,"Tumor Cells, Cultured",False
+2113,D014408,"Biomarkers, Tumor",False
+2114,D014409,Tumor Necrosis Factor-alpha,False
+2115,D014410,Tumor Stem Cell Assay,False
+2116,D014411,Neoplastic Stem Cells,False
+2117,D014412,Tumor Virus Infections,False
+2118,D014416,Tunisia,True
+2119,D014421,Turkey,True
+2120,D014443,Tyrosine,False
+2121,D014453,Glucuronosyltransferase,False
+2122,D014461,Ultracentrifugation,False
+2123,D014463,Ultrasonography,False
+2124,D014464,Ultrasonic Therapy,False
+2125,D014465,Ultrasonics,False
+2126,D014466,Ultraviolet Rays,False
+2127,D014469,Umbilical Arteries,False
+2128,D014472,Umbilicus,False
+2129,D014481,United States,True
+2130,D014486,United States Food and Drug Administration,False
+2131,D014493,United States Department of Veterans Affairs,False
+2132,D014498,Uracil,False
+2133,D014501,Uranium,False
+2134,D014505,Urban Population,False
+2135,D014508,Urea,False
+2136,D014513,Ureter,False
+2137,D014516,Ureteral Neoplasms,False
+2138,D014517,Ureteral Obstruction,False
+2139,D014521,Urethra,False
+2140,D014522,Urethral Diseases,False
+2141,D014523,Urethral Neoplasms,False
+2142,D014525,Urethral Stricture,False
+2143,D014546,Urinary Catheterization,False
+2144,D014547,Urinary Diversion,False
+2145,D014548,Urinary Fistula,False
+2146,D014549,Urinary Incontinence,False
+2147,D014550,"Urinary Incontinence, Stress",False
+2148,D014551,Urinary Tract,False
+2149,D014552,Urinary Tract Infections,False
+2150,D014554,Urination,False
+2151,D014555,Urination Disorders,False
+2152,D014556,Urine,False
+2153,D014561,Urochordata,False
+2154,D014563,Urodynamics,False
+2155,D014565,Urogenital Neoplasms,False
+2156,D014566,Urogenital System,False
+2157,D014568,Urokinase-Type Plasminogen Activator,False
+2158,D014570,Urologic Diseases,False
+2159,D014571,Urologic Neoplasms,False
+2160,D014572,Urology,False
+2161,D014584,User-Computer Interface,False
+2162,D014589,Utah,True
+2163,D014594,Uterine Neoplasms,False
+2164,D014599,Uterus,False
+2165,D014600,Utilization Review,False
+2166,D014611,Vaccination,False
+2167,D014614,"Vaccines, Synthetic",False
+2168,D014616,Vaccinia virus,False
+2169,D014618,Vacuum,False
+2170,D014625,Vaginal Neoplasms,False
+2171,D014626,Vaginal Smears,False
+2172,D014630,Vagus Nerve,False
+2173,D014644,Genetic Variation,False
+2174,D014649,Vas Deferens,False
+2175,D014652,Vascular Diseases,False
+2176,D014655,Vascular Resistance,False
+2177,D014659,Vasectomy,False
+2178,D014664,Vasodilation,False
+2179,D014665,Vasodilator Agents,False
+2180,D014675,Vegetables,False
+2181,D014704,Veratrum Alkaloids,False
+2182,D014709,Vero Cells,False
+2183,D014728,Veterans,False
+2184,D014739,Victoria,True
+2185,D014740,Vidarabine,False
+2186,D014741,Video Recording,False
+2187,D014746,Vimentin,False
+2188,D014747,Vinblastine,False
+2189,D014764,Viral Proteins,False
+2190,D014771,Virion,False
+2191,D014774,Virulence,False
+2192,D014779,Virus Replication,False
+2193,D014780,Viruses,False
+2194,D014781,Viscera,False
+2195,D014783,Viscosity,False
+2196,D014792,Visual Acuity,False
+2197,D014801,Vitamin A,False
+2198,D014803,Vitamin B Complex,False
+2199,D014805,Vitamin B 12,False
+2200,D014807,Vitamin D,False
+2201,D014808,Vitamin D Deficiency,False
+2202,D014810,Vitamin E,False
+2203,D014812,Vitamin K,False
+2204,D014815,Vitamins,False
+2205,D014850,Waiting Lists,False
+2206,D014852,Wales,True
+2207,D014861,Washington,True
+2208,D014867,Water,False
+2209,D014904,Western Australia,True
+2210,D014914,Whole Blood Coagulation Time,False
+2211,D014915,Whole-Body Counting,False
+2212,D014916,Whole-Body Irradiation,False
+2213,D014922,Wisconsin,True
+2214,D014940,Work Schedule Tolerance,False
+2215,D014943,Global Health,False
+2216,D014944,World Health Organization,False
+2217,D014945,Wound Healing,False
+2218,D014965,X-Rays,False
+2219,D014982,Xenopus laevis,False
+2220,D015003,Yeasts,False
+2221,D015027,Zebrafish,False
+2222,D015032,Zinc,False
+2223,D015040,Zirconium,False
+2224,D015060,"1,2-Dipalmitoylphosphatidylcholine",False
+2225,D015067,17-Hydroxysteroid Dehydrogenases,False
+2226,D015082,"2,2'-Dipyridyl",False
+2227,D015084,"2,4-Dichlorophenoxyacetic Acid",False
+2228,D015085,"2,4,5-Trichlorophenoxyacetic Acid",False
+2229,D015090,25-Hydroxyvitamin D3 1-alpha-Hydroxylase,False
+2230,D015091,beta-Alanine,False
+2231,D015096,3-Hydroxysteroid Dehydrogenases,False
+2232,D015118,Eicosapentaenoic Acid,False
+2233,D015119,Aminocaproic Acid,False
+2234,D015127,"9,10-Dimethyl-1,2-benzanthracene",False
+2235,D015141,Los Angeles,True
+2236,D015142,Baltimore,True
+2237,D015151,Immunoblotting,False
+2238,D015152,"Blotting, Northern",False
+2239,D015153,"Blotting, Western",False
+2240,D015162,Micronucleus Tests,False
+2241,D015179,Colorectal Neoplasms,False
+2242,D015180,"Electrophoresis, Gel, Two-Dimensional",False
+2243,D015182,Lymphatic Irradiation,False
+2244,D015195,Drug Design,False
+2245,D015201,Meta-Analysis as Topic,False
+2246,D015202,Protein Engineering,False
+2247,D015203,Reproducibility of Results,False
+2248,D015212,Inflammatory Bowel Diseases,False
+2249,D015214,"Antigens, Differentiation, Myelomonocytic",False
+2250,D015220,Calcium Channels,False
+2251,D015222,Sodium Channels,False
+2252,D015230,Prostaglandin D2,False
+2253,D015231,"Sexually Transmitted Diseases, Bacterial",False
+2254,D015232,Dinoprostone,False
+2255,D015233,"Models, Statistical",False
+2256,D015238,Sulfotransferases,False
+2257,D015251,Epirubicin,False
+2258,D015262,Xenobiotics,False
+2259,D015279,Organizational Culture,False
+2260,D015287,Neurokinin B,False
+2261,D015295,"Antigens, Tumor-Associated, Carbohydrate",False
+2262,D015316,Genetic Therapy,False
+2263,D015321,Gene Rearrangement,False
+2264,D015331,Cohort Studies,False
+2265,D015335,Molecular Probes,False
+2266,D015336,Molecular Probe Techniques,False
+2267,D015337,Multicenter Studies as Topic,False
+2268,D015342,DNA Probes,False
+2269,D015347,RNA Probes,False
+2270,D015360,"Analgesia, Epidural",False
+2271,D015365,Enoxacin,False
+2272,D015374,Biosensing Techniques,False
+2273,D015386,Hazardous Substances,False
+2274,D015394,Molecular Structure,False
+2275,D015395,Histocompatibility Antigens Class I,False
+2276,D015397,Program Evaluation,False
+2277,D015398,Signal Transduction,False
+2278,D015400,Clinical Nursing Research,False
+2279,D015415,Biomarkers,False
+2280,D015438,Health Behavior,False
+2281,D015444,Exercise,False
+2282,D015464,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",False
+2283,D015470,"Leukemia, Myeloid, Acute",False
+2284,D015473,"Leukemia, Promyelocytic, Acute",False
+2285,D015496,CD4-Positive T-Lymphocytes,False
+2286,D015507,"Drugs, Investigational",False
+2287,D015513,Oncogene Proteins,False
+2288,D015514,"Oncogene Proteins, Fusion",False
+2289,D015519,Bone Density,False
+2290,D015525,"Fatty Acids, Omega-3",False
+2291,D015533,Transcriptional Activation,False
+2292,D015534,Trans-Activators,False
+2293,D015536,Down-Regulation,False
+2294,D015552,"Injections, Intralesional",False
+2295,D015577,Geriatric Assessment,False
+2296,D015588,Observer Variation,False
+2297,D015596,Nutrition Assessment,False
+2298,D015603,Keratinocytes,False
+2299,D015607,Stents,False
+2300,D015609,Organotechnetium Compounds,False
+2301,D015641,"Radiography, Interventional",False
+2302,D015653,Cystectomy,False
+2303,D015658,HIV Infections,False
+2304,D015673,"Fatigue Syndrome, Chronic",False
+2305,D015674,"Mammary Neoplasms, Animal",False
+2306,D015675,Osteocalcin,False
+2307,D015683,"Gene Products, gag",False
+2308,D015687,Cell Hypoxia,False
+2309,D015703,"Antigens, CD",False
+2310,D015704,"Antigens, CD4",False
+2311,D015720,5'-Nucleotidase,False
+2312,D015735,Mifepristone,False
+2313,D015738,Famotidine,False
+2314,D015741,Metribolone,False
+2315,D015742,Propofol,False
+2316,D015774,Ganciclovir,False
+2317,D015775,"Fractures, Stress",False
+2318,D015777,Eicosanoids,False
+2319,D015786,Cytochromes b5,False
+2320,D015789,HLA-A2 Antigen,False
+2321,D015810,Linkage Disequilibrium,False
+2322,D015815,Cell Adhesion Molecules,False
+2323,D015820,Cadherins,False
+2324,D015843,Serpins,False
+2325,D015847,Interleukin-4,False
+2326,D015850,Interleukin-6,False
+2327,D015852,Eukaryotic Initiation Factor-2,False
+2328,D015854,Up-Regulation,False
+2329,D015870,Gene Expression,False
+2330,D015894,"Genome, Human",False
+2331,D015897,Comorbidity,False
+2332,D015899,"Tomography, Emission-Computed, Single-Photon",False
+2333,D015917,Penile Prosthesis,False
+2334,D015928,Cognitive Therapy,False
+2335,D015930,Diet Records,False
+2336,D015956,Factor XIIa,False
+2337,D015964,"Gene Expression Regulation, Bacterial",False
+2338,D015967,"Gene Expression Regulation, Viral",False
+2339,D015971,"Gene Expression Regulation, Enzymologic",False
+2340,D015972,"Gene Expression Regulation, Neoplastic",False
+2341,D015982,Bias (Epidemiology),False
+2342,D015983,Selection Bias,False
+2343,D015984,Causality,False
+2344,D015986,Confounding Factors (Epidemiology),False
+2345,D015992,Body Mass Index,False
+2346,D015994,Incidence,False
+2347,D015995,Prevalence,False
+2348,D015996,Survival Rate,False
+2349,D015999,Multivariate Analysis,False
+2350,D016000,Cluster Analysis,False
+2351,D016001,Confidence Intervals,False
+2352,D016009,Chi-Square Distribution,False
+2353,D016011,Normal Distribution,False
+2354,D016012,Poisson Distribution,False
+2355,D016013,Likelihood Functions,False
+2356,D016014,Linear Models,False
+2357,D016015,Logistic Models,False
+2358,D016016,Proportional Hazards Models,False
+2359,D016017,Odds Ratio,False
+2360,D016018,Least-Squares Analysis,False
+2361,D016019,Survival Analysis,False
+2362,D016022,Case-Control Studies,False
+2363,D016030,Kidney Transplantation,False
+2364,D016032,Randomized Controlled Trials as Topic,False
+2365,D016037,Single-Blind Method,False
+2366,D016055,Urinary Retention,False
+2367,D016060,Sorption Detoxification,False
+2368,D016062,Porosity,False
+2369,D016063,"Blood Loss, Surgical",False
+2370,D016103,Spinal Fractures,False
+2371,D016118,Anterior Cruciate Ligament,False
+2372,D016130,Immunophenotyping,False
+2373,D016133,Polymerase Chain Reaction,False
+2374,D016138,Walking,False
+2375,D016147,"Genes, Tumor Suppressor",False
+2376,D016158,"Genes, p53",False
+2377,D016159,Tumor Suppressor Protein p53,False
+2378,D016160,Retinoblastoma Protein,False
+2379,D016166,Free Radical Scavengers,False
+2380,D016176,T-Lymphocyte Subsets,False
+2381,D016178,Granulocyte-Macrophage Colony-Stimulating Factor,False
+2382,D016179,Granulocyte Colony-Stimulating Factor,False
+2383,D016190,Carboplatin,False
+2384,D016192,G0 Phase,False
+2385,D016193,G1 Phase,False
+2386,D016195,G2 Phase,False
+2387,D016196,S Phase,False
+2388,D016203,CDC2 Protein Kinase,False
+2389,D016206,"Databases, Bibliographic",False
+2390,D016207,Cytokines,False
+2391,D016208,"Databases, Factual",False
+2392,D016209,Interleukin-8,False
+2393,D016211,Transforming Growth Factor alpha,False
+2394,D016212,Transforming Growth Factor beta,False
+2395,D016213,Cyclins,False
+2396,D016219,"Immunotherapy, Adoptive",False
+2397,D016222,Fibroblast Growth Factor 2,False
+2398,D016227,Benzoquinones,False
+2399,D016232,Endothelins,False
+2400,D016233,"Immunotherapy, Active",False
+2401,D016239,MEDLINE,False
+2402,D016246,"Lymphocytes, Tumor-Infiltrating",False
+2403,D016259,"Genes, myc",False
+2404,D016269,Milk Hypersensitivity,False
+2405,D016271,Proto-Oncogene Proteins c-myc,False
+2406,D016272,Occupational Health,False
+2407,D016273,Occupational Exposure,False
+2408,D016294,"Models, Nursing",False
+2409,D016297,"Mutagenesis, Site-Directed",False
+2410,D016304,"Hospitals, Private",False
+2411,D016315,Proto-Oncogene Proteins c-abl,False
+2412,D016324,Sequence Tagged Sites,False
+2413,D016326,Extracellular Matrix Proteins,False
+2414,D016328,NF-kappa B,False
+2415,D016329,Sp1 Transcription Factor,False
+2416,D016333,HIV Protease,False
+2417,D016335,Zinc Fingers,False
+2418,D016343,"Monitoring, Intraoperative",False
+2419,D016345,Medicare Part B,False
+2420,D016347,"Medical Records Systems, Computerized",False
+2421,D016360,Clostridium difficile,False
+2422,D016366,Open Reading Frames,False
+2423,D016371,Cranial Irradiation,False
+2424,D016372,"RNA, Antisense",False
+2425,D016376,"Oligonucleotides, Antisense",False
+2426,D016378,Tissue Transplantation,False
+2427,D016387,Women's Health,False
+2428,D016391,"Genes, src",False
+2429,D016393,"Lymphoma, B-Cell",False
+2430,D016411,"Lymphoma, T-Cell, Peripheral",False
+2431,D016415,Sequence Alignment,False
+2432,D016466,CHO Cells,False
+2433,D016470,Bacteremia,False
+2434,D016475,3T3 Cells,False
+2435,D016477,Artifacts,False
+2436,D016480,Helicobacter pylori,False
+2437,D016481,Helicobacter Infections,False
+2438,D016482,Urinalysis,False
+2439,D016499,Radioimmunotherapy,False
+2440,D016503,Drug Delivery Systems,False
+2441,D016513,"Mice, SCID",False
+2442,D016518,Neurofibromatosis 2,False
+2443,D016526,Workload,False
+2444,D016540,Smoking Cessation,False
+2445,D016543,Central Nervous System Neoplasms,False
+2446,D016555,Matched-Pair Analysis,False
+2447,D016559,Tacrolimus,False
+2448,D016572,Cyclosporine,False
+2449,D016588,Anticarcinogenic Agents,False
+2450,D016591,Histocytological Preparation Techniques,False
+2451,D016593,Terfenadine,False
+2452,D016601,RNA-Binding Proteins,False
+2453,D016609,"Neoplasms, Second Primary",False
+2454,D016612,Paraffin Embedding,False
+2455,D016615,Telomere,False
+2456,D016634,Radiosurgery,False
+2457,D016650,Fluorescein-5-isothiocyanate,False
+2458,D016660,NAD(P)H Dehydrogenase (Quinone),False
+2459,D016678,Genome,False
+2460,D016680,"Genome, Bacterial",False
+2461,D016684,Prone Position,False
+2462,D016688,"Mice, Inbred NOD",False
+2463,D016692,"Receptors, Antigen, T-Cell, gamma-delta",False
+2464,D016707,Tissue Fixation,False
+2465,D016708,Synaptophysin,False
+2466,D016716,PC12 Cells,False
+2467,D016723,Bone Remodeling,False
+2468,D016729,Leuprolide,False
+2469,D016730,Program Development,False
+2470,D016741,"Urinary Sphincter, Artificial",False
+2471,D016753,Interleukin-10,False
+2472,D016755,Proto-Oncogene Proteins c-jun,False
+2473,D016764,Cell Polarity,False
+2474,D016859,Lipoxygenase Inhibitors,False
+2475,D016861,Cyclooxygenase Inhibitors,False
+2476,D016867,Immunocompromised Host,False
+2477,D016877,Oxidants,False
+2478,D016879,Salvage Therapy,False
+2479,D016880,Anisotropy,False
+2480,D016884,"Polyendocrinopathies, Autoimmune",False
+2481,D016889,Endometrial Neoplasms,False
+2482,D016895,"Culture Media, Serum-Free",False
+2483,D016896,Treatment Outcome,False
+2484,D016898,Interferon-alpha,False
+2485,D016903,Drug Monitoring,False
+2486,D016907,Adverse Drug Reaction Reporting Systems,False
+2487,D016914,Ribonuclease H,False
+2488,D016915,AIDS Vaccines,False
+2489,D016922,Cell Aging,False
+2490,D016923,Cell Death,False
+2491,D017024,"Chemotherapy, Adjuvant",False
+2492,D017027,Protein Tyrosine Phosphatases,False
+2493,D017028,Caregivers,False
+2494,D017048,Health Care Costs,False
+2495,D017052,Hospital Mortality,False
+2496,D017060,Patient Satisfaction,False
+2497,D017063,Outcome Assessment (Health Care),False
+2498,D017077,"Culture Media, Conditioned",False
+2499,D017079,Exercise Tolerance,False
+2500,D017097,Electric Impedance,False
+2501,D017104,Bacteriophage M13,False
+2502,D017115,Catheter Ablation,False
+2503,D017116,Low Back Pain,False
+2504,D017124,Conserved Sequence,False
+2505,D017132,Workplace,False
+2506,D017136,Ion Transport,False
+2507,D017144,Focus Groups,False
+2508,D017147,"Defibrillators, Implantable",False
+2509,D017154,Stromal Cells,False
+2510,D017207,"Rats, Sprague-Dawley",False
+2511,D017208,"Rats, Wistar",False
+2512,D017209,Apoptosis,False
+2513,D017211,Treatment Failure,False
+2514,D017216,Telemedicine,False
+2515,D017228,Hepatocyte Growth Factor,False
+2516,D017239,Paclitaxel,False
+2517,D017252,"Antigens, CD3",False
+2518,D017273,Goserelin,False
+2519,D017277,Drug Approval,False
+2520,D017281,Cost of Illness,False
+2521,D017286,Polysomnography,False
+2522,D017292,Doxazosin,False
+2523,D017304,Annexin A5,False
+2524,D017305,Annexin A1,False
+2525,D017319,Photosensitizing Agents,False
+2526,D017321,"Clinical Trials, Phase I as Topic",False
+2527,D017322,"Clinical Trials, Phase II as Topic",False
+2528,D017325,Hepatitis B Vaccines,False
+2529,D017326,"Clinical Trials, Phase III as Topic",False
+2530,D017346,Protein-Serine-Threonine Kinases,False
+2531,D017351,N-Acetylglucosaminyltransferases,False
+2532,D017352,Echo-Planar Imaging,False
+2533,D017353,Gene Deletion,False
+2534,D017354,Point Mutation,False
+2535,D017356,Synchrotrons,False
+2536,D017360,Arabidopsis,False
+2537,D017362,Cyclic AMP Response Element-Binding Protein,False
+2538,D017367,Serotonin Uptake Inhibitors,False
+2539,D017368,Protein Prenylation,False
+2540,D017370,Interleukin-11,False
+2541,D017382,Reactive Oxygen Species,False
+2542,D017384,Sequence Deletion,False
+2543,D017385,Sequence Homology,False
+2544,D017386,"Sequence Homology, Amino Acid",False
+2545,D017392,Thiobarbituric Acid Reactive Substances,False
+2546,D017395,Plasminogen Activator Inhibitor 1,False
+2547,D017397,Prefrontal Cortex,False
+2548,D017398,Alternative Splicing,False
+2549,D017403,In Situ Hybridization,False
+2550,D017404,"In Situ Hybridization, Fluorescence",False
+2551,D017408,Guidelines as Topic,False
+2552,D017410,Practice Guidelines as Topic,False
+2553,D017422,"Sequence Analysis, DNA",False
+2554,D017423,"Sequence Analysis, RNA",False
+2555,D017430,Prostate-Specific Antigen,False
+2556,D017433,"Protein Structure, Secondary",False
+2557,D017434,"Protein Structure, Tertiary",False
+2558,D017448,"Receptors, Dopamine D2",False
+2559,D017450,"Receptors, Opioid, mu",False
+2560,D017451,"Receptors, Somatomedin",False
+2561,D017467,"Receptors, Erythropoietin",False
+2562,D017468,"Receptors, Fibroblast Growth Factor",False
+2563,D017472,"Receptors, Interleukin-1",False
+2564,D017475,"Receptors, Nerve Growth Factor",False
+2565,D017493,"Antigens, CD45",False
+2566,D017500,Adenovirus E1A Proteins,False
+2567,D017510,Protein Folding,False
+2568,D017526,"Receptor, IGF Type 1",False
+2569,D017542,"Aneurysm, Ruptured",False
+2570,D017550,"Spectroscopy, Fourier Transform Infrared",False
+2571,D017565,"Sarcoidosis, Pulmonary",False
+2572,D017567,Karnofsky Performance Status,False
+2573,D017594,Publication Bias,False
+2574,D017608,Chromium Compounds,False
+2575,D017628,Microglia,False
+2576,D017668,Age of Onset,False
+2577,D017670,Sodium Compounds,False
+2578,D017677,Age Distribution,False
+2579,D017678,Sex Distribution,False
+2580,D017679,Cryotherapy,False
+2581,D017697,Premenopause,False
+2582,D017698,Postmenopause,False
+2583,D017705,Lignans,False
+2584,D017709,Fractals,False
+2585,D017711,Nonlinear Dynamics,False
+2586,D017741,Survivors,False
+2587,D017747,Seafood,False
+2588,D017748,Time Management,False
+2589,D017773,Pelvic Floor,False
+2590,D017796,Caulimovirus,False
+2591,D017809,Fatal Outcome,False
+2592,D017868,Cyclic AMP-Dependent Protein Kinases,False
+2593,D017879,Isothiocyanates,False
+2594,D017891,Pharmacoepidemiology,False
+2595,D017892,Osmium Compounds,False
+2596,D017909,Levivirus,False
+2597,D017930,"Genes, Reporter",False
+2598,D017931,DNA Primers,False
+2599,D018000,"Receptors, Peptide",False
+2600,D018003,"Receptors, Calcitonin",False
+2601,D018004,"Receptors, Bombesin",False
+2602,D018014,Gene Transfer Techniques,False
+2603,D018021,Lithium Chloride,False
+2604,D018033,"Antibodies, Bispecific",False
+2605,D018035,"Receptors, Odorant",False
+2606,D018036,Selenium Compounds,False
+2607,D018046,Protein C Inhibitor,False
+2608,D018053,Arsenites,False
+2609,D018055,"Receptors, Eicosanoid",False
+2610,D018076,"DNA, Complementary",False
+2611,D018084,"Ultrasonography, Interventional",False
+2612,D018093,Gelatinases,False
+2613,D018094,"Receptors, Metabotropic Glutamate",False
+2614,D018095,Germ-Line Mutation,False
+2615,D018116,Vesiculovirus,False
+2616,D018120,Finasteride,False
+2617,D018121,"Receptors, Cytokine",False
+2618,D018125,"Receptors, Transforming Growth Factor beta",False
+2619,D018127,"Antigens, CD27",False
+2620,D018129,Phosphatidylinositol Phosphates,False
+2621,D018139,Simplexvirus,False
+2622,D018153,Czech Republic,True
+2623,D018154,Slovakia,True
+2624,D018160,"Receptors, Cytoplasmic and Nuclear",False
+2625,D018167,"Receptors, Calcitriol",False
+2626,D018168,"Receptors, Retinoic Acid",False
+2627,D018193,"Neoplasms, Complex and Mixed",False
+2628,D018233,"Rhabdomyosarcoma, Embryonal",False
+2629,D018239,Seminoma,False
+2630,D018259,"Herpesvirus 1, Human",False
+2631,D018267,"Carcinoma, Acinar Cell",False
+2632,D018270,"Carcinoma, Ductal, Breast",False
+2633,D018274,Electroporation,False
+2634,D018275,"Carcinoma, Lobular",False
+2635,D018276,"Carcinoma, Medullary",False
+2636,D018278,"Carcinoma, Neuroendocrine",False
+2637,D018281,Cholangiocarcinoma,False
+2638,D018288,"Carcinoma, Small Cell",False
+2639,D018304,"Esthesioneuroblastoma, Olfactory",False
+2640,D018308,"Papilloma, Inverted",False
+2641,D018336,"Receptors, Aryl Hydrocarbon",False
+2642,D018345,"Mice, Knockout",False
+2643,D018358,Neuroendocrine Tumors,False
+2644,D018360,"Crystallography, X-Ray",False
+2645,D018365,"Neoplasm, Residual",False
+2646,D018377,Neurotransmitter Agents,False
+2647,D018384,Oxidative Stress,False
+2648,D018387,"Codon, Initiator",False
+2649,D018389,"Codon, Nonsense",False
+2650,D018390,Gene Targeting,False
+2651,D018392,Genomic Imprinting,False
+2652,D018394,CA-125 Antigen,False
+2653,D018395,CA-19-9 Antigen,False
+2654,D018398,Homeodomain Proteins,False
+2655,D018401,Sample Size,False
+2656,D018414,CD8-Positive T-Lymphocytes,False
+2657,D018417,Th1 Cells,False
+2658,D018418,Th2 Cells,False
+2659,D018426,SEER Program,False
+2660,D018432,"Drug Resistance, Multiple",False
+2661,D018434,Sickness Impact Profile,False
+2662,D018435,P-Glycoproteins,False
+2663,D018442,"Lymphoma, B-Cell, Marginal Zone",False
+2664,D018448,"Models, Immunological",False
+2665,D018450,Disease Progression,False
+2666,D018451,"Homosexuality, Male",False
+2667,D018454,Spouses,False
+2668,D018456,Reproductive Medicine,False
+2669,D018475,Head-Down Tilt,False
+2670,D018482,"Muscle, Skeletal",False
+2671,D018499,Linear Energy Transfer,False
+2672,D018501,Antirheumatic Agents,False
+2673,D018506,"Gene Expression Regulation, Plant",False
+2674,D018507,"Gene Expression Regulation, Developmental",False
+2675,D018511,Systems Integration,False
+2676,D018515,Plant Leaves,False
+2677,D018517,Plant Roots,False
+2678,D018528,ATP-Binding Cassette Transporters,False
+2679,D018547,Plant Stems,False
+2680,D018551,Lycopersicon esculentum,False
+2681,D018552,Daucus carota,False
+2682,D018567,"Breast Neoplasms, Male",False
+2683,D018570,Risk Assessment,False
+2684,D018571,Sentinel Surveillance,False
+2685,D018572,Disease-Free Survival,False
+2686,D018579,Patient Selection,False
+2687,D018581,Technology Transfer,False
+2688,D018588,Fee-for-Service Plans,False
+2689,D018592,Cross-Over Studies,False
+2690,D018604,Epitope Mapping,False
+2691,D018608,"Ultrasonography, Doppler",False
+2692,D018613,"Microscopy, Confocal",False
+2693,D018615,"Ultrasonography, Doppler, Color",False
+2694,D018625,"Microscopy, Atomic Force",False
+2695,D018628,Gene Dosage,False
+2696,D018655,Lymphocyte Count,False
+2697,D018664,Interleukin-12,False
+2698,D018673,Nutrition Policy,False
+2699,D018675,Toxicity Tests,False
+2700,D018691,Excitatory Amino Acid Antagonists,False
+2701,D018698,Glutamic Acid,False
+2702,D018703,Founder Effect,False
+2703,D018707,Volcanic Eruptions,False
+2704,D018709,"Statistics, Nonparametric",False
+2705,D018714,"Radiotherapy, Adjuvant",False
+2706,D018716,Molecular Mimicry,False
+2707,D018719,"Receptor, ErbB-2",False
+2708,D018740,Genetic Heterogeneity,False
+2709,D018787,Radiation Oncology,False
+2710,D018793,Interleukin-13,False
+2711,D018797,Cell Cycle Proteins,False
+2712,D018798,"Anemia, Iron-Deficiency",False
+2713,D018799,Intercellular Adhesion Molecule-1,False
+2714,D018802,Patient-Centered Care,False
+2715,D018803,"Models, Economic",False
+2716,D018805,Sepsis,False
+2717,D018808,Transcription Factor AP-1,False
+2718,D018809,Proliferating Cell Nuclear Antigen,False
+2719,D018815,"Genes, erbB",False
+2720,D018819,Dipeptidyl Peptidase 4,False
+2721,D018826,"Antigens, CD13",False
+2722,D018836,Inflammation Mediators,False
+2723,D018840,HSP70 Heat-Shock Proteins,False
+2724,D018841,HSP90 Heat-Shock Proteins,False
+2725,D018844,Cyclin-Dependent Kinases,False
+2726,D018874,"Spheroids, Cellular",False
+2727,D018890,Chemoprevention,False
+2728,D018899,CpG Islands,False
+2729,D018906,"Antineoplastic Agents, Alkylating",False
+2730,D018909,src Homology Domains,False
+2731,D018911,Trinucleotide Repeats,False
+2732,D018912,Arabs,False
+2733,D018919,"Neovascularization, Physiologic",False
+2734,D018920,Coculture Techniques,False
+2735,D018922,HL-60 Cells,False
+2736,D018929,Cell Culture Techniques,False
+2737,D018931,"Antineoplastic Agents, Hormonal",False
+2738,D018932,Chemokine CCL2,False
+2739,D018939,Holistic Nursing,False
+2740,D018942,Macrolides,False
+2741,D018950,"Antigens, CD14",False
+2742,D018960,"Antigens, CD44",False
+2743,D018970,Insulin-Like Growth Factor Binding Protein 1,False
+2744,D018971,Insulin-Like Growth Factor Binding Protein 2,False
+2745,D018972,Insulin-Like Growth Factor Binding Protein 3,False
+2746,D018984,"Epitopes, T-Lymphocyte",False
+2747,D019008,"Drug Resistance, Neoplasm",False
+2748,D019009,Proto-Oncogene Proteins c-kit,False
+2749,D019012,"Antigens, CD29",False
+2750,D019013,"Antigens, CD40",False
+2751,D019032,"Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization",False
+2752,D019035,Rural Health Services,False
+2753,D019047,"Phantoms, Imaging",False
+2754,D019048,Prostatic Intraepithelial Neoplasia,False
+2755,D019057,Quality-Adjusted Life Years,False
+2756,D019058,Community Networks,False
+2757,D019060,Minimally Invasive Surgical Procedures,False
+2758,D019061,src-Family Kinases,False
+2759,D019069,Cell Respiration,False
+2760,D019070,Cell Lineage,False
+2761,D019072,Antibiotic Prophylaxis,False
+2762,D019073,HT29 Cells,False
+2763,D019076,Transgenes,False
+2764,D019084,"Fluorescent Antibody Technique, Indirect",False
+2765,D019086,"Bicyclo Compounds, Heterocyclic",False
+2766,D019089,Stem Cell Factor,False
+2767,D019091,Critical Pathways,False
+2768,D019095,Point-of-Care Systems,False
+2769,D019098,Telomerase,False
+2770,D019106,Postoperative Hemorrhage,False
+2771,D019108,Tight Junctions,False
+2772,D019114,Remote Consultation,False
+2773,D019143,"Evolution, Molecular",False
+2774,D019149,Bioreactors,False
+2775,D019151,Peptide Library,False
+2776,D019154,Protein Splicing,False
+2777,D019160,Endosonography,False
+2778,D019161,Hydroxymethylglutaryl-CoA Reductase Inhibitors,False
+2779,D019169,Jurkat Cells,False
+2780,D019175,DNA Methylation,False
+2781,D019204,GTP-Binding Proteins,False
+2782,D019207,beta Carotene,False
+2783,D019216,"Metals, Heavy",False
+2784,D019220,High-Energy Shock Waves,False
+2785,D019233,Retreatment,False
+2786,D019253,Proto-Oncogene Proteins c-bcl-2,False
+2787,D019255,NADPH Oxidase,False
+2788,D019264,Adoptive Transfer,False
+2789,D019265,"Spectroscopy, Near-Infrared",False
+2790,D019274,"Botulinum Toxins, Type A",False
+2791,D019275,Radiopharmaceuticals,False
+2792,D019278,Matrix Metalloproteinase 3,False
+2793,D019281,Dimerization,False
+2794,D019284,Thapsigargin,False
+2795,D019288,"Herpesvirus 8, Human",False
+2796,D019289,Pyruvic Acid,False
+2797,D019292,Skull Base Neoplasms,False
+2798,D019295,Computational Biology,False
+2799,D019299,"Decompression, Surgical",False
+2800,D019300,Medical Errors,False
+2801,D019301,Oleic Acid,False
+2802,D019313,BRCA1 Protein,False
+2803,D019317,Evidence-Based Medicine,False
+2804,D019319,Okadaic Acid,False
+2805,D019337,Hematologic Neoplasms,False
+2806,D019342,Acetic Acid,False
+2807,D019344,Lactic Acid,False
+2808,D019352,Censuses,False
+2809,D019363,Cytochrome P-450 CYP1A1,False
+2810,D019370,Observation,False
+2811,D019382,Human Growth Hormone,False
+2812,D019388,Cytochrome P-450 CYP1A2,False
+2813,D019390,Arrestins,False
+2814,D019394,Ki-67 Antigen,False
+2815,D019398,"Genes, BRCA1",False
+2816,D019405,Cytochrome P-450 CYP11B2,False
+2817,D019408,"Antigens, CD31",False
+2818,D019410,Interleukin-16,False
+2819,D019412,"Anatomy, Cross-Sectional",False
+2820,D019415,Torque,False
+2821,D019426,Integrases,False
+2822,D019444,"Vaccines, DNA",False
+2823,D019458,Insurance Coverage,False
+2824,D019459,Urothelium,False
+2825,D019468,Disease Management,False
+2826,D019485,Bone Morphogenetic Proteins,False
+2827,D019496,Cancer Vaccines,False
+2828,D019529,Sexuality,False
+2829,D019538,Health Care Surveys,False
+2830,D019540,Area Under Curve,False
+2831,D019544,Equipment Failure Analysis,False
+2832,D019556,COS Cells,False
+2833,D019562,Viral Load,False
+2834,D019564,Unnecessary Procedures,False
+2835,D019583,Dose Fractionation,False
+2836,D019584,Hot Flashes,False
+2837,D019587,Dietary Supplements,False
+2838,D019607,Brassicaceae,False
+2839,D019610,Cytoprotection,False
+2840,D019636,Neurodegenerative Diseases,False
+2841,D019644,"Arthroplasty, Replacement, Hip",False
+2842,D019645,"Arthroplasty, Replacement, Knee",False
+2843,D019652,Extraction and Processing Industry,False
+2844,D019668,Liliaceae,False
+2845,D019696,Peptidylprolyl Isomerase,False
+2846,D019699,Thrombospondins,False
+2847,D019704,Protein Disulfide-Isomerases,False
+2848,D019707,"Receptors, Chemokine",False
+2849,D019713,"Receptors, CCR5",False
+2850,D019715,Tissue Inhibitor of Metalloproteinase-1,False
+2851,D019717,Tissue Inhibitor of Metalloproteinase-3,False
+2852,D019718,"Receptors, CXCR4",False
+2853,D019736,Prostheses and Implants,False
+2854,D019743,"Chemokines, CXC",False
+2855,D019746,Intramolecular Oxidoreductases,False
+2856,D019772,Topotecan,False
+2857,D019788,Fluorodeoxyglucose F18,False
+2858,D019821,Simvastatin,False
+2859,D019833,Genistein,False
+2860,D019859,Proto-Oncogene Proteins c-met,False
+2861,D019869,Phosphatidylinositol 3-Kinases,False
+2862,D019892,eIF-2 Kinase,False
+2863,D019893,Ribosomal Protein S6 Kinases,False
+2864,D019898,Autocrine Communication,False
+2865,D019899,Paracrine Communication,False
+2866,D019908,Proto-Oncogene Proteins c-raf,False
+2867,D019913,Nuclear Localization Signals,False
+2868,D019919,Prosthesis Implantation,False
+2869,D019925,Cyclin A,False
+2870,D019926,Cyclin B,False
+2871,D019935,Penile Implantation,False
+2872,D019936,Probiotics,False
+2873,D019938,Cyclin D1,False
+2874,D019941,Cyclin-Dependent Kinase Inhibitor p16,False
+2875,D019943,Amino Acid Substitution,False
+2876,D019947,"Receptors, Interleukin-6",False
+2877,D019950,Mitogen-Activated Protein Kinase 1,False
+2878,D019951,DNA Polymerase beta,False
+2879,D019964,Mood Disorders,False
+2880,D019983,Guideline Adherence,False
+2881,D019984,"Quality Indicators, Health Care",False
+2882,D019985,Benchmarking,False
+2883,D019998,Racemases and Epimerases,False
+2884,D020000,"Decision Support Systems, Clinical",False
+2885,D020010,Heterosexuality,False
+2886,D020013,Calcium Signaling,False
+2887,D020014,K562 Cells,False
+2888,D020018,"Sexual Dysfunctions, Psychological",False
+2889,D020022,Genetic Predisposition to Disease,False
+2890,D020029,Base Pairing,False
+2891,D020030,Nitric Oxide Donors,False
+2892,D020031,Epstein-Barr Virus Infections,False
+2893,D020032,Tyrphostins,False
+2894,D020033,Protein Isoforms,False
+2895,D020051,N-Acetylgalactosamine-4-Sulfatase,False
+2896,D020077,Endogenous Retroviruses,False
+2897,D020087,Alu Elements,False
+2898,D020100,Hydrogels,False
+2899,D020121,5' Untranslated Regions,False
+2900,D020123,Sirolimus,False
+2901,D020125,"Mutation, Missense",False
+2902,D020127,Recovery of Function,False
+2903,D020128,Inhibitory Concentration 50,False
+2904,D020133,Reverse Transcriptase Polymerase Chain Reaction,False
+2905,D020134,Catalytic Domain,False
+2906,D020136,Hydrogel,False
+2907,D020148,Butyric Acid,False
+2908,D020156,Salicylic Acid,False
+2909,D020168,P-Glycoprotein,False
+2910,D020169,Caspases,False
+2911,D020181,"Sleep Apnea, Obstructive",False
+2912,D020218,Response Elements,False
+2913,D020239,Receptor Cross-Talk,False
+2914,D020246,Venous Thrombosis,False
+2915,D020249,Hormone Replacement Therapy,False
+2916,D020261,Arsenic Poisoning,False
+2917,D020266,"Radiotherapy, Conformal",False
+2918,D020286,Pericytes,False
+2919,D020287,In Situ Nick-End Labeling,False
+2920,D020360,Neoadjuvant Therapy,False
+2921,D020362,Paraneoplastic Cerebellar Degeneration,False
+2922,D020377,Self Efficacy,False
+2923,D020379,Risk Adjustment,False
+2924,D020380,Needs Assessment,False
+2925,D020381,Interleukin-17,False
+2926,D020382,Interleukin-18,False
+2927,D020407,Internet,False
+2928,D020411,Oligonucleotide Array Sequence Analysis,False
+2929,D020413,3' Untranslated Regions,False
+2930,D020533,Angiogenesis Inhibitors,False
+2931,D020536,Enzyme Activators,False
+2932,D020537,"RNA, Small Nucleolar",False
+2933,D020543,Proteome,False
+2934,D020545,Respiratory Mucosa,False
+2935,D020552,Comet Assay,False
+2936,D020570,"Genes, myb",False
+2937,D020641,"Polymorphism, Single Nucleotide",False
+2938,D020662,Guanine Nucleotide Exchange Factors,False
+2939,D020664,Son of Sevenless Proteins,False
+2940,D020672,I-kappa B Proteins,False
+2941,D020687,cdc25 Phosphatases,False
+2942,D020690,GTPase-Activating Proteins,False
+2943,D020691,rab GTP-Binding Proteins,False
+2944,D020696,rab5 GTP-Binding Proteins,False
+2945,D020703,ras GTPase-Activating Proteins,False
+2946,D020706,Laparoscopes,False
+2947,D020710,RGS Proteins,False
+2948,D020714,Maximum Tolerated Dose,False
+2949,D020727,ADP-Ribosylation Factors,False
+2950,D020728,Transurethral Resection of Prostate,False
+2951,D020738,Leptin,False
+2952,D020741,rho GTP-Binding Proteins,False
+2953,D020742,rhoA GTP-Binding Protein,False
+2954,D020743,rhoB GTP-Binding Protein,False
+2955,D020744,rac GTP-Binding Proteins,False
+2956,D020746,"Calcium Channels, L-Type",False
+2957,D020764,cdc42 GTP-Binding Protein,False
+2958,D020778,Matrix Metalloproteinase 2,False
+2959,D020780,Matrix Metalloproteinase 9,False
+2960,D020781,Matrix Metalloproteinase 1,False
+2961,D020782,Matrix Metalloproteinases,False
+2962,D020794,Receptor Protein-Tyrosine Kinases,False
+2963,D020798,Two-Hybrid System Techniques,False
+2964,D020800,"Receptor, Nerve Growth Factor",False
+2965,D020816,Amino Acid Motifs,False
+2966,D020825,T-Box Domain Proteins,False
+2967,D020827,rap1 GTP-Binding Proteins,False
+2968,D020830,rac1 GTP-Binding Protein,False
+2969,D020840,Tissue Kallikreins,False
+2970,D020843,Chamomile,False
+2971,D020845,Selective Estrogen Receptor Modulators,False
+2972,D020847,Estrogen Receptor Modulators,False
+2973,D020868,Gene Silencing,False
+2974,D020869,Gene Expression Profiling,False
+2975,D020871,RNA Stability,False
+2976,D020893,"Receptor, ErbB-3",False
+2977,D020929,Mitogen-Activated Protein Kinase Kinases,False
+2978,D020930,MAP Kinase Kinase Kinases,False
+2979,D020932,Nerve Growth Factor,False
+2980,D020935,MAP Kinase Signaling System,False
+2981,D020944,Milk Thistle,False
+2982,D020962,Heterotrimeric GTP-Binding Proteins,False
+2983,D021141,Nucleic Acid Amplification Techniques,False
+2984,D021241,"Spectrometry, Mass, Electrospray Ionization",False
+2985,D021281,Quantitative Structure-Activity Relationship,False
+2986,D021381,Protein Transport,False
+2987,D021382,Protein Sorting Signals,False
+2988,D021441,"Carcinoma, Pancreatic Ductal",False
+2989,D021581,"Active Transport, Cell Nucleus",False
+2990,D021621,"Imaging, Three-Dimensional",False
+2991,D021901,"DNA, Intergenic",False
+2992,D021941,Caveolae,False
+2993,D021962,Membrane Microdomains,False
+2994,D022005,Adherens Junctions,False
+2995,D022021,Tacrolimus Binding Proteins,False
+2996,D022126,Access to Information,False
+2997,D022142,Secretory Vesicles,False
+2998,D022161,Transport Vesicles,False
+2999,D022223,"Vaccines, Subunit",False
+3000,D022423,Myeloid Cells,False
+3001,D022502,Stress Fibers,False
+3002,D022661,"RNA, Untranslated",False
+3003,D022821,RNA Splice Sites,False
+3004,D023041,Xenograft Model Antitumor Assays,False
+3005,D023063,"Receptors, Interleukin-8B",False
+3006,D023281,Genomics,False
+3007,D023381,Endpoint Determination,False
+3008,D023421,"Models, Animal",False
+3009,D023822,Tissue Engineering,False
+3010,D024042,Collagen Type I,False
+3011,D024101,Mitochondrial Proteins,False
+3012,D024141,Collagen Type IV,False
+3013,D024201,Bystander Effect,False
+3014,D024202,Electrophoretic Mobility Shift Assay,False
+3015,D024301,Plant Bark,False
+3016,D024382,Professional Role,False
+3017,D024502,alpha-Tocopherol,False
+3018,D024504,gamma-Tocopherol,False
+3019,D024505,Tocopherols,False
+3020,D024522,"Genes, BRCA2",False
+3021,D024682,BRCA2 Protein,False
+3022,D024802,Nurse's Role,False
+3023,D024821,Metabolic Syndrome X,False
+3024,D024841,Fluoroquinolones,False
+3025,D024862,Oxyphil Cells,False
+3026,D024881,"Drug Resistance, Bacterial",False
+3027,D025262,Vacuolar Proton-Translocating ATPases,False
+3028,D025321,"Surgery, Computer-Assisted",False
+3029,D025341,Principal Component Analysis,False
+3030,D025461,"Feedback, Physiological",False
+3031,D025521,Tumor Suppressor Proteins,False
+3032,D025581,Neurofibromin 2,False
+3033,D025601,Adenomatous Polyposis Coli Protein,False
+3034,D025741,HMGA1a Protein,False
+3035,D025801,Ubiquitin,False
+3036,D025803,Tumor Suppressor Protein p14ARF,False
+3037,D025841,Small Ubiquitin-Related Modifier Proteins,False
+3038,D025941,Protein Interaction Mapping,False
+3039,D026324,Myristicaceae,False
+3040,D026362,Serum Response Factor,False
+3041,D026403,S-Nitrosothiols,False
+3042,D026683,Advisory Committees,False
+3043,D026741,Physical Therapy Modalities,False
+3044,D026881,Acupuncture,False
+3045,D026923,"Amino Acid Transport Systems, Basic",False
+3046,D026924,Amino Acid Transport System A,False
+3047,D026962,Amino Acid Transport System ASC,False
+3048,D027283,Large Neutral Amino Acid-Transporter 1,False
+3049,D027361,Organic Anion Transporters,False
+3050,D027383,Papillomaviridae,False
+3051,D027501,Monocarboxylic Acid Transporters,False
+3052,D027601,Polyomavirus Infections,False
+3053,D027702,Organic Cation Transporter 1,False
+3054,D027843,Vitis,False
+3055,D027981,Symporters,False
+3056,D028024,Serenoa,False
+3057,D028241,Camellia sinensis,False
+3058,D028321,Plant Preparations,False
+3059,D028341,Activins,False
+3060,D028581,Lanthanoid Series Elements,False
+3061,D028761,Withholding Treatment,False
+3062,D028884,Karyopherins,False
+3063,D028901,alpha Karyopherins,False
+3064,D029001,Herbal Medicine,False
+3065,D029181,Spirituality,False
+3066,D029402,Bignoniaceae,False
+3067,D029424,"Pulmonary Disease, Chronic Obstructive",False
+3068,D029584,Prostatic Secretory Proteins,False
+3069,D029586,Moraceae,False
+3070,D029591,Myrsinaceae,False
+3071,D029623,Primulaceae,False
+3072,D029627,Crassulaceae,False
+3073,D029701,Saccharomyces cerevisiae Proteins,False
+3074,D029760,Garcinia,False
+3075,D030024,Curcuma,False
+3076,D030262,Soybean Proteins,False
+3077,D030301,"Activin Receptors, Type II",False
+3078,D030361,Papillomavirus Infections,False
+3079,D030541,"Databases, Genetic",False
+3080,D030561,"Databases, Nucleic Acid",False
+3081,D030821,"Plants, Genetically Modified",False
+3082,D031204,Caloric Restriction,False
+3083,D031324,Juglans,False
+3084,D031335,Mentha pulegium,False
+3085,D031341,Origanum,False
+3086,D031362,Satureja,False
+3087,D031365,Sideritis,False
+3088,D031407,Crinum,False
+3089,D031541,Fluorescence Resonance Energy Transfer,False
+3090,D031584,Hibiscus,False
+3091,D031826,Punicaceae,False
+3092,D031885,Cimicifuga,False
+3093,D032022,"Delegation, Professional",False
+3094,D032123,Santalum,False
+3095,D032306,Petunia,False
+3096,D032341,Withania,False
+3097,D032383,"Myocytes, Cardiac",False
+3098,D032389,"Myocytes, Smooth Muscle",False
+3099,D032429,Alpinia,False
+3100,D032741,Monascus,False
+3101,D032761,Animal Experimentation,False
+3102,D032882,Comprehension,False
+3103,D032921,Consensus,False
+3104,D033162,Incidental Findings,False
+3105,D033181,Information Dissemination,False
+3106,D033183,Interdisciplinary Communication,False
+3107,D033581,Stem Cell Transplantation,False
+3108,D033681,Mitochondrial Membrane Transport Proteins,False
+3109,D033705,Equilibrative Nucleoside Transport Proteins,False
+3110,D033921,Vesicular Transport Proteins,False
+3111,D033962,Adaptor Protein Complex 2,False
+3112,D034181,Epimedium,False
+3113,D034261,Epothilones,False
+3114,D034281,Dynamins,False
+3115,D034421,Sus scrofa,False
+3116,D034443,RNA Transport,False
+3117,D034444,Peptoids,False
+3118,D034481,Heterogeneous-Nuclear Ribonucleoprotein Group A-B,False
+3119,D034622,RNA Interference,False
+3120,D034741,"RNA, Small Interfering",False
+3121,D034802,RNA-Binding Protein EWS,False
+3122,D034961,"Antigens, Nuclear",False
+3123,D035264,Flowers,False
+3124,D035281,Plant Tubers,False
+3125,D035463,Pol1 Transcription Initiation Complex Proteins,False
+3126,D035501,Uncertainty,False
+3127,D035583,Rare Diseases,False
+3128,D035683,MicroRNAs,False
+3129,D035703,"Therapies, Investigational",False
+3130,D035741,Vernonia,False
+3131,D035843,Biomedical Research,False
+3132,D035862,Vulnerable Populations,False
+3133,D036082,"Receptor, EphA1",False
+3134,D036103,Nanotechnology,False
+3135,D036104,"Receptor, EphA2",False
+3136,D036301,Qualitative Research,False
+3137,D036341,Intercellular Signaling Peptides and Proteins,False
+3138,D036401,"Toxicity Tests, Chronic",False
+3139,D036701,Limonins,False
+3140,D036761,"Ultrasound, High-Intensity Focused, Transrectal",False
+3141,D036961,Matrix Attachment Region Binding Proteins,False
+3142,D037102,Lectins,False
+3143,D037181,"Lectins, C-Type",False
+3144,D037502,Galectin 3,False
+3145,D037742,"Nanotubes, Carbon",False
+3146,D038081,Organogenesis,False
+3147,D038203,alpha-Crystallin B Chain,False
+3148,D038321,Glycemic Index,False
+3149,D038362,Glycogen Synthase Kinase 3,False
+3150,D038441,"Diet, Mediterranean",False
+3151,D038524,Diffusion Magnetic Resonance Imaging,False
+3152,D038622,Internationality,False
+3153,D038744,"Ribosomal Protein S6 Kinases, 90-kDa",False
+3154,D038801,International Classification of Diseases,False
+3155,D039081,Integrin alpha5beta1,False
+3156,D039121,Integrin alpha6beta1,False
+3157,D039122,Poly(A)-Binding Protein I,False
+3158,D039302,Integrin alphaVbeta3,False
+3159,D039421,Integrin alpha2,False
+3160,D039481,"Antigens, CD11b",False
+3161,D039503,Integrin alpha6,False
+3162,D039563,"Histamine H1 Antagonists, Non-Sedating",False
+3163,D039621,Eukaryotic Initiation Factor-3,False
+3164,D039663,Integrin beta4,False
+3165,D039781,PubMed,False
+3166,D039942,Neuropilin-1,False
+3167,D040081,Protein Array Analysis,False
+3168,D040242,Risk Reduction Behavior,False
+3169,D040262,"Receptors, Vascular Endothelial Growth Factor",False
+3170,D040281,Vascular Endothelial Growth Factor Receptor-1,False
+3171,D040301,Vascular Endothelial Growth Factor Receptor-2,False
+3172,D040321,Vascular Endothelial Growth Factor Receptor-3,False
+3173,D040362,Geographic Information Systems,False
+3174,D040441,Health Educators,False
+3175,D040501,Calgranulin A,False
+3176,D040502,Calgranulin B,False
+3177,D040641,Quantitative Trait Loci,False
+3178,D040901,Proteomics,False
+3179,D041322,"Chromosomes, Human, Y",False
+3180,D041342,Absorbent Pads,False
+3181,D041622,"Tomography, Optical",False
+3182,D041681,NIH 3T3 Cells,False
+3183,D041722,"Genes, Transgenic, Suicide",False
+3184,D041981,Gastrointestinal Tract,False
+3185,D042002,Chromatin Assembly and Disassembly,False
+3186,D042241,Early Diagnosis,False
+3187,D042361,"Mammary Glands, Human",False
+3188,D042461,Vascular Endothelial Growth Factor A,False
+3189,D042541,Intracellular Space,False
+3190,D042582,Vascular Endothelial Growth Factor C,False
+3191,D042583,Lymphangiogenesis,False
+3192,D042601,Lymphatic Vessels,False
+3193,D042643,Vascular Endothelial Growth Factor D,False
+3194,D042783,Endothelial Cells,False
+3195,D042822,Genomic Instability,False
+3196,D042882,Gallstones,False
+3197,D042943,Dihydrouracil Dehydrogenase (NADP),False
+3198,D042944,Cholestenone 5 alpha-Reductase,False
+3199,D042965,Methylenetetrahydrofolate Reductase (NADPH2),False
+3200,D043205,11-beta-Hydroxysteroid Dehydrogenase Type 1,False
+3201,D043222,Ubiquitin Thiolesterase,False
+3202,D043244,Ribonuclease III,False
+3203,D043266,Steryl-Sulfatase,False
+3204,D043303,Aryldialkylphosphatase,False
+3205,D043371,"Fatty Acids, Omega-6",False
+3206,D043425,Glutamate Carboxypeptidase II,False
+3207,D043562,"Receptors, G-Protein-Coupled",False
+3208,D043705,"Receptor, Adenosine A2A",False
+3209,D043823,Taxoids,False
+3210,D043882,"Receptors, Cannabinoid",False
+3211,D043925,Angiogenesis Inducing Agents,False
+3212,D043942,Nanotubes,False
+3213,D044004,Xanthones,False
+3214,D044127,"Epigenesis, Genetic",False
+3215,D044162,Parathyroid Hormone-Related Protein,False
+3216,D044169,"Receptors, Calcium-Sensing",False
+3217,D044243,"Linoleic Acids, Conjugated",False
+3218,D044362,Australasia,True
+3219,D044383,African Continental Ancestry Group,False
+3220,D044385,GTP-Binding Protein alpha Subunits,False
+3221,D044445,Ulva,False
+3222,D044465,European Continental Ancestry Group,False
+3223,D044466,Asian Continental Ancestry Group,False
+3224,D044469,Continental Population Groups,False
+3225,D044482,Benzeneacetamides,False
+3226,D044584,"Carcinoma, Ductal",False
+3227,D044648,Undaria,False
+3228,D044763,Ubiquitin-Conjugating Enzymes,False
+3229,D044767,Ubiquitin-Protein Ligases,False
+3230,D044842,Cullin Proteins,False
+3231,D044925,Oxidoreductases Acting on CH-CH Group Donors,False
+3232,D044945,Proanthocyanidins,False
+3233,D044946,Biflavonoids,False
+3234,D044948,Flavonols,False
+3235,D044949,Kaempferols,False
+3236,D044950,Flavanones,False
+3237,D044963,"Biopsy, Fine-Needle",False
+3238,D044967,Serum,False
+3239,D045162,Thiazolidinediones,False
+3240,D045164,Mesenchymal Stem Cell Transplantation,False
+3241,D045165,Testosterone Congeners,False
+3242,D045304,Cytochromes c,False
+3243,D045325,HCT116 Cells,False
+3244,D045422,Continuous Positive Airway Pressure,False
+3245,D045423,Microbubbles,False
+3246,D045604,Extracellular Fluid,False
+3247,D045643,DNA Repair Enzymes,False
+3248,D045663,Quantum Dots,False
+3249,D045744,"Cell Line, Tumor",False
+3250,D045784,"Diterpenes, Abietane",False
+3251,D045786,"Diterpenes, Kaurane",False
+3252,D045792,Norisoprenoids,False
+3253,D045823,Ileus,False
+3254,D046152,Gastrointestinal Stromal Tumors,False
+3255,D046210,Microfluidic Analytical Techniques,False
+3256,D046228,Microarray Analysis,False
+3257,D046468,Sexual Development,False
+3258,D046509,Tissue Culture Techniques,False
+3259,D046529,"Microscopy, Electron, Transmission",False
+3260,D046888,Tissue Array Analysis,False
+3261,D046912,Multiprotein Complexes,False
+3262,D046988,Proteasome Endopeptidase Complex,False
+3263,D047029,"Lactams, Macrocyclic",False
+3264,D047072,Aromatase Inhibitors,False
+3265,D047108,Embryonic Development,False
+3266,D047188,Chalcones,False
+3267,D047233,Suberites,False
+3268,D047310,Apigenin,False
+3269,D047368,Tumor Burden,False
+3270,D047369,Chromatin Immunoprecipitation,False
+3271,D047390,Casein Kinase II,False
+3272,D047428,Protein Kinase Inhibitors,False
+3273,D047468,Immunoprecipitation,False
+3274,D047495,PPAR gamma,False
+3275,D047628,Estrogen Receptor alpha,False
+3276,D047629,Estrogen Receptor beta,False
+3277,D047789,World War II,False
+3278,D047889,"Receptors, Tumor Necrosis Factor, Type II",False
+3279,D047908,Intracellular Signaling Peptides and Proteins,False
+3280,D048029,TNF Receptor-Associated Factor 6,False
+3281,D048031,JNK Mitogen-Activated Protein Kinases,False
+3282,D048049,Extracellular Signal-Regulated MAP Kinases,False
+3283,D048051,p38 Mitogen-Activated Protein Kinases,False
+3284,D048052,Mitogen-Activated Protein Kinase 3,False
+3285,D048271,Chitosan,False
+3286,D048289,Imidazolidines,False
+3287,D048429,Cell Size,False
+3288,D048430,Cell Shape,False
+3289,D048490,raf Kinases,False
+3290,D048493,Proto-Oncogene Proteins B-raf,False
+3291,D048708,Cell Growth Processes,False
+3292,D048749,Cytokinesis,False
+3293,D048868,"Adaptor Proteins, Signal Transducing",False
+3294,D048909,Diabetes Complications,False
+3295,D048948,14-3-3 Proteins,False
+3296,D049109,Cell Proliferation,False
+3297,D049268,Positron-Emission Tomography,False
+3298,D049329,Nanostructures,False
+3299,D049368,"Receptors, Lysophosphatidic Acid",False
+3300,D049409,"Luciferases, Firefly",False
+3301,D049449,Luminescence,False
+3302,D049451,Nomograms,False
+3303,D049452,Green Fluorescent Proteins,False
+3304,D049488,Phosphatidylethanolamine Binding Protein,False
+3305,D049490,Systems Biology,False
+3306,D049628,Body Size,False
+3307,D049629,Waist-Hip Ratio,False
+3308,D049673,"History, 20th Century",False
+3309,D049674,"History, 21st Century",False
+3310,D050053,TRPM Cation Channels,False
+3311,D050071,Bone Density Conservation Agents,False
+3312,D050091,Dendrimers,False
+3313,D050130,Oncolytic Virotherapy,False
+3314,D050152,Intra-Abdominal Fat,False
+3315,D050155,Lipogenesis,False
+3316,D050173,"Genes, Y-Linked",False
+3317,D050177,Overweight,False
+3318,D050197,Atherosclerosis,False
+3319,D050257,Tubulin Modulators,False
+3320,D050356,Lipid Metabolism,False
+3321,D050378,"T-Lymphocytes, Regulatory",False
+3322,D050397,"Radiotherapy, Intensity-Modulated",False
+3323,D050503,"Indoleamine-Pyrrole 2,3,-Dioxygenase",False
+3324,D050504,Oncolytic Viruses,False
+3325,D050505,Mutant Proteins,False
+3326,D050596,Oncogene Fusion,False
+3327,D050687,E2F1 Transcription Factor,False
+3328,D050699,E2F3 Transcription Factor,False
+3329,D050703,E2F2 Transcription Factor,False
+3330,D050719,Crk-Associated Substrate Protein,False
+3331,D050720,Retinoblastoma-Like Protein p107,False
+3332,D050723,"Fractures, Bone",False
+3333,D050756,Cyclin-Dependent Kinase Inhibitor Proteins,False
+3334,D050759,Cyclin-Dependent Kinase Inhibitor p21,False
+3335,D050760,Cyclin-Dependent Kinase Inhibitor p27,False
+3336,D050783,Proto-Oncogene Proteins c-ets,False
+3337,D050794,STAT1 Transcription Factor,False
+3338,D050796,STAT3 Transcription Factor,False
+3339,D050799,STAT5 Transcription Factor,False
+3340,D050814,Octamer Transcription Factor-3,False
+3341,D050822,Cytokine Receptor gp130,False
+3342,D050826,Suppressor of Cytokine Signaling Proteins,False
+3343,D050828,Protein Inhibitors of Activated STAT,False
+3344,D050834,"Interferon-Stimulated Gene Factor 3, gamma Subunit",False
+3345,D050838,Interferon Regulatory Factor-3,False
+3346,D050880,p300-CBP Transcription Factors,False
+3347,D050881,E1A-Associated p300 Protein,False
+3348,D050883,HSC70 Heat-Shock Proteins,False
+3349,D050892,Sarcosine Dehydrogenase,False
+3350,D050916,TRPV Cation Channels,False
+3351,D050938,Glycine N-Methyltransferase,False
+3352,D050939,Gene Fusion,False
+3353,D050976,Basic-Leucine Zipper Transcription Factors,False
+3354,D050989,GATA2 Transcription Factor,False
+3355,D050998,bcl-2 Homologous Antagonist-Killer Protein,False
+3356,D051017,Apoptosis Regulatory Proteins,False
+3357,D051020,bcl-X Protein,False
+3358,D051025,bcl-Associated Death Protein,False
+3359,D051028,bcl-2-Associated X Protein,False
+3360,D051034,Inhibitor of Apoptosis Proteins,False
+3361,D051037,Large-Conductance Calcium-Activated Potassium Channel alpha Subunits,False
+3362,D051057,Proto-Oncogene Proteins c-akt,False
+3363,D051058,Oncogene Protein v-akt,False
+3364,D051059,PTEN Phosphohydrolase,False
+3365,D051116,"Receptors, Scavenger",False
+3366,D051135,Rad51 Recombinase,False
+3367,D051140,Selenoproteins,False
+3368,D051152,Clusterin,False
+3369,D051153,Wnt Proteins,False
+3370,D051176,beta Catenin,False
+3371,D051190,Plectin,False
+3372,D051191,Plakophilins,False
+3373,D051195,Toll-Like Receptor 2,False
+3374,D051196,Toll-Like Receptor 3,False
+3375,D051216,Toll-Like Receptor 6,False
+3376,D051217,Toll-Like Receptor 9,False
+3377,D051231,Farnesyltranstransferase,False
+3378,D051242,Caveolin 1,False
+3379,D051267,NF-E2-Related Factor 2,False
+3380,D051300,Wiskott-Aldrich Syndrome Protein Family,False
+3381,D051301,Desmoglein 2,False
+3382,D051317,"Wiskott-Aldrich Syndrome Protein, Neuronal",False
+3383,D051336,Mitochondrial Membranes,False
+3384,D051339,Actin Depolymerizing Factors,False
+3385,D051356,Cortactin,False
+3386,D051357,Cyclin-Dependent Kinase 2,False
+3387,D051358,Cyclin-Dependent Kinase 4,False
+3388,D051360,Cyclin-Dependent Kinase 5,False
+3389,D051361,Cyclin-Dependent Kinase 6,False
+3390,D051376,Actin-Related Protein 2-3 Complex,False
+3391,D051379,Mice,False
+3392,D051380,GRB2 Adaptor Protein,False
+3393,D051381,Rats,False
+3394,D051416,Focal Adhesion Protein-Tyrosine Kinases,False
+3395,D051417,Focal Adhesion Kinase 1,False
+3396,D051419,Paxillin,False
+3397,D051436,"Renal Insufficiency, Chronic",False
+3398,D051437,Renal Insufficiency,False
+3399,D051496,"Receptor, Fibroblast Growth Factor, Type 1",False
+3400,D051497,"Receptor, Fibroblast Growth Factor, Type 2",False
+3401,D051498,"Receptor, Fibroblast Growth Factor, Type 3",False
+3402,D051516,Hemospermia,False
+3403,D051517,Digital Rectal Examination,False
+3404,D051523,Fibroblast Growth Factor 7,False
+3405,D051525,Fibroblast Growth Factor 9,False
+3406,D051526,Fibroblast Growth Factor 10,False
+3407,D051541,Hepatocyte Nuclear Factor 3-alpha,False
+3408,D051544,Cytochrome P-450 CYP3A,False
+3409,D051545,Cyclooxygenase 1,False
+3410,D051546,Cyclooxygenase 2,False
+3411,D051549,Glutathione S-Transferase pi,False
+3412,D051550,I-kappa B Kinase,False
+3413,D051571,Protein Kinase C-alpha,False
+3414,D051573,Proto-Oncogene Proteins c-pim-1,False
+3415,D051598,Whole Body Imaging,False
+3416,D051638,Ether-A-Go-Go Potassium Channels,False
+3417,D051698,Activating Transcription Factor 2,False
+3418,D051700,Activating Transcription Factor 3,False
+3419,D051701,Activating Transcription Factor 4,False
+3420,D051705,Sp3 Transcription Factor,False
+3421,D051718,MutS Homolog 2 Protein,False
+3422,D051736,Proto-Oncogene Proteins c-mdm2,False
+3423,D051741,Kruppel-Like Transcription Factors,False
+3424,D051742,Transcription Factor CHOP,False
+3425,D051744,Protein Kinase C-epsilon,False
+3426,D051747,DNA-Activated Protein Kinase,False
+3427,D051759,Xeroderma Pigmentosum Group D Protein,False
+3428,D051761,Paired Box Transcription Factors,False
+3429,D051766,Early Growth Response Protein 1,False
+3430,D051778,Basic Helix-Loop-Helix Leucine Zipper Transcription Factors,False
+3431,D051780,Sterol Regulatory Element Binding Protein 1,False
+3432,D051782,Sterol Regulatory Element Binding Protein 2,False
+3433,D051784,Aryl Hydrocarbon Receptor Nuclear Translocator,False
+3434,D051785,Smad Proteins,False
+3435,D051789,Proto-Oncogene Protein c-fli-1,False
+3436,D051792,Basic Helix-Loop-Helix Transcription Factors,False
+3437,D051793,Hypoxia-Inducible Factor 1,False
+3438,D051795,"Hypoxia-Inducible Factor 1, alpha Subunit",False
+3439,D051796,Inhibitor of Differentiation Proteins,False
+3440,D051798,Inhibitor of Differentiation Protein 1,False
+3441,D051837,COUP Transcription Factor II,False
+3442,D051840,Y-Box-Binding Protein 1,False
+3443,D051858,Forkhead Transcription Factors,False
+3444,D051861,"Antigens, CD82",False
+3445,D051876,Sex-Determining Region Y Protein,False
+3446,D051879,Twist Transcription Factor,False
+3447,D051880,"Receptors, Notch",False
+3448,D051881,"Receptor, Notch1",False
+3449,D051898,Smad1 Protein,False
+3450,D051899,Smad2 Protein,False
+3451,D051900,Smad3 Protein,False
+3452,D051901,Smad4 Protein,False
+3453,D051906,Smad7 Protein,False
+3454,D051907,Lysosome-Associated Membrane Glycoproteins,False
+3455,D051926,"Antigens, CD147",False
+3456,D051927,"Antigens, CD24",False
+3457,D051958,Nuclear Receptor Coactivator 2,False
+3458,D051959,ELAV Proteins,False
+3459,D051996,Transcription Factor RelA,False
+3460,D052002,NF-kappa B p50 Subunit,False
+3461,D052003,NF-kappa B p52 Subunit,False
+3462,D052006,"Bone Morphogenetic Protein Receptors, Type II",False
+3463,D052117,Benzodioxoles,False
+3464,D052138,"Genes, Neoplasm",False
+3465,D052156,SELEX Aptamer Technique,False
+3466,D052157,"Aptamers, Nucleotide",False
+3467,D052160,Benzothiazoles,False
+3468,D052242,Adiponectin,False
+3469,D052244,Endocrine Disruptors,False
+3470,D052246,Cyclooxygenase 2 Inhibitors,False
+3471,D052247,Nitric Oxide Synthase Type II,False
+3472,D052250,Nitric Oxide Synthase Type III,False
+3473,D052256,Tendinopathy,False
+3474,D052801,Male Urogenital Diseases,False
+3475,D053078,"Membrane Potential, Mitochondrial",False
+3476,D053144,Cell Nucleus Shape,False
+3477,D053148,Caspase 3,False
+3478,D053159,Dysuria,False
+3479,D053179,Caspase 7,False
+3480,D053181,Caspase 8,False
+3481,D053201,"Urinary Bladder, Overactive",False
+3482,D053208,Kaplan-Meier Estimate,False
+3483,D053218,"Receptors, Death Domain",False
+3484,D053219,"Receptors, Tumor Necrosis Factor, Member 25",False
+3485,D053220,"Receptors, TNF-Related Apoptosis-Inducing Ligand",False
+3486,D053221,TNF-Related Apoptosis-Inducing Ligand,False
+3487,D053244,Osteoprotegerin,False
+3488,D053245,RANK Ligand,False
+3489,D053246,Receptor Activator of Nuclear Factor-kappa B,False
+3490,D053261,"Antigens, CD137",False
+3491,D053263,Gene Regulatory Networks,False
+3492,D053284,Polyunsaturated Alkamides,False
+3493,D053379,Chromogranin A,False
+3494,D053446,CASP8 and FADD-Like Apoptosis Regulating Protein,False
+3495,D053448,Prostatism,False
+3496,D053449,TNF Receptor-Associated Factor 4,False
+3497,D053453,Caspase 9,False
+3498,D053455,Caspase 10,False
+3499,D053477,Apoptotic Protease-Activating Factor 1,False
+3500,D053484,RecQ Helicases,False
+3501,D053487,DEAD-box RNA Helicases,False
+3502,D053491,"Proteinase Inhibitory Proteins, Secretory",False
+3503,D053492,Elafin,False
+3504,D053498,Sarcoplasmic Reticulum Calcium-Transporting ATPases,False
+3505,D053507,Matrix Metalloproteinase 11,False
+3506,D053511,Matrix Metalloproteinase 14,False
+3507,D053547,Keratin-14,False
+3508,D053554,Keratin-20,False
+3509,D053555,Keratin-5,False
+3510,D053580,Muscle Strength,False
+3511,D053582,Interleukin-1alpha,False
+3512,D053583,Interleukin-1beta,False
+3513,D053592,Interleukin-1 Receptor-Associated Kinases,False
+3514,D053595,Embryonic Stem Cells,False
+3515,D053607,Adrenomedullin,False
+3516,D053612,Janus Kinases,False
+3517,D053614,Janus Kinase 2,False
+3518,D053633,"Receptor, Interferon alpha-beta",False
+3519,D053645,Interleukin-2 Receptor alpha Subunit,False
+3520,D053667,Syndecans,False
+3521,D053668,Syndecan-1,False
+3522,D053672,Electrochemotherapy,False
+3523,D053683,Oncostatin M,False
+3524,D053685,Laser Therapy,False
+3525,D053687,Adult Stem Cells,False
+3526,D053699,Interleukin-7 Receptor alpha Subunit,False
+3527,D053713,Azoospermia,False
+3528,D053719,Tandem Mass Spectrometry,False
+3529,D053722,"Receptors, Interleukin-17",False
+3530,D053758,Nanoparticles,False
+3531,D053760,Interleukin-23 Subunit p19,False
+3532,D053768,Metal Nanoparticles,False
+3533,D053769,Nanocapsules,False
+3534,D053773,Transforming Growth Factor beta1,False
+3535,D053781,Transforming Growth Factor beta2,False
+3536,D053783,"Magnetic Resonance Imaging, Interventional",False
+3537,D053823,Hedgehog Proteins,False
+3538,D053825,Suburethral Slings,False
+3539,D053842,Microsatellite Instability,False
+3540,D053843,DNA Mismatch Repair,False
+3541,D053844,"Lasers, Solid-State",False
+3542,D053858,Metabolic Networks and Pathways,False
+3543,D053898,Biosynthetic Pathways,False
+3544,D053903,"DNA Breaks, Double-Stranded",False
+3545,D053938,DNA Fragmentation,False
+3546,D054043,Nuclear Weapons,False
+3547,D054337,Cell Dedifferentiation,False
+3548,D054338,Cell Transdifferentiation,False
+3549,D054358,Withanolides,False
+3550,D054377,Chemokine CXCL12,False
+3551,D054382,Chemokine CXCL13,False
+3552,D054387,"Receptors, CXCR",False
+3553,D054390,"Receptors, CCR2",False
+3554,D054392,Adipokines,False
+3555,D054400,"Receptors, CCR7",False
+3556,D054405,Chemokine CCL3,False
+3557,D054409,Nicotinamide Phosphoribosyltransferase,False
+3558,D054413,Chemokine CCL11,False
+3559,D054419,"Receptors, Adiponectin",False
+3560,D054427,Chemokine CXCL6,False
+3561,D054440,"Receptors, Ghrelin",False
+3562,D054457,Tissue Scaffolds,False
+3563,D054459,Elasticity Imaging Techniques,False
+3564,D054460,rho-Associated Kinases,False
+3565,D054461,Lim Kinases,False
+3566,D054462,p21-Activated Kinases,False
+3567,D054481,Thioredoxin Reductase 1,False
+3568,D054501,Group II Phospholipases A2,False
+3569,D054547,National Cancer Institute (U.S.),False
+3570,D054556,Venous Thromboembolism,False
+3571,D054562,"Protein Tyrosine Phosphatase, Non-Receptor Type 1",False
+3572,D054623,"Receptor-Like Protein Tyrosine Phosphatases, Class 2",False
+3573,D054624,Health Status Disparities,False
+3574,D054625,Healthcare Disparities,False
+3575,D054626,Consumer Health Information,False
+3576,D054637,Dual-Specificity Phosphatases,False
+3577,D054638,Dual Specificity Phosphatase 1,False
+3578,D054643,INDEL Mutation,False
+3579,D054645,Protein Phosphatase 1,False
+3580,D054648,Protein Phosphatase 2,False
+3581,D054697,Cytostatic Agents,False
+3582,D054706,"Cyclic Nucleotide Phosphodiesterases, Type 5",False
+3583,D054730,Protein Interaction Domains and Motifs,False
+3584,D054756,Cyclic AMP-Dependent Protein Kinase RIalpha Subunit,False
+3585,D054799,Phospholipase C beta,False
+3586,D054839,"Retinol-Binding Proteins, Plasma",False
+3587,D054852,Small Molecule Libraries,False
+3588,D054875,Ubiquitination,False
+3589,D054879,Halogenation,False
+3590,D054884,Host-Pathogen Interactions,False
+3591,D054890,"Fatty Acid Synthase, Type I",False
+3592,D054893,Cone-Beam Computed Tomography,False
+3593,D054928,Validation Studies as Topic,False
+3594,D055011,Ablation Techniques,False
+3595,D055028,Comparative Genomic Hybridization,False
+3596,D055029,Inverted Repeat Sequences,False
+3597,D055048,Integrative Medicine,False
+3598,D055070,Resistance Training,False
+3599,D055088,Early Detection of Cancer,False
+3600,D055100,Optical Fibers,False
+3601,D055105,Waist Circumference,False
+3602,D055106,Genome-Wide Association Study,False
+3603,D055114,X-Ray Microtomography,False
+3604,D055119,Elastic Modulus,False
+3605,D055252,Cell-Derived Microparticles,False
+3606,D055293,"Receptors, Urokinase Plasminogen Activator",False
+3607,D055317,Evidence-Based Practice,False
+3608,D055354,Exosomes,False
+3609,D055372,AMP-Activated Protein Kinases,False
+3610,D055415,Bone Morphogenetic Protein 4,False
+3611,D055418,Bone Morphogenetic Protein 6,False
+3612,D055425,Respiratory-Gated Imaging Techniques,False
+3613,D055432,Metabolomics,False
+3614,D055442,Metabolome,False
+3615,D055495,Neurogenesis,False
+3616,D055503,Protein Multimerization,False
+3617,D055504,Insulin Receptor Substrate Proteins,False
+3618,D055511,CCN Intercellular Signaling Proteins,False
+3619,D055550,Protein Stability,False
+3620,D055551,HSP27 Heat-Shock Proteins,False
+3621,D055573,Acid Ceramidase,False
+3622,D055605,Physicochemical Phenomena,False
+3623,D055613,Multiple Pulmonary Nodules,False
+3624,D055615,Electrical Equipment and Supplies,False
+3625,D055617,Micro-Electrical-Mechanical Systems,False
+3626,D055647,"Rats, Transgenic",False
+3627,D055648,Cell Physiological Processes,False
+3628,D055653,Muir-Torre Syndrome,False
+3629,D055664,Electrochemical Techniques,False
+3630,D055668,Photochemical Processes,False
+3631,D055696,Olfactory Perception,False
+3632,D055724,Electrophysiological Phenomena,False
+3633,D055748,SOXB1 Transcription Factors,False
+3634,D055751,SOXC Transcription Factors,False
+3635,D055752,Small Cell Lung Carcinoma,False
+3636,D055758,SOX9 Transcription Factor,False
+3637,D055760,SOXF Transcription Factors,False
+3638,D055765,Shc Signaling Adaptor Proteins,False
+3639,D055767,Immobilized Proteins,False
+3640,D055771,Serbia,True
+3641,D055785,Gene Knockdown Techniques,False
+3642,D055786,Gene Knockout Techniques,False
+3643,D055806,Microvessels,False
+3644,D055808,Drug Discovery,False
+3645,D055812,Community-Based Participatory Research,False
+3646,D055815,Young Adult,False
+3647,D055879,Gene Knock-In Techniques,False
+3648,D055910,"Antibodies, Immobilized",False
+3649,D055948,Sarcopenia,False
+3650,D055951,Functional Food,False
+3651,D056004,Molecular Dynamics Simulation,False
+3652,D056128,"Obesity, Abdominal",False
+3653,D056148,"Chromatography, Reverse-Phase",False
+3654,D056245,Mi-2 Nucleosome Remodeling and Deacetylase Complex,False
+3655,D056284,Histone Deacetylase 1,False
+3656,D056426,Genetic Loci,False
+3657,D056464,Histone Deacetylase 2,False
+3658,D056466,Histone Demethylases,False
+3659,D056484,Jumonji Domain-Containing Histone Demethylases,False
+3660,D056488,Histone Chaperones,False
+3661,D056510,Position-Specific Scoring Matrices,False
+3662,D056564,Sirtuin 1,False
+3663,D056565,Sirtuin 2,False
+3664,D056572,Histone Deacetylase Inhibitors,False
+3665,D056604,Grape Seed Extract,False
+3666,D056668,Cathepsin L,False
+3667,D056692,Prebiotics,False
+3668,D056704,Adaptive Immunity,False
+3669,D056724,"Immunity, Humoral",False
+3670,D056726,Genetic Association Studies,False
+3671,D056743,Cyclin D3,False
+3672,D056744,Cyclin B1,False
+3673,D056747,Immunomodulation,False
+3674,D056750,Cyclin A1,False
+3675,D056765,Cyclin B2,False
+3676,D056808,Biostatistics,False
+3677,D056831,Coordination Complexes,False
+3678,D056888,Patient Positioning,False
+3679,D056905,Chromosome Breakpoints,False
+3680,D056910,Republic of Korea,True
+3681,D056915,DNA Copy Number Variations,False
+3682,D056918,Nuclear Receptor Coactivators,False
+3683,D056920,Nuclear Receptor Coactivator 1,False
+3684,D056921,Nuclear Receptor Coactivator 3,False
+3685,D056945,Hep G2 Cells,False
+3686,D056951,Photoelectron Spectroscopy,False
+3687,D056970,Co-Repressor Proteins,False
+3688,D056973,Four-Dimensional Computed Tomography,False
+3689,D056985,Nuclear Receptor Co-Repressor 2,False
+3690,D057054,Molecular Imaging,False
+3691,D057056,Cysteine Proteases,False
+3692,D057086,High-Intensity Focused Ultrasound Ablation,False
+3693,D057089,"Pathology, Molecular",False
+3694,D057093,Orphan Nuclear Receptors,False
+3695,D057105,"Nuclear Receptor Subfamily 4, Group A, Member 1",False
+3696,D057126,"Nuclear Receptor Subfamily 4, Group A, Member 2",False
+3697,D057127,Single-Chain Antibodies,False
+3698,D057132,"Nuclear Receptor Subfamily 1, Group F, Member 3",False
+3699,D057134,"Antibodies, Neutralizing",False
+3700,D057166,High-Throughput Screening Assays,False
+3701,D057170,Translational Medical Research,False
+3702,D057176,Compassionate Use Trials,False
+3703,D057181,Pleasure,False
+3704,D057184,"Practice Patterns, Nurses'",False
+3705,D057185,Sedentary Lifestyle,False
+3706,D057186,Comparative Effectiveness Research,False
+3707,D057188,Workflow,False
+3708,D057189,Checklist,False
+3709,D057194,Intention to Treat Analysis,False
+3710,D057210,Delayed Diagnosis,False
+3711,D057216,Propensity Score,False
+3712,D057220,Health Literacy,False
+3713,D057225,Data Mining,False
+3714,D057226,Information Seeking Behavior,False
+3715,D057228,Masculinity,False
+3716,D057230,Limit of Detection,False
+3717,D057234,Preoperative Period,False
+3718,D057240,Patient Preference,False
+3719,D057285,Precision Medicine,False
+3720,D057286,Electronic Health Records,False
+3721,D057386,Search Engine,False
+3722,D057446,Hydrodynamics,False
+3723,D057507,"Mice, 129 Strain",False
+3724,D057566,Self Report,False
+3725,D057786,Peptidomimetics,False
+3726,D057809,HEK293 Cells,False
+3727,D057832,Watchful Waiting,False
+3728,D057868,Anastomotic Leak,False
+3729,D057890,Epigenomics,False
+3730,D057908,Argon Plasma Coagulation,False
+3731,D057911,Angiotensin Receptor Antagonists,False
+3732,D057915,Drug Substitution,False
+3733,D057918,Fiducial Markers,False
+3734,D057927,Hydrophobic and Hydrophilic Interactions,False
+3735,D057930,Click Chemistry,False
+3736,D057970,Inappropriate Prescribing,False
+3737,D058005,General Practitioners,False
+3738,D058006,General Practice,False
+3739,D058007,"Physicians, Primary Care",False
+3740,D058008,Xenotropic murine leukemia virus-related virus,False
+3741,D058014,Veterans Health,False
+3742,D058015,Health Communication,False
+3743,D058070,Asymptomatic Diseases,False
+3744,D058112,Septins,False
+3745,D058118,Transcription Factor 7-Like 2 Protein,False
+3746,D058185,Magnetite Nanoparticles,False
+3747,D058186,Acute Kidney Injury,False
+3748,D058207,Sumoylation,False
+3749,D058262,Receptor Activity-Modifying Protein 1,False
+3750,D058266,Dielectric Spectroscopy,False
+3751,D058306,"Receptors, Prostaglandin E, EP1 Subtype",False
+3752,D058307,"Receptors, Prostaglandin E, EP2 Subtype",False
+3753,D058309,"Receptors, Prostaglandin E, EP4 Subtype",False
+3754,D058425,"Vaccines, Virus-Like Particle",False
+3755,D058448,Biota,False
+3756,D058468,"Receptors, Ionotropic Glutamate",False
+3757,D058473,"Receptors, Purinergic P2Y2",False
+3758,D058491,Bacterial Load,False
+3759,D058492,Drug Repositioning,False
+3760,D058498,Kyphoplasty,False
+3761,D058504,Th17 Cells,False
+3762,D058534,Class I Phosphatidylinositol 3-Kinases,False
+3763,D058539,Phosphatidylinositol 3-Kinase,False
+3764,D058570,TOR Serine-Threonine Kinases,False
+3765,D058626,Plasma Gases,False
+3766,D058628,Myofibroblasts,False
+3767,D058668,Adrenergic alpha-1 Receptor Antagonists,False
+3768,D058685,Genetic Pleiotropy,False
+3769,D058727,"RNA, Small Untranslated",False
+3770,D058750,Epithelial-Mesenchymal Transition,False
+3771,D058846,"Antibodies, Monoclonal, Murine-Derived",False
+3772,D058847,Inflammasomes,False
+3773,D058849,Protein Refolding,False
+3774,D058851,GPI-Linked Proteins,False
+3775,D058866,Osteoporotic Fractures,False
+3776,D058891,5-alpha Reductase Inhibitors,False
+3777,D058922,Inflammatory Breast Neoplasms,False
+3778,D058958,Organs at Risk,False
+3779,D058977,Molecular Sequence Annotation,False
+3780,D058986,Phosphodiesterase 5 Inhibitors,False
+3781,D058990,Molecular Targeted Therapy,False
+3782,D058996,Quality Improvement,False
+3783,D058998,Remote Sensing Technology,False
+3784,D059002,Androgen Receptor Antagonists,False
+3785,D059005,Topoisomerase II Inhibitors,False
+3786,D059010,Single-Cell Analysis,False
+3787,D059014,High-Throughput Nucleotide Sequencing,False
+3788,D059016,Tumor Microenvironment,False
+3789,D059032,Learning Curve,False
+3790,D059035,Perioperative Period,False
+3791,D059186,"Chemoradiotherapy, Adjuvant",False
+3792,D059247,Fertility Preservation,False
+3793,D059248,Chemoradiotherapy,False
+3794,D059250,"Administration, Metronomic",False
+3795,D059266,Bisphosphonate-Associated Osteonecrosis of the Jaw,False
+3796,D059305,"Diet, High-Fat",False
+3797,D059346,Magnets,False
+3798,D059348,Peripheral Nerve Injuries,False
+3799,D059351,Organ Sparing Treatments,False
+3800,D059370,RNA Folding,False
+3801,D059408,Pain Management,False
+3802,D059411,Lower Urinary Tract Symptoms,False
+3803,D059447,Cell Cycle Checkpoints,False
+3804,D059467,Transcriptome,False
+3805,D059472,Exome,False
+3806,D059505,Telomere Homeostasis,False
+3807,D059549,Anterior Cruciate Ligament Reconstruction,False
+3808,D059565,G2 Phase Cell Cycle Checkpoints,False
+3809,D059566,M Phase Cell Cycle Checkpoints,False
+3810,D059585,G1 Phase Cell Cycle Checkpoints,False
+3811,D059629,Signal-To-Noise Ratio,False
+3812,D059630,Mesenchymal Stromal Cells,False
+3813,D059647,Gene-Environment Interaction,False
+3814,D059648,Kisspeptins,False
+3815,D059685,Herniorrhaphy,False
+3816,D059708,Ultrasonic Surgical Procedures,False
+3817,D059748,Proteolysis,False
+3818,D059766,DNA End-Joining Repair,False
+3819,D059767,Recombinational DNA Repair,False
+3820,D059808,Polyphenols,False
+3821,D059811,HLA-DRB1 Chains,False
+3822,D059865,Endoplasmic Reticulum Stress,False
+3823,D059871,HLA-A24 Antigen,False
+3824,D059906,Neuroimaging,False
+3825,D060005,Genotyping Techniques,False
+3826,D060066,Protein Interaction Maps,False
+3827,D060149,"Antigens, CD63",False
+3828,D060245,"Antigens, CD9",False
+3829,D060285,"Receptors, Autocrine Motility Factor",False
+3830,D060326,"Chemistry Techniques, Synthetic",False
+3831,D060388,Support Vector Machine,False
+3832,D060406,Brassinosteroids,False
+3833,D060449,Wnt Signaling Pathway,False
+3834,D060466,Axin Protein,False
+3835,D060509,Wnt3A Protein,False
+3836,D060726,Torso,False
+3837,D060728,Reproductive Health,False
+3838,D060787,Neoplasm Grading,False
+3839,D060825,Mild Cognitive Impairment,False
+3840,D060826,Cementoplasty,False
+3841,D060828,Induction Chemotherapy,False
+3842,D060850,LIM-Homeodomain Proteins,False
+3843,D060885,Multiplex Polymerase Chain Reaction,False
+3844,D060887,B7 Antigens,False
+3845,D060888,Real-Time Polymerase Chain Reaction,False
+3846,D060890,"Antigens, CD274",False
+3847,D060907,V-Set Domain-Containing T-Cell Activation Inhibitor 1,False
+3848,D060908,CTLA-4 Antigen,False
+3849,D061026,Programmed Cell Death 1 Receptor,False
+3850,D061067,"Antibodies, Monoclonal, Humanized",False
+3851,D061088,Photoacoustic Techniques,False
+3852,D061089,"Radiotherapy, Image-Guided",False
+3853,D061105,Peroxiredoxin III,False
+3854,D061106,Radiotherapy Setup Errors,False
+3855,D061206,Neoplasm Micrometastasis,False
+3856,D061214,Patient Safety,False
+3857,D061249,Batch Cell Culture Techniques,False
+3858,D061307,Human Umbilical Vein Endothelial Cells,False
+3859,D061346,Laser Capture Microdissection,False
+3860,D061505,Cell Surface Display Techniques,False
+3861,D061646,Operative Time,False
+3862,D061665,Time-to-Treatment,False
+3863,D061705,Image-Guided Biopsy,False
+3864,D061765,Endoscopic Ultrasound-Guided Fine Needle Aspiration,False
+3865,D061766,Proton Therapy,False
+3866,D061846,"Hospitals, Low-Volume",False
+3867,D061847,"Hospitals, High-Volume",False
+3868,D061848,Optical Imaging,False
+3869,D061887,Conversion to Open Surgery,False
+3870,D061905,Single-Domain Antibodies,False
+3871,D061985,Madin Darby Canine Kidney Cells,False
+3872,D061986,MCF-7 Cells,False
+3873,D061988,Proteasome Inhibitors,False
+3874,D062005,"Biopsy, Large-Core Needle",False
+3875,D062072,Patient Acuity,False
+3876,D062085,"RNA, Long Noncoding",False
+3877,D062105,Molecular Docking Simulation,False
+3878,D062206,Spatial Analysis,False
+3879,D062305,Geographic Mapping,False
+3880,D062485,Breath Holding,False
+3881,D062526,Patient Navigation,False
+3882,D062565,Acid Sensing Ion Channels,False
+3883,D062606,Tertiary Care Centers,False
+3884,D062665,Epidemiological Monitoring,False
+3885,D062727,Coxsackie and Adenovirus Receptor-Like Membrane Protein,False
+3886,D062948,rho Guanine Nucleotide Dissociation Inhibitor alpha,False
+3887,D063065,Organophosphonates,False
+3888,D063146,Polycomb-Group Proteins,False
+3889,D063150,Polycomb Repressive Complex 1,False
+3890,D063151,Polycomb Repressive Complex 2,False
+3891,D063189,Symptom Assessment,False
+3892,D063193,Heavy Ion Radiotherapy,False
+3893,D063405,Anatomic Variation,False
+3894,D063505,Racism,False
+3895,D063586,"Social Validity, Research",False
+3896,D063646,Carcinogenesis,False
+3897,D063766,Pediatric Obesity,False
+3898,D063847,Mean Platelet Volume,False
+3899,D063868,Patient Outcome Assessment,False
+3900,D063990,Gene Ontology,False
+3901,D064007,Ataxia Telangiectasia Mutated Proteins,False
+3902,D064094,Interleukin-27,False
+3903,D064096,Aurora Kinase A,False
+3904,D064129,"Prostatic Neoplasms, Castration-Resistant",False
+3905,D064167,Recommended Dietary Allowances,False
+3906,D064209,Phytochemicals,False
+3907,D064235,Matrilin Proteins,False
+3908,D064236,Cartilage Oligomeric Matrix Protein,False
+3909,D064307,Microbiota,False
+3910,D064420,Drug-Related Side Effects and Adverse Reactions,False
+3911,D064447,Checkpoint Kinase 2,False
+3912,D064549,Myeloid Cell Leukemia Sequence 1 Protein,False
+3913,D064593,Heterografts,False
+3914,D064647,Nephrology Nursing,False
+3915,D064790,Clinical Laboratory Services,False
+3916,D064797,"Physical Conditioning, Human",False
+3917,D064804,Urological Agents,False
+3918,D064847,Multimodal Imaging,False
+3919,D064887,Observational Studies as Topic,False
+3920,D064890,Social Determinants of Health,False
+3921,D064946,Hospice and Palliative Care Nursing,False
+3922,D065087,Acetylcholine Release Inhibitors,False
+3923,D065100,CCR5 Receptor Antagonists,False
+3924,D065108,Ornithine Decarboxylase Inhibitors,False
+3925,D065127,Dopamine D2 Receptor Antagonists,False
+3926,D065186,Interrupted Time Series Analysis,False
+3927,D065287,Robotic Surgical Procedures,False
+3928,D065426,Cytoreduction Surgical Procedures,False
+3929,D065607,Cytochrome P-450 Enzyme Inhibitors,False
+3930,D065633,Cytochrome P-450 CYP1B1,False
+3931,D065668,Vitamin D3 24-Hydroxylase,False
+3932,D065692,Cytochrome P-450 CYP3A Inhibitors,False
+3933,D065840,Protective Factors,False
+3934,D066241,Carbon-13 Magnetic Resonance Spectroscopy,False
+3935,D066246,ErbB Receptors,False
+3936,D066298,In Vitro Techniques,False
+3937,D066330,"Printing, Three-Dimensional",False

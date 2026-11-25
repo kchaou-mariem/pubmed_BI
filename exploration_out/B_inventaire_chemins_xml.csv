@@ -1,0 +1,166 @@
+﻿,chemin,balise,profondeur,type_enreg,occurrences,enreg_presents,couverture_pct,max_par_enreg,moy_si_present,cardinalite,texte_pct,attributs
+0,PubmedArticle,PubmedArticle,0,PubmedArticle,3883,3883,100.0,1,1.0,1..1  obligatoire,0.0,
+1,PubmedArticle/MedlineCitation,MedlineCitation,1,PubmedArticle,3883,3883,100.0,1,1.0,1..1  obligatoire,0.0,"Owner, Status"
+2,PubmedArticle/MedlineCitation/PMID,PMID,2,PubmedArticle,3883,3883,100.0,1,1.0,1..1  obligatoire,100.0,Version
+3,PubmedArticle/MedlineCitation/DateCreated,DateCreated,2,PubmedArticle,3883,3883,100.0,1,1.0,1..1  obligatoire,0.0,
+4,PubmedArticle/MedlineCitation/DateCreated/Year,Year,3,PubmedArticle,3883,3883,100.0,1,1.0,1..1  obligatoire,100.0,
+5,PubmedArticle/MedlineCitation/DateCreated/Month,Month,3,PubmedArticle,3883,3883,100.0,1,1.0,1..1  obligatoire,100.0,
+6,PubmedArticle/MedlineCitation/DateCreated/Day,Day,3,PubmedArticle,3883,3883,100.0,1,1.0,1..1  obligatoire,100.0,
+7,PubmedArticle/MedlineCitation/DateCompleted,DateCompleted,2,PubmedArticle,2976,2976,76.64177182590781,1,1.0,0..1  facultatif,0.0,
+8,PubmedArticle/MedlineCitation/DateCompleted/Year,Year,3,PubmedArticle,2976,2976,76.64177182590781,1,1.0,0..1  facultatif,100.0,
+9,PubmedArticle/MedlineCitation/DateCompleted/Month,Month,3,PubmedArticle,2976,2976,76.64177182590781,1,1.0,0..1  facultatif,100.0,
+10,PubmedArticle/MedlineCitation/DateCompleted/Day,Day,3,PubmedArticle,2976,2976,76.64177182590781,1,1.0,0..1  facultatif,100.0,
+11,PubmedArticle/MedlineCitation/DateRevised,DateRevised,2,PubmedArticle,2138,2138,55.06052021632758,1,1.0,0..1  facultatif,0.0,
+12,PubmedArticle/MedlineCitation/DateRevised/Year,Year,3,PubmedArticle,2138,2138,55.06052021632758,1,1.0,0..1  facultatif,100.0,
+13,PubmedArticle/MedlineCitation/DateRevised/Month,Month,3,PubmedArticle,2138,2138,55.06052021632758,1,1.0,0..1  facultatif,100.0,
+14,PubmedArticle/MedlineCitation/DateRevised/Day,Day,3,PubmedArticle,2138,2138,55.06052021632758,1,1.0,0..1  facultatif,100.0,
+15,PubmedArticle/MedlineCitation/Article,Article,2,PubmedArticle,3883,3883,100.0,1,1.0,1..1  obligatoire,0.0,PubModel
+16,PubmedArticle/MedlineCitation/Article/Journal,Journal,3,PubmedArticle,3883,3883,100.0,1,1.0,1..1  obligatoire,0.0,
+17,PubmedArticle/MedlineCitation/Article/Journal/ISSN,ISSN,4,PubmedArticle,3878,3878,99.87123358228175,1,1.0,0..1  facultatif,99.97421351211965,IssnType
+18,PubmedArticle/MedlineCitation/Article/Journal/JournalIssue,JournalIssue,4,PubmedArticle,3883,3883,100.0,1,1.0,1..1  obligatoire,0.0,CitedMedium
+19,PubmedArticle/MedlineCitation/Article/Journal/JournalIssue/Volume,Volume,5,PubmedArticle,3756,3756,96.72933298995622,1,1.0,0..1  facultatif,100.0,
+20,PubmedArticle/MedlineCitation/Article/Journal/JournalIssue/Issue,Issue,5,PubmedArticle,3366,3366,86.68555240793201,1,1.0,0..1  facultatif,100.0,
+21,PubmedArticle/MedlineCitation/Article/Journal/JournalIssue/PubDate,PubDate,5,PubmedArticle,3883,3883,100.0,1,1.0,1..1  obligatoire,0.0,
+22,PubmedArticle/MedlineCitation/Article/Journal/JournalIssue/PubDate/Year,Year,6,PubmedArticle,3713,3713,95.6219417975792,1,1.0,0..1  facultatif,100.0,
+23,PubmedArticle/MedlineCitation/Article/Journal/JournalIssue/PubDate/Month,Month,6,PubmedArticle,2931,2931,75.48287406644347,1,1.0,0..1  facultatif,100.0,
+24,PubmedArticle/MedlineCitation/Article/Journal/JournalIssue/PubDate/Day,Day,6,PubmedArticle,717,717,18.46510430079835,1,1.0,0..1  facultatif,100.0,
+25,PubmedArticle/MedlineCitation/Article/Journal/JournalIssue/PubDate/MedlineDate,MedlineDate,6,PubmedArticle,170,170,4.378058202420808,1,1.0,0..1  facultatif,100.0,
+26,PubmedArticle/MedlineCitation/Article/Journal/JournalIssue/PubDate/Season,Season,6,PubmedArticle,8,8,0.20602626834921453,1,1.0,0..1  facultatif,100.0,
+27,PubmedArticle/MedlineCitation/Article/Journal/Title,Title,4,PubmedArticle,3883,3883,100.0,1,1.0,1..1  obligatoire,100.0,
+28,PubmedArticle/MedlineCitation/Article/Journal/ISOAbbreviation,ISOAbbreviation,4,PubmedArticle,3883,3883,100.0,1,1.0,1..1  obligatoire,100.0,
+29,PubmedArticle/MedlineCitation/Article/ArticleTitle,ArticleTitle,3,PubmedArticle,3883,3883,100.0,1,1.0,1..1  obligatoire,100.0,
+30,PubmedArticle/MedlineCitation/Article/Pagination,Pagination,3,PubmedArticle,3883,3883,100.0,1,1.0,1..1  obligatoire,0.0,
+31,PubmedArticle/MedlineCitation/Article/Pagination/MedlinePgn,MedlinePgn,4,PubmedArticle,3883,3883,100.0,1,1.0,1..1  obligatoire,96.60056657223797,
+32,PubmedArticle/MedlineCitation/Article/Abstract,Abstract,3,PubmedArticle,3872,3872,99.71671388101983,1,1.0,0..1  facultatif,0.0,
+33,PubmedArticle/MedlineCitation/Article/Abstract/AbstractText,AbstractText,4,PubmedArticle,9479,3872,99.71671388101983,10,2.448088842975207,0..n  répétable (facultatif),99.97890072792488,"Label, NlmCategory"
+34,PubmedArticle/MedlineCitation/Article/Abstract/CopyrightInformation,CopyrightInformation,4,PubmedArticle,1461,1461,37.6255472572753,1,1.0,0..1  facultatif,100.0,
+35,PubmedArticle/MedlineCitation/Article/AuthorList,AuthorList,3,PubmedArticle,3877,3877,99.8454802987381,1,1.0,0..1  facultatif,0.0,CompleteYN
+36,PubmedArticle/MedlineCitation/Article/AuthorList/Author,Author,4,PubmedArticle,28711,3877,99.8454802987381,180,7.4054681454733045,0..n  répétable (facultatif),0.0,ValidYN
+37,PubmedArticle/MedlineCitation/Article/AuthorList/Author/LastName,LastName,5,PubmedArticle,28640,3873,99.74246716456348,180,7.394784404854119,0..n  répétable (facultatif),100.0,
+38,PubmedArticle/MedlineCitation/Article/AuthorList/Author/ForeName,ForeName,5,PubmedArticle,28638,3873,99.74246716456348,180,7.39426800929512,0..n  répétable (facultatif),100.0,
+39,PubmedArticle/MedlineCitation/Article/AuthorList/Author/Initials,Initials,5,PubmedArticle,28638,3873,99.74246716456348,180,7.39426800929512,0..n  répétable (facultatif),100.0,
+40,PubmedArticle/MedlineCitation/Article/AuthorList/Author/AffiliationInfo,AffiliationInfo,5,PubmedArticle,16700,3781,97.37316507854752,180,4.416820946839461,0..n  répétable (facultatif),0.0,
+41,PubmedArticle/MedlineCitation/Article/AuthorList/Author/AffiliationInfo/Affiliation,Affiliation,6,PubmedArticle,16700,3781,97.37316507854752,180,4.416820946839461,0..n  répétable (facultatif),100.0,
+42,PubmedArticle/MedlineCitation/Article/AuthorList/Author/Identifier,Identifier,5,PubmedArticle,53,28,0.7210919392222508,10,1.8928571428571428,0..n  répétable (facultatif),100.0,Source
+43,PubmedArticle/MedlineCitation/Article/AuthorList/Author/CollectiveName,CollectiveName,5,PubmedArticle,71,63,1.6224568632500644,5,1.126984126984127,0..n  répétable (facultatif),100.0,
+44,PubmedArticle/MedlineCitation/Article/AuthorList/Author/Suffix,Suffix,5,PubmedArticle,46,43,1.107391192377028,2,1.069767441860465,0..n  répétable (facultatif),100.0,
+45,PubmedArticle/MedlineCitation/Article/Language,Language,3,PubmedArticle,3912,3883,100.0,2,1.0074684522276591,1..n  répétable (≥1),100.0,
+46,PubmedArticle/MedlineCitation/Article/PublicationTypeList,PublicationTypeList,3,PubmedArticle,3883,3883,100.0,1,1.0,1..1  obligatoire,0.0,
+47,PubmedArticle/MedlineCitation/Article/PublicationTypeList/PublicationType,PublicationType,4,PubmedArticle,7743,3883,100.0,6,1.99407674478496,1..n  répétable (≥1),100.0,UI
+48,PubmedArticle/MedlineCitation/Article/ArticleDate,ArticleDate,3,PubmedArticle,2936,2936,75.61164048416173,1,1.0,0..1  facultatif,0.0,DateType
+49,PubmedArticle/MedlineCitation/Article/ArticleDate/Year,Year,4,PubmedArticle,2936,2936,75.61164048416173,1,1.0,0..1  facultatif,100.0,
+50,PubmedArticle/MedlineCitation/Article/ArticleDate/Month,Month,4,PubmedArticle,2936,2936,75.61164048416173,1,1.0,0..1  facultatif,100.0,
+51,PubmedArticle/MedlineCitation/Article/ArticleDate/Day,Day,4,PubmedArticle,2936,2936,75.61164048416173,1,1.0,0..1  facultatif,100.0,
+52,PubmedArticle/MedlineCitation/Article/ELocationID,ELocationID,3,PubmedArticle,4229,3401,87.58691733195982,2,1.243457806527492,0..n  répétable (facultatif),100.0,"EIdType, ValidYN"
+53,PubmedArticle/MedlineCitation/Article/GrantList,GrantList,3,PubmedArticle,893,893,22.99768220448107,1,1.0,0..1  facultatif,0.0,CompleteYN
+54,PubmedArticle/MedlineCitation/Article/GrantList/Grant,Grant,4,PubmedArticle,3323,893,22.99768220448107,95,3.721164613661814,0..n  répétable (facultatif),0.0,
+55,PubmedArticle/MedlineCitation/Article/GrantList/Grant/GrantID,GrantID,5,PubmedArticle,3206,847,21.813031161473088,92,3.7851239669421486,0..n  répétable (facultatif),100.0,
+56,PubmedArticle/MedlineCitation/Article/GrantList/Grant/Acronym,Acronym,5,PubmedArticle,2909,746,19.211949523564254,83,3.8994638069705094,0..n  répétable (facultatif),100.0,
+57,PubmedArticle/MedlineCitation/Article/GrantList/Grant/Agency,Agency,5,PubmedArticle,3323,893,22.99768220448107,95,3.721164613661814,0..n  répétable (facultatif),100.0,
+58,PubmedArticle/MedlineCitation/Article/GrantList/Grant/Country,Country,5,PubmedArticle,3323,893,22.99768220448107,95,3.721164613661814,0..n  répétable (facultatif),100.0,
+59,PubmedArticle/MedlineCitation/Article/VernacularTitle,VernacularTitle,3,PubmedArticle,112,112,2.884367756889003,1,1.0,0..1  facultatif,98.21428571428571,
+60,PubmedArticle/MedlineCitation/Article/DataBankList,DataBankList,3,PubmedArticle,60,60,1.545197012619109,1,1.0,0..1  facultatif,0.0,CompleteYN
+61,PubmedArticle/MedlineCitation/Article/DataBankList/DataBank,DataBank,4,PubmedArticle,62,60,1.545197012619109,2,1.0333333333333334,0..n  répétable (facultatif),0.0,
+62,PubmedArticle/MedlineCitation/Article/DataBankList/DataBank/DataBankName,DataBankName,5,PubmedArticle,62,60,1.545197012619109,2,1.0333333333333334,0..n  répétable (facultatif),100.0,
+63,PubmedArticle/MedlineCitation/Article/DataBankList/DataBank/AccessionNumberList,AccessionNumberList,5,PubmedArticle,62,60,1.545197012619109,2,1.0333333333333334,0..n  répétable (facultatif),0.0,
+64,PubmedArticle/MedlineCitation/Article/DataBankList/DataBank/AccessionNumberList/AccessionNumber,AccessionNumber,6,PubmedArticle,100,60,1.545197012619109,13,1.6666666666666667,0..n  répétable (facultatif),100.0,
+65,PubmedArticle/MedlineCitation/MedlineJournalInfo,MedlineJournalInfo,2,PubmedArticle,3883,3883,100.0,1,1.0,1..1  obligatoire,0.0,
+66,PubmedArticle/MedlineCitation/MedlineJournalInfo/Country,Country,3,PubmedArticle,3698,3698,95.23564254442441,1,1.0,0..1  facultatif,100.0,
+67,PubmedArticle/MedlineCitation/MedlineJournalInfo/MedlineTA,MedlineTA,3,PubmedArticle,3883,3883,100.0,1,1.0,1..1  obligatoire,100.0,
+68,PubmedArticle/MedlineCitation/MedlineJournalInfo/NlmUniqueID,NlmUniqueID,3,PubmedArticle,3883,3883,100.0,1,1.0,1..1  obligatoire,100.0,
+69,PubmedArticle/MedlineCitation/MedlineJournalInfo/ISSNLinking,ISSNLinking,3,PubmedArticle,3794,3794,97.70795776461499,1,1.0,0..1  facultatif,100.0,
+70,PubmedArticle/MedlineCitation/OtherID,OtherID,2,PubmedArticle,1918,1527,39.325263971156325,2,1.2560576293385723,0..n  répétable (facultatif),100.0,Source
+71,PubmedArticle/MedlineCitation/KeywordList,KeywordList,2,PubmedArticle,2070,2070,53.30929693535926,1,1.0,0..1  facultatif,0.0,Owner
+72,PubmedArticle/MedlineCitation/KeywordList/Keyword,Keyword,3,PubmedArticle,12360,2070,53.30929693535926,84,5.971014492753623,0..n  répétable (facultatif),100.0,MajorTopicYN
+73,PubmedArticle/MedlineCitation/ChemicalList,ChemicalList,2,PubmedArticle,1848,1848,47.59206798866855,1,1.0,0..1  facultatif,0.0,
+74,PubmedArticle/MedlineCitation/ChemicalList/Chemical,Chemical,3,PubmedArticle,8192,1848,47.59206798866855,23,4.432900432900433,0..n  répétable (facultatif),0.0,
+75,PubmedArticle/MedlineCitation/ChemicalList/Chemical/RegistryNumber,RegistryNumber,4,PubmedArticle,8192,1848,47.59206798866855,23,4.432900432900433,0..n  répétable (facultatif),100.0,
+76,PubmedArticle/MedlineCitation/ChemicalList/Chemical/NameOfSubstance,NameOfSubstance,4,PubmedArticle,8192,1848,47.59206798866855,23,4.432900432900433,0..n  répétable (facultatif),100.0,UI
+77,PubmedArticle/MedlineCitation/CitationSubset,CitationSubset,2,PubmedArticle,3506,3330,85.75843420036054,2,1.052852852852853,0..n  répétable (facultatif),100.0,
+78,PubmedArticle/MedlineCitation/CommentsCorrectionsList,CommentsCorrectionsList,2,PubmedArticle,1322,1322,34.0458408447077,1,1.0,0..1  facultatif,0.0,
+79,PubmedArticle/MedlineCitation/CommentsCorrectionsList/CommentsCorrections,CommentsCorrections,3,PubmedArticle,49227,1322,34.0458408447077,576,37.23676248108926,0..n  répétable (facultatif),0.0,RefType
+80,PubmedArticle/MedlineCitation/CommentsCorrectionsList/CommentsCorrections/RefSource,RefSource,4,PubmedArticle,49227,1322,34.0458408447077,576,37.23676248108926,0..n  répétable (facultatif),100.0,
+81,PubmedArticle/MedlineCitation/CommentsCorrectionsList/CommentsCorrections/PMID,PMID,4,PubmedArticle,49197,1309,33.711048158640224,576,37.583651642475175,0..n  répétable (facultatif),100.0,Version
+82,PubmedArticle/MedlineCitation/CommentsCorrectionsList/CommentsCorrections/Note,Note,4,PubmedArticle,8,8,0.20602626834921453,1,1.0,0..1  facultatif,100.0,
+83,PubmedArticle/MedlineCitation/MeshHeadingList,MeshHeadingList,2,PubmedArticle,2608,2608,67.16456348184394,1,1.0,0..1  facultatif,0.0,
+84,PubmedArticle/MedlineCitation/MeshHeadingList/MeshHeading,MeshHeading,3,PubmedArticle,35778,2608,67.16456348184394,33,13.718558282208589,0..n  répétable (facultatif),0.0,
+85,PubmedArticle/MedlineCitation/MeshHeadingList/MeshHeading/DescriptorName,DescriptorName,4,PubmedArticle,35778,2608,67.16456348184394,33,13.718558282208589,0..n  répétable (facultatif),100.0,"MajorTopicYN, Type, UI"
+86,PubmedArticle/MedlineCitation/MeshHeadingList/MeshHeading/QualifierName,QualifierName,4,PubmedArticle,23216,2605,67.08730363121298,38,8.912092130518234,0..n  répétable (facultatif),100.0,"MajorTopicYN, UI"
+87,PubmedArticle/MedlineCitation/InvestigatorList,InvestigatorList,2,PubmedArticle,17,17,0.43780582024208087,1,1.0,0..1  facultatif,0.0,
+88,PubmedArticle/MedlineCitation/InvestigatorList/Investigator,Investigator,3,PubmedArticle,1351,17,0.43780582024208087,803,79.47058823529412,0..n  répétable (facultatif),0.0,ValidYN
+89,PubmedArticle/MedlineCitation/InvestigatorList/Investigator/LastName,LastName,4,PubmedArticle,1351,17,0.43780582024208087,803,79.47058823529412,0..n  répétable (facultatif),100.0,
+90,PubmedArticle/MedlineCitation/InvestigatorList/Investigator/ForeName,ForeName,4,PubmedArticle,1324,17,0.43780582024208087,778,77.88235294117646,0..n  répétable (facultatif),100.0,
+91,PubmedArticle/MedlineCitation/InvestigatorList/Investigator/Initials,Initials,4,PubmedArticle,1324,17,0.43780582024208087,778,77.88235294117646,0..n  répétable (facultatif),100.0,
+92,PubmedArticle/MedlineCitation/OtherAbstract,OtherAbstract,2,PubmedArticle,11,11,0.28328611898017,1,1.0,0..1  facultatif,0.0,"Language, Type"
+93,PubmedArticle/MedlineCitation/OtherAbstract/AbstractText,AbstractText,3,PubmedArticle,11,11,0.28328611898017,1,1.0,0..1  facultatif,100.0,
+94,PubmedArticle/MedlineCitation/SupplMeshList,SupplMeshList,2,PubmedArticle,9,9,0.23177955189286634,1,1.0,0..1  facultatif,0.0,
+95,PubmedArticle/MedlineCitation/SupplMeshList/SupplMeshName,SupplMeshName,3,PubmedArticle,9,9,0.23177955189286634,1,1.0,0..1  facultatif,100.0,"Type, UI"
+96,PubmedArticle/MedlineCitation/PersonalNameSubjectList,PersonalNameSubjectList,2,PubmedArticle,1,1,0.025753283543651816,1,1.0,0..1  facultatif,0.0,
+97,PubmedArticle/MedlineCitation/PersonalNameSubjectList/PersonalNameSubject,PersonalNameSubject,3,PubmedArticle,1,1,0.025753283543651816,1,1.0,0..1  facultatif,0.0,
+98,PubmedArticle/MedlineCitation/PersonalNameSubjectList/PersonalNameSubject/LastName,LastName,4,PubmedArticle,1,1,0.025753283543651816,1,1.0,0..1  facultatif,100.0,
+99,PubmedArticle/MedlineCitation/PersonalNameSubjectList/PersonalNameSubject/ForeName,ForeName,4,PubmedArticle,1,1,0.025753283543651816,1,1.0,0..1  facultatif,100.0,
+100,PubmedArticle/MedlineCitation/PersonalNameSubjectList/PersonalNameSubject/Initials,Initials,4,PubmedArticle,1,1,0.025753283543651816,1,1.0,0..1  facultatif,100.0,
+101,PubmedArticle/MedlineCitation/GeneralNote,GeneralNote,2,PubmedArticle,15,15,0.38629925315477726,1,1.0,0..1  facultatif,100.0,Owner
+102,PubmedArticle/PubmedData,PubmedData,1,PubmedArticle,3883,3883,100.0,1,1.0,1..1  obligatoire,0.0,
+103,PubmedArticle/PubmedData/History,History,2,PubmedArticle,3883,3883,100.0,1,1.0,1..1  obligatoire,0.0,
+104,PubmedArticle/PubmedData/History/PubMedPubDate,PubMedPubDate,3,PubmedArticle,20738,3883,100.0,8,5.340715941282514,1..n  répétable (≥1),0.0,PubStatus
+105,PubmedArticle/PubmedData/History/PubMedPubDate/Year,Year,4,PubmedArticle,20738,3883,100.0,8,5.340715941282514,1..n  répétable (≥1),100.0,
+106,PubmedArticle/PubmedData/History/PubMedPubDate/Month,Month,4,PubmedArticle,20738,3883,100.0,8,5.340715941282514,1..n  répétable (≥1),98.32674317677693,
+107,PubmedArticle/PubmedData/History/PubMedPubDate/Day,Day,4,PubmedArticle,20738,3883,100.0,8,5.340715941282514,1..n  répétable (≥1),98.23030186131739,
+108,PubmedArticle/PubmedData/History/PubMedPubDate/Hour,Hour,4,PubmedArticle,11792,3883,100.0,4,3.036827195467422,1..n  répétable (≥1),100.0,
+109,PubmedArticle/PubmedData/History/PubMedPubDate/Minute,Minute,4,PubmedArticle,11792,3883,100.0,4,3.036827195467422,1..n  répétable (≥1),100.0,
+110,PubmedArticle/PubmedData/PublicationStatus,PublicationStatus,2,PubmedArticle,3883,3883,100.0,1,1.0,1..1  obligatoire,100.0,
+111,PubmedArticle/PubmedData/ArticleIdList,ArticleIdList,2,PubmedArticle,3883,3883,100.0,1,1.0,1..1  obligatoire,0.0,
+112,PubmedArticle/PubmedData/ArticleIdList/ArticleId,ArticleId,3,PubmedArticle,11804,3883,100.0,5,3.0399175894926604,1..n  répétable (≥1),100.0,IdType
+113,PubmedBookArticle,PubmedBookArticle,0,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,0.0,
+114,PubmedBookArticle/BookDocument,BookDocument,1,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,0.0,
+115,PubmedBookArticle/BookDocument/PMID,PMID,2,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,100.0,Version
+116,PubmedBookArticle/BookDocument/ArticleIdList,ArticleIdList,2,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,0.0,
+117,PubmedBookArticle/BookDocument/ArticleIdList/ArticleId,ArticleId,3,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,100.0,IdType
+118,PubmedBookArticle/BookDocument/Book,Book,2,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,0.0,
+119,PubmedBookArticle/BookDocument/Book/Publisher,Publisher,3,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,0.0,
+120,PubmedBookArticle/BookDocument/Book/Publisher/PublisherName,PublisherName,4,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,100.0,
+121,PubmedBookArticle/BookDocument/Book/Publisher/PublisherLocation,PublisherLocation,4,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,100.0,
+122,PubmedBookArticle/BookDocument/Book/BookTitle,BookTitle,3,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,100.0,book
+123,PubmedBookArticle/BookDocument/Book/PubDate,PubDate,3,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,0.0,
+124,PubmedBookArticle/BookDocument/Book/PubDate/Year,Year,4,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,100.0,
+125,PubmedBookArticle/BookDocument/Book/BeginningDate,BeginningDate,3,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,0.0,
+126,PubmedBookArticle/BookDocument/Book/BeginningDate/Year,Year,4,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,100.0,
+127,PubmedBookArticle/BookDocument/Book/Medium,Medium,3,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,100.0,
+128,PubmedBookArticle/BookDocument/Book/EndingDate,EndingDate,3,PubmedBookArticle,2,2,66.66666666666667,1,1.0,0..1  facultatif,0.0,
+129,PubmedBookArticle/BookDocument/Book/EndingDate/Year,Year,4,PubmedBookArticle,2,2,66.66666666666667,1,1.0,0..1  facultatif,100.0,
+130,PubmedBookArticle/BookDocument/ArticleTitle,ArticleTitle,2,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,100.0,"book, part"
+131,PubmedBookArticle/BookDocument/Language,Language,2,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,100.0,
+132,PubmedBookArticle/BookDocument/AuthorList,AuthorList,2,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,0.0,Type
+133,PubmedBookArticle/BookDocument/AuthorList/Author,Author,3,PubmedBookArticle,29,3,100.0,27,9.666666666666666,1..n  répétable (≥1),0.0,
+134,PubmedBookArticle/BookDocument/AuthorList/Author/LastName,LastName,4,PubmedBookArticle,29,3,100.0,27,9.666666666666666,1..n  répétable (≥1),100.0,
+135,PubmedBookArticle/BookDocument/AuthorList/Author/ForeName,ForeName,4,PubmedBookArticle,29,3,100.0,27,9.666666666666666,1..n  répétable (≥1),100.0,
+136,PubmedBookArticle/BookDocument/AuthorList/Author/Initials,Initials,4,PubmedBookArticle,29,3,100.0,27,9.666666666666666,1..n  répétable (≥1),100.0,
+137,PubmedBookArticle/BookDocument/PublicationType,PublicationType,2,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,100.0,UI
+138,PubmedBookArticle/BookDocument/Abstract,Abstract,2,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,0.0,
+139,PubmedBookArticle/BookDocument/Abstract/AbstractText,AbstractText,3,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,100.0,
+140,PubmedBookArticle/BookDocument/Sections,Sections,2,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,0.0,
+141,PubmedBookArticle/BookDocument/Sections/Section,Section,3,PubmedBookArticle,22,3,100.0,8,7.333333333333333,1..n  répétable (≥1),0.0,
+142,PubmedBookArticle/BookDocument/Sections/Section/SectionTitle,SectionTitle,4,PubmedBookArticle,22,3,100.0,8,7.333333333333333,1..n  répétable (≥1),100.0,"book, part, sec"
+143,PubmedBookArticle/BookDocument/Sections/Section/LocationLabel,LocationLabel,4,PubmedBookArticle,6,1,33.333333333333336,6,6.0,0..n  répétable (facultatif),100.0,Type
+144,PubmedBookArticle/BookDocument/ContributionDate,ContributionDate,2,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,0.0,
+145,PubmedBookArticle/BookDocument/ContributionDate/Year,Year,3,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,100.0,
+146,PubmedBookArticle/BookDocument/ContributionDate/Month,Month,3,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,100.0,
+147,PubmedBookArticle/BookDocument/ContributionDate/Day,Day,3,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,100.0,
+148,PubmedBookArticle/BookDocument/DateRevised,DateRevised,2,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,0.0,
+149,PubmedBookArticle/BookDocument/DateRevised/Year,Year,3,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,100.0,
+150,PubmedBookArticle/BookDocument/DateRevised/Month,Month,3,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,100.0,
+151,PubmedBookArticle/BookDocument/DateRevised/Day,Day,3,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,100.0,
+152,PubmedBookArticle/BookDocument/KeywordList,KeywordList,2,PubmedBookArticle,2,2,66.66666666666667,1,1.0,0..1  facultatif,0.0,
+153,PubmedBookArticle/BookDocument/KeywordList/Keyword,Keyword,3,PubmedBookArticle,12,2,66.66666666666667,6,6.0,0..n  répétable (facultatif),100.0,
+154,PubmedBookArticle/PubmedBookData,PubmedBookData,1,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,0.0,
+155,PubmedBookArticle/PubmedBookData/History,History,2,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,0.0,
+156,PubmedBookArticle/PubmedBookData/History/PubMedPubDate,PubMedPubDate,3,PubmedBookArticle,9,3,100.0,3,3.0,1..n  répétable (≥1),0.0,PubStatus
+157,PubmedBookArticle/PubmedBookData/History/PubMedPubDate/Year,Year,4,PubmedBookArticle,9,3,100.0,3,3.0,1..n  répétable (≥1),100.0,
+158,PubmedBookArticle/PubmedBookData/History/PubMedPubDate/Month,Month,4,PubmedBookArticle,9,3,100.0,3,3.0,1..n  répétable (≥1),100.0,
+159,PubmedBookArticle/PubmedBookData/History/PubMedPubDate/Day,Day,4,PubmedBookArticle,9,3,100.0,3,3.0,1..n  répétable (≥1),100.0,
+160,PubmedBookArticle/PubmedBookData/History/PubMedPubDate/Hour,Hour,4,PubmedBookArticle,9,3,100.0,3,3.0,1..n  répétable (≥1),100.0,
+161,PubmedBookArticle/PubmedBookData/History/PubMedPubDate/Minute,Minute,4,PubmedBookArticle,9,3,100.0,3,3.0,1..n  répétable (≥1),100.0,
+162,PubmedBookArticle/PubmedBookData/PublicationStatus,PublicationStatus,2,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,100.0,
+163,PubmedBookArticle/PubmedBookData/ArticleIdList,ArticleIdList,2,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,0.0,
+164,PubmedBookArticle/PubmedBookData/ArticleIdList/ArticleId,ArticleId,3,PubmedBookArticle,3,3,100.0,1,1.0,1..1  obligatoire,100.0,IdType

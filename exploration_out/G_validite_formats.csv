@@ -1,0 +1,23 @@
+﻿règle,contrôlés,violations,pct,gravité,exemples
+PMID numérique,3883,0,0.0,critique,
+DOI (10.xxxx/…),3522,4,0.1135718341851221,majeure,DOI:10.11817/j.issn.1672-7347. | DOI:10.11817/j.issn.1672-7347. | 10.231/JIM.0000000000000004
+ISSN (NNNN-NNNC),3877,0,0.0,majeure,
+ISSN de liaison,3794,0,0.0,majeure,
+PMC (PMC + chiffres),1610,0,0.0,mineure,
+NLM Unique ID,3883,0,0.0,majeure,
+ORCID (xxxx-xxxx-xxxx-xxxC),53,5,9.433962264150944,mineure,0000000252229857 | 0000000171236123 | 0000000328943345
+MeSH UI (Dnnnnnn),35778,0,0.0,majeure,
+Qualificatif UI (Qnnnnnn),23216,0,0.0,majeure,
+Langue (3 lettres minuscules),3912,194,4.959100204498977,majeure,ENG | ENG | ENG
+Initiales (lettres majuscules),28638,66,0.23046302116069559,mineure,Á | Á | Ø
+"Pagination (n, n-m, eNNN)",3751,58,1.546254332178086,mineure,36-42.e1-2 | 119.e11-8 | 119.e1-9
+"PubDate : mois ∈ [1,12] ou abréviation",2931,0,0.0,majeure,
+"DateCreated : mois ∈ [1,12] ou abréviation",3883,0,0.0,majeure,
+"DateRevised : mois ∈ [1,12] ou abréviation",2138,0,0.0,majeure,
+"ArticleDate : mois ∈ [1,12] ou abréviation",2936,0,0.0,majeure,
+"PubDate : année ∈ [1900, 2026]",3883,0,0.0,critique,
+"DateCreated : année ∈ [1900, 2026]",3883,0,0.0,critique,
+"ArticleDate : année ∈ [1900, 2026]",2936,0,0.0,critique,
+DateCreated : jour/mois/année calendaires valides,3883,0,0.0,critique,
+ArticleDate : jour/mois/année calendaires valides,2936,0,0.0,critique,
+PubDate (jour renseigné) : jour/mois/année calendaires valides,717,0,0.0,critique,

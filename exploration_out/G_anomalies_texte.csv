@@ -1,0 +1,11 @@
+﻿,espace début/fin,espaces multiples,retour à la ligne interne,NBSP / zéro-largeur,caractère de contrôle,balise HTML,entité HTML,"mojibake (Ã©, â€…)",caractère de remplacement �,accent isolé (´ ¨ `),MAJUSCULES intégrales,URL,adresse e-mail
+art.titre,0,0,0,0,0,0,0,0,0,0,4,0,1
+art.resume,0,5,1783,0,0,2,6,0,0,2,0,17,1
+art.revue,0,0,0,0,0,0,0,0,0,97,0,0,0
+art.pagination,0,0,0,0,0,0,0,0,0,0,0,0,0
+affils.affiliation,1,1,0,0,0,0,7,0,0,9,0,12,2223
+mots_cles.mot_cle,0,0,0,0,0,0,0,1,0,0,52,0,0
+auteurs.nom,0,0,0,0,0,0,0,1,0,0,0,0,0
+auteurs.prenom,0,0,0,0,0,0,0,2,0,0,1,0,0
+mesh.descripteur,0,0,0,0,0,0,0,0,0,0,0,0,0
+chimie.substance,0,0,0,0,0,0,0,0,0,0,12,0,0

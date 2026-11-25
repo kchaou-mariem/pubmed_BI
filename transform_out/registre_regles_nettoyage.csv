@@ -1,0 +1,48 @@
+﻿règle,table,colonne,description,valeurs_modifiées,base,pct
+R01,article,pmid,PMID non numérique → rejeté,0,4008,0.0
+R02,article,pmid,Notice sans PMID retrouvée (titre/DOI) = doublon d'un article existant → écartée,41,41,100.0
+R03,article,pmid,Notice sans PMID ni correspondance → rejetée (pas de clé métier),0,41,0.0
+R04b,article,titre,Article sans titre → rejeté (notice inexploitable),0,3967,0.0
+R05,article,nlm_id,NlmUniqueID au format invalide → NULL,0,3966,0.0
+R06,article,revue,"Titre de revue : trim, espaces multiples, caractères invisibles",0,3967,0.0
+R06b,article,revue,Accents isolés (´ ¨ ` ~) recomposés dans le titre de revue,112,3967,2.823292160322662
+R07,article,issn,issn au format invalide → NULL,0,3961,0.0
+R07,article,issn_liaison,issn_liaison au format invalide → NULL,0,3872,0.0
+R08,article→revue,titre,"Titre de revue unifié par NlmUniqueID (variante la plus fréquente, sans caractère suspect)",9,3966,0.22692889561270801
+R09,article→revue,pays_editeur,Pays de l'éditeur manquant imputé par dépendance fonctionnelle NlmUniqueID → Pays,106,198,53.535353535353536
+R10,article,annee_pub/mois_pub,"Date issue du texte libre MedlineDate (« 2016 Jan-Feb » → 2016, mois 1)",172,3967,4.335770103352659
+R11,article,mois_pub,Mois textuel (Aug…) converti en numérique ; saison → 1ᵉʳ mois de la saison,3010,3967,75.87597680867154
+R12,article,annee_pub,"Année hors [1900, 2026] → NULL",0,3967,0.0
+R13,article,date_creation,Date de création invalide → NULL,0,3967,0.0
+R14,article,titre,"Titre : balises HTML, entités, espaces/caractères invisibles nettoyés",0,3967,0.0
+R15,article,titre,"Titres traduits « [Titre] » : crochets retirés, indicateur titre_traduit conservé",164,3967,4.134106377615327
+R16,article,resume,Résumé : indicateurs a_resume / mots_resume calculés sur le texte d'origine,3955,3967,99.69750441139401
+R16b,article,resume_court,"Résumé raccourci par NLP extractif (TF-IDF + TextRank, ≤ 400 caractères, ≤ 3 phrases)",3914,3955,98.96333754740834
+R17,article,doi,"DOI normalisé (minuscules, sans préfixe URL) ; format invalide → NULL",794,3600,22.055555555555557
+R18,langues,langue,Langue en minuscules/trim (ex. ENG → eng),206,3995,5.156445556946183
+R18a,types_pub,ui,UI de type manquant retrouvé via le libellé (insensible à la casse),204,204,100.0
+R18b,types_pub,ui,UI de type manquant et irrécupérable → ligne rejetée,0,204,0.0
+R19,types_pub,type,Libellé du type unifié par UI (libellé le plus fréquent),204,7874,2.590805181610363
+R20,types_pub,"(pmid, ui)",Doublons article×type supprimés,0,7874,0.0
+R21,article,categorie_publication,Catégorie principale dérivée des types (règle de priorité documentée),3967,3967,100.0
+R22,mesh,descripteur,Libellé MeSH unifié par UI (corrige les libellés altérés),1,36032,0.002775310834813499
+R22a,mesh,ui,UI MeSH manquant retrouvé via le libellé (même libellé ↔ UI connu),0,2,0.0
+R22b,mesh,ui,UI MeSH manquant et irrécupérable → ligne rejetée,2,2,100.0
+R23,mesh,"(pmid, ui)",Doublons article×descripteur supprimés,0,36032,0.0
+R24,mots_cles,mot_cle,Listes de mots-clés collées (séparateur « ; ») éclatées en lignes,0,12707,0.0
+R25,mots_cles,"(pmid, clé)",Doublons article×mot-clé (insensible à la casse) supprimés,25,12700,0.1968503937007874
+R26,mots_cles,mot_cle,Mots-clés fusionnés par clé normalisée (casse/ponctuation finale),763,7308,10.440613026819923
+R28,auteurs,nom/prénom/initiales,"Trim, espaces multiples, initiales en majuscules sans ponctuation",28,29336,0.09544586855740388
+R29,auteurs,orcid,ORCID normalisé au format xxxx-xxxx-xxxx-xxxx (16 chiffres sans tirets reformatés ; invalide → NULL),35,56,62.5
+R30,auteurs,nom,Auteur (individuel ou collectif) sans nom exploitable → ligne rejetée,2,29336,0.006817562039814562
+R31,auteurs,"(pmid, clé)",Même auteur (individuel ou collectif) répété dans une notice → 1 seule ligne (rang du 1ᵉʳ),38,29336,0.12953367875647667
+R32,auteurs,cle,Clé d'auteur individuel = nom normalisé|initiales (homonymes potentiels signalés par nb_prenoms_distincts > 1),1727,20405,8.463611859838275
+R32b,auteurs,type_auteur,Auteurs collectifs conservés dans auteur_dim (type_auteur = « Collectif ») au lieu d'être exclus,68,29296,0.23211359912616056
+R33,affils,pays,Pays extrait du texte d'affiliation (dictionnaire d'alias + motif code postal US + garde-fou noms d'États US),14425,17305,83.357411152846
+R34,article,pays_premier_auteur,Pays de la 1ʳᵉ affiliation du 1ᵉʳ auteur,2778,3967,70.02772876228889
+R35,revue,pays_editeur,"Pays de l'éditeur (nomenclature NLM : England, Korea (South), China (Republic : 1949- )…) aligné sur la nomenclature des pays des affiliations",265,1018,26.031434184675835
+R36,chimie,ui,Substance sans UI → ligne rejetée,1,8254,0.0121153380179307
+R37,chimie,"(pmid, ui)",Doublons article×substance supprimés ; libellé unifié par UI,0,8253,0.0
+R38,affils,institution,Institution extraite du texte d'affiliation (règle heuristique : université > hôpital > institut/centre),19635,19638,99.98472349526428
+R39,affils,auteur,Affiliation d'un auteur écarté (doublon ou sans nom) → lien auteur×institution non retenu,16,19635,0.08148714031066973
+R40,affils,institution,Institutions distinctes après normalisation (clé = nom sans accent ni ponctuation),4809,4959,96.9751966122202

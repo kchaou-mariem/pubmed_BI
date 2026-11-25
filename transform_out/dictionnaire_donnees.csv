@@ -1,0 +1,106 @@
+﻿table,colonne,rôle,type,pct_null,distincts,description
+article_fact,article_key,Clé étrangère,int64,0.0,3967,Clé de substitution de la publication
+article_fact,revue_key,Clé étrangère,int64,0.0,1071,Clé étrangère → revue_dim
+article_fact,temps_pub_key,Clé étrangère,int64,0.0,49,Clé étrangère → temps_dim : date de publication (AAAAMM00 ; AAAA0000 si le mois est inconnu)
+article_fact,temps_creation_key,Clé étrangère,int64,0.0,558,Clé étrangère → temps_dim : date de création de la notice (AAAAMMJJ)
+article_fact,categorie_key,Clé étrangère,int64,0.0,8,Clé étrangère → categorie_dim
+article_fact,statut_key,Clé étrangère,int64,0.0,5,Clé étrangère → statut_dim
+article_fact,langue_key,Clé étrangère,int64,0.0,14,Clé étrangère → langue_dim (langue principale)
+article_fact,pays_premier_auteur_key,Clé étrangère,int64,0.0,62,Clé étrangère → pays_dim : pays du 1ᵉʳ auteur (0 = non renseigné)
+article_fact,nb_publications,Mesure,int64,0.0,1,Mesure : 1 par publication (somme = nombre de publications)
+article_fact,nb_auteurs,Mesure,int64,0.0,49,Mesure : auteurs individuels + collectifs après dédoublonnage
+article_fact,nb_collectifs,Mesure,int64,0.0,4,Mesure : dont auteurs collectifs
+article_fact,nb_mesh,Mesure,int64,0.0,32,Mesure : descripteurs MeSH distincts
+article_fact,nb_mesh_majeurs,Mesure,int64,0.0,7,Mesure : descripteurs MeSH majeurs
+article_fact,nb_mots_cles,Mesure,int64,0.0,45,Mesure : mots-clés distincts
+article_fact,nb_pays,Mesure,int64,0.0,15,Mesure : pays distincts des affiliations
+article_fact,nb_substances,Mesure,int64,0.0,20,Mesure : substances chimiques distinctes
+article_fact,nb_institutions,Mesure,int64,0.0,36,Mesure : institutions distinctes (extraites des affiliations)
+article_fact,mots_titre,Mesure,int64,0.0,38,Mesure : nombre de mots du titre
+article_fact,mots_resume,Mesure,int64,0.0,394,Mesure : nombre de mots du résumé d'origine (0 si absent)
+article_auteur_bridge,article_key,Clé étrangère,int64,0.0,3960,Clé de substitution de la publication
+article_auteur_bridge,auteur_key,Clé étrangère,int64,0.0,20464,Clé étrangère → auteur_dim
+article_auteur_bridge,rang,Attribut du lien,int64,0.0,180,Rang de l'auteur dans la notice
+article_auteur_bridge,est_premier,Attribut du lien,int64,0.0,2,1 = premier auteur
+article_auteur_bridge,est_dernier,Attribut du lien,int64,0.0,2,1 = dernier auteur
+article_mesh_bridge,article_key,Clé étrangère,int64,0.0,2630,Clé de substitution de la publication
+article_mesh_bridge,mesh_key,Clé étrangère,int64,0.0,3937,
+article_mesh_bridge,majeur,Attribut du lien,int64,0.0,2,1 = descripteur MeSH majeur
+article_motcle_bridge,article_key,Clé étrangère,int64,0.0,2141,Clé de substitution de la publication
+article_motcle_bridge,motcle_key,Clé étrangère,int64,0.0,6545,
+article_type_bridge,article_key,Clé étrangère,int64,0.0,3966,Clé de substitution de la publication
+article_type_bridge,type_key,Clé étrangère,int64,0.0,36,
+article_langue_bridge,article_key,Clé étrangère,int64,0.0,3966,Clé de substitution de la publication
+article_langue_bridge,langue_key,Clé étrangère,int64,0.0,15,Clé étrangère → langue_dim (langue principale)
+article_langue_bridge,est_principale,Attribut du lien,int64,0.0,2,1 = langue principale
+article_pays_bridge,article_key,Clé étrangère,int64,0.0,2990,Clé de substitution de la publication
+article_pays_bridge,pays_key,Clé étrangère,int64,0.0,71,Clé de substitution du pays (ou clé étrangère)
+article_substance_bridge,article_key,Clé étrangère,int64,0.0,1864,Clé de substitution de la publication
+article_substance_bridge,substance_key,Clé étrangère,int64,0.0,2594,Clé de substitution / étrangère de la substance
+article_institution_bridge,article_key,Clé étrangère,int64,0.0,3864,Clé de substitution de la publication
+article_institution_bridge,auteur_key,Clé étrangère,int64,0.0,12348,Clé étrangère → auteur_dim
+article_institution_bridge,institution_key,Clé étrangère,int64,0.0,4809,Clé étrangère → institution_dim
+article_dim,article_key,Clé primaire,int64,0.0,3967,Clé de substitution de la publication
+article_dim,pmid,Attribut,object,0.0,3967,Identifiant PubMed (clé métier)
+article_dim,titre,Attribut,object,0.0,3966,Titre nettoyé (sans balises ni crochets de traduction)
+article_dim,titre_traduit,Attribut,bool,0.0,2,Le titre d'origine était une traduction « [..] »
+article_dim,doi,Attribut,object,9.276531383917318,3599,DOI normalisé
+article_dim,resume_court,Attribut,object,0.3024955886059995,3954,"Résumé raccourci par NLP extractif (phrases les plus représentatives, ordre d'origine)"
+article_dim,a_resume,Attribut,bool,0.0,2,Un résumé existait dans la notice
+article_dim,est_indexe_mesh,Attribut,bool,0.0,2,Article indexé MeSH
+article_dim,source_date_pub,Attribut,object,0.0,3,Origine de la date de publication : PubDate / MedlineDate / Saison
+article_dim,source_fichier,Attribut,object,0.0,3967,Fichier XML d'origine (traçabilité)
+article_dim,niveau_reparation,Attribut,object,0.0,3,Niveau de parsing (L0 = intact)
+revue_dim,revue_key,Clé primaire,int64,0.0,1071,Clé étrangère → revue_dim
+revue_dim,nlm_id,Attribut,object,0.0,1071,Identifiant NLM de la revue (clé métier)
+revue_dim,titre,Attribut,object,0.0,1071,Titre nettoyé (sans balises ni crochets de traduction)
+revue_dim,abrev,Attribut,object,0.09337068160597572,1070,Abréviation MedlineTA
+revue_dim,issn,Attribut,object,0.2801120448179272,1068,ISSN
+revue_dim,issn_liaison,Attribut,object,3.454715219421102,1034,"ISSN de liaison (ISSN-L, champ officiel PubMed)"
+revue_dim,pays_key,Clé étrangère,int64,0.0,52,Clé étrangère → pays_dim (sous-dimension : pays de l'éditeur ; 0 = non renseigné)
+temps_dim,temps_key,Clé primaire,int64,0.0,608,
+temps_dim,annee,Attribut,Int64,0.1644736842105263,5,Année
+temps_dim,mois,Attribut,Int64,0.8223684210526315,12,Mois (1–12)
+temps_dim,jour,Attribut,Int64,8.223684210526317,31,Jour
+temps_dim,niveau,Attribut,object,0.0,4,Précision de la date : Jour / Mois / Année / Inconnu
+temps_dim,libelle_mois,Attribut,object,0.8223684210526315,12,Nom du mois
+temps_dim,trimestre,Attribut,Int64,0.8223684210526315,4,Trimestre (1–4)
+categorie_dim,categorie_key,Clé primaire,int64,0.0,8,Clé étrangère → categorie_dim
+categorie_dim,categorie,Attribut,object,0.0,8,Catégorie principale dérivée des types de publication
+statut_dim,statut_key,Clé primaire,int64,0.0,6,Clé étrangère → statut_dim
+statut_dim,statut_citation,Attribut,object,0.0,6,"Statut de la citation (MEDLINE, PubMed-not-MEDLINE, …)"
+langue_dim,langue_key,Clé primaire,int64,0.0,16,Clé étrangère → langue_dim (langue principale)
+langue_dim,code_langue,Attribut,object,0.0,16,Code de langue ISO 639-2
+langue_dim,libelle,Attribut,object,0.0,16,Libellé
+pays_dim,pays_key,Clé primaire,int64,0.0,77,Clé de substitution du pays
+pays_dim,pays,Attribut,object,0.0,77,Nom du pays (anglais)
+auteur_dim,auteur_key,Clé primaire,int64,0.0,20464,Clé étrangère → auteur_dim
+auteur_dim,cle_auteur,Attribut,object,0.0,20464,Clé métier de l'auteur (nom|initiales ou collectif|nom)
+auteur_dim,type_auteur,Attribut,object,0.0,2,Individuel ou Collectif
+auteur_dim,nom,Attribut,object,0.0,14200,Nom de famille (individuel) ou nom du groupe (collectif)
+auteur_dim,prenom_frequent,Attribut,object,0.2980844409695074,11355,Prénom le plus fréquent (individuel)
+auteur_dim,initiales,Attribut,object,0.2980844409695074,659,Initiales (individuel)
+auteur_dim,orcid,Attribut,object,99.72634870992964,56,ORCID normalisé
+auteur_dim,nb_prenoms_distincts,Attribut,float64,0.28831118060985145,21,Prénoms distincts sous la même clé (> 1 : homonymes possibles)
+auteur_dim,nb_publications,Attribut,int64,0.0,30,Nombre de publications de l'auteur
+mesh_dim,mesh_key,Clé primaire,int64,0.0,3937,
+mesh_dim,ui_mesh,Attribut,object,0.0,3937,Identifiant MeSH (UI)
+mesh_dim,descripteur,Attribut,object,0.0,3937,Descripteur MeSH canonique
+mesh_dim,est_geographique,Attribut,bool,0.0,2,Descripteur de type géographique
+motcle_dim,motcle_key,Clé primaire,int64,0.0,6545,
+motcle_dim,cle_motcle,Attribut,object,0.0,6545,Clé normalisée du mot-clé
+motcle_dim,libelle,Attribut,object,0.0,6545,Libellé
+motcle_dim,nb_publications,Attribut,int64,0.0,51,Nombre de publications utilisant ce mot-clé
+type_publication_dim,type_key,Clé primaire,int64,0.0,36,
+type_publication_dim,ui_type,Attribut,object,0.0,36,Identifiant du type de publication (UI)
+type_publication_dim,libelle,Attribut,object,0.0,36,Libellé
+substance_dim,substance_key,Clé primaire,int64,0.0,2594,Clé de substitution / étrangère de la substance
+substance_dim,ui_substance,Attribut,object,0.0,2594,Identifiant MeSH de la substance (UI)
+substance_dim,substance,Attribut,object,0.0,2594,Nom de la substance
+substance_dim,registre,Attribut,object,61.102544333076324,712,Numéro de registre (CAS / EC) ; NULL si absent
+substance_dim,nb_publications,Attribut,int64,0.0,48,
+institution_dim,institution_key,Clé primaire,int64,0.0,4809,Clé étrangère → institution_dim
+institution_dim,cle_institution,Attribut,object,0.0,4809,Clé normalisée de l'institution
+institution_dim,libelle,Attribut,object,0.0,4809,Libellé
+institution_dim,pays_key,Clé étrangère,int64,0.0,71,Clé de substitution du pays (ou clé étrangère)
+institution_dim,nb_publications,Attribut,int64,0.0,32,
