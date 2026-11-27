@@ -37,32 +37,6 @@ CREATE TABLE IF NOT EXISTS article_dim (
     source_date_pub TEXT NOT NULL, source_fichier TEXT NOT NULL, niveau_reparation TEXT NOT NULL);
 
 -- Tables de liaison (relations N-N de l'article)
-CREATE TABLE IF NOT EXISTS article_auteur_bridge (
-    article_key INTEGER NOT NULL REFERENCES article_dim (article_key), auteur_key INTEGER NOT NULL REFERENCES auteur_dim (auteur_key),
-    rang INTEGER NOT NULL CHECK (rang >= 1), est_premier INTEGER NOT NULL CHECK (est_premier IN (0, 1)), est_dernier INTEGER NOT NULL CHECK (est_dernier IN (0, 1)),
-    PRIMARY KEY (article_key, auteur_key));
-CREATE TABLE IF NOT EXISTS article_mesh_bridge (
-    article_key INTEGER NOT NULL REFERENCES article_dim (article_key), mesh_key INTEGER NOT NULL REFERENCES mesh_dim (mesh_key),
-    majeur INTEGER NOT NULL CHECK (majeur IN (0, 1)), PRIMARY KEY (article_key, mesh_key));
-CREATE TABLE IF NOT EXISTS article_motcle_bridge (
-    article_key INTEGER NOT NULL REFERENCES article_dim (article_key), motcle_key INTEGER NOT NULL REFERENCES motcle_dim (motcle_key),
-    PRIMARY KEY (article_key, motcle_key));
-CREATE TABLE IF NOT EXISTS article_type_bridge (
-    article_key INTEGER NOT NULL REFERENCES article_dim (article_key), type_key INTEGER NOT NULL REFERENCES type_publication_dim (type_key),
-    PRIMARY KEY (article_key, type_key));
-CREATE TABLE IF NOT EXISTS article_langue_bridge (
-    article_key INTEGER NOT NULL REFERENCES article_dim (article_key), langue_key INTEGER NOT NULL REFERENCES langue_dim (langue_key),
-    est_principale INTEGER NOT NULL CHECK (est_principale IN (0, 1)), PRIMARY KEY (article_key, langue_key));
-CREATE TABLE IF NOT EXISTS article_pays_bridge (
-    article_key INTEGER NOT NULL REFERENCES article_dim (article_key), pays_key INTEGER NOT NULL REFERENCES pays_dim (pays_key),
-    PRIMARY KEY (article_key, pays_key));
-CREATE TABLE IF NOT EXISTS article_substance_bridge (
-    article_key INTEGER NOT NULL REFERENCES article_dim (article_key), substance_key INTEGER NOT NULL REFERENCES substance_dim (substance_key),
-    PRIMARY KEY (article_key, substance_key));
-CREATE TABLE IF NOT EXISTS article_institution_bridge (                          -- ternaire : une institution est rattachée à un couple (article, auteur)
-    article_key INTEGER NOT NULL REFERENCES article_dim (article_key), auteur_key INTEGER NOT NULL REFERENCES auteur_dim (auteur_key),
-    institution_key INTEGER NOT NULL REFERENCES institution_dim (institution_key), PRIMARY KEY (article_key, auteur_key, institution_key));
-
 -- Table de faits : clés étrangères + mesures uniquement
 CREATE TABLE IF NOT EXISTS article_fact (
     article_key INTEGER PRIMARY KEY REFERENCES article_dim (article_key),
@@ -76,6 +50,32 @@ CREATE TABLE IF NOT EXISTS article_fact (
     nb_mots_cles INTEGER NOT NULL CHECK (nb_mots_cles >= 0), nb_pays INTEGER NOT NULL CHECK (nb_pays >= 0),
     nb_substances INTEGER NOT NULL CHECK (nb_substances >= 0), nb_institutions INTEGER NOT NULL CHECK (nb_institutions >= 0),
     mots_titre INTEGER NOT NULL CHECK (mots_titre >= 0), mots_resume INTEGER NOT NULL CHECK (mots_resume >= 0));
+
+CREATE TABLE IF NOT EXISTS article_auteur_bridge (
+    article_key INTEGER NOT NULL REFERENCES article_fact (article_key), auteur_key INTEGER NOT NULL REFERENCES auteur_dim (auteur_key),
+    rang INTEGER NOT NULL CHECK (rang >= 1), est_premier INTEGER NOT NULL CHECK (est_premier IN (0, 1)), est_dernier INTEGER NOT NULL CHECK (est_dernier IN (0, 1)),
+    PRIMARY KEY (article_key, auteur_key));
+CREATE TABLE IF NOT EXISTS article_mesh_bridge (
+    article_key INTEGER NOT NULL REFERENCES article_fact (article_key), mesh_key INTEGER NOT NULL REFERENCES mesh_dim (mesh_key),
+    majeur INTEGER NOT NULL CHECK (majeur IN (0, 1)), PRIMARY KEY (article_key, mesh_key));
+CREATE TABLE IF NOT EXISTS article_motcle_bridge (
+    article_key INTEGER NOT NULL REFERENCES article_fact (article_key), motcle_key INTEGER NOT NULL REFERENCES motcle_dim (motcle_key),
+    PRIMARY KEY (article_key, motcle_key));
+CREATE TABLE IF NOT EXISTS article_type_bridge (
+    article_key INTEGER NOT NULL REFERENCES article_fact (article_key), type_key INTEGER NOT NULL REFERENCES type_publication_dim (type_key),
+    PRIMARY KEY (article_key, type_key));
+CREATE TABLE IF NOT EXISTS article_langue_bridge (
+    article_key INTEGER NOT NULL REFERENCES article_fact (article_key), langue_key INTEGER NOT NULL REFERENCES langue_dim (langue_key),
+    est_principale INTEGER NOT NULL CHECK (est_principale IN (0, 1)), PRIMARY KEY (article_key, langue_key));
+CREATE TABLE IF NOT EXISTS article_pays_bridge (
+    article_key INTEGER NOT NULL REFERENCES article_fact (article_key), pays_key INTEGER NOT NULL REFERENCES pays_dim (pays_key),
+    PRIMARY KEY (article_key, pays_key));
+CREATE TABLE IF NOT EXISTS article_substance_bridge (
+    article_key INTEGER NOT NULL REFERENCES article_fact (article_key), substance_key INTEGER NOT NULL REFERENCES substance_dim (substance_key),
+    PRIMARY KEY (article_key, substance_key));
+CREATE TABLE IF NOT EXISTS article_institution_bridge (                          -- binaire : article × institution (aucune clé d'une autre dimension)
+    article_key INTEGER NOT NULL REFERENCES article_fact (article_key), institution_key INTEGER NOT NULL REFERENCES institution_dim (institution_key),
+    PRIMARY KEY (article_key, institution_key));
 
 -- Index sur les clés étrangères (jointures et agrégations)
 CREATE INDEX IF NOT EXISTS ix_fact_revue ON article_fact (revue_key);

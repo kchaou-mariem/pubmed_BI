@@ -38,7 +38,6 @@ article_pays_bridge,pays_key,Clé étrangère,int64,0.0,71,Clé de substitution 
 article_substance_bridge,article_key,Clé étrangère,int64,0.0,1864,Clé de substitution de la publication
 article_substance_bridge,substance_key,Clé étrangère,int64,0.0,2594,Clé de substitution / étrangère de la substance
 article_institution_bridge,article_key,Clé étrangère,int64,0.0,3864,Clé de substitution de la publication
-article_institution_bridge,auteur_key,Clé étrangère,int64,0.0,12348,Clé étrangère → auteur_dim
 article_institution_bridge,institution_key,Clé étrangère,int64,0.0,4809,Clé étrangère → institution_dim
 article_dim,article_key,Clé primaire,int64,0.0,3967,Clé de substitution de la publication
 article_dim,pmid,Attribut,object,0.0,3967,Identifiant PubMed (clé métier)

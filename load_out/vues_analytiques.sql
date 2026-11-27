@@ -25,7 +25,7 @@ CREATE VIEW v_nb_auteurs_par_annee AS
 SELECT t.annee, ROUND(AVG(f.nb_auteurs), 2) AS nb_moyen_auteurs, ROUND(AVG(f.nb_auteurs - f.nb_collectifs), 2) AS nb_moyen_auteurs_individuels, SUM(f.nb_publications) AS nb_publications
 FROM article_fact f JOIN temps_dim t ON t.temps_key = f.temps_pub_key WHERE t.annee IS NOT NULL GROUP BY t.annee;
 CREATE VIEW v_publications_par_institution AS
-SELECT i.institution_key, i.libelle AS institution, p.pays, COUNT(DISTINCT b.article_key) AS nb_publications, COUNT(DISTINCT b.auteur_key) AS nb_auteurs
+SELECT i.institution_key, i.libelle AS institution, p.pays, COUNT(DISTINCT b.article_key) AS nb_publications
 FROM article_institution_bridge b JOIN institution_dim i USING (institution_key) JOIN pays_dim p ON p.pays_key = i.pays_key GROUP BY i.institution_key, i.libelle, p.pays;
 CREATE VIEW v_publications_par_pays_affiliation AS
 SELECT p.pays, COUNT(DISTINCT b.article_key) AS nb_publications FROM article_pays_bridge b JOIN pays_dim p USING (pays_key) GROUP BY p.pays;
